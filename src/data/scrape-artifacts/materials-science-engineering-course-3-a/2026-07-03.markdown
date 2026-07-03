@@ -1,0 +1,158 @@
+Degree Charts
+
+- [Home](https://catalog.mit.edu/) >
+- [Degree Charts](https://catalog.mit.edu/degree-charts/) >
+- Materials Science and Engineering (SB, Course 3-A)
+
+# Bachelor of Science as Recommended by the Department of Materials Science and Engineering (Course 3-A)
+
+[Department of Materials Science and Engineering](https://catalog.mit.edu/schools/engineering/materials-science-engineering/#undergraduatetext)
+
+## Bachelor of Science as Recommended by the Department of Materials Science and Engineering
+
+Students must submit a plan of study (the Course 3-A Program Proposal, available from the DMSE Academic Office) no later than the beginning of their junior year.
+
+### General Institute Requirements (GIRs)
+
+The General Institute Requirements include a Communication Requirement that is integrated into both the HASS Requirement and the requirements of each major; see details below.
+
+| Summary of Subject Requirements | Subjects |
+| --- | --- |
+| Science Requirement | 6 |
+| Humanities, Arts, and Social Sciences (HASS) Requirement; at least two of these subjects must be designated as communication-intensive (CI-H) to fulfill the Communication Requirement. | 8 |
+| Restricted Electives in Science and Technology (REST) Requirement \[can be satisfied by [18.03](https://catalog.mit.edu/search/?P=18.03 "18.03") or [18.06](https://catalog.mit.edu/search/?P=18.06 "18.06") or [18.C06\[J\]](https://catalog.mit.edu/search/?P=18.C06 "18.C06[J]") and [3.020](https://catalog.mit.edu/search/?P=3.020 "3.020") in the Departmental Program\] | 2 |
+| Laboratory Requirement (12 units) \[can be satisfied by [3.010](https://catalog.mit.edu/search/?P=3.010 "3.010") in the Departmental Program\] | 1 |
+| **Total GIR Subjects Required for SB Degree** | **17** |
+
+| Physical Education Requirement |  |
+| --- | --- |
+| Swimming requirement, plus four physical education courses for eight points. |  |
+
+### Departmental Program
+
+Choose at least two subjects in the major that are designated as communication-intensive (CI-M) to fulfill the Communication Requirement.
+
+|     |     |     |
+| --- | --- | --- |
+| Required Subjects | **Units** |
+| [18.03](https://catalog.mit.edu/search/?P=18.03 "18.03") | Differential Equations 1 | 12 |
+| or [18.06](https://catalog.mit.edu/search/?P=18.06 "18.06") | Linear Algebra |
+| or [18.C06\[J\]](https://catalog.mit.edu/search/?P=18.C06 "18.C06[J]") | Linear Algebra and Optimization |
+| [3.010](https://catalog.mit.edu/search/?P=3.010 "3.010") | Structure of Materials (partial CI-M) | 12 |
+| [3.020](https://catalog.mit.edu/search/?P=3.020 "3.020") | Thermodynamics of Materials (partial CI-M) | 12 |
+| _Select three of the following subjects:_ | 36 |
+| [3.013](https://catalog.mit.edu/search/?P=3.013 "3.013") | Mechanics of Materials |  |
+| [3.023](https://catalog.mit.edu/search/?P=3.023 "3.023") | Synthesis and Design of Materials |  |
+| [3.029](https://catalog.mit.edu/search/?P=3.029 "3.029") | Mathematics and Computational Thinking for Materials Scientists and Engineers I |  |
+| [3.030](https://catalog.mit.edu/search/?P=3.030 "3.030") | Microstructural Evolution in Materials |  |
+| [3.033](https://catalog.mit.edu/search/?P=3.033 "3.033") | Electronic, Optical and Magnetic Properties of Materials |  |
+| [3.044](https://catalog.mit.edu/search/?P=3.044 "3.044") | Materials Processing |  |
+| [3.042](https://catalog.mit.edu/search/?P=3.042 "3.042") | Materials Project Laboratory (CI-M) |  |
+| Restricted Electives |  |
+| _Select 33-36 units from the list of Restricted Electives in Course 3/3-A_ | 33-36 |
+| Program Electives |  |
+| _Select 66 units from a proposal of study approved by the department_2 | 66 |
+| Units in Major | 171-177 |
+| Unrestricted Electives | 48 |
+| Units in Major That Also Satisfy the GIRs | (36) |
+| Total Units Beyond the GIRs Required for SB Degree | 183-186 |
+
+The units for any subject that counts as one of the 17 GIR subjects cannot also be counted as units required beyond the GIRs.
+
+|     |     |
+| --- | --- |
+| _1_ | _[18.032](https://catalog.mit.edu/search/?P=18.032 "18.032") Differential Equations, [CC.1803](https://catalog.mit.edu/search/?P=CC.1803 "CC.1803") Differential Equations, or [ES.1803](https://catalog.mit.edu/search/?P=ES.1803 "ES.1803") Differential Equations are also acceptable options._ |
+| _2_ | _Students must develop a program of elective subjects totaling 66 units appropriate to their stated goals in their Course 3-A Program Proposal as approved by the DMSE Undergraduate Committee._ |
+
+### Restricted Electives
+
+|     |     |     |
+| --- | --- | --- |
+| [3.004](https://catalog.mit.edu/search/?P=3.004 "3.004") | Small Planet Engineering: Climate, Energy, and Sustainability | 12 |
+| [3.017](https://catalog.mit.edu/search/?P=3.017 "3.017") | Modelling, Problem Solving, Computing, and Visualization | 12 |
+| [3.021](https://catalog.mit.edu/search/?P=3.021 "3.021") | Introduction to Modeling and Simulation | 12 |
+| [3.039](https://catalog.mit.edu/search/?P=3.039 "3.039") | Mathematics and Computational Thinking for Materials Scientists and Engineers II | 9 |
+| [3.040](https://catalog.mit.edu/search/?P=3.040 "3.040") | Introduction to Materials Characterization | 12 |
+| [3.041](https://catalog.mit.edu/search/?P=3.041 "3.041") | Computational Materials Design | 12 |
+| [3.046](https://catalog.mit.edu/search/?P=3.046 "3.046") | Advanced Thermodynamics of Materials | 12 |
+| [3.052](https://catalog.mit.edu/search/?P=3.052 "3.052") | Nanomechanics of Materials and Biomaterials | 12 |
+| [3.053\[J\]](https://catalog.mit.edu/search/?P=3.053 "3.053[J]") | Molecular, Cellular, and Tissue Biomechanics | 12 |
+| [3.054](https://catalog.mit.edu/search/?P=3.054 "3.054") | Cellular Solids: Structure, Properties, Applications | 12 |
+| [3.055\[J\]](https://catalog.mit.edu/search/?P=3.055 "3.055[J]") | Biomaterials Science and Engineering | 12 |
+| [3.056\[J\]](https://catalog.mit.edu/search/?P=3.056 "3.056[J]") | Materials Physics of Neural Interfaces | 12 |
+| [3.063](https://catalog.mit.edu/search/?P=3.063 "3.063") | Polymer Physics | 12 |
+| [3.064](https://catalog.mit.edu/search/?P=3.064 "3.064") | Polymer Engineering | 12 |
+| [3.07](https://catalog.mit.edu/search/?P=3.07 "3.07") | Introduction to Ceramics | 12 |
+| [3.071](https://catalog.mit.edu/search/?P=3.071 "3.071") | Amorphous Materials | 12 |
+| [3.074](https://catalog.mit.edu/search/?P=3.074 "3.074") | Imaging of Materials | 12 |
+| [3.080](https://catalog.mit.edu/search/?P=3.080 "3.080") | Strategic Materials Selection | 12 |
+| [3.081](https://catalog.mit.edu/search/?P=3.081 "3.081") | Industrial Ecology of Materials | 12 |
+| [3.086](https://catalog.mit.edu/search/?P=3.086 "3.086") | Innovation and Commercialization of Materials Technology | 12 |
+| [3.087](https://catalog.mit.edu/search/?P=3.087 "3.087") | Materials, Societal Impact, and Social Innovation | 12 |
+| [3.088](https://catalog.mit.edu/search/?P=3.088 "3.088") | The Social Life of Materials | 12 |
+| [3.14](https://catalog.mit.edu/search/?P=3.14 "3.14") | Modern Physical Metallurgy | 12 |
+| [3.15](https://catalog.mit.edu/search/?P=3.15 "3.15") | Electrical, Optical, and Magnetic Materials and Devices | 12 |
+| [3.152](https://catalog.mit.edu/search/?P=3.152 "3.152") | Magnetic Materials | 12 |
+| [3.154\[J\]](https://catalog.mit.edu/search/?P=3.154 "3.154[J]") | Materials Performance in Extreme Environments | 12 |
+| [3.155\[J\]](https://catalog.mit.edu/search/?P=3.155 "3.155[J]") | Micro/Nano Processing Technology (CI-M) | 12 |
+| [3.156](https://catalog.mit.edu/search/?P=3.156 "3.156") | Photonic Materials and Devices | 12 |
+| [3.157](https://catalog.mit.edu/search/?P=3.157 "3.157") | Organic Electronic Materials and Devices | 12 |
+| [3.16](https://catalog.mit.edu/search/?P=3.16 "3.16") | Industrial Challenges in Metallic Materials Selection | 12 |
+| [3.17](https://catalog.mit.edu/search/?P=3.17 "3.17") | Principles of Manufacturing | 12 |
+| [3.171](https://catalog.mit.edu/search/?P=3.171 "3.171") | Structural Materials and Manufacturing | 12 |
+| [3.173](https://catalog.mit.edu/search/?P=3.173 "3.173") | Computing Fabrics | 12 |
+| [3.18](https://catalog.mit.edu/search/?P=3.18 "3.18") | Materials Science and Engineering of Clean Energy | 12 |
+| [3.19](https://catalog.mit.edu/search/?P=3.19 "3.19") | Sustainable Chemical Metallurgy | 12 |
+
+### Communication-Intensive Subjects in the Major
+
+|     |     |     |
+| --- | --- | --- |
+| Required subjects (see degree chart above): |  |
+| [3.010](https://catalog.mit.edu/search/?P=3.010 "3.010")<br>& [3.020](https://catalog.mit.edu/search/?P=3.020 "3.020") | Structure of Materials<br>and Thermodynamics of Materials (CI-M) 1 | 24 |
+| Choose one of the following as the second CI-M subject:2 | 9-15 |
+| [2.009](https://catalog.mit.edu/search/?P=2.009 "2.009") | The Product Engineering Process |  |
+| [2.671](https://catalog.mit.edu/search/?P=2.671 "2.671") | Measurement and Instrumentation |  |
+| [3.042](https://catalog.mit.edu/search/?P=3.042 "3.042") | Materials Project Laboratory |  |
+| [3.155\[J\]](https://catalog.mit.edu/search/?P=3.155 "3.155[J]") | Micro/Nano Processing Technology |  |
+| [7.003\[J\]](https://catalog.mit.edu/search/?P=7.003 "7.003[J]") | Applied Molecular Biology Laboratory |  |
+| [10.26](https://catalog.mit.edu/search/?P=10.26 "10.26") | Chemical Engineering Projects Laboratory |  |
+| [10.28](https://catalog.mit.edu/search/?P=10.28 "10.28") | Chemical-Biological Engineering Laboratory |  |
+| [10.29](https://catalog.mit.edu/search/?P=10.29 "10.29") | Biological Engineering Projects Laboratory |  |
+| [10.467](https://catalog.mit.edu/search/?P=10.467 "10.467") | Polymer Science Laboratory |  |
+
+|     |     |
+| --- | --- |
+| _1_ | _The combination of [3.010](https://catalog.mit.edu/search/?P=3.010 "3.010") and [3.020](https://catalog.mit.edu/search/?P=3.020 "3.020") is equivalent to one communication-intensive subject (CI-M) in fulfillment of the Communication Requirement._ |
+| _2_ | _Subjects listed, except [3.042](https://catalog.mit.edu/search/?P=3.042 "3.042") and [3.155\[J\]](https://catalog.mit.edu/search/?P=3.155 "3.155[J]"), have prerequisites that are outside the program._ |
+
+### Examples of a 3-A Program
+
+Examples of 3-A programs may be obtained from the DMSE Academic Office, Room 6-107, 617-258-5816.
+
+_Pre-Health_
+
+A student planning a career in medicine might select the following subjects, which may be integrated into the 66 units from a proposal of study approved by the department specified above, in order to satisfy the medical school requirements recommended by Career Advising and Professional Development.
+
+|     |     |     |
+| --- | --- | --- |
+| [7.002](https://catalog.mit.edu/search/?P=7.002 "7.002") | Fundamentals of Experimental Molecular Biology | 6 |
+| [5.12](https://catalog.mit.edu/search/?P=5.12 "5.12") | Organic Chemistry I | 12 |
+| [5.13](https://catalog.mit.edu/search/?P=5.13 "5.13") | Organic Chemistry II | 12 |
+| [5.310](https://catalog.mit.edu/search/?P=5.310 "5.310") | Laboratory Chemistry | 12 |
+| [7.05](https://catalog.mit.edu/search/?P=7.05 "7.05") | General Biochemistry | 12 |
+
+Print Options
+
+
+[Send Page to Printer](https://catalog.mit.edu/degree-charts/materials-science-engineering-course-3-a/#)
+
+_Print this page._
+
+[Download PDF of this Page](https://catalog.mit.edu/degree-charts/materials-science-engineering-course-3-a/materials-science-engineering-course-3-a.pdf)
+
+_The PDF includes all information on this page and its related tabs. Subject (course) information includes any changes approved for the current academic year._
+
+[Download PDF of the Entire Catalog and/or Subject Descriptions](https://catalog.mit.edu/archive/)
+
+[Cancel](https://catalog.mit.edu/degree-charts/materials-science-engineering-course-3-a/#)

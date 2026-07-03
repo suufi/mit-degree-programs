@@ -1,0 +1,641 @@
+### Degree Requirements for 6-P14\_2022    MNG in Computer Science, Economics, and Data Science
+
+Show old EECS subject numbers
+
+_Required subjects:_
+
+-
+Three **math** subjects:
+
+One of
+[18.06![](https://eecsis.mit.edu/images/spring.gif)\\
+**18.06 Linear Algebra**\\
+\\
+* * *\\
+\\
+![](https://eecsis.mit.edu/images/under.gif) (![](https://eecsis.mit.edu/images/spring.gif))\\
+\\
+Prereqs: GIR:CAL2\\
+\\
+Units: 4-0-8\\
+\\
+* * *\\
+\\
+Basic subject on matrix theory and linear algebra, emphasizing topics useful in other disciplines, including systems of equations, vector spaces, determinants, eigenvalues, singular value decomposition, and positive definite matrices. Applications to least-squares approximations, stability of differential equations, networks, Fourier transforms, and Markov processes. Uses linear algebra software. Compared with 18.700, more emphasis on matrix algorithms and many applications.](http://student.mit.edu/catalog/search.cgi?search=18.06), [18.C06![](https://eecsis.mit.edu/images/fall.gif)\\
+**18.C06 Linear Algebra and Optimization**\\
+\\
+* * *\\
+\\
+![](https://eecsis.mit.edu/images/under.gif) (![](https://eecsis.mit.edu/images/fall.gif))\\
+\\
+(Same subject as 6.C06)\\
+\\
+Prereqs: GIR:CAL2\\
+\\
+Units: 5-0-7\\
+\\
+* * *\\
+\\
+Introductory course in linear algebra and optimization, assuming no prior exposure to linear algebra and starting from the basics, including vectors, matrices, eigenvalues, singular values, and least squares. Covers the basics in optimization including convex optimization, linear/quadratic programming, gradient descent, and regularization, building on insights from linear algebra. Explores a variety of applications in science and engineering, where the tools developed give powerful ways to understand complex systems and also extract structure from data.](http://student.mit.edu/catalog/search.cgi?search=18.C06), [6.C06![](https://eecsis.mit.edu/images/fall.gif)\\
+**6.C06 Linear Algebra and Optimization**\\
+\\
+* * *\\
+\\
+![](https://eecsis.mit.edu/images/under.gif) (![](https://eecsis.mit.edu/images/fall.gif))\\
+\\
+(Same subject as 18.C06)\\
+\\
+Prereqs: GIR:CAL2\\
+\\
+Units: 5-0-7\\
+\\
+* * *\\
+\\
+Introductory course in linear algebra and optimization, assuming no prior exposure to linear algebra and starting from the basics, including vectors, matrices, eigenvalues, singular values, and least squares. Covers the basics in optimization including convex optimization, linear/quadratic programming, gradient descent, and regularization, building on insights from linear algebra. Explores a variety of applications in science and engineering, where the tools developed give powerful ways to understand complex systems and also extract structure from data.](http://student.mit.edu/catalog/search.cgi?search=6.C06)
+
+One of
+[14.30![](https://eecsis.mit.edu/images/fall.gif)\\
+**14.30 Introduction to Statistical Methods in Economics**\\
+\\
+* * *\\
+\\
+![](https://eecsis.mit.edu/images/under.gif) (![](https://eecsis.mit.edu/images/fall.gif))\\
+\\
+Prereqs: GIR:CAL2\\
+\\
+Units: 4-0-8\\
+\\
+* * *\\
+\\
+Self-contained introduction to probability and statistics with applications in economics and the social sciences.  Covers elements of probability theory, statistical estimation and inference, regression analysis, causal inference, and program evaluation. Couples methods with applications and with assignments involving data analysis. Uses basic calculus and matrix algebra.  Students taking graduate version complete additional assignments. May not count toward HASS requirement.](http://student.mit.edu/catalog/search.cgi?search=14.30), [18.600\\
+**18.600 Probability and Random Variables**\\
+\\
+* * *\\
+\\
+![](https://eecsis.mit.edu/images/under.gif) (![](https://eecsis.mit.edu/images/fall.gif),![](https://eecsis.mit.edu/images/spring.gif))\\
+\\
+Prereqs: GIR:CAL2\\
+\\
+Units: 4-0-8\\
+\\
+* * *\\
+\\
+Probability spaces, random variables, distribution functions. Binomial, geometric, hypergeometric, Poisson distributions. Uniform, exponential, normal, gamma and beta distributions. Conditional probability, Bayes theorem, joint distributions. Chebyshev inequality, law of large numbers, and central limit theorem. Credit cannot also be received for 6.041A or 6.041B.](http://student.mit.edu/catalog/search.cgi?search=18.600), [6.37006.041\\
+**6.3700 Introduction to Probability**\\
+\\
+* * *\\
+\\
+![](https://eecsis.mit.edu/images/under.gif) (![](https://eecsis.mit.edu/images/fall.gif),![](https://eecsis.mit.edu/images/spring.gif))\\
+\\
+Prereqs: GIR:CAL2\\
+\\
+Units: 4-0-8\\
+\\
+* * *\\
+\\
+An introduction to probability theory, the modeling and analysis of probabilistic systems, and elements of statistical inference. Probabilistic models, conditional probability. Discrete and continuous random variables. Expectation and conditional expectation, and further topics about random variables. Limit Theorems. Bayesian estimation and hypothesis testing. Elements of classical statistical inference. Bernoulli and Poisson processes. Markov chains. Students taking graduate version complete additional assignments.](http://student.mit.edu/catalog/search.cgi?search=6.3700)
+
+[6.12006.042\\
+**6.1200 Mathematics for Computer Science**\\
+\\
+* * *\\
+\\
+![](https://eecsis.mit.edu/images/under.gif) (![](https://eecsis.mit.edu/images/fall.gif),![](https://eecsis.mit.edu/images/spring.gif))\\
+\\
+(Same subject as 18.062)\\
+\\
+Prereqs: GIR:CAL1\\
+\\
+Units: 5-0-7\\
+\\
+* * *\\
+\\
+Elementary discrete mathematics for science and engineering, with a focus on mathematical tools and proof techniques useful in computer science. Topics include logical notation, sets, relations, elementary graph theory, state machines and invariants, induction and proofs by contradiction, recurrences, asymptotic notation, elementary analysis of algorithms, elementary number theory and cryptography, permutations and combinations, counting tools, and discrete probability.](http://student.mit.edu/catalog/search.cgi?search=6.1200)
+
+-
+Five **computation and algorithms** subjects:
+
+One of
+[6.1000\\
+**6.1000 Introduction to Programming and Computer Science**\\
+\\
+* * *\\
+\\
+![](https://eecsis.mit.edu/images/under.gif) (![](https://eecsis.mit.edu/images/fall.gif),![](https://eecsis.mit.edu/images/spring.gif))\\
+\\
+Prereqs: none\\
+\\
+Units: 4-0-8\\
+\\
+* * *\\
+\\
+Develops foundational skills in programming and in computational modeling. Covers widely used programming concepts in Python, including mutability, function objects, and object-oriented programming. Introduces algorithmic complexity and some common libraries. Throughout, demonstrates using computation to help understand real-world phenomena; topics include optimization problems, building simulations, and statistical modeling. Intended for students with at least some prior exposure to programming. Students with no programming experience are encouraged to take 6.100A and 6.100B (or 16.C20) over two terms.](http://student.mit.edu/catalog/search.cgi?search=6.1000), [6.100A6.0001\\
+**6.100A Introduction to Computer Science Programming in Python**\\
+\\
+* * *\\
+\\
+![](https://eecsis.mit.edu/images/under.gif) (![](https://eecsis.mit.edu/images/fall.gif),![](https://eecsis.mit.edu/images/spring.gif))\\
+\\
+Prereqs: none\\
+\\
+Units: 2-0-4\\
+\\
+* * *\\
+\\
+Introduction to computer science and programming. Students develop skills to program and use computational techniques to solve problems. Topics include: the notion of computation, Python, simple algorithms and data structures, object-oriented programming, testing and debugging, and algorithmic complexity. Lectures are viewed outside of class; in-class time is dedicated to problem-solving and discussion. Combination of 6.100A and 6.100B (or 16.C20) counts as REST subject.](http://student.mit.edu/catalog/search.cgi?search=6.100A)
+
+One of
+[18.000218.0002 not found in MIT subject catalog](http://student.mit.edu/catalog/search.cgi?search=18.0002), [6.100B6.0002\\
+**6.100B Introduction to Computational Thinking and Data Science**\\
+\\
+* * *\\
+\\
+![](https://eecsis.mit.edu/images/under.gif) (![](https://eecsis.mit.edu/images/fall.gif),![](https://eecsis.mit.edu/images/spring.gif))\\
+\\
+Prereqs: 6.100A or permission of instructor\\
+\\
+Units: 2-0-4\\
+\\
+* * *\\
+\\
+Provides an introduction to using computation to build models that can be used to help understand real-world phenomena. Topics include optimization problems, simulation models, and statistical models. Requires experience programming in Python as a prerequisite. Combination of 6.100A and 6.100B counts as REST subject.](http://student.mit.edu/catalog/search.cgi?search=6.100B), [6.10106.009\\
+**6.1010 Fundamentals of Programming**\\
+\\
+* * *\\
+\\
+![](https://eecsis.mit.edu/images/under.gif) (![](https://eecsis.mit.edu/images/fall.gif),![](https://eecsis.mit.edu/images/spring.gif))\\
+\\
+Prereqs: 6.1000 or (6.100A and (6.100B or 16.C20))\\
+\\
+Units: 2-4-6\\
+\\
+* * *\\
+\\
+Introduces fundamental concepts of programming. Designed to develop skills in applying basic methods from programming languages to abstract problems. Topics include programming and Python basics, computational concepts, software engineering, algorithmic techniques, data types, and recursion. Lab component consists of software design, construction, and implementation of design. Enrollment may be limited.](http://student.mit.edu/catalog/search.cgi?search=6.1010)
+
+[6.12106.006\\
+**6.1210 Introduction to Algorithms**\\
+\\
+* * *\\
+\\
+![](https://eecsis.mit.edu/images/under.gif) (![](https://eecsis.mit.edu/images/fall.gif),![](https://eecsis.mit.edu/images/spring.gif))\\
+\\
+Prereqs: 6.100A and (6.1200 or (6.120A and (6.3700, 6.3800, 18.05, or 18.600)))\\
+\\
+Units: 5-0-7\\
+\\
+* * *\\
+\\
+Introduction to mathematical modeling of computational problems, as well as common algorithms, algorithmic paradigms, and data structures used to solve these problems. Emphasizes the relationship between algorithms and programming, and introduces basic performance measures and analysis techniques for these problems. Enrollment may be limited.](http://student.mit.edu/catalog/search.cgi?search=6.1210)
+
+[6.12206.046\\
+**6.1220 Design and Analysis of Algorithms**\\
+\\
+* * *\\
+\\
+![](https://eecsis.mit.edu/images/under.gif) (![](https://eecsis.mit.edu/images/fall.gif),![](https://eecsis.mit.edu/images/spring.gif))\\
+\\
+(Same subject as 18.410)\\
+\\
+Prereqs: 6.1200 and 6.1210\\
+\\
+Units: 4-0-8\\
+\\
+* * *\\
+\\
+Techniques for the design and analysis of efficient algorithms, emphasizing methods useful in practice. Topics include sorting; search trees, heaps, and hashing; divide-and-conquer; dynamic programming; greedy algorithms; amortized analysis; graph algorithms; and shortest paths. Advanced topics may include network flow; computational geometry; number-theoretic algorithms; polynomial and matrix calculations; caching; and parallel computing.](http://student.mit.edu/catalog/search.cgi?search=6.1220)
+
+One of
+[6.39006.036\\
+**6.3900 Introduction to Machine Learning**\\
+\\
+* * *\\
+\\
+![](https://eecsis.mit.edu/images/under.gif) (![](https://eecsis.mit.edu/images/fall.gif),![](https://eecsis.mit.edu/images/spring.gif))\\
+\\
+Prereqs: (6.1000 or 6.1210) and (18.03 or 18.06)\\
+\\
+Units: 4-0-8\\
+\\
+* * *\\
+\\
+Introduction to the principles and algorithms of machine learning from an optimization perspective. Topics include linear and non-linear models for supervised, unsupervised, and reinforcement learning, with a focus on gradient-based methods and neural-network architectures. Previous experience with algorithms may be helpful.](http://student.mit.edu/catalog/search.cgi?search=6.3900), [6.C01![](https://eecsis.mit.edu/images/spring.gif)\\
+**6.C01 Modeling with Machine Learning: from Algorithms to Applications**\\
+\\
+* * *\\
+\\
+![](https://eecsis.mit.edu/images/under.gif) (![](https://eecsis.mit.edu/images/spring.gif))\\
+\\
+Prereqs/\[Coreqs\]: GIR:CAL2 and 6.100A; \[1.C01, 2.C01, 3.C01, 6.C011, 7.C01, 15.C01, or 22.C01\]\\
+\\
+Units: 2-0-4\\
+\\
+* * *\\
+\\
+Focuses on modeling with machine learning methods with an eye towards applications in engineering and sciences. Introduction to modern machine learning methods, from supervised to unsupervised models, with an emphasis on newer neural approaches. Emphasis on the understanding of how and why the methods work from the point of view of modeling, and when they are applicable. Using concrete examples, covers formulation of machine learning tasks, adapting and extending methods to given problems, and how the methods can and should be evaluated. Students taking graduate version complete additional assignments. Students cannot receive credit without completion of a 6-unit disciplinary module in the same semester.](http://student.mit.edu/catalog/search.cgi?search=6.C01)& [6.C011![](https://eecsis.mit.edu/images/spring.gif)\\
+**6.C011 Modeling with Machine Learning for Computer Science**\\
+\\
+* * *\\
+\\
+![](https://eecsis.mit.edu/images/under.gif) (![](https://eecsis.mit.edu/images/spring.gif))\\
+\\
+Prereqs: 6.100A, 6.C01, (6.1200 or 6.3700), and (18.06 or 18.C06)\\
+\\
+Units: 3-0-3\\
+\\
+* * *\\
+\\
+Focuses on in-depth modeling of engineering tasks as machine learning problems. Emphasizes framing, method design, and interpretation of results. In comparison to broader prerequisite 6.C01, this project-oriented subject consists of deep dives into select technical areas or engineering tasks involving both supervised and exploratory uses of machine learning. Explores technical areas such robustness, interpretability, fairness and engineering tasks such as recommender systems, performance optimization, and automated design. Students taking graduate version complete additional assignments. Students cannot receive credit without completion of the core subject 6.C01. Enrollment may be limited.](http://student.mit.edu/catalog/search.cgi?search=6.C011)
+
+-
+Three **economics** subjects:
+
+One of
+[14.01\\
+**14.01 Principles of Microeconomics**\\
+\\
+* * *\\
+\\
+![](https://eecsis.mit.edu/images/under.gif) (![](https://eecsis.mit.edu/images/fall.gif),![](https://eecsis.mit.edu/images/spring.gif))\\
+\\
+Prereqs: none\\
+\\
+Units: 3-0-9\\
+\\
+* * *\\
+\\
+Introduces microeconomic concepts and analysis, supply and demand analysis, theories of the firm and individual behavior, competition and monopoly, and welfare economics. Applications to problems of current economic policy.](http://student.mit.edu/catalog/search.cgi?search=14.01), [14.03\\
+**14.03 Microeconomic Theory and Public Policy**\\
+\\
+* * *\\
+\\
+![](https://eecsis.mit.edu/images/under.gif) (![](https://eecsis.mit.edu/images/fall.gif),![](https://eecsis.mit.edu/images/spring.gif))\\
+\\
+Prereqs: 14.01 or permission of instructor\\
+\\
+Units: 4-0-8\\
+\\
+* * *\\
+\\
+Students master and apply economic theory, causal inference, and contemporary evidence to analyze policy challenges. These include the effect of minimum wages on employment, the value of healthcare, the power and limitations of free markets, the benefits and costs of international trade, the causes and remedies of externalities, the consequences of adverse selection in insurance markets, the impacts of labor market discrimination, and the application of machine learning to supplement to decision-making. Class attendance and participation are mandatory. Students taking graduate version complete additional assignments.](http://student.mit.edu/catalog/search.cgi?search=14.03)
+
+[14.32\\
+**14.32 Econometric Data Science**\\
+\\
+* * *\\
+\\
+![](https://eecsis.mit.edu/images/under.gif) (![](https://eecsis.mit.edu/images/fall.gif),![](https://eecsis.mit.edu/images/spring.gif))\\
+\\
+Prereqs: 14.30, 15.069, or 18.650\\
+\\
+Units: 4-4-4\\
+\\
+* * *\\
+\\
+Introduces regression and other tools for causal inference and descriptive analysis in empirical economics. Topics include analysis of randomized experiments, instrumental variables methods and regression discontinuity designs, differences-in-differences estimation, and regression with time series data. Develops the skills needed to conduct — and critique — empirical studies in economics and related fields. Empirical applications are drawn from published examples and frontier research. Familiarity with statistical programming languages is helpful. Students taking graduate version complete an empirical project leading to a short paper. No listeners. Limited to 70 total for versions meeting together.](http://student.mit.edu/catalog/search.cgi?search=14.32)
+
+One of
+
+| [14.05![](https://eecsis.mit.edu/images/fall.gif)\<br>**14.05 Intermediate Macroeconomics**\<br>\<br>* * *\<br>\<br>![](https://eecsis.mit.edu/images/under.gif) (![](https://eecsis.mit.edu/images/fall.gif))\<br>\<br>Prereqs: 14.01 and (14.02 or permission of instructor)\<br>\<br>Units: 4-0-8\<br>\<br>* * *\<br>\<br>Uses the tools of macroeconomics to investigate various macroeconomic issues in depth. Topics range from economic growth and inequality in the long run to economic stability and financial crises in the short run. Surveys many economic models used today. Requires a substantial research paper on the economics of long-run economic growth.](http://student.mit.edu/catalog/search.cgi?search=14.05)<br>[14.18![](https://eecsis.mit.edu/images/spring.gif)\<br>**14.18 Mathematical Economic Modeling**\<br>\<br>* * *\<br>\<br>![](https://eecsis.mit.edu/images/under.gif) (![](https://eecsis.mit.edu/images/spring.gif))\<br>\<br>Prereqs: 14.04, 14.12, 14.15, or 14.19\<br>\<br>Units: 4-0-8\<br>\<br>* * *\<br>\<br>Guides students through the process of developing and analyzing formal economic models and effectively communicating their results. Topics include decision theory, game theory, voting, and matching. Instruction and practice in oral and written communication provided. Prior coursework in microeconomic theory and/or proof-based mathematics required. Limited to 18 students.](http://student.mit.edu/catalog/search.cgi?search=14.18)<br>[14.33\<br>**14.33 Research and Communication in Economics: Topics, Methods, and Implementation**\<br>\<br>* * *\<br>\<br>![](https://eecsis.mit.edu/images/under.gif) (![](https://eecsis.mit.edu/images/fall.gif),![](https://eecsis.mit.edu/images/spring.gif))\<br>\<br>Prereqs: 14.32 and (14.01 or 14.02)\<br>\<br>Units: 3-4-5\<br>\<br>* * *\<br>\<br>Exposes students to the process of conducting independent research in empirical economics and effectively communicating the results of the research. Emphasizes econometric analysis of an assigned economic question and culminates in each student choosing an original topic, performing appropriate analysis, and delivering oral and written project reports. Limited to 20 per section.](http://student.mit.edu/catalog/search.cgi?search=14.33)<br>[14.35![](https://eecsis.mit.edu/images/fall.gif)\<br>**14.35 Why Markets Fail**\<br>\<br>* * *\<br>\<br>![](https://eecsis.mit.edu/images/under.gif) (![](https://eecsis.mit.edu/images/fall.gif))\<br>\<br>Prereqs: 14.04, 14.12, 14.15, or 14.19\<br>\<br>Units: 4-0-8\<br>\<br>* * *\<br>\<br>Guides students through the process of developing and communicating economic and data analysis. Discusses topics in which markets fail to provide efficient outcomes or economic opportunity. Topics include health insurance, intergenerational mobility, discrimination, climate change, and more. Instruction and practice in oral and written communication provided. Key course activities include the writing of a term paper conducting original economic analysis and an in-class slide presentation of the work. Limited to 18.](http://student.mit.edu/catalog/search.cgi?search=14.35) |
+
+-
+One **computer science elective** subject:
+
+| [15.053![](https://eecsis.mit.edu/images/spring.gif)\<br>**15.053 Optimization Methods in Business Analytics**\<br>\<br>* * *\<br>\<br>![](https://eecsis.mit.edu/images/under.gif) (![](https://eecsis.mit.edu/images/spring.gif))\<br>\<br>Prereqs: 1.00, 1.000, 6.100A, or permission of instructor\<br>\<br>Units: 4-0-8\<br>\<br>* * *\<br>\<br>Introduces optimization methods with a focus on modeling, solution techniques, and analysis. Covers linear programming, network optimization, integer programming, nonlinear programming, and heuristics. Applications to logistics, manufacturing, statistics, machine learning, transportation, game theory, marketing, project management, and finance. Includes projects in which student teams solve optimization problems of practical interest.](http://student.mit.edu/catalog/search.cgi?search=15.053)<br>[6.32606.207![](https://eecsis.mit.edu/images/fall.gif)\<br>**6.3260 Networks**\<br>\<br>* * *\<br>\<br>![](https://eecsis.mit.edu/images/under.gif) (![](https://eecsis.mit.edu/images/fall.gif))\<br>\<br>(Same subject as 14.15)\<br>\<br>Prereqs: 6.3700 or 14.30\<br>\<br>Units: 4-0-8\<br>\<br>* * *\<br>\<br>Highlights common principles that permeate the functioning of diverse technological, economic and social networks. Utilizes three sets of tools for analyzing networks -- random graph models, optimization, and game theory -- to study informational and learning cascades; economic and financial networks; social influence networks; formation of social groups; communication networks and the Internet; consensus and gossiping; spread and control of epidemics; control and use of energy networks; and biological networks. Students taking graduate version complete additional assignments.](http://student.mit.edu/catalog/search.cgi?search=6.3260)<br>[6.72016.2156.7201 not found in MIT subject catalog](http://student.mit.edu/catalog/search.cgi?search=6.7201)<br>[6.C395![](https://eecsis.mit.edu/images/spring.gif)\<br>**6.C395 Algorithmic and Human Decision-Making**\<br>\<br>* * *\<br>\<br>![](https://eecsis.mit.edu/images/under.gif) (![](https://eecsis.mit.edu/images/spring.gif))\<br>\<br>(Same subject as 14.C395)\<br>\<br>Prereqs: 6.3700 or ((6.3900 or 6.C01) and (14.30 or 18.600))\<br>\<br>Units: 4-0-8\<br>\<br>* * *\<br>\<br>Explores how to design machine learning and AI algorithms that enhance human decision-making and tackle real-world societal challenges. Combines statistical ML frameworks with behavioral economics, focusing on applications in areas such as education, finance, economic mobility, and policy. Emphasizes identifying high-impact problems and building effective, reliable solutions. Students taking the graduate version will complete additional assignments.](http://student.mit.edu/catalog/search.cgi?search=6.C395)<br>[6.C571![](https://eecsis.mit.edu/images/fall.gif)\<br>**6.C571 Optimization Methods**\<br>\<br>* * *\<br>\<br>![](https://eecsis.mit.edu/images/under.gif) (![](https://eecsis.mit.edu/images/fall.gif))\<br>\<br>(Same subject as 1.C571, 15.C571)\<br>\<br>Prereqs: 18.C06 or permission of instructor\<br>\<br>Units: 4-0-8\<br>\<br>* * *\<br>\<br>Introduction to the methods and applications of optimization. Topics include linear optimization, duality, non-linear optimization, integer optimization, and optimization under uncertainty. Instruction provided in modeling techniques to address problems arising in practice, mathematical theory to understand the structure of optimization problems, computational algorithms to solve complex optimization problems, and practical applications. Covers several examples and in-depth case studies based on real-world data to showcase impactful applications of optimization across management and engineering. Computational exercises based on the Julia-based programming language JuMP. Includes a term project. Basic competency in computational programming and linear algebra recommended. Students taking graduate version complete additional assignments. This subject was previously listed as 6.7201.](http://student.mit.edu/catalog/search.cgi?search=6.C571) |
+
+-
+Three **economics elective** subjects:
+
+One from the [ECONDS](https://eecsis.mit.edu/degree_requirements.pcgi?program=6-P14#ECONDS) list
+
+One from the [ECONTH](https://eecsis.mit.edu/degree_requirements.pcgi?program=6-P14#ECONTH) list
+
+One from the [ECONDS](https://eecsis.mit.edu/degree_requirements.pcgi?program=6-P14#ECONDS) or [ECONTH](https://eecsis.mit.edu/degree_requirements.pcgi?program=6-P14#ECONTH) list
+
+-
+One **communication-intensive** subject:
+
+[15.276\\
+**15.276 Communicating with Data**\\
+\\
+* * *\\
+\\
+![](https://eecsis.mit.edu/images/under.gif) (![](https://eecsis.mit.edu/images/fall.gif),![](https://eecsis.mit.edu/images/spring.gif))\\
+\\
+Prereqs: none\\
+\\
+Units: 3-0-9\\
+\\
+* * *\\
+\\
+Equips students with the strategies, tactics, and tools to use quantitative information to inform and persuade others. Emphasizes effective communication skills as the foundation of successful careers. Develops the skills to communicate quantitative information in a business context to drive people and organizations toward better decisions. Focuses heavily on the cycle of practicing, reflecting, and revising. Students receive extensive, personalized feedback from teaching team and classmates. Limited to 25.](http://student.mit.edu/catalog/search.cgi?search=15.276), [6.UAR\\
+**6.UAR Seminar in Undergraduate Advanced Research**\\
+\\
+* * *\\
+\\
+![](https://eecsis.mit.edu/images/under.gif) (![](https://eecsis.mit.edu/images/fall.gif),![](https://eecsis.mit.edu/images/spring.gif))\\
+\\
+(Same subject as 2.UAR)\\
+\\
+Prereqs: Permission of instructor\\
+\\
+Units: 2-0-4\\
+\\
+* * *\\
+\\
+Instruction in effective undergraduate research, including choosing and developing a research topic, surveying previous work and publications, research topics in EECS and the School of Engineering, industry best practices, design for robustness, technical presentation, authorship and collaboration, and ethics. Students engage in extensive written and oral communication exercises, in the context of an approved advanced research project. A total of 12 units of credit is awarded for completion of the fall and subsequent spring term offerings. Application required; consult EECS SuperUROP website for more information.](http://student.mit.edu/catalog/search.cgi?search=6.UAR), [6.UAT\\
+**6.UAT Oral Communication**\\
+\\
+* * *\\
+\\
+![](https://eecsis.mit.edu/images/under.gif) (![](https://eecsis.mit.edu/images/fall.gif),![](https://eecsis.mit.edu/images/spring.gif))\\
+\\
+Prereqs: none\\
+\\
+Units: 3-0-6\\
+\\
+* * *\\
+\\
+Provides instruction in aspects of effective technical oral presentations and exposure to communication skills useful in a workplace setting. Students create, give and revise a number of presentations of varying length targeting a range of different audiences.](http://student.mit.edu/catalog/search.cgi?search=6.UAT)
+
+-
+Two **Economics advanced subjects** subjects:
+
+Two from the [ECON\_AAGS](https://eecsis.mit.edu/degree_requirements.pcgi?program=6-P14#ECON_AAGS) list
+
+-
+Two **Economics/EECS advanced subjects** subjects:
+
+Two from the [ECONEECS\_AAGS](https://eecsis.mit.edu/degree_requirements.pcgi?program=6-P14#ECONEECS_AAGS) list
+
+-
+Two **Econ Math Restricted Elective** subjects:
+
+Two from the [Econ Math Restricted Electives](https://eecsis.mit.edu/degree_requirements.pcgi?program=6-P14#Econ%20Math%20Restricted%20Electives) list
+
+-
+One **Professional Perspective** subject:
+
+[6.98306.997\\
+**6.9830 Professional Perspective Internship**\\
+\\
+* * *\\
+\\
+![](https://eecsis.mit.edu/images/grad.gif) (![](https://eecsis.mit.edu/images/fall.gif),![](https://eecsis.mit.edu/images/iap.gif),![](https://eecsis.mit.edu/images/spring.gif),![](https://eecsis.mit.edu/images/summer.gif))\\
+\\
+Prereqs: none\\
+\\
+Units: 0-1-0\\
+\\
+* * *\\
+\\
+Required for Course 6 MEng students to gain professional experience in electrical engineering or computer science through an internship (industry, government, or academic) of 4 or more weeks in IAP or summer. This can be completed as MEng students or as undergrads, through previous employment completed while deferring MEng entry or by attending a series of three colloquia, seminars, or technical talks related to their field. For internships/work experience, a letter from the employer confirming dates of employment is required. All students are required to write responses to short essay prompts about their professional experience. International students must consult ISO and the EECS Undergraduate Office on work authorization and allowable employment dates.](http://student.mit.edu/catalog/search.cgi?search=6.9830), [6.98706.951\\
+**6.9870 Graduate 6-A Internship**\\
+\\
+* * *\\
+\\
+![](https://eecsis.mit.edu/images/grad.gif) (![](https://eecsis.mit.edu/images/fall.gif),![](https://eecsis.mit.edu/images/spring.gif),![](https://eecsis.mit.edu/images/summer.gif))\\
+\\
+Prereqs: 6.9850 or 6.9860\\
+\\
+Units: 0-12-0\\
+\\
+* * *\\
+\\
+Provides academic credit for a graduate assignment of graduate 6-A students at companies affiliated with the department's 6-A internship program. Limited to graduate students participating in the 6-A internship program.](http://student.mit.edu/catalog/search.cgi?search=6.9870), [6.98806.952\\
+**6.9880 Graduate 6-A Internship**\\
+\\
+* * *\\
+\\
+![](https://eecsis.mit.edu/images/grad.gif) (![](https://eecsis.mit.edu/images/fall.gif),![](https://eecsis.mit.edu/images/spring.gif),![](https://eecsis.mit.edu/images/summer.gif))\\
+\\
+Prereqs: 6.9870\\
+\\
+Units: 0-12-0\\
+\\
+* * *\\
+\\
+Provides academic credit for graduate students in the second half of their 6-A MEng industry internship. Limited to graduate students participating in the 6-A internship program.](http://student.mit.edu/catalog/search.cgi?search=6.9880)
+
+-
+One **Masters Thesis** subject:
+
+[6.THM\\
+**6.THM Master of Engineering Program Thesis**\\
+\\
+* * *\\
+\\
+![](https://eecsis.mit.edu/images/grad.gif) (![](https://eecsis.mit.edu/images/fall.gif),![](https://eecsis.mit.edu/images/iap.gif),![](https://eecsis.mit.edu/images/spring.gif),![](https://eecsis.mit.edu/images/summer.gif))\\
+\\
+Prereqs: none\\
+\\
+Units: 0-0-0\\
+\\
+* * *\\
+\\
+Program of research leading to the writing of an MEng thesis; to be arranged by the student and an appropriate MIT faculty member. Restricted to MEng graduate students.](http://student.mit.edu/catalog/search.cgi?search=6.THM)
+
+_Notes:_
+
+- You must follow these requirements
+
+- Includes subjects as of Fall 2026
+- Each completed subject can only be used to satisfy at most one _required_
+subject but can be used to satisfy multiple _additional constraints_.
+- ![](https://eecsis.mit.edu/images/fall.gif): only offered fall term
+
+![](https://eecsis.mit.edu/images/spring.gif): only offered spring term
+
+grey: not offered this academic year.
+- If your primary major is 6-14, at most three of your economics subjects may count toward the eight-subject HASS requirement.
+- 16.0002/18.0002/CSE.01 are acceptable alternatives to 6.0002
+
+### Subject Lists
+
+**ECONDS**:
+Economics electives in data science
+
+| [14.20![](https://eecsis.mit.edu/images/fall.gif)\<br>**14.20 Industrial Organization: Competitive Strategy and Public Policy**\<br>\<br>* * *\<br>\<br>![](https://eecsis.mit.edu/images/under.gif) (![](https://eecsis.mit.edu/images/fall.gif))\<br>\<br>Prereqs: 14.01\<br>\<br>Units: 4-0-8\<br>\<br>* * *\<br>\<br>Analyzes the current debate over the rise of monopolies, the strategic behavior and performance of firms in imperfectly competitive markets, and the role of competition policy. Topics include monopoly power; pricing, product choice, and innovation decisions by firms in oligopoly markets; static and dynamic measurement of market performance; and incentives in organizations. Requires regular participation in class discussion and teamwork in a competitive strategy game. Students taking graduate version complete additional assignments.](http://student.mit.edu/catalog/search.cgi?search=14.20)<br>[14.27![](https://eecsis.mit.edu/images/spring.gif)\<br>**14.27 Economics of Digitization**\<br>\<br>* * *\<br>\<br>![](https://eecsis.mit.edu/images/under.gif) (![](https://eecsis.mit.edu/images/spring.gif))\<br>\<br>Prereqs: 14.01 and (6.3700 or 14.30)\<br>\<br>Units: 4-0-8\<br>\<br>* * *\<br>\<br>Uses theoretical economic models and empirical evidence to help understand the past and likely future impacts that digitization has had on legacy markets and institutions. These models help frame class discussions on e-commerce, search, online advertising, traditional and social media, privacy, platform design, and distance learning, among other topics. Students complete a project, and those taking the graduate version have additional assignments.](http://student.mit.edu/catalog/search.cgi?search=14.27)<br>[14.36![](https://eecsis.mit.edu/images/fall.gif)\<br>**14.36 Advanced Econometrics**\<br>\<br>* * *\<br>\<br>![](https://eecsis.mit.edu/images/nooffer.gif)![](https://eecsis.mit.edu/images/under.gif) (![](https://eecsis.mit.edu/images/fall.gif))\<br>\<br>Prereqs: 14.32 or permission of instructor\<br>\<br>Units: 4-0-8\<br>\<br>* * *\<br>\<br>Advanced treatment of the core empirical strategies used to answer causal questions in applied microeconometric research. Covers extensions and innovations relating to econometric applications of regression, machine learning, instrumental variables, differences-in-differences and event-study models, regression discontinuity designs, synthetic controls, and statistical inference.  Students taking graduate version complete an additional assignment.](http://student.mit.edu/catalog/search.cgi?search=14.36)<br>[14.38![](https://eecsis.mit.edu/images/spring.gif)\<br>**14.38 Inference on Causal and Structural Parameters Using ML and AI**\<br>\<br>* * *\<br>\<br>![](https://eecsis.mit.edu/images/under.gif) (![](https://eecsis.mit.edu/images/spring.gif))\<br>\<br>Prereqs: 14.32\<br>\<br>Units: 4-0-8\<br>\<br>* * *\<br>\<br>Provides an applied treatment of modern causal inference with high-dimensional data, focusing on empirical economic problems encountered in academic research and the tech industry. Formulates problems in the languages of structural equation modeling and potential outcomes. Presents state-of-the-art approaches for inference on causal and structural parameters, including de-biased machine learning, synthetic control methods, and reinforcement learning. Introduces tools from machine learning and deep learning developed for prediction purposes, and discusses how to adapt them to learn causal parameters. Emphasizes the applied and practical perspectives. Requires knowledge of mathematical statistics and regression analysis and programming experience in R or Python.](http://student.mit.edu/catalog/search.cgi?search=14.38)<br>[14.39![](https://eecsis.mit.edu/images/fall.gif)\<br>**14.39 Large-Scale Decision-Making and Inference**\<br>\<br>* * *\<br>\<br>![](https://eecsis.mit.edu/images/under.gif) (![](https://eecsis.mit.edu/images/fall.gif))\<br>\<br>Prereqs: 14.32\<br>\<br>Units: 4-0-8\<br>\<br>* * *\<br>\<br>Covers the use of data to guide decision-making, with a focus on data-rich and high-dimensional environments as are now commonly encountered in both academic and industry applications. Begins with an introduction to statistical decision theory, including Bayesian perspectives. Covers empirical Bayes methods, including related concepts such as false discovery rates, illustrated with economic applications. Requires knowledge of mathematical statistics and regression analysis, as well as programming experience in R or Python. Students taking the graduate version submit additional assignments.](http://student.mit.edu/catalog/search.cgi?search=14.39) | [14.390![](https://eecsis.mit.edu/images/fall.gif)\<br>**14.390 Large-Scale Decision-Making and Inference**\<br>\<br>* * *\<br>\<br>![](https://eecsis.mit.edu/images/grad.gif) (![](https://eecsis.mit.edu/images/fall.gif))\<br>\<br>Prereqs: 14.320\<br>\<br>Units: 4-0-8\<br>\<br>* * *\<br>\<br>Covers the use of data to guide decision-making, with a focus on data-rich and high-dimensional environments as are now commonly encountered in both academic and industry applications. Begins with an introduction to statistical decision theory, including Bayesian perspectives. Covers empirical Bayes methods, including related concepts such as false discovery rates, illustrated with economic applications. Requires knowledge of mathematical statistics and regression analysis, as well as programming experience in R or Python. Students taking the graduate version submit additional assignments.](http://student.mit.edu/catalog/search.cgi?search=14.390)<br>[14.41![](https://eecsis.mit.edu/images/fall.gif)\<br>**14.41 Public Finance and Public Policy**\<br>\<br>* * *\<br>\<br>![](https://eecsis.mit.edu/images/under.gif) (![](https://eecsis.mit.edu/images/fall.gif))\<br>\<br>Prereqs: 14.01\<br>\<br>Units: 4-0-8\<br>\<br>* * *\<br>\<br>Explores the role of government in the economy, applying tools of basic microeconomics to answer important policy questions such as government response to global warming, school choice by K-12 students, Social Security versus private retirement savings accounts, government versus private health insurance, setting income tax rates for individuals and corporations. Students taking the graduate version complete additional assignments.](http://student.mit.edu/catalog/search.cgi?search=14.41)<br>[14.42![](https://eecsis.mit.edu/images/spring.gif)\<br>**14.42 Environmental Policy and Economics**\<br>\<br>* * *\<br>\<br>![](https://eecsis.mit.edu/images/nooffer.gif)![](https://eecsis.mit.edu/images/under.gif) (![](https://eecsis.mit.edu/images/spring.gif))\<br>\<br>Prereqs: 14.01\<br>\<br>Units: 4-0-8\<br>\<br>* * *\<br>\<br>Introduces key concepts and recent advances in environmental economics, and explores their application to environmental policy questions. Topics include market efficiency and market failure, methods for valuing the benefits of environmental quality, the proper role of government in the regulation of the environment, environmental policy design, and implementation challenges. Considers international aspects of environmental policy as well, including the economics of climate change, trade and the environment, and environmental challenges in developing countries. Students taking graduate version complete additional assignments.](http://student.mit.edu/catalog/search.cgi?search=14.42)<br>[14.43![](https://eecsis.mit.edu/images/fall.gif)\<br>**14.43 Economics of Energy, Innovation, and Sustainability**\<br>\<br>* * *\<br>\<br>![](https://eecsis.mit.edu/images/nooffer.gif)![](https://eecsis.mit.edu/images/under.gif) (![](https://eecsis.mit.edu/images/fall.gif))\<br>\<br>(Same subject as 15.0201)\<br>\<br>Prereqs: 14.01 or 15.0111\<br>\<br>Units: 3-0-9\<br>\<br>* * *\<br>\<br>Covers energy and environmental market organization and regulation. Explores economic challenges and solutions to transforming energy markets to be more efficient, accessible, affordable, and sustainable. Applies core economic concepts - consumer choice, firm profit maximization, and strategic behavior - to understand when energy and environmental markets work well and when they fail. They also conduct data-driven economic analysis on the trade-offs of real and proposed policy interventions. Topics include renewable generation sources for electricity, energy access in emerging markets, efficiency programs and fuel efficiency standards, transitioning transportation to alternative fuels, measuring damages and adaptation to climate change, and the effect of energy and environmental policy on innovation. Expectations and evaluation criteria differ for students taking graduate version; consult syllabus or instructor for specific details.](http://student.mit.edu/catalog/search.cgi?search=14.43)<br>[14.44![](https://eecsis.mit.edu/images/spring.gif)\<br>**14.44 Energy Economics and Policy**\<br>\<br>* * *\<br>\<br>![](https://eecsis.mit.edu/images/under.gif) (![](https://eecsis.mit.edu/images/spring.gif))\<br>\<br>(Same subject as 15.037)\<br>\<br>Prereqs: 14.01 or 15.0111\<br>\<br>Units: 4-0-8\<br>\<br>* * *\<br>\<br>Analyzes business and public policy issues in energy markets and in the environmental markets to which they are closely tied. Examines the economic determinants of industry structure and evolution of competition among firms in these industries. Investigates successful and unsuccessful strategies for entering new markets and competing in existing markets. Industries studied include oil, natural gas, coal, electricity, and transportation. Topics include climate change and environmental policy, the role of speculation in energy markets, the political economy of energy policies, and market power and antitrust. Two team-based simulation games, representing the world oil market and a deregulated electricity market, act to cement the concepts covered in lecture. Students taking graduate version complete additional assignments. Limited to 60.](http://student.mit.edu/catalog/search.cgi?search=14.44) | [14.45![](https://eecsis.mit.edu/images/fall.gif)\<br>**14.45 Climate and Energy in the Global Economy**\<br>\<br>* * *\<br>\<br>![](https://eecsis.mit.edu/images/under.gif) (![](https://eecsis.mit.edu/images/fall.gif))\<br>\<br>(Same subject as 15.0161)\<br>\<br>Prereqs: 14.01 or 15.0111\<br>\<br>Units: 3-0-9\<br>\<br>* * *\<br>\<br>Provides students with a comprehensive understanding of the challenges, opportunities, and policy responses to the global climate and energy transitions. Discusses the role of energy in world economies, paying particular attention to low- and middle-income countries, as well as the impacts of climate change on those economies. Considers how energy access, cost, reliability, and environmental harm drive or hinder economic growth, the political influences on the energy sector, and the role of energy in mitigating future impacts of climate change. Also discusses global climate solutions, including the role of the United Nations Framework Convention on Climate Change process, trade policy, climate finance, business strategies to reduce emissions, and business strategies to help people adapt to a changing climate. Students taking graduate version complete additional assignments.](http://student.mit.edu/catalog/search.cgi?search=14.45)<br>[14.64![](https://eecsis.mit.edu/images/spring.gif)\<br>**14.64 Labor Economics and Public Policy**\<br>\<br>* * *\<br>\<br>![](https://eecsis.mit.edu/images/under.gif) (![](https://eecsis.mit.edu/images/spring.gif))\<br>\<br>Prereqs: 14.30 or permission of instructor\<br>\<br>Units: 4-0-8\<br>\<br>* * *\<br>\<br>Provides an introduction to the labor market, how it functions, and the important role it plays in people's lives. Topics include supply and demand, minimum wages, labor market effects of social insurance and welfare programs, the collective bargaining relationship, discrimination, human capital, and unemployment. Completion of or concurrent enrollment in 14.03 or 14.04,  and 14.32 recommended. Students taking graduate version complete additional assignments.](http://student.mit.edu/catalog/search.cgi?search=14.64)<br>[14.75![](https://eecsis.mit.edu/images/spring.gif)\<br>**14.75 Political Economy and Economic Development**\<br>\<br>* * *\<br>\<br>![](https://eecsis.mit.edu/images/under.gif) (![](https://eecsis.mit.edu/images/spring.gif))\<br>\<br>Prereqs: 14.01, 14.03, or permission of instructor\<br>\<br>Units: 4-0-8\<br>\<br>* * *\<br>\<br>Explores the relationship between political institutions and economic development, covering key theoretical issues as well as recent empirical evidence. Topics include colonialism and its legacy, voting, vote buying, media, social media, corruption, and war. Discusses not just what we know on these topics, but how we know it, covering how to craft a good empirical study or field experiment and how to discriminate between reliable and unreliable statistical evidence. Some basic familiarity with probability and/or statistics is useful for this class. Students taking graduate version complete additional assignments.](http://student.mit.edu/catalog/search.cgi?search=14.75)<br>[14.76![](https://eecsis.mit.edu/images/spring.gif)\<br>**14.76 Firms, Markets, Trade and Growth**\<br>\<br>* * *\<br>\<br>![](https://eecsis.mit.edu/images/under.gif) (![](https://eecsis.mit.edu/images/spring.gif))\<br>\<br>Prereqs: 14.01 and (14.30 or permission of instructor)\<br>\<br>Units: 4-0-8\<br>\<br>* * *\<br>\<br>Examines how industrial development and international trade have brought about rapid growth and large-scale reductions in poverty for some developing countries, while globalization has simply increased inequality and brought little growth for others. Also considers why, in yet other developing countries, firms remain small-scale and have not integrated with global supply chains. Draws on both theoretical models and empirical evidence to better understand the reasons for these very different experiences and implications for policy. Students taking graduate version complete additional assignments.](http://student.mit.edu/catalog/search.cgi?search=14.76)<br>[15.780![](https://eecsis.mit.edu/images/fall.gif)\<br>**15.780 Analytics of Operations Management**\<br>\<br>* * *\<br>\<br>![](https://eecsis.mit.edu/images/under.gif) (![](https://eecsis.mit.edu/images/fall.gif))\<br>\<br>Prereqs: 6.3700, 15.069, or permission of instructor\<br>\<br>Units: 3-0-9\<br>\<br>* * *\<br>\<br>Introduces core concepts in data-driven modeling that inform and optimize business decisions under uncertainty. Covers models and frameworks, such as machine learning, time series forecasting, dynamic programming, stochastic optimization, and multi-armed bandits. Draws on real-world applications, with several examples from retail, healthcare, logistics, supply chain, and public sector.](http://student.mit.edu/catalog/search.cgi?search=15.780) |
+
+**ECONEECS\_AAGS**:
+Approved advanced subjects in EECS/ECON
+
+| [6.37026.431\<br>**6.3702 Introduction to Probability**\<br>\<br>* * *\<br>\<br>![](https://eecsis.mit.edu/images/grad.gif) (![](https://eecsis.mit.edu/images/fall.gif),![](https://eecsis.mit.edu/images/spring.gif))\<br>\<br>Prereqs: GIR:CAL2\<br>\<br>Units: 4-0-8\<br>\<br>* * *\<br>\<br>An introduction to probability theory, the modeling and analysis of probabilistic systems, and elements of statistical inference. Probabilistic models, conditional probability. Discrete and continuous random variables. Expectation and conditional expectation, and further topics about random variables. Limit Theorems. Bayesian estimation and hypothesis testing. Elements of classical statistical inference. Bernoulli and Poisson processes. Markov chains. Students taking graduate version complete additional assignments.](http://student.mit.edu/catalog/search.cgi?search=6.3702)<br>[6.37226.481![](https://eecsis.mit.edu/images/spring.gif)\<br>**6.3722 Introduction to Statistical Data Analysis**\<br>\<br>* * *\<br>\<br>![](https://eecsis.mit.edu/images/grad.gif) (![](https://eecsis.mit.edu/images/spring.gif))\<br>\<br>Prereqs: 6.100A and (6.3700, 6.3800, 18.600, or permission of instructor)\<br>\<br>Units: 4-0-8\<br>\<br>* * *\<br>\<br>Introduction to the central concepts and methods of data science with an emphasis on statistical grounding and modern computational capabilities. Covers principles involved in extracting information from data for the purpose of making predictions or decisions, including data exploration, feature selection, model fitting, and performance assessment. Topics include learning of distributions, hypothesis testing (including multiple comparison procedures), linear and nonlinear regression and prediction, classification, time series, uncertainty quantification, model validation, causal inference, optimization, and decisions. Computational case studies and projects drawn from applications in finance, sports, engineering, and machine learning life sciences. Students taking graduate version complete additional assignments. Recommended prerequisite: 18.06.](http://student.mit.edu/catalog/search.cgi?search=6.3722)<br>[6.37326.439![](https://eecsis.mit.edu/images/spring.gif)\<br>**6.3732 Statistics, Computation and Applications**\<br>\<br>* * *\<br>\<br>![](https://eecsis.mit.edu/images/nooffer.gif)![](https://eecsis.mit.edu/images/grad.gif) (![](https://eecsis.mit.edu/images/spring.gif))\<br>\<br>(Same subject as 2.093, IDS.131)\<br>\<br>Prereqs: (6.100B, (18.03, 18.06, or 18.C06), and (6.3700, 6.3800, 14.30, 16.09, or 18.05)) or permission of instructor\<br>\<br>Units: 3-1-8\<br>\<br>* * *\<br>\<br>Hands-on analysis of data demonstrates the interplay between statistics and computation. Includes four modules, each centered on a specific data set, and introduced by a domain expert. Provides instruction in specific, relevant analysis methods and corresponding algorithmic aspects. Potential modules may include medical data, gene regulation, social networks, finance data (time series), traffic, transportation, weather forecasting, policy, or industrial web applications. Projects address a large-scale data analysis question. Students taking graduate version complete additional assignments. Limited enrollment; priority to Statistics and Data Science minors and to juniors and seniors.](http://student.mit.edu/catalog/search.cgi?search=6.3732)<br>[6.41326.877![](https://eecsis.mit.edu/images/fall.gif)\<br>**6.4132 Principles of Autonomy and Decision Making**\<br>\<br>* * *\<br>\<br>![](https://eecsis.mit.edu/images/grad.gif) (![](https://eecsis.mit.edu/images/fall.gif))\<br>\<br>(Same subject as 16.413)\<br>\<br>Prereqs: 6.100B, 6.9080, or permission of instructor\<br>\<br>Units: 3-0-9\<br>\<br>* * *\<br>\<br>Surveys decision making methods used to create highly autonomous systems and decision aids. Applies models, principles and algorithms taken from artificial intelligence and operations research. Focuses on planning as state-space search, including uninformed, informed and sampling-based search, activity and motion planning, probabilistic and adversarial planning, Markov models and decision processes, Bayesian filtering, reinforcement learning, and machine learning. Includes methods for satisfiability and optimization of logical and finite domain constraints, graphical models, and methods for search, inference, and conflict-learning. Students taking graduate version complete additional assignments.](http://student.mit.edu/catalog/search.cgi?search=6.4132)<br>[6.50806.836![](https://eecsis.mit.edu/images/spring.gif)\<br>**6.5080 Multicore Programming**\<br>\<br>* * *\<br>\<br>![](https://eecsis.mit.edu/images/nooffer.gif)![](https://eecsis.mit.edu/images/grad.gif) (![](https://eecsis.mit.edu/images/spring.gif))\<br>\<br>Prereqs: 6.1210\<br>\<br>Units: 4-0-8\<br>\<br>* * *\<br>\<br>Introduces principles and core techniques for programming multicore machines. Topics include locking, scalability, concurrent data structures, multiprocessor scheduling, load balancing, and state-of-the-art synchronization techniques, such as transactional memory. Includes sequence of programming assignments on a large multicore machine, culminating with the design of a highly concurrent application. Students taking graduate version complete additional assignments.](http://student.mit.edu/catalog/search.cgi?search=6.5080)<br>[6.52106.854![](https://eecsis.mit.edu/images/fall.gif)\<br>**6.5210 Advanced Algorithms**\<br>\<br>* * *\<br>\<br>![](https://eecsis.mit.edu/images/grad.gif) (![](https://eecsis.mit.edu/images/fall.gif))\<br>\<br>(Same subject as 18.415)\<br>\<br>Prereqs: 6.1220 and (6.1200, 6.3700, or 18.600)\<br>\<br>Units: 5-0-10\<br>\<br>* * *\<br>\<br>First-year graduate subject in algorithms. Emphasizes fundamental algorithms and advanced methods of algorithmic design, analysis, and implementation. Surveys a variety of computational models and the algorithms for them. Data structures, network flows, linear programming, computational geometry, approximation algorithms, online algorithms, parallel algorithms, external memory, streaming algorithms.](http://student.mit.edu/catalog/search.cgi?search=6.5210)<br>[6.52206.856![](https://eecsis.mit.edu/images/fall.gif)\<br>**6.5220 Randomized Algorithms**\<br>\<br>* * *\<br>\<br>![](https://eecsis.mit.edu/images/nooffer.gif)![](https://eecsis.mit.edu/images/grad.gif) (![](https://eecsis.mit.edu/images/fall.gif))\<br>\<br>(Same subject as 18.416)\<br>\<br>Prereqs: (6.1200 or 6.3700) and (6.1220 or 6.5210)\<br>\<br>Units: 5-0-7\<br>\<br>* * *\<br>\<br>Studies how randomization can be used to make algorithms simpler and more efficient via random sampling, random selection of witnesses, symmetry breaking, and Markov chains. Models of randomized computation. Data structures: hash tables, and skip lists. Graph algorithms: minimum spanning trees, shortest paths, and minimum cuts. Geometric algorithms: convex hulls, linear programming in fixed or arbitrary dimension. Approximate counting; parallel algorithms; online algorithms; derandomization techniques; and tools for probabilistic analysis of algorithms.](http://student.mit.edu/catalog/search.cgi?search=6.5220)<br>[6.52306.851![](https://eecsis.mit.edu/images/spring.gif)\<br>**6.5230 Advanced Data Structures**\<br>\<br>* * *\<br>\<br>![](https://eecsis.mit.edu/images/grad.gif) (![](https://eecsis.mit.edu/images/spring.gif))\<br>\<br>Prereqs: 6.1220\<br>\<br>Units: 3-0-9\<br>\<br>* * *\<br>\<br>More advanced and powerful data structures for answering several queries on the same data. Such structures are crucial in particular for designing efficient algorithms. Dictionaries; hashing; search trees. Self-adjusting data structures; linear search; splay trees; dynamic optimality. Integer data structures; word RAM. Predecessor problem; van Emde Boas priority queues; y-fast trees; fusion trees. Lower bounds; cell-probe model; round elimination. Dynamic graphs; link-cut trees; dynamic connectivity. Strings; text indexing; suffix arrays; suffix trees. Static data structures; compact arrays; rank and select. Succinct data structures; tree encodings; implicit data structures. External-memory and cache-oblivious data structures; B-trees; buffer trees; tree layout; ordered-file maintenance. Temporal data structures; persistence; retroactivity.](http://student.mit.edu/catalog/search.cgi?search=6.5230)<br>[6.52506.852![](https://eecsis.mit.edu/images/fall.gif)\<br>**6.5250 Distributed Algorithms**\<br>\<br>* * *\<br>\<br>![](https://eecsis.mit.edu/images/nooffer.gif)![](https://eecsis.mit.edu/images/grad.gif) (![](https://eecsis.mit.edu/images/fall.gif))\<br>\<br>(Same subject as 18.437)\<br>\<br>Prereqs: 6.1220\<br>\<br>Units: 3-0-9\<br>\<br>* * *\<br>\<br>Design and analysis of algorithms, emphasizing those suitable for use in distributed networks. Covers various topics including distributed graph algorithms, locality constraints, bandwidth limitations and communication complexity, process synchronization, allocation of computational resources, fault tolerance, and asynchrony. No background in distributed systems required.](http://student.mit.edu/catalog/search.cgi?search=6.5250) | [6.53106.849![](https://eecsis.mit.edu/images/spring.gif)\<br>**6.5310 Geometric Folding Algorithms: Linkages, Origami, Polyhedra**\<br>\<br>* * *\<br>\<br>![](https://eecsis.mit.edu/images/grad.gif) (![](https://eecsis.mit.edu/images/spring.gif))\<br>\<br>Prereqs: 6.1220 or permission of instructor\<br>\<br>Units: 3-0-9\<br>\<br>* * *\<br>\<br>Covers discrete geometry and algorithms underlying the reconfiguration of foldable structures, with applications to robotics, manufacturing, and biology. Linkages made from one-dimensional rods connected by hinges: constructing polynomial curves, characterizing rigidity, characterizing unfoldable versus locked, protein folding. Folding two-dimensional paper (origami): characterizing flat foldability, algorithmic origami design, one-cut magic trick. Unfolding and folding three-dimensional polyhedra: edge unfolding, vertex unfolding, gluings, Alexandrov's Theorem, hinged dissections.](http://student.mit.edu/catalog/search.cgi?search=6.5310)<br>[6.53406.853![](https://eecsis.mit.edu/images/spring.gif)\<br>**6.5340 Topics in Algorithmic Game Theory**\<br>\<br>* * *\<br>\<br>![](https://eecsis.mit.edu/images/nooffer.gif)![](https://eecsis.mit.edu/images/grad.gif) (![](https://eecsis.mit.edu/images/spring.gif))\<br>\<br>Prereqs: 6.1210 or 6.1220\<br>\<br>Units: 3-0-9\<br>\<br>* * *\<br>\<br>Presents research topics at the interface of computer science and game theory, with an emphasis on algorithms and computational complexity. Explores the types of game-theoretic tools that are applicable to computer systems, the loss in system performance due to the conflicts of interest of users and administrators, and the design of systems whose performance is robust with respect to conflicts of interest inside the system. Algorithmic focus is on algorithms for equilibria, the complexity of equilibria and fixed points, algorithmic tools in mechanism design, learning in games, and the price of anarchy.](http://student.mit.edu/catalog/search.cgi?search=6.5340)<br>[6.54006.840![](https://eecsis.mit.edu/images/fall.gif)\<br>**6.5400 Theory of Computation**\<br>\<br>* * *\<br>\<br>![](https://eecsis.mit.edu/images/grad.gif) (![](https://eecsis.mit.edu/images/fall.gif))\<br>\<br>(Same subject as 18.4041)\<br>\<br>Prereqs: 6.1200 or 18.200\<br>\<br>Units: 4-0-8\<br>\<br>* * *\<br>\<br>A more extensive and theoretical treatment of the material in 6.1400J/18.400J, emphasizing computability and computational complexity theory. Regular and context-free languages. Decidable and undecidable problems, reducibility, recursive function theory. Time and space measures on computation, completeness, hierarchy theorems, inherently complex problems, oracles, probabilistic computation, and interactive proof systems. Students in Course 18 must register for the undergraduate version, 18.404.](http://student.mit.edu/catalog/search.cgi?search=6.5400)<br>[6.56206.875![](https://eecsis.mit.edu/images/fall.gif)\<br>**6.5620 Foundations of Cryptography**\<br>\<br>* * *\<br>\<br>![](https://eecsis.mit.edu/images/grad.gif) (![](https://eecsis.mit.edu/images/fall.gif))\<br>\<br>(Same subject as 18.425)\<br>\<br>Prereqs: 6.1220, 6.1400, or 18.4041\<br>\<br>Units: 3-0-9\<br>\<br>* * *\<br>\<br>A rigorous introduction to modern cryptography. Emphasis on the fundamental cryptographic primitives such as public-key encryption, digital signatures, and pseudo-random number generation, as well as advanced cryptographic primitives such as zero-knowledge proofs, homomorphic encryption, and secure multiparty computation.](http://student.mit.edu/catalog/search.cgi?search=6.5620)<br>[6.66306.780![](https://eecsis.mit.edu/images/fall.gif)\<br>**6.6630 Control of Manufacturing Processes**\<br>\<br>* * *\<br>\<br>![](https://eecsis.mit.edu/images/grad.gif) (![](https://eecsis.mit.edu/images/fall.gif))\<br>\<br>(Same subject as 2.830)\<br>\<br>Prereqs: 2.008, 6.2600, or 6.3700\<br>\<br>Units: 3-0-9\<br>\<br>* * *\<br>\<br>Statistical modeling and control in manufacturing processes. Use of experimental design and response surface modeling to understand manufacturing process physics. Defect and parametric yield modeling and optimization. Forms of process control, including statistical process control, run by run and adaptive control, and real-time feedback control. Application contexts include semiconductor manufacturing, conventional metal and polymer processing, and emerging micro-nano manufacturing processes.](http://student.mit.edu/catalog/search.cgi?search=6.6630)<br>[6.72006.2556.7200 not found in MIT subject catalog](http://student.mit.edu/catalog/search.cgi?search=6.7200)<br>[6.72106.251![](https://eecsis.mit.edu/images/fall.gif)\<br>**6.7210 Introduction to Mathematical Programming**\<br>\<br>* * *\<br>\<br>![](https://eecsis.mit.edu/images/grad.gif) (![](https://eecsis.mit.edu/images/fall.gif))\<br>\<br>(Same subject as 15.081)\<br>\<br>Prereqs: 18.06\<br>\<br>Units: 4-0-8\<br>\<br>* * *\<br>\<br>Introduction to linear optimization and its extensions emphasizing both methodology and the underlying mathematical structures and geometrical ideas. Covers classical theory of linear programming as well as some recent advances in the field. Topics: simplex method; duality theory; sensitivity analysis; network flow problems; decomposition; robust optimization; integer programming; interior point algorithms for linear programming; and introduction to combinatorial optimization and NP-completeness.](http://student.mit.edu/catalog/search.cgi?search=6.7210)<br>[6.72406.254![](https://eecsis.mit.edu/images/fall.gif)\<br>**6.7240 Game Theory with Engineering Applications**\<br>\<br>* * *\<br>\<br>![](https://eecsis.mit.edu/images/nooffer.gif)![](https://eecsis.mit.edu/images/grad.gif) (![](https://eecsis.mit.edu/images/fall.gif))\<br>\<br>Prereqs: 6.3702\<br>\<br>Units: 4-0-8\<br>\<br>* * *\<br>\<br>Introduction to fundamentals of game theory and mechanism design with motivations for each topic drawn from engineering applications (including distributed control of wireline/wireless communication networks, transportation networks, pricing). Emphasis on the foundations of the theory, mathematical tools, as well as modeling and the equilibrium notion in different environments. Topics include normal form games, supermodular games, dynamic games, repeated games, games with incomplete/imperfect information, mechanism design, cooperative game theory, and network games.](http://student.mit.edu/catalog/search.cgi?search=6.7240)<br>[6.72606.268![](https://eecsis.mit.edu/images/spring.gif)\<br>**6.7260 Network Science and Models**\<br>\<br>* * *\<br>\<br>![](https://eecsis.mit.edu/images/grad.gif) (![](https://eecsis.mit.edu/images/spring.gif))\<br>\<br>Prereqs: 6.3702 and 18.06\<br>\<br>Units: 3-0-9\<br>\<br>* * *\<br>\<br>Introduces the main mathematical models used to describe large networks and dynamical processes that evolve on networks. Static models of random graphs, preferential attachment, and other graph evolution models. Epidemic propagation, opinion dynamics, social learning, and inference in networks. Applications drawn from social, economic, natural, and infrastructure networks, as well as networked decision systems such as sensor networks.](http://student.mit.edu/catalog/search.cgi?search=6.7260) | [6.73006.336![](https://eecsis.mit.edu/images/fall.gif)\<br>**6.7300 Introduction to Modeling and Simulation**\<br>\<br>* * *\<br>\<br>![](https://eecsis.mit.edu/images/grad.gif) (![](https://eecsis.mit.edu/images/fall.gif))\<br>\<br>(Same subject as 2.096, 16.910)\<br>\<br>Prereqs: 18.03 or 18.06\<br>\<br>Units: 3-6-3\<br>\<br>* * *\<br>\<br>Introduction to computational techniques for modeling and simulation of a variety of large and complex engineering, science, and socio-economical systems. Prepares students for practical use and development of computational engineering in their own research and future work. Topics include mathematical formulations (e.g., automatic assembly of constitutive and conservation principles); linear system solvers (sparse and iterative); nonlinear solvers (Newton and homotopy); ordinary, time-periodic and partial differential equation solvers; and model order reduction. Students develop their own models and simulators for self-proposed applications, with an emphasis on creativity, teamwork, and communication. Prior basic linear algebra required and at least one numerical programming language (e.g., MATLAB, Julia, Python, etc.) helpful.](http://student.mit.edu/catalog/search.cgi?search=6.7300)<br>[6.73106.337![](https://eecsis.mit.edu/images/fall.gif)\<br>**6.7310 Introduction to Numerical Methods**\<br>\<br>* * *\<br>\<br>![](https://eecsis.mit.edu/images/grad.gif) (![](https://eecsis.mit.edu/images/fall.gif))\<br>\<br>(Same subject as 18.335)\<br>\<br>Prereqs: 18.06, 18.700, or 18.701\<br>\<br>Units: 3-0-9\<br>\<br>* * *\<br>\<br>Advanced introduction to numerical analysis: accuracy and efficiency of numerical algorithms. In-depth coverage of sparse-matrix/iterative and dense-matrix algorithms in numerical linear algebra (for linear systems and eigenproblems). Floating-point arithmetic, backwards error analysis, conditioning, and stability. Other computational topics (e.g., numerical integration or nonlinear optimization) may also be surveyed. Final project involves some programming.](http://student.mit.edu/catalog/search.cgi?search=6.7310)<br>[6.73206.338![](https://eecsis.mit.edu/images/spring.gif)\<br>**6.7320 Parallel Computing and Scientific Machine Learning**\<br>\<br>* * *\<br>\<br>![](https://eecsis.mit.edu/images/grad.gif) (![](https://eecsis.mit.edu/images/spring.gif))\<br>\<br>(Same subject as 18.337)\<br>\<br>Prereqs: 18.06, 18.700, or 18.701\<br>\<br>Units: 3-0-9\<br>\<br>* * *\<br>\<br>Introduction to scientific machine learning with an emphasis on developing scalable differentiable programs. Covers scientific computing topics (numerical differential equations, dense and sparse linear algebra, Fourier transformations, parallelization of large-scale scientific simulation) simultaneously with modern data science (machine learning, deep neural networks, automatic differentiation), focusing on the emerging techniques at the connection between these areas, such as neural differential equations and physics-informed deep learning. Provides direct experience with the modern realities of optimizing code performance for supercomputers, GPUs, and multicores in a high-level language.](http://student.mit.edu/catalog/search.cgi?search=6.7320)<br>[6.73306.339![](https://eecsis.mit.edu/images/fall.gif)\<br>**6.7330 Numerical Methods for Partial Differential Equations**\<br>\<br>* * *\<br>\<br>![](https://eecsis.mit.edu/images/grad.gif) (![](https://eecsis.mit.edu/images/fall.gif))\<br>\<br>(Same subject as 2.097, 16.920)\<br>\<br>Prereqs: 18.03 or 18.06\<br>\<br>Units: 3-0-9\<br>\<br>* * *\<br>\<br>Covers the fundamentals of modern numerical techniques for a wide range of linear and nonlinear elliptic, parabolic, and hyperbolic partial differential and integral equations. Topics include mathematical formulations; finite difference, finite volume, finite element, and boundary element discretization methods; and direct and iterative solution techniques. The methodologies described form the foundation for computational approaches to engineering systems involving heat transfer, solid mechanics, fluid dynamics, and electromagnetics. Computer assignments requiring programming.](http://student.mit.edu/catalog/search.cgi?search=6.7330)<br>[6.74506.263![](https://eecsis.mit.edu/images/fall.gif)\<br>**6.7450 Data-Communication Networks**\<br>\<br>* * *\<br>\<br>![](https://eecsis.mit.edu/images/nooffer.gif)![](https://eecsis.mit.edu/images/grad.gif) (![](https://eecsis.mit.edu/images/fall.gif))\<br>\<br>(Same subject as 16.37)\<br>\<br>Prereqs: 6.3700 or 18.204\<br>\<br>Units: 3-0-9\<br>\<br>* * *\<br>\<br>Provides an introduction to data networks with an analytic perspective, using wireless networks, satellite networks, optical networks, the internet and data centers as primary applications. Presents basic tools for modeling and performance analysis. Draws upon concepts from stochastic processes, queuing theory, and optimization.](http://student.mit.edu/catalog/search.cgi?search=6.7450)<br>[6.74706.441![](https://eecsis.mit.edu/images/fall.gif)\<br>**6.7470 Information Theory**\<br>\<br>* * *\<br>\<br>![](https://eecsis.mit.edu/images/nooffer.gif)![](https://eecsis.mit.edu/images/grad.gif) (![](https://eecsis.mit.edu/images/fall.gif))\<br>\<br>Prereqs: 6.3700\<br>\<br>Units: 3-0-9\<br>\<br>* * *\<br>\<br>Mathematical definitions of information measures, convexity, continuity, and variational properties. Lossless source coding; variable-length and block compression; Slepian-Wolf theorem; ergodic sources and Shannon-McMillan theorem. Hypothesis testing, large deviations and I-projection. Fundamental limits of block coding for noisy channels: capacity, dispersion, finite blocklength bounds. Coding with feedback. Joint source-channel problem. Rate-distortion theory, vector quantizers. Advanced topics include Gelfand-Pinsker problem, multiple access channels, broadcast channels (depending on available time).](http://student.mit.edu/catalog/search.cgi?search=6.7470)<br>[6.77006.436![](https://eecsis.mit.edu/images/fall.gif)\<br>**6.7700 Fundamentals of Probability**\<br>\<br>* * *\<br>\<br>![](https://eecsis.mit.edu/images/grad.gif) (![](https://eecsis.mit.edu/images/fall.gif))\<br>\<br>(Same subject as 15.085)\<br>\<br>Prereqs: GIR:CAL2\<br>\<br>Units: 4-0-8\<br>\<br>* * *\<br>\<br>Introduction to probability theory. Probability spaces and measures. Discrete and continuous random variables. Conditioning and independence. Multivariate normal distribution. Abstract integration, expectation, and related convergence results. Moment generating and characteristic functions. Bernoulli and Poisson process. Finite-state Markov chains. Convergence notions and their relations. Limit theorems. Familiarity with elementary probability and real analysis is desirable.](http://student.mit.edu/catalog/search.cgi?search=6.7700)<br>[6.77106.262![](https://eecsis.mit.edu/images/spring.gif)\<br>**6.7710 Discrete Stochastic Processes**\<br>\<br>* * *\<br>\<br>![](https://eecsis.mit.edu/images/nooffer.gif)![](https://eecsis.mit.edu/images/grad.gif) (![](https://eecsis.mit.edu/images/spring.gif))\<br>\<br>Prereqs: 6.3702 or 18.204\<br>\<br>Units: 4-0-8\<br>\<br>* * *\<br>\<br>Review of probability and laws of large numbers; Poisson counting process and renewal processes; Markov chains (including Markov decision theory), branching processes, birth-death processes, and semi-Markov processes; continuous-time Markov chains and reversibility; random walks, martingales, and large deviations; applications from queueing, communication, control, and operations research.](http://student.mit.edu/catalog/search.cgi?search=6.7710)<br>[6.77206.265![](https://eecsis.mit.edu/images/spring.gif)\<br>**6.7720 Discrete Probability and Stochastic Processes**\<br>\<br>* * *\<br>\<br>![](https://eecsis.mit.edu/images/grad.gif) (![](https://eecsis.mit.edu/images/spring.gif))\<br>\<br>(Same subject as 15.070, 18.619)\<br>\<br>Prereqs: 6.3702, 6.7700, 18.100A, 18.100B, or 18.100Q\<br>\<br>Units: 3-0-9\<br>\<br>* * *\<br>\<br>Provides an introduction to tools used for probabilistic reasoning in the context of discrete systems and processes. Tools such as the probabilistic method, first and second moment method, martingales, concentration and correlation inequalities, theory of random graphs, weak convergence, random walks and Brownian motion, branching processes, Markov chains, Markov random fields, correlation decay method, isoperimetry, coupling, influences and other basic tools of modern research in probability will be presented. Algorithmic aspects and connections to statistics and machine learning will be emphasized.](http://student.mit.edu/catalog/search.cgi?search=6.7720) | [6.78006.437![](https://eecsis.mit.edu/images/spring.gif)\<br>**6.7800 Inference and Information**\<br>\<br>* * *\<br>\<br>![](https://eecsis.mit.edu/images/grad.gif) (![](https://eecsis.mit.edu/images/spring.gif))\<br>\<br>Prereqs: 6.3700, 6.3800, or 6.7700\<br>\<br>Units: 4-0-8\<br>\<br>* * *\<br>\<br>Introduction to principles of Bayesian and non-Bayesian statistical inference and its information theoretic foundations. Hypothesis testing and parameter estimation, sufficient statistics, exponential families. Loss functions, information measures, model capacity, and information geometry. Variational inference and EM algorithm; MCMC and other Monte Carlo methods. Asymptotic analysis and large deviations theory; universal inference and learning. Selected topics such as representation learning, score-matching, diffusion, and nonparametric statistics.](http://student.mit.edu/catalog/search.cgi?search=6.7800)<br>[6.78106.438![](https://eecsis.mit.edu/images/fall.gif)\<br>**6.7810 Algorithms for Inference**\<br>\<br>* * *\<br>\<br>![](https://eecsis.mit.edu/images/grad.gif) (![](https://eecsis.mit.edu/images/fall.gif))\<br>\<br>Prereqs: 18.06 and (6.3700, 6.3800, or 6.7700)\<br>\<br>Units: 4-0-8\<br>\<br>* * *\<br>\<br>Introduction to computational aspects of statistical inference via probabilistic graphical models. Directed and undirected graphical models, and factor graphs, over discrete and Gaussian distributions; hidden Markov models, linear dynamical systems. Sum-product and junction tree algorithms; forward-backward algorithm, Kalman filtering and smoothing. Min-sum and Viterbi algorithms. Variational methods, mean-field theory, and loopy belief propagation. Sampling methods; Glauber dynamics and mixing time analysis. Parameter structure learning for graphical models; Baum-Welch and Chow-Liu algorithms. Selected topics such as causal inference, particle filtering, restricted Boltzmann machines, and graph neural networks.](http://student.mit.edu/catalog/search.cgi?search=6.7810)<br>[6.79006.867![](https://eecsis.mit.edu/images/fall.gif)\<br>**6.7900 Machine Learning**\<br>\<br>* * *\<br>\<br>![](https://eecsis.mit.edu/images/grad.gif) (![](https://eecsis.mit.edu/images/fall.gif))\<br>\<br>Prereqs: 18.06 and (6.3700, 6.3800, or 18.600)\<br>\<br>Units: 3-0-9\<br>\<br>* * *\<br>\<br>Principles, techniques, and algorithms in machine learning from the point of view of statistical inference; representation, generalization, and model selection; and methods such as linear/additive models, active learning, boosting, support vector machines, non-parametric Bayesian methods, hidden Markov models, Bayesian networks, and convolutional and recurrent neural networks. Recommended prerequisite: 6.3900 or other previous experience in machine learning. Enrollment may be limited.](http://student.mit.edu/catalog/search.cgi?search=6.7900)<br>[6.79106.860![](https://eecsis.mit.edu/images/fall.gif)\<br>**6.7910 Statistical Learning Theory and Applications**\<br>\<br>* * *\<br>\<br>![](https://eecsis.mit.edu/images/grad.gif) (![](https://eecsis.mit.edu/images/fall.gif))\<br>\<br>(Same subject as 9.520)\<br>\<br>Prereqs: 6.3700, 6.7900, 18.06, or permission of instructor\<br>\<br>Units: 3-0-9\<br>\<br>* * *\<br>\<br>Covers foundations and recent advances in statistical machine learning theory, with the dual goals of providing students with the theoretical knowledge to use machine learning and preparing more advanced students to contribute to progress in the field. The content is roughly divided into three parts. The first part is about classical regularization, margin, stochastic gradient methods, overparametrization, implicit regularization, and stability. The second part is about deep networks: approximation and optimization theory plus roots of generalization. The third part is about the connections between learning theory and the brain. Occasional talks by leading researchers on advanced research topics. Emphasis on current research topics.](http://student.mit.edu/catalog/search.cgi?search=6.7910)<br>[6.79306.871![](https://eecsis.mit.edu/images/spring.gif)\<br>**6.7930 Machine Learning for Healthcare**\<br>\<br>* * *\<br>\<br>![](https://eecsis.mit.edu/images/grad.gif) (![](https://eecsis.mit.edu/images/spring.gif))\<br>\<br>(Same subject as HST.956)\<br>\<br>Prereqs: 6.3900, 6.7810, 6.7900, 6.8611, or 9.520\<br>\<br>Units: 4-0-8\<br>\<br>* * *\<br>\<br>Introduces students to machine learning in healthcare, including the nature of clinical data and the use of machine learning for risk stratification, disease progression modeling, precision medicine, diagnosis, subtype discovery, and improving clinical workflows. Topics include causality, interpretability, algorithmic fairness, time-series analysis, graphical models, deep learning and transfer learning. Guest lectures by clinicians from the Boston area, and projects with real clinical data, emphasize subtleties of working with clinical data and translating machine learning into clinical practice.](http://student.mit.edu/catalog/search.cgi?search=6.7930)<br>[6.79406.231![](https://eecsis.mit.edu/images/spring.gif)\<br>**6.7940 Dynamic Programming and Reinforcement Learning**\<br>\<br>* * *\<br>\<br>![](https://eecsis.mit.edu/images/nooffer.gif)![](https://eecsis.mit.edu/images/grad.gif) (![](https://eecsis.mit.edu/images/spring.gif))\<br>\<br>Prereqs: 6.3700 or 18.600\<br>\<br>Units: 4-0-8\<br>\<br>* * *\<br>\<br>Dynamic programming as a unifying framework for sequential decision-making under uncertainty, Markov decision problems, and stochastic control. Perfect and imperfect state information models. Finite horizon and infinite horizon problems, including discounted and average cost formulations. Value and policy iteration. Suboptimal methods. Approximate dynamic programming for large-scale problems, and reinforcement learning. Applications and examples drawn from diverse domains. While an analysis prerequisite is not required, mathematical maturity is necessary.](http://student.mit.edu/catalog/search.cgi?search=6.7940)<br>[6.83006.869![](https://eecsis.mit.edu/images/spring.gif)\<br>**6.8300 Advances in Computer Vision**\<br>\<br>* * *\<br>\<br>![](https://eecsis.mit.edu/images/grad.gif) (![](https://eecsis.mit.edu/images/spring.gif))\<br>\<br>Prereqs: 6.7960, (6.1200 or 6.3700), and (18.06 or 18.C06)\<br>\<br>Units: 3-0-9\<br>\<br>* * *\<br>\<br>Advanced topics in computer vision focusing on geometry in computer vision, including image formation, representation theory for vision, classic multi-view geometry, multi-view geometry in the age of deep learning, differentiable rendering, neural scene representations, correspondence estimation, optical flow computation, and point tracking. Topics include generative modeling and representation learning including image and video generation, guidance in diffusion models, conditional probabilistic models, as well as representation learning in the form of contrastive and masking-based methods. Explores the intersection of robotics and computer vision with "vision for embodied agents," investigating the role of vision for decision-making, planning and control.](http://student.mit.edu/catalog/search.cgi?search=6.8300)<br>[6.86106.864![](https://eecsis.mit.edu/images/spring.gif)\<br>**6.8610 Quantitative Methods for Natural Language Processing**\<br>\<br>* * *\<br>\<br>![](https://eecsis.mit.edu/images/grad.gif) (![](https://eecsis.mit.edu/images/spring.gif))\<br>\<br>Prereqs: 6.3900 and (18.06 or 18.C06)\<br>\<br>Units: 3-0-9\<br>\<br>* * *\<br>\<br>Introduces the study of human language from a computational perspective, including syntactic, semantic and discourse processing models. Emphasizes machine learning methods and algorithms. Uses these methods and models in applications such as syntactic parsing, information extraction, statistical machine translation, dialogue systems.](http://student.mit.edu/catalog/search.cgi?search=6.8610) |
+
+**ECONTH**:
+Economics electives in theory
+
+| [14.04![](https://eecsis.mit.edu/images/fall.gif)\<br>**14.04 Intermediate Microeconomic Theory**\<br>\<br>* * *\<br>\<br>![](https://eecsis.mit.edu/images/under.gif) (![](https://eecsis.mit.edu/images/fall.gif))\<br>\<br>Prereqs: GIR:CAL2 and 14.01\<br>\<br>Units: 4-0-8\<br>\<br>* * *\<br>\<br>Analysis of consumer and producer decisions including analysis of competitive and monopolistic markets. Price-based partial and general equilibrium analysis. Introduction to game theory as a foundation for the strategic analysis of economic situations. Imperfect competition, dynamic games among firms. Failures of general equilibrium theory and their resolutions: externalities, public goods, incomplete information settings, signaling, screening, insurance, alternative market mechanisms, auctions, design of markets.](http://student.mit.edu/catalog/search.cgi?search=14.04)<br>[14.12![](https://eecsis.mit.edu/images/fall.gif)\<br>**14.12 Economic Applications of Game Theory**\<br>\<br>* * *\<br>\<br>![](https://eecsis.mit.edu/images/under.gif) (![](https://eecsis.mit.edu/images/fall.gif))\<br>\<br>Prereqs: 14.01 and (6.041B, 14.04, 14.30, 18.05, or permission of instructor)\<br>\<br>Units: 4-0-8\<br>\<br>* * *\<br>\<br>Analysis of strategic behavior in multi-person economic settings. Introduction to solution concepts, such as rationalizability, backwards induction, Nash equilibrium, subgame-perfect equilibrium, and sequential equilibrium. Strong emphasis on dynamic games, such as repeated games. Introduction to Bayesian games, focusing on Bayesian Nash Equilibrium, Perfect Bayesian Equilibrium, and signaling games. Applications drawn from microeconomics: imperfect competition, implicit cartels, bargaining, and auctions.](http://student.mit.edu/catalog/search.cgi?search=14.12)<br>[14.13![](https://eecsis.mit.edu/images/fall.gif)\<br>**14.13 Psychology and Economics**\<br>\<br>* * *\<br>\<br>![](https://eecsis.mit.edu/images/under.gif) (![](https://eecsis.mit.edu/images/fall.gif))\<br>\<br>Prereqs: 14.01\<br>\<br>Units: 4-0-8\<br>\<br>* * *\<br>\<br>Introduces the theoretical and empirical literature of behavioral economics. Examines important and systematic departures from the standard models in economics by incorporating insights from psychology and other social sciences. Covers theory and evidence on time, risk, and social preferences; beliefs and learning; emotions; limited attention; and frames, defaults, and nudges. Studies applications to many different areas, such as credit card debt, procrastination, retirement savings, addiction, portfolio choice, poverty, labor supply, happiness, and government policy. Students participate in surveys and experiments in class, review evidence from lab experiments, examine how the results can be integrated into models, and test models using field and lab data. Students taking graduate version complete additional assignments.](http://student.mit.edu/catalog/search.cgi?search=14.13)<br>[14.16![](https://eecsis.mit.edu/images/spring.gif)\<br>**14.16 Strategy and Information**\<br>\<br>* * *\<br>\<br>![](https://eecsis.mit.edu/images/under.gif) (![](https://eecsis.mit.edu/images/spring.gif))\<br>\<br>Prereqs: 14.01 or permission of instructor\<br>\<br>Units: 4-0-8\<br>\<br>* * *\<br>\<br>Covers modern applications of game theory where incomplete information plays an important role. Applications include bargaining, auctions, global games, market design, information design, and network economics. Students taking graduate version complete additional assignments.](http://student.mit.edu/catalog/search.cgi?search=14.16)<br>[14.17![](https://eecsis.mit.edu/images/fall.gif)\<br>**14.17 Blockchain and Financial System Design**\<br>\<br>* * *\<br>\<br>![](https://eecsis.mit.edu/images/under.gif) (![](https://eecsis.mit.edu/images/fall.gif))\<br>\<br>Prereqs: 14.01\<br>\<br>Units: 4-0-8\<br>\<br>* * *\<br>\<br>Synthesizes computer science technologies underlying cryptocurrency, blockchain, tokenization, platforms, and computational algorithms with economics and its use of contracts, mechanism design, general equilibrium, and monetary theory. Topics include: legacy systems in developed and developing economies; technological change; the impact of distributed ledgers, smart contracts, and encryption; the optimal allocation of risk; market structure; and optimized regulation. Explores new financial designs for industry, digital companies, central banks, and international organizations. Students taking graduate version complete additional assignments.](http://student.mit.edu/catalog/search.cgi?search=14.17) | [14.19![](https://eecsis.mit.edu/images/fall.gif)\<br>**14.19 Market Design**\<br>\<br>* * *\<br>\<br>![](https://eecsis.mit.edu/images/under.gif) (![](https://eecsis.mit.edu/images/fall.gif))\<br>\<br>Prereqs: 14.01\<br>\<br>Units: 4-0-8\<br>\<br>* * *\<br>\<br>Covers the design and operation of organized markets, building on ideas from microeconomic and game theory. Topics may include mechanism design, auctions, matching markets, and other resource allocation problems.](http://student.mit.edu/catalog/search.cgi?search=14.19)<br>[14.26![](https://eecsis.mit.edu/images/fall.gif)\<br>**14.26 Organizational Economics**\<br>\<br>* * *\<br>\<br>![](https://eecsis.mit.edu/images/under.gif) (![](https://eecsis.mit.edu/images/fall.gif))\<br>\<br>(Same subject as 15.039)\<br>\<br>Prereqs: 14.01\<br>\<br>Units: 4-0-8\<br>\<br>* * *\<br>\<br>Provides a rigorous, but not overly technical introduction to the economic theory of organization together with a varying set of applications. Addresses incentives, control, relationships, decision processes, and organizational culture and performance. Introduces selected fundamentals of game theory. Students taking graduate version complete additional assignments.](http://student.mit.edu/catalog/search.cgi?search=14.26)<br>[14.54![](https://eecsis.mit.edu/images/spring.gif)\<br>**14.54 International Trade**\<br>\<br>* * *\<br>\<br>![](https://eecsis.mit.edu/images/under.gif) (![](https://eecsis.mit.edu/images/spring.gif))\<br>\<br>Prereqs: 14.01\<br>\<br>Units: 4-0-8\<br>\<br>* * *\<br>\<br>Provides an introduction to theoretical and empirical topics in international trade. Offers a brief history of globalization. Introduces the theory of comparative advantage and discusses its implications for international specialization and wage inequality. Studies the determinants and consequences of trade policy, and analyzes the consequences of immigration and foreign direct investment. Students taking graduate version complete additional assignments.](http://student.mit.edu/catalog/search.cgi?search=14.54)<br>[6.32606.207![](https://eecsis.mit.edu/images/fall.gif)\<br>**6.3260 Networks**\<br>\<br>* * *\<br>\<br>![](https://eecsis.mit.edu/images/under.gif) (![](https://eecsis.mit.edu/images/fall.gif))\<br>\<br>(Same subject as 14.15)\<br>\<br>Prereqs: 6.3700 or 14.30\<br>\<br>Units: 4-0-8\<br>\<br>* * *\<br>\<br>Highlights common principles that permeate the functioning of diverse technological, economic and social networks. Utilizes three sets of tools for analyzing networks -- random graph models, optimization, and game theory -- to study informational and learning cascades; economic and financial networks; social influence networks; formation of social groups; communication networks and the Internet; consensus and gossiping; spread and control of epidemics; control and use of energy networks; and biological networks. Students taking graduate version complete additional assignments.](http://student.mit.edu/catalog/search.cgi?search=6.3260) |
+
+**ECON\_AAGS**:
+Approved advanced subjects in Economics
+
+| [14.121![](https://eecsis.mit.edu/images/fall.gif)\<br>**14.121 Microeconomic Theory I**\<br>\<br>* * *\<br>\<br>![](https://eecsis.mit.edu/images/grad.gif) (![](https://eecsis.mit.edu/images/fall.gif))\<br>\<br>Prereqs: 14.04 and permission of instructor\<br>\<br>Units: 3-0-3\<br>\<br>* * *\<br>\<br>Covers consumer and producer theory, markets and competition, general equilibrium and the welfare theorems; featuring applications, uncertainty, identification and restrictions models place on data. Enrollment limited; preference to PhD students.](http://student.mit.edu/catalog/search.cgi?search=14.121)& [14.122![](https://eecsis.mit.edu/images/fall.gif)\<br>**14.122 Microeconomic Theory II**\<br>\<br>* * *\<br>\<br>![](https://eecsis.mit.edu/images/grad.gif) (![](https://eecsis.mit.edu/images/fall.gif))\<br>\<br>Prereqs: 14.121 and permission of instructor\<br>\<br>Units: 3-0-3\<br>\<br>* * *\<br>\<br>Introduction to game theory. Topics include normal form and extensive form games, and games with incomplete information. Enrollment limited.](http://student.mit.edu/catalog/search.cgi?search=14.122)<br>[14.131![](https://eecsis.mit.edu/images/fall.gif)\<br>**14.131 Psychology and Economics**\<br>\<br>* * *\<br>\<br>![](https://eecsis.mit.edu/images/grad.gif) (![](https://eecsis.mit.edu/images/fall.gif))\<br>\<br>Prereqs: 14.01\<br>\<br>Units: 4-0-8\<br>\<br>* * *\<br>\<br>Introduces the theoretical and empirical literature of behavioral economics. Examines important and systematic departures from the standard models in economics by incorporating insights from psychology and other social sciences. Covers theory and evidence on time, risk, and social preferences; beliefs and learning; emotions; limited attention; and frames, defaults, and nudges. Studies applications to many different areas, such as credit card debt, procrastination, retirement savings, addiction, portfolio choice, poverty, labor supply, happiness, and government policy. Students participate in surveys and experiments in class, review evidence from lab experiments, examine how the results can be integrated into models, and test models using field and lab data.  Students taking graduate version complete additional assignments.](http://student.mit.edu/catalog/search.cgi?search=14.131)<br>[14.137![](https://eecsis.mit.edu/images/spring.gif)\<br>**14.137 Psychology and Economics**\<br>\<br>* * *\<br>\<br>![](https://eecsis.mit.edu/images/grad.gif) (![](https://eecsis.mit.edu/images/spring.gif))\<br>\<br>(Same subject as 9.822)\<br>\<br>Prereqs: none\<br>\<br>Units: 4-0-8\<br>\<br>* * *\<br>\<br>Examines "psychology appreciation" for economics students. Aims to enhance knowledge and intuition about psychological processes in areas relevant to economics. Increases understanding of psychology as an experimental discipline, with its own distinct rules and style of argument. Topics include self-knowledge, cognitive dissonance, self-deception, emotions, social norms, self-control, learning, mental accounting, memory, individual and group behavior, and some personality and psycho-analytic models. Within each of these topics, we showcase effective and central experiments and discuss their role in the development of psychological theory. Term paper required.](http://student.mit.edu/catalog/search.cgi?search=14.137)<br>[14.150![](https://eecsis.mit.edu/images/fall.gif)\<br>**14.150 Networks**\<br>\<br>* * *\<br>\<br>![](https://eecsis.mit.edu/images/grad.gif) (![](https://eecsis.mit.edu/images/fall.gif))\<br>\<br>Prereqs: 6.3700 or 14.300\<br>\<br>Units: 4-0-8\<br>\<br>* * *\<br>\<br>Highlights common principles that permeate the functioning of diverse technological, economic and social networks. Utilizes three sets of tools for analyzing networks -- random graph models, optimization, and game theory -- to study informational and learning cascades; economic and financial networks; social influence networks; formation of social groups; communication networks and the Internet; consensus and gossiping; spread and control of epidemics; control and use of energy networks; and biological networks. Students taking graduate version complete additional assignments.](http://student.mit.edu/catalog/search.cgi?search=14.150)<br>[14.161![](https://eecsis.mit.edu/images/spring.gif)\<br>**14.161 Strategy and Information**\<br>\<br>* * *\<br>\<br>![](https://eecsis.mit.edu/images/grad.gif) (![](https://eecsis.mit.edu/images/spring.gif))\<br>\<br>Prereqs: 14.01 or permission of instructor\<br>\<br>Units: 4-0-8\<br>\<br>* * *\<br>\<br>Covers modern applications of game theory where incomplete information plays an important role. Applications include bargaining, auctions, global games, market design, information design, and network economics. Students taking graduate version complete additional assignments.](http://student.mit.edu/catalog/search.cgi?search=14.161) | [14.200![](https://eecsis.mit.edu/images/fall.gif)\<br>**14.200 Industrial Organization: Competitive Strategy and Public Policy**\<br>\<br>* * *\<br>\<br>![](https://eecsis.mit.edu/images/grad.gif) (![](https://eecsis.mit.edu/images/fall.gif))\<br>\<br>Prereqs: 14.01\<br>\<br>Units: 4-0-8\<br>\<br>* * *\<br>\<br>Analyzes the current debate over the rise of monopolies, the strategic behavior and performance of firms in imperfectly competitive markets, and the role of competition policy. Topics include monopoly power; pricing, product choice, and innovation decisions by firms in oligopoly markets; static and dynamic measurement of market performance; and incentives in organizations. Requires regular participation in class discussion and teamwork in a competitive strategy game. Students taking graduate version complete additional assignments.](http://student.mit.edu/catalog/search.cgi?search=14.200)<br>[14.270![](https://eecsis.mit.edu/images/spring.gif)\<br>**14.270 Economics of Digitization**\<br>\<br>* * *\<br>\<br>![](https://eecsis.mit.edu/images/grad.gif) (![](https://eecsis.mit.edu/images/spring.gif))\<br>\<br>Prereqs: 14.01 and (6.3700 or 14.30)\<br>\<br>Units: 4-0-8\<br>\<br>* * *\<br>\<br>Uses theoretical economic models and empirical evidence to help understand the past and likely future impacts that digitization has had on legacy markets and institutions. These models help frame class discussions on e-commerce, search, online advertising, traditional and social media, privacy, platform design, and distance learning, among other topics. Students  complete a project, and those taking the graduate version have additional assignments.](http://student.mit.edu/catalog/search.cgi?search=14.270)<br>[14.380![](https://eecsis.mit.edu/images/fall.gif)\<br>**14.380 Statistical Method in Economics**\<br>\<br>* * *\<br>\<br>![](https://eecsis.mit.edu/images/grad.gif) (![](https://eecsis.mit.edu/images/fall.gif))\<br>\<br>Prereqs: 14.32 or permission of instructor\<br>\<br>Units: 3-0-3\<br>\<br>* * *\<br>\<br>Introduction to probability and statistics as background for advanced econometrics. Covers elements of probability theory, sampling theory, asymptotic approximations, hypothesis testing, and maximum-likelihood methods. Illustrations from economics and application of these concepts to economic problems. Limited to 40 PhD students.](http://student.mit.edu/catalog/search.cgi?search=14.380)& [14.381![](https://eecsis.mit.edu/images/fall.gif)\<br>**14.381 Estimation and Inference for Linear Causal and Structural Models**\<br>\<br>* * *\<br>\<br>![](https://eecsis.mit.edu/images/grad.gif) (![](https://eecsis.mit.edu/images/fall.gif))\<br>\<br>Prereqs: 14.380 and 18.06\<br>\<br>Units: 3-0-3\<br>\<br>* * *\<br>\<br>Explains basic econometric ideas and methods, illustrating with empirical applications. Causal inference is emphasized and examples of economic structural models are given. Topics include randomized trials, regression, including discontinuity designs and diffs-in-diffs, and instrumental variables, including local average treatment effects. Basic asymptotic theory for regression is covered and robust standard errors and statistical inference methods are given. Restricted to PhD students from Courses 14 and 15. Instructor approval required for all others.](http://student.mit.edu/catalog/search.cgi?search=14.381)<br>[14.387![](https://eecsis.mit.edu/images/fall.gif)\<br>**14.387 Applied Econometrics**\<br>\<br>* * *\<br>\<br>![](https://eecsis.mit.edu/images/nooffer.gif)![](https://eecsis.mit.edu/images/grad.gif) (![](https://eecsis.mit.edu/images/fall.gif))\<br>\<br>Prereqs: 14.381 or permission of instructor\<br>\<br>Units: 4-0-8\<br>\<br>* * *\<br>\<br>Advanced treatment of the core empirical strategies used to answer causal questions in applied microeconometric research. Covers extensions and innovations relating to econometric applications of regression, machine learning, instrumental variables, differences-in-differences and event-study models, regression discontinuity designs, synthetic controls, and statistical inference.  Students taking the graduate version complete an additional assignment.](http://student.mit.edu/catalog/search.cgi?search=14.387)<br>[14.388![](https://eecsis.mit.edu/images/spring.gif)\<br>**14.388 Inference on Causal and Structural Parameters Using ML and AI**\<br>\<br>* * *\<br>\<br>![](https://eecsis.mit.edu/images/grad.gif) (![](https://eecsis.mit.edu/images/spring.gif))\<br>\<br>Prereqs: 14.381\<br>\<br>Units: 4-0-8\<br>\<br>* * *\<br>\<br>Provides an applied treatment of modern causal inference with high-dimensional data, focusing on empirical economic problems encountered in academic research and the tech industry. Formulates problems in the languages of structural equation modeling and potential outcomes. Presents state-of-the-art approaches for inference on causal and structural parameters, including de-biased machine learning, synthetic control methods, and reinforcement learning. Introduces tools from machine learning and deep learning developed for prediction purposes, and discusses how to adapt them to learn causal parameters. Emphasizes the applied and practical perspectives. Requires knowledge of mathematical statistics and regression analysis and programming experience in R or Python.](http://student.mit.edu/catalog/search.cgi?search=14.388) | [14.390![](https://eecsis.mit.edu/images/fall.gif)\<br>**14.390 Large-Scale Decision-Making and Inference**\<br>\<br>* * *\<br>\<br>![](https://eecsis.mit.edu/images/grad.gif) (![](https://eecsis.mit.edu/images/fall.gif))\<br>\<br>Prereqs: 14.320\<br>\<br>Units: 4-0-8\<br>\<br>* * *\<br>\<br>Covers the use of data to guide decision-making, with a focus on data-rich and high-dimensional environments as are now commonly encountered in both academic and industry applications. Begins with an introduction to statistical decision theory, including Bayesian perspectives. Covers empirical Bayes methods, including related concepts such as false discovery rates, illustrated with economic applications. Requires knowledge of mathematical statistics and regression analysis, as well as programming experience in R or Python. Students taking the graduate version submit additional assignments.](http://student.mit.edu/catalog/search.cgi?search=14.390)<br>[14.420![](https://eecsis.mit.edu/images/spring.gif)\<br>**14.420 Environmental Policy and Economics**\<br>\<br>* * *\<br>\<br>![](https://eecsis.mit.edu/images/nooffer.gif)![](https://eecsis.mit.edu/images/grad.gif) (![](https://eecsis.mit.edu/images/spring.gif))\<br>\<br>Prereqs: 14.01\<br>\<br>Units: 4-0-8\<br>\<br>* * *\<br>\<br>Introduces students to key concepts and recent advances in environmental economics, and explores their application to environmental policy questions. Topics include market efficiency and market failure, methods for valuing the benefits of environmental quality, the proper role of government in the regulation of the environment, environmental policy design and implementation challenges. Also considers international aspects of environmental policy including the economics of climate change, trade and the environment and environmental challenges in developing countries. Students taking graduate version complete additional assignments.](http://student.mit.edu/catalog/search.cgi?search=14.420)<br>[14.444![](https://eecsis.mit.edu/images/spring.gif)\<br>**14.444 Energy Economics and Policy**\<br>\<br>* * *\<br>\<br>![](https://eecsis.mit.edu/images/grad.gif) (![](https://eecsis.mit.edu/images/spring.gif))\<br>\<br>(Same subject as 15.038)\<br>\<br>Prereqs: 14.01 or 15.0111\<br>\<br>Units: 4-0-8\<br>\<br>* * *\<br>\<br>Analyzes business and public policy issues in energy markets and in the environmental markets to which they are closely tied. Examines the economic determinants of industry structure and evolution of competition among firms in these industries. Investigates successful and unsuccessful strategies for entering new markets and competing in existing markets. Industries studied include oil, natural gas, coal, electricity, and transportation. Topics include climate change and environmental policy, the role of speculation in energy markets, the political economy of energy policies, and market power and antitrust. Two team-based simulation games, representing the world oil market and a deregulated electricity market, act to cement the concepts covered in lecture. Students taking graduate version complete additional assignments. Limited to 60.](http://student.mit.edu/catalog/search.cgi?search=14.444)<br>[14.540![](https://eecsis.mit.edu/images/spring.gif)\<br>**14.540 International Trade**\<br>\<br>* * *\<br>\<br>![](https://eecsis.mit.edu/images/grad.gif) (![](https://eecsis.mit.edu/images/spring.gif))\<br>\<br>Prereqs: 14.01\<br>\<br>Units: 4-0-8\<br>\<br>* * *\<br>\<br>Provides an introduction to theoretical and empirical topics in international trade. Offers a brief history of globalization. Introduces the theory of comparative advantage and discusses its implications for international specialization and wage inequality. Studies the determinants and consequences of trade policy, and analyzes the consequences of immigration and foreign direct investment. Students taking graduate version complete additional assignments.](http://student.mit.edu/catalog/search.cgi?search=14.540)<br>[14.640![](https://eecsis.mit.edu/images/spring.gif)\<br>**14.640 Labor Economics and Public Policy**\<br>\<br>* * *\<br>\<br>![](https://eecsis.mit.edu/images/grad.gif) (![](https://eecsis.mit.edu/images/spring.gif))\<br>\<br>Prereqs: 14.300 or permission of instructor\<br>\<br>Units: 4-0-8\<br>\<br>* * *\<br>\<br>Provides an introduction to the labor market, how it functions, and the important role it plays in people's lives. Topics include supply and demand, minimum wages, labor market effects of social insurance and welfare programs, the collective bargaining relationship, discrimination, human capital, and unemployment. Completion of or concurrent enrollment in 14.03 or 14.04, and 14.32 recommended. Students taking graduate version complete additional assignments.](http://student.mit.edu/catalog/search.cgi?search=14.640) | [14.750![](https://eecsis.mit.edu/images/spring.gif)\<br>**14.750 Political Economy and Economic Development**\<br>\<br>* * *\<br>\<br>![](https://eecsis.mit.edu/images/grad.gif) (![](https://eecsis.mit.edu/images/spring.gif))\<br>\<br>Prereqs: 14.01, 14.03, or permission of instructor\<br>\<br>Units: 4-0-8\<br>\<br>* * *\<br>\<br>Explores the relationship between political institutions and economic development, covering key theoretical issues as well as recent empirical evidence. Topics include colonialism and its legacy, voting, vote buying, media, social media, corruption, and war. Discusses not just what we know on these topics, but how we know it, covering how to craft a good empirical study or field experiment and how to discriminate between reliable and unreliable statistical evidence. Some basic familiarity with probability and/or statistics is useful for this class. Students taking graduate version complete additional assignments.](http://student.mit.edu/catalog/search.cgi?search=14.750)<br>[14.760![](https://eecsis.mit.edu/images/spring.gif)\<br>**14.760 Firms, Markets, Trade and Growth**\<br>\<br>* * *\<br>\<br>![](https://eecsis.mit.edu/images/grad.gif) (![](https://eecsis.mit.edu/images/spring.gif))\<br>\<br>Prereqs: 14.01 and (14.30 or permission of instructor)\<br>\<br>Units: 4-0-8\<br>\<br>* * *\<br>\<br>Examines how industrial development and international trade have brought about rapid growth and large-scale reductions in poverty for some developing countries, while globalization has simply increased inequality and brought little growth for others. Also considers why, in yet other developing countries, firms remain small-scale and have not integrated with global supply chains. Draws on both theoretical models and empirical evidence to better understand the reasons for these very different experiences and implications for policy. Students taking graduate version complete additional assignments.](http://student.mit.edu/catalog/search.cgi?search=14.760) |
+
+**Econ Math Restricted Electives**:
+
+- At most one from [18.650\\
+**18.650 Fundamentals of Statistics**\\
+\\
+* * *\\
+\\
+![](https://eecsis.mit.edu/images/under.gif) (![](https://eecsis.mit.edu/images/fall.gif),![](https://eecsis.mit.edu/images/spring.gif))\\
+\\
+(Same subject as IDS.014)\\
+\\
+Prereqs: 6.3700 or 18.600\\
+\\
+Units: 4-0-8\\
+\\
+* * *\\
+\\
+A rapid introduction to the theoretical foundations of statistical methods that are useful in many applications. Covers a broad range of topics in a short amount of time with the goal of providing a rigorous and cohesive understanding of the modern statistical landscape. Mathematical language is used for intuition and basic derivations but not proofs. Main topics include: parametric estimation, confidence intervals, hypothesis testing, Bayesian inference, and linear and logistic regression. Additional topics may include: causal inference, nonparametric estimation, and classification.](http://student.mit.edu/catalog/search.cgi?search=18.650), [6.38006.008![](https://eecsis.mit.edu/images/fall.gif)\\
+**6.3800 Introduction to Inference**\\
+\\
+* * *\\
+\\
+![](https://eecsis.mit.edu/images/under.gif) (![](https://eecsis.mit.edu/images/fall.gif))\\
+\\
+Prereqs: GIR:CAL2 or permission of instructor\\
+\\
+Units: 4-4-4\\
+\\
+* * *\\
+\\
+Introduces probabilistic modeling for problems of inference and machine learning from data, emphasizing analytical and computational aspects. Distributions, marginalization, conditioning, and structure, including graphical and neural network representations. Belief propagation, decision-making, classification, estimation, and prediction. Sampling methods and analysis. Introduces asymptotic analysis and information measures. Computational laboratory component explores the concepts introduced in class in the context of contemporary applications. Students design inference algorithms, investigate their behavior on real data, and discuss experimental results.](http://student.mit.edu/catalog/search.cgi?search=6.3800), [IDS.014IDS.014 not found in MIT subject catalog](http://student.mit.edu/catalog/search.cgi?search=IDS.014)
+
+- At most one from [18.04![](https://eecsis.mit.edu/images/spring.gif)\\
+**18.04 Complex Variables with Applications**\\
+\\
+* * *\\
+\\
+![](https://eecsis.mit.edu/images/under.gif) (![](https://eecsis.mit.edu/images/spring.gif))\\
+\\
+Prereqs: GIR:CAL2 and (18.03 or 18.032)\\
+\\
+Units: 4-0-8\\
+\\
+* * *\\
+\\
+Complex algebra and functions; analyticity; contour integration, Cauchy's theorem; singularities, Taylor and Laurent series; residues, evaluation of integrals; multivalued functions, potential theory in two dimensions; Fourier analysis, Laplace transforms, and partial differential equations.](http://student.mit.edu/catalog/search.cgi?search=18.04), [18.0751![](https://eecsis.mit.edu/images/spring.gif)\\
+**18.0751 Methods for Scientists and Engineers**\\
+\\
+* * *\\
+\\
+![](https://eecsis.mit.edu/images/nooffer.gif)![](https://eecsis.mit.edu/images/grad.gif) (![](https://eecsis.mit.edu/images/spring.gif))\\
+\\
+Prereqs: GIR:CAL2 and 18.03\\
+\\
+Units: 3-0-9\\
+\\
+* * *\\
+\\
+Covers functions of a complex variable; calculus of residues. Includes ordinary differential equations; Bessel and Legendre functions; Sturm-Liouville theory; partial differential equations; heat equation; and wave equations. Students in Courses 6, 8, 12, 18, and 22 must register for undergraduate version, 18.075.](http://student.mit.edu/catalog/search.cgi?search=18.0751)
+
+- At most one from [18.1001\\
+**18.1001 Real Analysis**\\
+\\
+* * *\\
+\\
+![](https://eecsis.mit.edu/images/grad.gif) (![](https://eecsis.mit.edu/images/fall.gif),![](https://eecsis.mit.edu/images/spring.gif))\\
+\\
+Prereqs: GIR:CAL2\\
+\\
+Units: 3-0-9\\
+\\
+* * *\\
+\\
+Covers fundamentals of mathematical analysis: convergence of sequences and series, continuity, differentiability, Riemann integral, sequences and series of functions, uniformity, interchange of limit operations. Shows the utility of abstract concepts and teaches understanding and construction of proofs. Proofs and definitions are less abstract than in 18.100B. Gives applications where possible. Concerned primarily with the real line. Students in Course 18 must register for undergraduate version 18.100A.](http://student.mit.edu/catalog/search.cgi?search=18.1001), [18.1002\\
+**18.1002 Real Analysis**\\
+\\
+* * *\\
+\\
+![](https://eecsis.mit.edu/images/grad.gif) (![](https://eecsis.mit.edu/images/fall.gif),![](https://eecsis.mit.edu/images/spring.gif))\\
+\\
+Prereqs: GIR:CAL2\\
+\\
+Units: 3-0-9\\
+\\
+* * *\\
+\\
+Covers fundamentals of mathematical analysis: convergence of sequences and series, continuity, differentiability, Riemann integral, sequences and series of functions, uniformity, interchange of limit operations. Shows the utility of abstract concepts and teaches understanding and construction of proofs. More demanding than 18.100A, for students with more mathematical maturity. Places more emphasis on point-set topology and n-space. Students in Course 18 must register for undergraduate version 18.100B.](http://student.mit.edu/catalog/search.cgi?search=18.1002)
+
+- Any of [18.0851\\
+**18.0851 Computational Science and Engineering I**\\
+\\
+* * *\\
+\\
+![](https://eecsis.mit.edu/images/grad.gif) (![](https://eecsis.mit.edu/images/fall.gif),![](https://eecsis.mit.edu/images/spring.gif),![](https://eecsis.mit.edu/images/summer.gif))\\
+\\
+Prereqs: GIR:CAL2 and (18.03 or 18.032)\\
+\\
+Units: 3-0-9\\
+\\
+* * *\\
+\\
+Review of linear algebra, applications to networks, structures, and estimation, finite difference and finite element solution of differential equations, Laplace's equation and potential flow, boundary-value problems, Fourier series, discrete Fourier transform, convolution. Frequent use of MATLAB in a wide range of scientific and engineering applications. Students in Course 18 must register for the undergraduate version, 18.085.](http://student.mit.edu/catalog/search.cgi?search=18.0851), [18.0861![](https://eecsis.mit.edu/images/spring.gif)\\
+**18.0861 Computational Science and Engineering II**\\
+\\
+* * *\\
+\\
+![](https://eecsis.mit.edu/images/nooffer.gif)![](https://eecsis.mit.edu/images/grad.gif) (![](https://eecsis.mit.edu/images/spring.gif))\\
+\\
+Prereqs: GIR:CAL2 and (18.03 or 18.032)\\
+\\
+Units: 3-0-9\\
+\\
+* * *\\
+\\
+Initial value problems: finite difference methods, accuracy and stability, heat equation, wave equations, conservation laws and shocks, level sets, Navier-Stokes. Solving large systems: elimination with reordering, iterative methods, preconditioning, multigrid, Krylov subspaces, conjugate gradients. Optimization and minimum principles: weighted least squares, constraints, inverse problems, calculus of variations, saddle point problems, linear programming, duality, adjoint methods. Students in Course 18 must register for the undergraduate version, 18.086.](http://student.mit.edu/catalog/search.cgi?search=18.0861), [18.200A![](https://eecsis.mit.edu/images/fall.gif)\\
+**18.200A Principles of Discrete Applied Mathematics**\\
+\\
+* * *\\
+\\
+![](https://eecsis.mit.edu/images/nooffer.gif)![](https://eecsis.mit.edu/images/under.gif) (![](https://eecsis.mit.edu/images/fall.gif))\\
+\\
+Prereqs/\[Coreqs\]: \[18.06\]\\
+\\
+Units: 3-0-9\\
+\\
+* * *\\
+\\
+Study of illustrative topics in discrete applied mathematics, including probability theory, information theory, coding theory, secret codes, generating functions, and linear programming.](http://student.mit.edu/catalog/search.cgi?search=18.200A), [18.330![](https://eecsis.mit.edu/images/spring.gif)\\
+**18.330 Introduction to Numerical Analysis**\\
+\\
+* * *\\
+\\
+![](https://eecsis.mit.edu/images/nooffer.gif)![](https://eecsis.mit.edu/images/under.gif) (![](https://eecsis.mit.edu/images/spring.gif))\\
+\\
+Prereqs: GIR:CAL2 and (18.03 or 18.032)\\
+\\
+Units: 3-0-9\\
+\\
+* * *\\
+\\
+Basic techniques for the efficient numerical solution of problems in science and engineering. Root finding, interpolation, approximation of functions, integration, differential equations, direct and iterative methods in linear algebra. Knowledge of programming in a language such as MATLAB, Python, or Julia is helpful.](http://student.mit.edu/catalog/search.cgi?search=18.330), [18.700![](https://eecsis.mit.edu/images/fall.gif)\\
+**18.700 Linear Algebra**\\
+\\
+* * *\\
+\\
+![](https://eecsis.mit.edu/images/under.gif) (![](https://eecsis.mit.edu/images/fall.gif))\\
+\\
+Prereqs: GIR:CAL2\\
+\\
+Units: 3-0-9\\
+\\
+* * *\\
+\\
+Vector spaces, systems of linear equations, bases, linear independence, matrices, determinants, eigenvalues, inner products, quadratic forms, and canonical forms of matrices. More emphasis on theory and proofs than in 18.06.](http://student.mit.edu/catalog/search.cgi?search=18.700), [18.781![](https://eecsis.mit.edu/images/spring.gif)\\
+**18.781 Theory of Numbers**\\
+\\
+* * *\\
+\\
+![](https://eecsis.mit.edu/images/under.gif) (![](https://eecsis.mit.edu/images/spring.gif))\\
+\\
+Prereqs: none\\
+\\
+Units: 3-0-9\\
+\\
+* * *\\
+\\
+An elementary introduction to number theory with no algebraic prerequisites. Primes, congruences, quadratic reciprocity, diophantine equations, irrational numbers, continued fractions, partitions.](http://student.mit.edu/catalog/search.cgi?search=18.781)

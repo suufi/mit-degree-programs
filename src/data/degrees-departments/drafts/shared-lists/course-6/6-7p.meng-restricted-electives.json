@@ -1,0 +1,172 @@
+{
+  "sharedListId": "6-7p.meng-restricted-electives",
+  "program": "6-7p",
+  "title": "MEng Restricted Electives",
+  "items": [
+    {
+      "type": "subject",
+      "subjectId": "18.05"
+    },
+    {
+      "type": "subject",
+      "subjectId": "18.440"
+    },
+    {
+      "type": "subject",
+      "subjectId": "18.600"
+    },
+    {
+      "type": "subject",
+      "subjectId": "6.3700"
+    },
+    {
+      "type": "subject",
+      "subjectId": "6.7700"
+    },
+    {
+      "type": "subject",
+      "subjectId": "18.200"
+    },
+    {
+      "type": "subject",
+      "subjectId": "18.200A"
+    },
+    {
+      "type": "subject",
+      "subjectId": "6.1200"
+    },
+    {
+      "type": "subject",
+      "subjectId": "18.03"
+    },
+    {
+      "type": "subject",
+      "subjectId": "18.032"
+    },
+    {
+      "type": "subject",
+      "subjectId": "18.034"
+    },
+    {
+      "type": "subject",
+      "subjectId": "CC.1803"
+    },
+    {
+      "type": "subject",
+      "subjectId": "18.06"
+    },
+    {
+      "type": "subject",
+      "subjectId": "18.061"
+    },
+    {
+      "type": "subject",
+      "subjectId": "18.085"
+    },
+    {
+      "type": "subject",
+      "subjectId": "18.0851"
+    },
+    {
+      "type": "subject",
+      "subjectId": "18.700"
+    },
+    {
+      "type": "subject",
+      "subjectId": "18.C06"
+    },
+    {
+      "type": "subject",
+      "subjectId": "6.C06"
+    },
+    {
+      "type": "subject",
+      "subjectId": "6.S084"
+    },
+    {
+      "type": "subject",
+      "subjectId": "18.065"
+    },
+    {
+      "type": "subject",
+      "subjectId": "18.0651"
+    },
+    {
+      "type": "subject",
+      "subjectId": "18.075"
+    },
+    {
+      "type": "subject",
+      "subjectId": "18.0751"
+    },
+    {
+      "type": "subject",
+      "subjectId": "18.086"
+    },
+    {
+      "type": "subject",
+      "subjectId": "18.0861"
+    },
+    {
+      "type": "subject",
+      "subjectId": "18.1001"
+    },
+    {
+      "type": "subject",
+      "subjectId": "18.1002"
+    },
+    {
+      "type": "subject",
+      "subjectId": "18.100A"
+    },
+    {
+      "type": "subject",
+      "subjectId": "18.100B"
+    },
+    {
+      "type": "subject",
+      "subjectId": "18.100C"
+    },
+    {
+      "type": "subject",
+      "subjectId": "18.100P"
+    },
+    {
+      "type": "subject",
+      "subjectId": "18.100Q"
+    },
+    {
+      "type": "subject",
+      "subjectId": "18.650"
+    },
+    {
+      "type": "subject",
+      "subjectId": "18.6501"
+    },
+    {
+      "type": "subject",
+      "subjectId": "18.04"
+    },
+    {
+      "type": "subject",
+      "subjectId": "18.300"
+    },
+    {
+      "type": "subject",
+      "subjectId": "18.330"
+    },
+    {
+      "type": "subject",
+      "subjectId": "18.703"
+    },
+    {
+      "type": "subject",
+      "subjectId": "18.781"
+    },
+    {
+      "type": "subject",
+      "subjectId": "8.044"
+    }
+  ],
+  "version": "1"
+}

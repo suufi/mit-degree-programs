@@ -1,0 +1,179 @@
+{
+  "schemaVersion": "2",
+  "program": "sm-arch-studies",
+  "title": "Architecture Studies (SMArchS)",
+  "level": "graduate",
+  "complete": false,
+  "catalogSource": {
+    "url": "https://catalog.mit.edu/degree-charts/master-architecture-studies/",
+    "slug": "master-architecture-studies",
+    "scrapedAt": "2026-07-03",
+    "contentHash": "f761e6abdd3803613199c47594f38eaeb6c37f1651a300dd6a09c76546e1dad0"
+  },
+  "footnotes": [
+    {
+      "id": "1",
+      "text": "Must be taken twice."
+    }
+  ],
+  "constraints": [],
+  "requirements": [
+    {
+      "groupId": "sm-arch-studies-required-subjects",
+      "title": "Required Subjects",
+      "bucket": "departmental",
+      "subcategory": "required_subjects",
+      "root": {
+        "type": "group",
+        "ruleType": "all_of",
+        "items": [
+          {
+            "type": "subject",
+            "subjectId": "4.THG"
+          },
+          {
+            "type": "subject",
+            "subjectId": "4.221"
+          },
+          {
+            "type": "subject",
+            "subjectId": "4.THG"
+          }
+        ]
+      }
+    },
+    {
+      "groupId": "sm-arch-studies-required-for-smarchs-aga-khan-program-degree-candidates",
+      "title": "Required for SMArchS Aga Khan Program degree candidates",
+      "bucket": "departmental",
+      "subcategory": "required_subjects",
+      "root": {
+        "type": "group",
+        "ruleType": "all_of",
+        "items": [
+          {
+            "type": "subject",
+            "subjectId": "4.621"
+          },
+          {
+            "type": "subject",
+            "subjectId": "4.624"
+          }
+        ]
+      }
+    },
+    {
+      "groupId": "sm-arch-studies-four-subjects-in-area-of-interest",
+      "title": "Four subjects in area of interest",
+      "bucket": "departmental",
+      "subcategory": "required_subjects",
+      "root": {
+        "type": "group",
+        "ruleType": "all_of",
+        "items": [
+          {
+            "type": "subject",
+            "subjectId": "4.686"
+          },
+          {
+            "type": "subject",
+            "subjectId": "4.288"
+          },
+          {
+            "type": "selection",
+            "ruleType": "choose_one",
+            "itemsSource": "explicit",
+            "items": [
+              {
+                "type": "subject",
+                "subjectId": "4.612"
+              },
+              {
+                "type": "subject",
+                "subjectId": "4.616"
+              },
+              {
+                "type": "subject",
+                "subjectId": "4.617"
+              },
+              {
+                "type": "subject",
+                "subjectId": "4.619"
+              },
+              {
+                "type": "subject",
+                "subjectId": "4.308"
+              },
+              {
+                "type": "subject",
+                "subjectId": "4.379"
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "groupId": "sm-arch-studies-six-subjects-in-area-of-interest",
+      "title": "Six subjects in area of interest",
+      "bucket": "departmental",
+      "subcategory": "required_subjects",
+      "root": {
+        "type": "group",
+        "ruleType": "all_of",
+        "items": [
+          {
+            "type": "subject",
+            "subjectId": "4.130"
+          },
+          {
+            "type": "subject",
+            "subjectId": "4.288"
+          },
+          {
+            "type": "subject",
+            "subjectId": "4.481"
+          }
+        ]
+      }
+    },
+    {
+      "groupId": "sm-arch-studies-required-for-smarchs-urbanism",
+      "title": "Required for SMArchS Urbanism",
+      "bucket": "departmental",
+      "subcategory": "urbanism",
+      "root": {
+        "type": "group",
+        "ruleType": "all_of",
+        "items": [
+          {
+            "type": "subject",
+            "subjectId": "4.163"
+          },
+          {
+            "type": "subject",
+            "subjectId": "4.228"
+          },
+          {
+            "type": "subject",
+            "subjectId": "4.241"
+          }
+        ]
+      }
+    },
+    {
+      "groupId": "sm-arch-studies-five-subjects-in-area-of-interest",
+      "title": "Five subjects in area of interest",
+      "bucket": "departmental",
+      "subcategory": "required_subjects",
+      "root": {
+        "type": "subject",
+        "subjectId": "4.288"
+      }
+    }
+  ],
+  "status": "draft",
+  "revisionId": "sm-arch-studies-2026-07-03-f761e6ab",
+  "catalogYear": "2026",
+  "effectiveTerm": "2026-FA"
+}

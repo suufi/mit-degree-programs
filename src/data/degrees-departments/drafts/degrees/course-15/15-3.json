@@ -1,0 +1,198 @@
+{
+  "schemaVersion": "2",
+  "program": "15-3",
+  "title": "Finance (Course 15-3)",
+  "level": "undergraduate",
+  "complete": false,
+  "includesGir": "sb",
+  "catalogSource": {
+    "url": "https://catalog.mit.edu/degree-charts/finance-course-15-3/",
+    "slug": "finance-course-15-3",
+    "scrapedAt": "2026-07-03",
+    "contentHash": "08596c9c895bd744e21bc7aaa538e74d6ea5c4e7b0ca63cedb2cc8ca309d4120"
+  },
+  "girCrosswalk": [
+    {
+      "subjectId": "15.417",
+      "satisfies": [
+        "lab"
+      ],
+      "note": "Also satisfies Laboratory Requirement via departmental program."
+    }
+  ],
+  "footnotes": [
+    {
+      "id": "1",
+      "text": "Consult the Sloan Office of Undergraduate Education regarding additional options."
+    },
+    {
+      "id": "2",
+      "text": "Students may take 15.276 or 15.279 as a Non-Finance Elective, but not both.",
+      "appliesTo": [
+        "15-3.finance-electives"
+      ]
+    },
+    {
+      "id": "3",
+      "text": "Students may take 15.301 or 15.312 as a Non-Finance Elective, but not both.",
+      "appliesTo": [
+        "15-3.finance-electives"
+      ]
+    },
+    {
+      "id": "4",
+      "text": "In order to reach the 180 units beyond the GIRs required, students may need to take more than 66 units of Unrestricted Electives."
+    }
+  ],
+  "constraints": [],
+  "requirements": [
+    {
+      "groupId": "15-3-required-subjects",
+      "title": "Required Subjects",
+      "bucket": "departmental",
+      "subcategory": "required_subjects",
+      "root": {
+        "type": "group",
+        "ruleType": "all_of",
+        "items": [
+          {
+            "type": "subject",
+            "subjectId": "14.01"
+          },
+          {
+            "type": "selection",
+            "ruleType": "choose_one",
+            "itemsSource": "explicit",
+            "items": [
+              {
+                "type": "subject",
+                "subjectId": "15.0111"
+              }
+            ]
+          },
+          {
+            "type": "subject",
+            "subjectId": "15.417"
+          },
+          {
+            "type": "subject",
+            "subjectId": "15.418"
+          },
+          {
+            "type": "subject",
+            "subjectId": "15.501"
+          },
+          {
+            "type": "selection",
+            "ruleType": "choose_one",
+            "itemsSource": "explicit",
+            "items": [
+              {
+                "type": "subject",
+                "subjectId": "14.30"
+              },
+              {
+                "type": "subject",
+                "subjectId": "15.069"
+              },
+              {
+                "type": "subject",
+                "subjectId": "18.05"
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "groupId": "15-3-finance-electives",
+      "title": "Finance Electives",
+      "bucket": "elective",
+      "subcategory": "elective_subjects",
+      "root": {
+        "type": "selection",
+        "ruleType": "choose_n",
+        "ruleValue": 5,
+        "itemsSource": "explicit",
+        "items": [
+          {
+            "type": "subject",
+            "subjectId": "15.4311"
+          },
+          {
+            "type": "subject",
+            "subjectId": "15.4331"
+          },
+          {
+            "type": "subject",
+            "subjectId": "15.4341"
+          },
+          {
+            "type": "subject",
+            "subjectId": "15.4371"
+          },
+          {
+            "type": "subject",
+            "subjectId": "15.4381"
+          },
+          {
+            "type": "subject",
+            "subjectId": "15.4451"
+          },
+          {
+            "type": "subject",
+            "subjectId": "15.5181"
+          }
+        ]
+      }
+    },
+    {
+      "groupId": "15-3-choose-zero-to-two-subjects-from-the-following",
+      "title": "Choose zero to two subjects from the following:",
+      "bucket": "departmental",
+      "subcategory": "required_subjects",
+      "root": {
+        "type": "group",
+        "ruleType": "all_of",
+        "items": [
+          {
+            "type": "subject",
+            "subjectId": "15.053"
+          },
+          {
+            "type": "subject",
+            "subjectId": "15.276"
+          },
+          {
+            "type": "subject",
+            "subjectId": "15.279"
+          },
+          {
+            "type": "subject",
+            "subjectId": "15.301"
+          },
+          {
+            "type": "subject",
+            "subjectId": "15.312"
+          },
+          {
+            "type": "subject",
+            "subjectId": "15.7611"
+          },
+          {
+            "type": "subject",
+            "subjectId": "15.8141"
+          },
+          {
+            "type": "subject",
+            "subjectId": "15.9001"
+          }
+        ]
+      }
+    }
+  ],
+  "status": "draft",
+  "revisionId": "15-3-2026-07-03-08596c9c",
+  "catalogYear": "2026",
+  "effectiveTerm": "2026-FA"
+}

@@ -1,0 +1,16 @@
+{
+  "sharedListId": "21.african-and-african-diaspora-studies",
+  "program": "21",
+  "title": "# African and African Diaspora Studies",
+  "items": [
+    {
+      "type": "subject",
+      "subjectId": "21.THT"
+    },
+    {
+      "type": "subject",
+      "subjectId": "21.THU"
+    }
+  ],
+  "version": "1"
+}

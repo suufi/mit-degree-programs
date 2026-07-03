@@ -1,0 +1,32 @@
+{
+  "sharedListId": "course-6.track-electromagnetics-and-photonic-systems",
+  "program": "course-6",
+  "title": "Electromagnetics and Photonic Systems",
+  "items": [
+    {
+      "type": "subject",
+      "subjectId": "6.2210"
+    },
+    {
+      "type": "subject",
+      "subjectId": "6.2300"
+    },
+    {
+      "type": "subject",
+      "subjectId": "6.2320"
+    },
+    {
+      "type": "subject",
+      "subjectId": "6.6210"
+    },
+    {
+      "type": "subject",
+      "subjectId": "6.6320"
+    },
+    {
+      "type": "subject",
+      "subjectId": "6.6331"
+    }
+  ],
+  "version": "1"
+}

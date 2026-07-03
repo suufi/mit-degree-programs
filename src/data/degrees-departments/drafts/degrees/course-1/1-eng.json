@@ -1,0 +1,261 @@
+{
+  "schemaVersion": "2",
+  "program": "1-eng",
+  "title": "Engineering (Course 1-ENG)",
+  "level": "undergraduate",
+  "complete": false,
+  "includesGir": "sb",
+  "catalogSource": {
+    "url": "https://catalog.mit.edu/degree-charts/engineering-civil-environmental-engineering-course-1-eng/",
+    "slug": "engineering-civil-environmental-engineering-course-1-eng",
+    "scrapedAt": "2026-07-03",
+    "contentHash": "ad4047a20bf517fd31fabedbfad06a9f6a0247b3d953f1af1378e7c2dcb9370e"
+  },
+  "girCrosswalk": [
+    {
+      "subjectId": "1.000",
+      "satisfies": [
+        "rest"
+      ],
+      "note": "Also satisfies REST via departmental program."
+    },
+    {
+      "subjectId": "18.03",
+      "satisfies": [
+        "rest"
+      ],
+      "note": "Also satisfies REST via departmental program."
+    }
+  ],
+  "footnotes": [
+    {
+      "id": "1",
+      "text": "Students are expected to take 6-unit 1.013 twice."
+    },
+    {
+      "id": "2",
+      "text": "In order to reach the 180 units beyond the GIRs required, students may need to take more than 48 units of Restricted and/or Unrestricted Electives. See the catalog for a list of CEE subjects. Direct requests for more information to cee-apo@mit.edu."
+    }
+  ],
+  "constraints": [],
+  "requirements": [
+    {
+      "groupId": "1-eng-required-subjects",
+      "title": "Required Subjects",
+      "bucket": "departmental",
+      "subcategory": "required_subjects",
+      "root": {
+        "type": "group",
+        "ruleType": "all_of",
+        "items": [
+          {
+            "type": "subject",
+            "subjectId": "1.000"
+          },
+          {
+            "type": "subject",
+            "subjectId": "1.010A"
+          },
+          {
+            "type": "subject",
+            "subjectId": "1.013"
+          },
+          {
+            "type": "subject",
+            "subjectId": "1.073"
+          },
+          {
+            "type": "selection",
+            "ruleType": "choose_one",
+            "itemsSource": "explicit",
+            "items": [
+              {
+                "type": "subject",
+                "subjectId": "1.074"
+              }
+            ]
+          },
+          {
+            "type": "subject",
+            "subjectId": "1.101"
+          },
+          {
+            "type": "subject",
+            "subjectId": "18.03"
+          }
+        ]
+      }
+    },
+    {
+      "groupId": "1-eng-core-subjects",
+      "title": "Core Subjects",
+      "bucket": "departmental",
+      "subcategory": "required_subjects",
+      "flexibility": {
+        "advisorApproval": false,
+        "catalogText": "Select one area of core coursework"
+      },
+      "root": {
+        "type": "selection",
+        "ruleType": "choose_units",
+        "ruleValue": 63,
+        "itemsSource": "advisor_defined",
+        "note": "Select one area of core coursework",
+        "flexibility": {
+          "catalogText": "Select one area of core coursework"
+        }
+      }
+    },
+    {
+      "groupId": "1-eng-environment",
+      "title": "Environment",
+      "bucket": "departmental",
+      "subcategory": "required_subjects",
+      "root": {
+        "type": "group",
+        "ruleType": "all_of",
+        "items": [
+          {
+            "type": "subject",
+            "subjectId": "1.018"
+          },
+          {
+            "type": "subject",
+            "subjectId": "1.060"
+          },
+          {
+            "type": "subject",
+            "subjectId": "1.061A"
+          },
+          {
+            "type": "subject",
+            "subjectId": "1.080"
+          },
+          {
+            "type": "subject",
+            "subjectId": "1.091"
+          },
+          {
+            "type": "subject",
+            "subjectId": "1.105"
+          },
+          {
+            "type": "subject",
+            "subjectId": "1.106"
+          },
+          {
+            "type": "subject",
+            "subjectId": "1.107"
+          }
+        ]
+      }
+    },
+    {
+      "groupId": "1-eng-mechanics-materials",
+      "title": "Mechanics/Materials",
+      "bucket": "departmental",
+      "subcategory": "required_subjects",
+      "root": {
+        "type": "group",
+        "ruleType": "all_of",
+        "items": [
+          {
+            "type": "subject",
+            "subjectId": "1.035"
+          },
+          {
+            "type": "subject",
+            "subjectId": "1.036"
+          },
+          {
+            "type": "subject",
+            "subjectId": "1.050"
+          },
+          {
+            "type": "subject",
+            "subjectId": "1.056"
+          },
+          {
+            "type": "subject",
+            "subjectId": "1.060"
+          },
+          {
+            "type": "subject",
+            "subjectId": "1.104"
+          }
+        ]
+      }
+    },
+    {
+      "groupId": "1-eng-energy-transportation-and-societal-systems",
+      "title": "Energy, Transportation, and Societal Systems",
+      "bucket": "departmental",
+      "subcategory": "required_subjects",
+      "root": {
+        "type": "group",
+        "ruleType": "all_of",
+        "items": [
+          {
+            "type": "subject",
+            "subjectId": "1.020"
+          },
+          {
+            "type": "subject",
+            "subjectId": "1.022"
+          },
+          {
+            "type": "subject",
+            "subjectId": "1.041"
+          },
+          {
+            "type": "subject",
+            "subjectId": "1.050"
+          },
+          {
+            "type": "selection",
+            "ruleType": "choose_one",
+            "itemsSource": "explicit",
+            "items": [
+              {
+                "type": "subject",
+                "subjectId": "1.060"
+              }
+            ]
+          },
+          {
+            "type": "subject",
+            "subjectId": "1.104"
+          },
+          {
+            "type": "subject",
+            "subjectId": "15.053"
+          }
+        ]
+      }
+    },
+    {
+      "groupId": "1-eng-elective-subjects-with-engineering-content2",
+      "title": "Elective Subjects with Engineering Content2",
+      "bucket": "elective",
+      "subcategory": "elective_subjects",
+      "flexibility": {
+        "advisorApproval": false,
+        "catalogText": "Students are required to take at least four Restricted Electives selected from subjects offered within or outside CEE to form a coherent program of study under supervision by CEE faculty."
+      },
+      "root": {
+        "type": "selection",
+        "ruleType": "choose_units",
+        "ruleValue": 48,
+        "itemsSource": "advisor_defined",
+        "note": "Students are required to take at least four Restricted Electives selected from subjects offered within or outside CEE to form a coherent program of study under supervision by CEE faculty.",
+        "flexibility": {
+          "catalogText": "Students are required to take at least four Restricted Electives selected from subjects offered within or outside CEE to form a coherent program of study under supervision by CEE faculty."
+        }
+      }
+    }
+  ],
+  "status": "draft",
+  "revisionId": "1-eng-2026-07-03-ad4047a2",
+  "catalogYear": "2026",
+  "effectiveTerm": "2026-FA"
+}

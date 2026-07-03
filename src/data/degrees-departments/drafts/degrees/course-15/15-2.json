@@ -1,0 +1,246 @@
+{
+  "schemaVersion": "2",
+  "program": "15-2",
+  "title": "Business Analytics (Course 15-2)",
+  "level": "undergraduate",
+  "complete": false,
+  "includesGir": "sb",
+  "catalogSource": {
+    "url": "https://catalog.mit.edu/degree-charts/business-analytics-course-15-2/",
+    "slug": "business-analytics-course-15-2",
+    "scrapedAt": "2026-07-03",
+    "contentHash": "e0450e1e0524b9bd52f01e4ff5296120136cb6b09465e43eb0aeb12e9f3f9313"
+  },
+  "girCrosswalk": [
+    {
+      "subjectId": "15.076",
+      "satisfies": [
+        "lab"
+      ],
+      "note": "Also satisfies Laboratory Requirement via departmental program."
+    }
+  ],
+  "footnotes": [
+    {
+      "id": "1",
+      "text": "Two six-unit subjects count as one elective."
+    },
+    {
+      "id": "2",
+      "text": "Consult the Sloan Office of Undergraduate Education regarding additional options."
+    }
+  ],
+  "constraints": [],
+  "requirements": [
+    {
+      "groupId": "15-2-required-subjects",
+      "title": "Required Subjects",
+      "bucket": "departmental",
+      "subcategory": "required_subjects",
+      "root": {
+        "type": "group",
+        "ruleType": "all_of",
+        "items": [
+          {
+            "type": "subject",
+            "subjectId": "6.100A"
+          },
+          {
+            "type": "subject",
+            "subjectId": "6.1010"
+          },
+          {
+            "type": "selection",
+            "ruleType": "choose_one",
+            "itemsSource": "explicit",
+            "items": [
+              {
+                "type": "subject",
+                "subjectId": "6.100B"
+              }
+            ]
+          },
+          {
+            "type": "subject",
+            "subjectId": "6.3900"
+          },
+          {
+            "type": "selection",
+            "ruleType": "choose_one",
+            "itemsSource": "explicit",
+            "items": [
+              {
+                "type": "subject",
+                "subjectId": "15.0711"
+              }
+            ]
+          },
+          {
+            "type": "subject",
+            "subjectId": "15.053"
+          },
+          {
+            "type": "subject",
+            "subjectId": "15.076"
+          },
+          {
+            "type": "subject",
+            "subjectId": "15.276"
+          },
+          {
+            "type": "subject",
+            "subjectId": "15.780"
+          },
+          {
+            "type": "selection",
+            "ruleType": "choose_one",
+            "itemsSource": "explicit",
+            "items": [
+              {
+                "type": "subject",
+                "subjectId": "15.301"
+              },
+              {
+                "type": "subject",
+                "subjectId": "15.312"
+              }
+            ]
+          },
+          {
+            "type": "selection",
+            "ruleType": "choose_one",
+            "itemsSource": "explicit",
+            "items": [
+              {
+                "type": "subject",
+                "subjectId": "15.069"
+              },
+              {
+                "type": "subject",
+                "subjectId": "14.30"
+              },
+              {
+                "type": "subject",
+                "subjectId": "18.05"
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "groupId": "15-2-restricted-electives",
+      "title": "Restricted Electives",
+      "bucket": "elective",
+      "subcategory": "restricted_electives",
+      "flexibility": {
+        "advisorApproval": false,
+        "catalogText": "_Select five subjects from the lists below. At least three of the subjects must be from Course 15._1, 2"
+      },
+      "root": {
+        "type": "selection",
+        "ruleType": "choose_units",
+        "ruleValue": 45,
+        "itemsSource": "advisor_defined",
+        "note": "_Select five subjects from the lists below. At least three of the subjects must be from Course 15._1, 2",
+        "flexibility": {
+          "catalogText": "_Select five subjects from the lists below. At least three of the subjects must be from Course 15._1, 2"
+        }
+      }
+    },
+    {
+      "groupId": "15-2-select-up-to-one-of-the-following",
+      "title": "Select up to one of the following:",
+      "bucket": "departmental",
+      "subcategory": "required_subjects",
+      "root": {
+        "type": "group",
+        "ruleType": "all_of",
+        "items": [
+          {
+            "type": "subject",
+            "subjectId": "15.417"
+          },
+          {
+            "type": "subject",
+            "subjectId": "15.501"
+          },
+          {
+            "type": "subject",
+            "subjectId": "15.9001"
+          }
+        ]
+      }
+    },
+    {
+      "groupId": "15-2-select-up-to-two-of-the-following",
+      "title": "Select up to two of the following:",
+      "bucket": "departmental",
+      "subcategory": "required_subjects",
+      "flexibility": {
+        "advisorApproval": false,
+        "catalogText": "[IDS.012\\[J\\]](https://catalog.mit.edu/search/?P=IDS.012 \"IDS.012[J]\")"
+      },
+      "root": {
+        "type": "group",
+        "ruleType": "all_of",
+        "items": [
+          {
+            "type": "subject",
+            "subjectId": "1.041"
+          },
+          {
+            "type": "subject",
+            "subjectId": "6.1200"
+          },
+          {
+            "type": "subject",
+            "subjectId": "9.40"
+          },
+          {
+            "type": "subject",
+            "subjectId": "9.66"
+          },
+          {
+            "type": "subject",
+            "subjectId": "14.12"
+          },
+          {
+            "type": "subject",
+            "subjectId": "14.15"
+          },
+          {
+            "type": "subject",
+            "subjectId": "14.32"
+          },
+          {
+            "type": "subject",
+            "subjectId": "18.06"
+          },
+          {
+            "type": "subject",
+            "subjectId": "18.C06"
+          },
+          {
+            "type": "subject",
+            "subjectId": "18.615"
+          },
+          {
+            "type": "selection",
+            "ruleType": "choose_units",
+            "ruleValue": 12,
+            "itemsSource": "advisor_defined",
+            "note": "[IDS.012\\[J\\]](https://catalog.mit.edu/search/?P=IDS.012 \"IDS.012[J]\")",
+            "flexibility": {
+              "catalogText": "[IDS.012\\[J\\]](https://catalog.mit.edu/search/?P=IDS.012 \"IDS.012[J]\")"
+            }
+          }
+        ]
+      }
+    }
+  ],
+  "status": "draft",
+  "revisionId": "15-2-2026-07-03-e0450e1e",
+  "catalogYear": "2026",
+  "effectiveTerm": "2026-FA"
+}

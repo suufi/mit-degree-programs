@@ -1,0 +1,92 @@
+Degree Charts
+
+- [Home](https://catalog.mit.edu/) >
+- [Degree Charts](https://catalog.mit.edu/degree-charts/) >
+- Transportation (SM)
+
+# Master of Science in Transportation
+
+[Master of Science in Transportation Program Description](https://catalog.mit.edu/interdisciplinary/graduate-programs/transportation/)
+
+|     |     |     |
+| --- | --- | --- |
+| Core Subjects |  |
+| [1.200\[J\]](https://catalog.mit.edu/search/?P=1.200 "1.200[J]") | Transportation: Foundations and Methods | 12 |
+| [11.251](https://catalog.mit.edu/search/?P=11.251 "11.251") | Frontier of Transportation Research | 3 |
+| _Select one of the following:_ | 12 |
+| [1.202](https://catalog.mit.edu/search/?P=1.202 "1.202") | Demand Modeling |  |
+| [1.208](https://catalog.mit.edu/search/?P=1.208 "1.208") | Resilient Networks |  |
+| [1.260\[J\]](https://catalog.mit.edu/search/?P=1.260 "1.260[J]") | Logistics Systems |  |
+| [11.478](https://catalog.mit.edu/search/?P=11.478 "11.478") | Behavioral Science, AI, and Urban Mobility |  |
+| Computation/Analytics |  |
+| _Select one of the following:_ | 12 |
+| [6.3732\[J\]](https://catalog.mit.edu/search/?P=6.3732 "6.3732[J]") | Statistics, Computation and Applications |  |
+| [6.7900](https://catalog.mit.edu/search/?P=6.7900 "6.7900") | Machine Learning |  |
+| [6.7910\[J\]](https://catalog.mit.edu/search/?P=6.7910 "6.7910[J]") | Statistical Learning Theory and Applications |  |
+| [6.C51](https://catalog.mit.edu/search/?P=6.C51 "6.C51") | Modeling with Machine Learning: from Algorithms to Applications 1 |  |
+| [15.071](https://catalog.mit.edu/search/?P=15.071 "15.071") | The Analytics Edge |  |
+| [15.072](https://catalog.mit.edu/search/?P=15.072 "15.072") | Advanced Analytics Edge |  |
+| Policy, Technology, and Society 2, 3 |  |
+| _Select one subject from the list below._ | 6-12 |
+| Transportation Subject Electives |  |
+| _Select a minimum of 24 units of transportation related electives in consultation with advisor._ | 24 |
+| Thesis |  |
+| _Students must complete a research-based thesis on a topic of their choice that has been approved by the thesis advisor._ |  |
+| [1.THG](https://catalog.mit.edu/search/?P=1.THG "1.THG") | Graduate Thesis | 24 |
+| Total Units | 93-99 |
+
+|     |     |
+| --- | --- |
+| _1_ | _Credit cannot be earned unless 6.C51 and 1.C51 are completed at the same time._ |
+| _2_ | _Special subjects offered by the Department of Urban Studies and Planning (Course 11) may satisfy this requirement if content satisfies MST criteria. Contact program office for available offerings._ |
+| _3_ | _Requests to waive this requirement based on prior coursework must be submitted in writing to the Transportation Education Committee (TEC) executive director._ |
+
+### Policy, Technology, and Society Subjects
+
+|     |     |     |
+| --- | --- | --- |
+| [2.65\[J\]](https://catalog.mit.edu/search/?P=2.65 "2.65[J]") | Sustainable Energy | 12 |
+| [2.810](https://catalog.mit.edu/search/?P=2.810 "2.810") | Manufacturing Processes and Systems | 12 |
+| [6.7260](https://catalog.mit.edu/search/?P=6.7260 "6.7260") | Network Science and Models | 12 |
+| [10.805\[J\]](https://catalog.mit.edu/search/?P=10.805 "10.805[J]") | Technology, Law, and the Working Environment | 9 |
+| [11.255](https://catalog.mit.edu/search/?P=11.255 "11.255") | Negotiation and Dispute Resolution in the Public Sector | 12 |
+| [11.478](https://catalog.mit.edu/search/?P=11.478 "11.478") | Behavioral Science, AI, and Urban Mobility | 12 |
+| [11.526\[J\]](https://catalog.mit.edu/search/?P=11.526 "11.526[J]") | Comparative Land Use and Transportation Planning | 12 |
+| [11.540](https://catalog.mit.edu/search/?P=11.540 "11.540") | Urban Transportation Planning and Policy | 12 |
+| [15.020](https://catalog.mit.edu/search/?P=15.020 "15.020") | Economics of Energy, Innovation, and Sustainability | 12 |
+| [15.038\[J\]](https://catalog.mit.edu/search/?P=15.038 "15.038[J]") | Energy Economics and Policy | 12 |
+| [15.230](https://catalog.mit.edu/search/?P=15.230 "15.230") | Public Policy and the Private Sector | 9 |
+| [15.655\[J\]](https://catalog.mit.edu/search/?P=15.655 "15.655[J]") | Law, Technology, and Public Policy | 12 |
+| [16.422](https://catalog.mit.edu/search/?P=16.422 "16.422") | Human Supervisory Control of Automated Systems | 12 |
+| [16.453\[J\]](https://catalog.mit.edu/search/?P=16.453 "16.453[J]") | Human Systems Engineering | 12 |
+| [16.71\[J\]](https://catalog.mit.edu/search/?P=16.71 "16.71[J]") | The Airline Industry | 12 |
+| [16.72](https://catalog.mit.edu/search/?P=16.72 "16.72") | Air Traffic Control | 12 |
+| [16.89\[J\]](https://catalog.mit.edu/search/?P=16.89 "16.89[J]") | Space Systems Engineering | 12 |
+| [MAS.552\[J\]](https://catalog.mit.edu/search/?P=MAS.552 "MAS.552[J]") | City Science | 12 |
+| [MAS.750](https://catalog.mit.edu/search/?P=MAS.750 "MAS.750") | Human-Robot Interaction | 9 |
+| [MAS.836](https://catalog.mit.edu/search/?P=MAS.836 "MAS.836") | Sensor Technologies for Interactive Environments | 12 |
+| [MAS.859\[J\]](https://catalog.mit.edu/search/?P=MAS.859 "MAS.859[J]") | Space Technology for the Development Leader | 6 |
+| [IDS.333\[J\]](https://catalog.mit.edu/search/?P=IDS.333 "IDS.333[J]") | System Design and Management for a Changing World: Tools | 6 |
+| [IDS.410](https://catalog.mit.edu/search/?P=IDS.410 "IDS.410") | Modeling and Assessment for Policy | 9 |
+| [IDS.411](https://catalog.mit.edu/search/?P=IDS.411 "IDS.411") | Concepts and Research in Technology and Policy | 9 |
+| [IDS.412\[J\]](https://catalog.mit.edu/search/?P=IDS.412 "IDS.412[J]") | Science, Technology, and Public Policy | 12 |
+| [IDS.521\[J\]](https://catalog.mit.edu/search/?P=IDS.521 "IDS.521[J]") | Energy Systems for Climate Change Mitigation | 12 |
+| [IDS.522](https://catalog.mit.edu/search/?P=IDS.522 "IDS.522") | Mapping and Evaluating New Energy Technologies | 12 |
+| [IDS.526\[J\]](https://catalog.mit.edu/search/?P=IDS.526 "IDS.526[J]") | Sustainability Science and Engineering | 9 |
+| [STS.477\[J\]](https://catalog.mit.edu/search/?P=STS.477 "STS.477[J]") | Writing: Science, Technology, and Society | 12 |
+| [STS.487](https://catalog.mit.edu/search/?P=STS.487 "STS.487") | Foundations of Information Policy | 12 |
+
+Print Options
+
+
+[Send Page to Printer](https://catalog.mit.edu/degree-charts/master-transportation/#)
+
+_Print this page._
+
+[Download PDF of this Page](https://catalog.mit.edu/degree-charts/master-transportation/master-transportation.pdf)
+
+_The PDF includes all information on this page and its related tabs. Subject (course) information includes any changes approved for the current academic year._
+
+[Download PDF of the Entire Catalog and/or Subject Descriptions](https://catalog.mit.edu/archive/)
+
+[Cancel](https://catalog.mit.edu/degree-charts/master-transportation/#)

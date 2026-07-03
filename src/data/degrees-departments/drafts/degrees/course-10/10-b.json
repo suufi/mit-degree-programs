@@ -1,0 +1,209 @@
+{
+  "schemaVersion": "2",
+  "program": "10-b",
+  "title": "Chemical-Biological Engineering (Course 10-B)",
+  "level": "undergraduate",
+  "complete": false,
+  "includesGir": "sb",
+  "catalogSource": {
+    "url": "https://catalog.mit.edu/degree-charts/chemical-biological-engineering-course-10-b/",
+    "slug": "chemical-biological-engineering-course-10-b",
+    "scrapedAt": "2026-07-03",
+    "contentHash": "f54ba7c4b1caba83e8b2dc763ef781a02077b22f276c172a5245b5e99c7f83bd"
+  },
+  "girCrosswalk": [
+    {
+      "subjectId": "10.7003",
+      "satisfies": [
+        "lab"
+      ],
+      "note": "Also satisfies Laboratory Requirement via departmental program."
+    }
+  ],
+  "footnotes": [
+    {
+      "id": "1",
+      "text": "18.032 Differential Equations is also an acceptable option."
+    },
+    {
+      "id": "2",
+      "text": "May be satisfied with a second term of 10.492A, 10.492B, 10.493, 10.494A or 10.494B; or a second term of 10.490 (with permission of instructor). Graduate subjects may not be used as restricted electives. In addition, the following undergraduate subjects may not be used as restricted electives: 10.04, 10.79210.806, 10.910, 10.911, 10.UR, 10.URG, and 10.THU."
+    }
+  ],
+  "constraints": [],
+  "requirements": [
+    {
+      "groupId": "10-b-foundational-subjects",
+      "title": "Foundational Subjects",
+      "bucket": "departmental",
+      "subcategory": "fundamentals",
+      "root": {
+        "type": "group",
+        "ruleType": "all_of",
+        "items": [
+          {
+            "type": "subject",
+            "subjectId": "5.12"
+          },
+          {
+            "type": "subject",
+            "subjectId": "5.601"
+          },
+          {
+            "type": "subject",
+            "subjectId": "7.002"
+          },
+          {
+            "type": "subject",
+            "subjectId": "7.03"
+          },
+          {
+            "type": "subject",
+            "subjectId": "10.10"
+          },
+          {
+            "type": "subject",
+            "subjectId": "10.7003"
+          },
+          {
+            "type": "subject",
+            "subjectId": "18.03"
+          }
+        ]
+      }
+    },
+    {
+      "groupId": "10-b-intermediate-subjects",
+      "title": "Intermediate Subjects",
+      "bucket": "departmental",
+      "subcategory": "required_subjects",
+      "root": {
+        "type": "group",
+        "ruleType": "all_of",
+        "items": [
+          {
+            "type": "subject",
+            "subjectId": "7.05"
+          },
+          {
+            "type": "selection",
+            "ruleType": "choose_one",
+            "itemsSource": "explicit",
+            "items": [
+              {
+                "type": "subject",
+                "subjectId": "5.07"
+              }
+            ]
+          },
+          {
+            "type": "subject",
+            "subjectId": "7.06"
+          },
+          {
+            "type": "subject",
+            "subjectId": "10.213"
+          },
+          {
+            "type": "subject",
+            "subjectId": "10.301"
+          },
+          {
+            "type": "subject",
+            "subjectId": "10.302"
+          },
+          {
+            "type": "selection",
+            "ruleType": "choose_one",
+            "itemsSource": "explicit",
+            "items": [
+              {
+                "type": "subject",
+                "subjectId": "10.27"
+              },
+              {
+                "type": "subject",
+                "subjectId": "10.28"
+              },
+              {
+                "type": "subject",
+                "subjectId": "10.29"
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "groupId": "10-b-advanced-subjects",
+      "title": "Advanced Subjects",
+      "bucket": "departmental",
+      "subcategory": "required_subjects",
+      "root": {
+        "type": "group",
+        "ruleType": "all_of",
+        "items": [
+          {
+            "type": "subject",
+            "subjectId": "10.37"
+          },
+          {
+            "type": "subject",
+            "subjectId": "10.490"
+          },
+          {
+            "type": "selection",
+            "ruleType": "choose_one",
+            "itemsSource": "explicit",
+            "items": [
+              {
+                "type": "subject",
+                "subjectId": "10.492A"
+              },
+              {
+                "type": "subject",
+                "subjectId": "10.492B"
+              },
+              {
+                "type": "subject",
+                "subjectId": "10.493"
+              },
+              {
+                "type": "subject",
+                "subjectId": "10.494A"
+              },
+              {
+                "type": "subject",
+                "subjectId": "10.494B"
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "groupId": "10-b-restricted-elective",
+      "title": "Restricted Elective",
+      "bucket": "elective",
+      "subcategory": "restricted_electives",
+      "flexibility": {
+        "advisorApproval": false,
+        "catalogText": "One subject of at least 6 units in Chemical Engineering2"
+      },
+      "root": {
+        "type": "selection",
+        "ruleType": "choose_units",
+        "ruleValue": 6,
+        "itemsSource": "advisor_defined",
+        "note": "One subject of at least 6 units in Chemical Engineering2",
+        "flexibility": {
+          "catalogText": "One subject of at least 6 units in Chemical Engineering2"
+        }
+      }
+    }
+  ],
+  "status": "draft",
+  "revisionId": "10-b-2026-07-03-f54ba7c4",
+  "catalogYear": "2026",
+  "effectiveTerm": "2026-FA"
+}

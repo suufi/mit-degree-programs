@@ -1,0 +1,138 @@
+{
+  "schemaVersion": "2",
+  "program": "2-oe",
+  "title": "Mechanical and Ocean Engineering (Course 2-OE)",
+  "level": "undergraduate",
+  "complete": false,
+  "includesGir": "sb",
+  "catalogSource": {
+    "url": "https://catalog.mit.edu/degree-charts/mechanical-ocean-engineering-course-2-oe/",
+    "slug": "mechanical-ocean-engineering-course-2-oe",
+    "scrapedAt": "2026-07-03",
+    "contentHash": "3620b26054feb354758b006a38741bc6baa5fddf23845e3d06a46093588be173"
+  },
+  "girCrosswalk": [
+    {
+      "subjectId": "2.001",
+      "satisfies": [
+        "rest"
+      ],
+      "note": "Also satisfies REST via departmental program."
+    },
+    {
+      "subjectId": "18.03",
+      "satisfies": [
+        "rest"
+      ],
+      "note": "Also satisfies REST via departmental program."
+    },
+    {
+      "subjectId": "2.671",
+      "satisfies": [
+        "lab"
+      ],
+      "note": "Also satisfies Laboratory Requirement via departmental program."
+    }
+  ],
+  "footnotes": [
+    {
+      "id": "1",
+      "text": "Consult the MechE Undergraduate Office, Room 1-110, regarding substitutions."
+    }
+  ],
+  "constraints": [],
+  "requirements": [
+    {
+      "groupId": "2-oe-required-subjects",
+      "title": "Required Subjects",
+      "bucket": "departmental",
+      "subcategory": "required_subjects",
+      "root": {
+        "type": "group",
+        "ruleType": "all_of",
+        "items": [
+          {
+            "type": "subject",
+            "subjectId": "2.00A"
+          },
+          {
+            "type": "subject",
+            "subjectId": "2.001"
+          },
+          {
+            "type": "subject",
+            "subjectId": "2.002"
+          },
+          {
+            "type": "subject",
+            "subjectId": "2.003"
+          },
+          {
+            "type": "subject",
+            "subjectId": "2.004"
+          },
+          {
+            "type": "subject",
+            "subjectId": "2.005"
+          },
+          {
+            "type": "subject",
+            "subjectId": "2.016"
+          },
+          {
+            "type": "subject",
+            "subjectId": "2.017"
+          },
+          {
+            "type": "subject",
+            "subjectId": "2.065"
+          },
+          {
+            "type": "subject",
+            "subjectId": "2.086"
+          },
+          {
+            "type": "subject",
+            "subjectId": "2.612"
+          },
+          {
+            "type": "subject",
+            "subjectId": "2.671"
+          },
+          {
+            "type": "subject",
+            "subjectId": "2.677"
+          },
+          {
+            "type": "subject",
+            "subjectId": "2.678"
+          },
+          {
+            "type": "subject",
+            "subjectId": "18.03"
+          }
+        ]
+      }
+    },
+    {
+      "groupId": "2-oe-restricted-electives",
+      "title": "Restricted Electives",
+      "bucket": "elective",
+      "subcategory": "restricted_electives",
+      "flexibility": {
+        "catalogText": "Select one elective from the Restricted Electives list below.1"
+      },
+      "root": {
+        "type": "selection",
+        "ruleType": "choose_units",
+        "ruleValue": 12,
+        "itemsSource": "shared_list",
+        "sharedListId": "2-oe.restricted-electives"
+      }
+    }
+  ],
+  "status": "draft",
+  "revisionId": "2-oe-2026-07-03-3620b260",
+  "catalogYear": "2026",
+  "effectiveTerm": "2026-FA"
+}

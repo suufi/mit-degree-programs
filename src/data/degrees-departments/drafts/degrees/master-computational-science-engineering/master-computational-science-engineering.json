@@ -1,0 +1,375 @@
+{
+  "schemaVersion": "2",
+  "program": "master-computational-science-engineering",
+  "title": "Computational Science and Engineering (SM)",
+  "level": "graduate",
+  "complete": false,
+  "catalogSource": {
+    "url": "https://catalog.mit.edu/degree-charts/master-computational-science-engineering/",
+    "slug": "master-computational-science-engineering",
+    "scrapedAt": "2026-07-03",
+    "contentHash": "15b494ba0fc96edbfac8c1843d1707281e612d1714ab2efc18cb7366f99a74ec"
+  },
+  "footnotes": [
+    {
+      "id": "1",
+      "text": "Subjects that can be repeated for credit cannot be used to satisfy multiple CSE SM requirements."
+    },
+    {
+      "id": "2",
+      "text": "See list of subjects offered at MIT."
+    },
+    {
+      "id": "3",
+      "text": "Students receive credit for either 10.551 or 10.552 as a CSE concentration subject, but not both.",
+      "appliesTo": [
+        "master-computational-science-engineering.restricted-electives"
+      ]
+    },
+    {
+      "id": "4",
+      "text": "Subject to Sloan bidding process."
+    }
+  ],
+  "constraints": [],
+  "requirements": [
+    {
+      "groupId": "master-computational-science-engineering-required-subjects",
+      "title": "Required Subjects",
+      "bucket": "departmental",
+      "subcategory": "required_subjects",
+      "flexibility": {
+        "advisorApproval": false,
+        "catalogText": "Core Subjects"
+      },
+      "root": {
+        "type": "group",
+        "ruleType": "all_of",
+        "items": [
+          {
+            "type": "selection",
+            "ruleType": "choose_units",
+            "ruleValue": 36,
+            "itemsSource": "advisor_defined",
+            "note": "Core Subjects",
+            "flexibility": {
+              "catalogText": "Core Subjects"
+            }
+          },
+          {
+            "type": "selection",
+            "ruleType": "choose_n",
+            "ruleValue": 3,
+            "itemsSource": "explicit",
+            "items": [
+              {
+                "type": "subject",
+                "subjectId": "6.7300"
+              },
+              {
+                "type": "subject",
+                "subjectId": "15.C57"
+              },
+              {
+                "type": "subject",
+                "subjectId": "16.920"
+              },
+              {
+                "type": "subject",
+                "subjectId": "18.335"
+              }
+            ]
+          },
+          {
+            "type": "selection",
+            "ruleType": "choose_units",
+            "ruleValue": 24,
+            "itemsSource": "advisor_defined",
+            "note": "Restricted Electives1",
+            "flexibility": {
+              "catalogText": "Restricted Electives1"
+            }
+          },
+          {
+            "type": "selection",
+            "ruleType": "choose_units",
+            "ruleValue": 12,
+            "itemsSource": "advisor_defined",
+            "note": "Unrestricted Elective1",
+            "flexibility": {
+              "catalogText": "Unrestricted Elective1"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "groupId": "master-computational-science-engineering-thesis",
+      "title": "Thesis",
+      "bucket": "thesis",
+      "subcategory": "thesis",
+      "flexibility": {
+        "advisorApproval": false,
+        "catalogText": "[CSE.THG](https://catalog.mit.edu/search/?P=CSE.THG \"CSE.THG\")"
+      },
+      "root": {
+        "type": "group",
+        "ruleType": "all_of",
+        "items": [
+          {
+            "type": "selection",
+            "ruleType": "choose_units",
+            "ruleValue": 36,
+            "itemsSource": "advisor_defined",
+            "note": "[CSE.THG](https://catalog.mit.edu/search/?P=CSE.THG \"CSE.THG\")",
+            "flexibility": {
+              "catalogText": "[CSE.THG](https://catalog.mit.edu/search/?P=CSE.THG \"CSE.THG\")"
+            }
+          },
+          {
+            "type": "subject",
+            "subjectId": "1.125"
+          },
+          {
+            "type": "subject",
+            "subjectId": "1.545"
+          },
+          {
+            "type": "subject",
+            "subjectId": "1.583"
+          },
+          {
+            "type": "subject",
+            "subjectId": "1.723"
+          },
+          {
+            "type": "subject",
+            "subjectId": "2.098"
+          },
+          {
+            "type": "subject",
+            "subjectId": "2.156"
+          },
+          {
+            "type": "subject",
+            "subjectId": "2.168"
+          },
+          {
+            "type": "subject",
+            "subjectId": "2.29"
+          },
+          {
+            "type": "subject",
+            "subjectId": "3.320"
+          },
+          {
+            "type": "subject",
+            "subjectId": "4.450"
+          },
+          {
+            "type": "subject",
+            "subjectId": "4.453"
+          },
+          {
+            "type": "subject",
+            "subjectId": "6.7210"
+          },
+          {
+            "type": "subject",
+            "subjectId": "6.7220"
+          },
+          {
+            "type": "subject",
+            "subjectId": "6.7230"
+          },
+          {
+            "type": "subject",
+            "subjectId": "6.7300"
+          },
+          {
+            "type": "subject",
+            "subjectId": "6.7810"
+          },
+          {
+            "type": "subject",
+            "subjectId": "6.7830"
+          },
+          {
+            "type": "subject",
+            "subjectId": "6.7900"
+          },
+          {
+            "type": "subject",
+            "subjectId": "6.7940"
+          },
+          {
+            "type": "subject",
+            "subjectId": "6.8300"
+          },
+          {
+            "type": "subject",
+            "subjectId": "6.8410"
+          },
+          {
+            "type": "subject",
+            "subjectId": "6.C51"
+          },
+          {
+            "type": "subject",
+            "subjectId": "9.520"
+          },
+          {
+            "type": "subject",
+            "subjectId": "9.660"
+          },
+          {
+            "type": "subject",
+            "subjectId": "10.551"
+          },
+          {
+            "type": "subject",
+            "subjectId": "10.552"
+          },
+          {
+            "type": "subject",
+            "subjectId": "10.554"
+          },
+          {
+            "type": "subject",
+            "subjectId": "10.557"
+          },
+          {
+            "type": "subject",
+            "subjectId": "10.637"
+          },
+          {
+            "type": "subject",
+            "subjectId": "12.515"
+          },
+          {
+            "type": "subject",
+            "subjectId": "12.521"
+          },
+          {
+            "type": "subject",
+            "subjectId": "12.620"
+          },
+          {
+            "type": "subject",
+            "subjectId": "12.714"
+          },
+          {
+            "type": "subject",
+            "subjectId": "12.805"
+          },
+          {
+            "type": "subject",
+            "subjectId": "12.850"
+          },
+          {
+            "type": "subject",
+            "subjectId": "15.070"
+          },
+          {
+            "type": "subject",
+            "subjectId": "15.077"
+          },
+          {
+            "type": "subject",
+            "subjectId": "15.083"
+          },
+          {
+            "type": "subject",
+            "subjectId": "15.764"
+          },
+          {
+            "type": "subject",
+            "subjectId": "15.C57"
+          },
+          {
+            "type": "subject",
+            "subjectId": "16.110"
+          },
+          {
+            "type": "subject",
+            "subjectId": "16.225"
+          },
+          {
+            "type": "subject",
+            "subjectId": "16.413"
+          },
+          {
+            "type": "subject",
+            "subjectId": "16.888"
+          },
+          {
+            "type": "subject",
+            "subjectId": "16.920"
+          },
+          {
+            "type": "subject",
+            "subjectId": "16.930"
+          },
+          {
+            "type": "subject",
+            "subjectId": "16.940"
+          },
+          {
+            "type": "subject",
+            "subjectId": "18.335"
+          },
+          {
+            "type": "subject",
+            "subjectId": "18.336"
+          },
+          {
+            "type": "subject",
+            "subjectId": "18.337"
+          },
+          {
+            "type": "subject",
+            "subjectId": "18.338"
+          },
+          {
+            "type": "subject",
+            "subjectId": "18.369"
+          },
+          {
+            "type": "subject",
+            "subjectId": "18.435"
+          },
+          {
+            "type": "subject",
+            "subjectId": "22.15"
+          },
+          {
+            "type": "subject",
+            "subjectId": "22.212"
+          },
+          {
+            "type": "subject",
+            "subjectId": "22.213"
+          },
+          {
+            "type": "subject",
+            "subjectId": "22.315"
+          },
+          {
+            "type": "selection",
+            "ruleType": "choose_units",
+            "ruleValue": 12,
+            "itemsSource": "advisor_defined",
+            "note": "[IDS.131\\[J\\]](https://catalog.mit.edu/search/?P=IDS.131 \"IDS.131[J]\")",
+            "flexibility": {
+              "catalogText": "[IDS.131\\[J\\]](https://catalog.mit.edu/search/?P=IDS.131 \"IDS.131[J]\")"
+            }
+          }
+        ]
+      }
+    }
+  ],
+  "status": "draft",
+  "revisionId": "master-computational-science-engineering-2026-07-03-15b494ba",
+  "catalogYear": "2026",
+  "effectiveTerm": "2026-FA"
+}

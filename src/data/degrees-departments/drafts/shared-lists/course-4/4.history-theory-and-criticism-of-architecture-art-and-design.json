@@ -1,0 +1,40 @@
+{
+  "sharedListId": "4.history-theory-and-criticism-of-architecture-art-and-design",
+  "program": "4",
+  "title": "History, Theory and Criticism of Architecture, Art and Design",
+  "items": [
+    {
+      "type": "subject",
+      "subjectId": "4.601"
+    },
+    {
+      "type": "subject",
+      "subjectId": "4.602"
+    },
+    {
+      "type": "subject",
+      "subjectId": "4.605"
+    },
+    {
+      "type": "subject",
+      "subjectId": "4.614"
+    },
+    {
+      "type": "subject",
+      "subjectId": "4.635"
+    },
+    {
+      "type": "subject",
+      "subjectId": "4.636"
+    },
+    {
+      "type": "subject",
+      "subjectId": "4.651"
+    },
+    {
+      "type": "subject",
+      "subjectId": "4.657"
+    }
+  ],
+  "version": "1"
+}

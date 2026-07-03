@@ -1,0 +1,156 @@
+{
+  "schemaVersion": "2",
+  "program": "phd-materials-science-engineering",
+  "title": "Materials Science and Engineering (PhD/ScD)",
+  "level": "graduate",
+  "complete": false,
+  "catalogSource": {
+    "url": "https://catalog.mit.edu/degree-charts/phd-materials-science-engineering/",
+    "slug": "phd-materials-science-engineering",
+    "scrapedAt": "2026-07-03",
+    "contentHash": "f041f3e792eb629c64dc04cceb59ef2a493255dd02765472ef9ae5920af0164a"
+  },
+  "footnotes": [
+    {
+      "id": "1",
+      "text": "Some students may require additional appropriate undergraduate coursework to ensure successful completion of the core curriculum. Students should consult with their registration officer and the core course instructors. Concurrent enrollment in such undergraduate subjects with the four core subjects in the first two semesters of the graduate program is permitted in place of restricted elective subjects."
+    },
+    {
+      "id": "2",
+      "text": "See the list of graduate subjects offered by the department. Sample concentration areas include biomaterials; computational materials science; experimental/characterization computational materials application/design; materials for energy and the environment; electronic, magnetic, and photonic materials; high-performance structural materials; laboratory, characterization, and instrumentation; materials processing, economics, manufacturing, and entrepreneurship; materials design; nanoscale materials. Students may enroll in one non-DMSE 9–12 unit graduate elective with the approval of their thesis committee or may petition the departmental committee on graduate studies to enroll in two or more non-DMSE graduate electives."
+    },
+    {
+      "id": "3",
+      "text": "Students must discuss their Minor Requirement plan with and obtain approval from their research supervisor. Subjects used to satisfy the minor do not need to be related to the thesis research area."
+    },
+    {
+      "id": "4",
+      "text": "Subjects must total 24 units."
+    },
+    {
+      "id": "5",
+      "text": "Subjects must total 33 units and cannot have been used to fulfill a bachelor's or master's degree requirement."
+    },
+    {
+      "id": "6",
+      "text": "Subjects totalling 18 units may be approved."
+    },
+    {
+      "id": "7",
+      "text": "Subjects total 24 units. In the fall semester, students register for 3.69 (3 units) and one subject in the 3.693–3.699 range for 9 units; in the spring semester, students register for one subject in the 3.693–3.699 range for 12 units."
+    }
+  ],
+  "constraints": [],
+  "requirements": [
+    {
+      "groupId": "phd-materials-science-engineering-required-seminars",
+      "title": "Required Seminars",
+      "bucket": "departmental",
+      "subcategory": "required_subjects",
+      "root": {
+        "type": "group",
+        "ruleType": "all_of",
+        "items": [
+          {
+            "type": "subject",
+            "subjectId": "3.201"
+          },
+          {
+            "type": "subject",
+            "subjectId": "3.202"
+          }
+        ]
+      }
+    },
+    {
+      "groupId": "phd-materials-science-engineering-core-curriculum1",
+      "title": "Core Curriculum1",
+      "bucket": "departmental",
+      "subcategory": "required_subjects",
+      "flexibility": {
+        "advisorApproval": false,
+        "catalogText": "Electives2"
+      },
+      "root": {
+        "type": "group",
+        "ruleType": "all_of",
+        "items": [
+          {
+            "type": "subject",
+            "subjectId": "3.20"
+          },
+          {
+            "type": "subject",
+            "subjectId": "3.21"
+          },
+          {
+            "type": "subject",
+            "subjectId": "3.22"
+          },
+          {
+            "type": "subject",
+            "subjectId": "3.23"
+          },
+          {
+            "type": "selection",
+            "ruleType": "choose_units",
+            "ruleValue": 27,
+            "itemsSource": "advisor_defined",
+            "note": "Electives2",
+            "flexibility": {
+              "catalogText": "Electives2"
+            }
+          },
+          {
+            "type": "selection",
+            "ruleType": "choose_units",
+            "ruleValue": 18,
+            "itemsSource": "advisor_defined",
+            "note": "Minor3",
+            "flexibility": {
+              "catalogText": "Minor3"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "groupId": "phd-materials-science-engineering-select-one-of-the-following-options",
+      "title": "Select one of the following options:",
+      "bucket": "departmental",
+      "subcategory": "required_subjects",
+      "root": {
+        "type": "subject",
+        "subjectId": "3.69"
+      }
+    },
+    {
+      "groupId": "phd-materials-science-engineering-thesis-research",
+      "title": "Thesis Research",
+      "bucket": "thesis",
+      "subcategory": "thesis",
+      "root": {
+        "type": "group",
+        "ruleType": "all_of",
+        "items": [
+          {
+            "type": "subject",
+            "subjectId": "3.995"
+          },
+          {
+            "type": "subject",
+            "subjectId": "3.998"
+          },
+          {
+            "type": "subject",
+            "subjectId": "3.THG"
+          }
+        ]
+      }
+    }
+  ],
+  "status": "draft",
+  "revisionId": "phd-materials-science-engineering-2026-07-03-f041f3e7",
+  "catalogYear": "2026",
+  "effectiveTerm": "2026-FA"
+}

@@ -1,0 +1,16 @@
+{
+  "sharedListId": "phd-physical-oceanography.physical-oceanography-and-climate",
+  "program": "phd-physical-oceanography",
+  "title": "Physical Oceanography and Climate",
+  "items": [
+    {
+      "type": "subject",
+      "subjectId": "12.801"
+    },
+    {
+      "type": "subject",
+      "subjectId": "12.812"
+    }
+  ],
+  "version": "1"
+}

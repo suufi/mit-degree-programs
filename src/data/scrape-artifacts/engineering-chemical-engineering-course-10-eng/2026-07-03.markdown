@@ -1,0 +1,124 @@
+Degree Charts
+
+- [Home](https://catalog.mit.edu/) >
+- [Degree Charts](https://catalog.mit.edu/degree-charts/) >
+- Engineering (SB, Course 10-ENG)
+
+# Engineering (Course 10-ENG)
+
+[Department of Chemical Engineering](https://catalog.mit.edu/schools/engineering/chemical-engineering/#undergraduatetext)
+
+## Bachelor of Science in Engineering
+
+### General Institute Requirements (GIRs)
+
+The General Institute Requirements include a Communication Requirement that is integrated into both the HASS Requirement and the requirements of each major; see details below.
+
+| Summary of Subject Requirements | Subjects |
+| --- | --- |
+| Science Requirement | 6 |
+| Humanities, Arts, and Social Sciences (HASS) Requirement; at least two of these subjects must be designated as communication-intensive (CI-H) to fulfill the Communication Requirement. | 8 |
+| Restricted Electives in Science and Technology (REST) Requirement \[can be satisfied by [10.301](https://catalog.mit.edu/search/?P=10.301 "10.301") and [18.03](https://catalog.mit.edu/search/?P=18.03 "18.03") in the Departmental Program\] | 2 |
+| Laboratory Requirement (12 units) \[can be satisfied by [1.106](https://catalog.mit.edu/search/?P=1.106 "1.106")/ [1.107](https://catalog.mit.edu/search/?P=1.107 "1.107"), [2.671](https://catalog.mit.edu/search/?P=2.671 "2.671"), [3.010](https://catalog.mit.edu/search/?P=3.010 "3.010"), [5.310](https://catalog.mit.edu/search/?P=5.310 "5.310"), or [12.335](https://catalog.mit.edu/search/?P=12.335 "12.335") in the Departmental Program\] | 1 |
+| **Total GIR Subjects Required for SB Degree** | **17** |
+
+| Physical Education Requirement |  |
+| --- | --- |
+| Swimming requirement, plus four physical education courses for eight points. |  |
+
+### Departmental Program
+
+Choose at least two subjects in the major that are designated as communication-intensive (CI-M) to fulfill the Communication Requirement.
+
+|     |     |     |
+| --- | --- | --- |
+| Required Subjects | **Units** |
+| [5.601](https://catalog.mit.edu/search/?P=5.601 "5.601") | Thermodynamics I | 6 |
+| [10.10](https://catalog.mit.edu/search/?P=10.10 "10.10") | Introduction to Chemical Engineering | 12 |
+| [10.213](https://catalog.mit.edu/search/?P=10.213 "10.213") | Chemical and Biological Engineering Thermodynamics | 12 |
+| [10.301](https://catalog.mit.edu/search/?P=10.301 "10.301") | Fluid Mechanics | 12 |
+| [10.302](https://catalog.mit.edu/search/?P=10.302 "10.302") | Transport Processes | 12 |
+| [10.37](https://catalog.mit.edu/search/?P=10.37 "10.37") | Chemical Kinetics and Reactor Design | 12 |
+| [18.03](https://catalog.mit.edu/search/?P=18.03 "18.03") | Differential Equations | 12 |
+| Foundational Concepts |  |
+| All subjects are suitable for any concentration within the program. In consultation with the advisor, students select one subject from each of the three groups. Students may not exceed the 45-unit cap except by petition. | 39-45 |
+| _Group I_ |  |
+| _Select one of the following Course 10 CI-M subjects:_ |  |
+| [10.26](https://catalog.mit.edu/search/?P=10.26 "10.26") | Chemical Engineering Projects Laboratory (CI-M) |  |
+| [10.27](https://catalog.mit.edu/search/?P=10.27 "10.27") | Energy Engineering Projects Laboratory (CI-M) 1 |  |
+| [10.28](https://catalog.mit.edu/search/?P=10.28 "10.28") | Chemical-Biological Engineering Laboratory (CI-M) |  |
+| [10.29](https://catalog.mit.edu/search/?P=10.29 "10.29") | Biological Engineering Projects Laboratory (CI-M) 2 |  |
+| [10.467](https://catalog.mit.edu/search/?P=10.467 "10.467") | Polymer Science Laboratory (CI-M) 3 |  |
+| _Group II_ |  |
+| _Select one of the following Institute Laboratory subjects:_ |  |
+| [1.106](https://catalog.mit.edu/search/?P=1.106 "1.106")<br>& [1.107](https://catalog.mit.edu/search/?P=1.107 "1.107") | Environmental Fluid Mechanics Lab<br>and Water and Air Quality Laboratory (CI-M) 4 |  |
+| [2.671](https://catalog.mit.edu/search/?P=2.671 "2.671") | Measurement and Instrumentation (CI-M) |  |
+| [3.010](https://catalog.mit.edu/search/?P=3.010 "3.010") | Structure of Materials |  |
+| [5.310](https://catalog.mit.edu/search/?P=5.310 "5.310") | Laboratory Chemistry (CI-M) |  |
+| [7.002](https://catalog.mit.edu/search/?P=7.002 "7.002") | Fundamentals of Experimental Molecular Biology |  |
+| [10.7003\[J\]](https://catalog.mit.edu/search/?P=10.7003 "10.7003[J]") | Applied Molecular Biology Laboratory |  |
+| [12.335](https://catalog.mit.edu/search/?P=12.335 "12.335") | Experimental Atmospheric Chemistry (CI-M) 4 |  |
+| [20.109](https://catalog.mit.edu/search/?P=20.109 "20.109") | Laboratory Fundamentals in Biological Engineering (CI-M) 2 |  |
+| _Group III_ |  |
+| _Select one of the following:_ |  |
+| [1.00](https://catalog.mit.edu/search/?P=1.00 "1.00") | Engineering Computation and Data Science |  |
+| [1.018\[J\]](https://catalog.mit.edu/search/?P=1.018 "1.018[J]") | Fundamentals of Ecology |  |
+| [1.080](https://catalog.mit.edu/search/?P=1.080 "1.080") | Chemicals in the Environment |  |
+| [3.155\[J\]](https://catalog.mit.edu/search/?P=3.155 "3.155[J]") | Micro/Nano Processing Technology (CI-M) 3 |  |
+| [5.12](https://catalog.mit.edu/search/?P=5.12 "5.12") | Organic Chemistry I |  |
+| [5.611](https://catalog.mit.edu/search/?P=5.611 "5.611")<br>& [5.612](https://catalog.mit.edu/search/?P=5.612 "5.612") | Introduction to Spectroscopy<br>and Electronic Structure of Molecules |  |
+| [6.100A](https://catalog.mit.edu/search/?P=6.100A "6.100A")<br>& [6.100B](https://catalog.mit.edu/search/?P=6.100B "6.100B") | Introduction to Computer Science Programming in Python<br>and Introduction to Computational Thinking and Data Science |  |
+| [7.03](https://catalog.mit.edu/search/?P=7.03 "7.03") | Genetics 2 |  |
+| [8.21](https://catalog.mit.edu/search/?P=8.21 "8.21") | Physics of Energy 1 |  |
+| Engineering Concentration |  |
+| These four electives define a concentrated area of study in one of the following designated concentrations: Biomedical Engineering; Energy; Engineering Computation; Environmental Studies; Manufacturing Design; Materials Process and Design; or Process Data Analytics. 5 | 39-48 |
+| Capstone |  |
+| Select one of the following options to obtain at least 12 units of capstone experience: Senior Thesis, Integrated Chemical Engineering or Integrated Chemical Engineering Topics modules, or Senior Project. | 12-15 |
+| _Option 1_ |  |
+| [10.THU](https://catalog.mit.edu/search/?P=10.THU "10.THU") | Undergraduate Thesis |  |
+| _Option 2_ |  |
+| _Select any combination of the following:_ |  |
+| [10.490](https://catalog.mit.edu/search/?P=10.490 "10.490") | Integrated Chemical Engineering 6 |  |
+| [10.492A](https://catalog.mit.edu/search/?P=10.492A "10.492A") | Integrated Chemical Engineering Topics I |  |
+| [10.492B](https://catalog.mit.edu/search/?P=10.492B "10.492B") | Integrated Chemical Engineering Topics I |  |
+| [10.493](https://catalog.mit.edu/search/?P=10.493 "10.493") | Integrated Chemical Engineering Topics II |  |
+| [10.494A](https://catalog.mit.edu/search/?P=10.494A "10.494A") | Integrated Chemical Engineering Topics III |  |
+| [10.494B](https://catalog.mit.edu/search/?P=10.494B "10.494B") | Integrated Chemical Engineering Topics III |  |
+| _Option 3_ |  |
+| [10.910](https://catalog.mit.edu/search/?P=10.910 "10.910") | Independent Research Problem |  |
+| _and select any combination of the following:_ |  |
+| [10.492A](https://catalog.mit.edu/search/?P=10.492A "10.492A") | Integrated Chemical Engineering Topics I |  |
+| [10.492B](https://catalog.mit.edu/search/?P=10.492B "10.492B") | Integrated Chemical Engineering Topics I |  |
+| [10.493](https://catalog.mit.edu/search/?P=10.493 "10.493") | Integrated Chemical Engineering Topics II |  |
+| [10.494A](https://catalog.mit.edu/search/?P=10.494A "10.494A") | Integrated Chemical Engineering Topics III |  |
+| [10.494B](https://catalog.mit.edu/search/?P=10.494B "10.494B") | Integrated Chemical Engineering Topics III |  |
+| Units in Major | 168-183 |
+| Unrestricted Electives | 48 |
+| Units in Major That Also Satisfy the GIRs | (36) |
+| Total Units Beyond the GIRs Required for SB Degree | 180-198 |
+
+The units for any subject that counts as one of the 17 GIR subjects cannot also be counted as units required beyond the GIRs.
+
+|     |     |
+| --- | --- |
+| _1_ | _Subject may be of particular interest for energy concentration._ |
+| _2_ | _Subject may be of particular interest for biomedical engineering concentration._ |
+| _3_ | _Subject may be of particular interest for materials process and design concentration._ |
+| _4_ | _Subject may be of particular interest for environmental studies concentration._ |
+| _5_ | _In all cases, the electives must be chosen with the approval of the student’s advisor and the department. The combined list of required and elective subjects must sum to a minimum of 135 units in engineering topics (equivalent to 45 credit hours as defined by ABET).  Lists of recommended subjects for each concentration are available from the department, and additional information on current subject offerings is available in the [MIT Course Catalog](https://catalog.mit.edu/subjects/10/). Note that subjects that have been used to satisfy the foundational concepts may not also be counted toward the engineering concentration._ |
+| _6_ | _[10.490](https://catalog.mit.edu/search/?P=10.490 "10.490") may be repeated once for credit with permission of instructor._ |
+
+Print Options
+
+
+[Send Page to Printer](https://catalog.mit.edu/degree-charts/engineering-chemical-engineering-course-10-eng/#)
+
+_Print this page._
+
+[Download PDF of this Page](https://catalog.mit.edu/degree-charts/engineering-chemical-engineering-course-10-eng/engineering-chemical-engineering-course-10-eng.pdf)
+
+_The PDF includes all information on this page and its related tabs. Subject (course) information includes any changes approved for the current academic year._
+
+[Download PDF of the Entire Catalog and/or Subject Descriptions](https://catalog.mit.edu/archive/)
+
+[Cancel](https://catalog.mit.edu/degree-charts/engineering-chemical-engineering-course-10-eng/#)

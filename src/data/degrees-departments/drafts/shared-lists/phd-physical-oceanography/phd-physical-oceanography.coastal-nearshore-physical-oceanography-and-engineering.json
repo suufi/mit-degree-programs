@@ -1,0 +1,64 @@
+{
+  "sharedListId": "phd-physical-oceanography.coastal-nearshore-physical-oceanography-and-engineering",
+  "program": "phd-physical-oceanography",
+  "title": "Coastal/Nearshore Physical Oceanography and Engineering",
+  "items": [
+    {
+      "type": "subject",
+      "subjectId": "1.69"
+    },
+    {
+      "type": "subject",
+      "subjectId": "12.802"
+    },
+    {
+      "type": "subject",
+      "subjectId": "12.862"
+    },
+    {
+      "type": "subject",
+      "subjectId": "12.805"
+    },
+    {
+      "type": "subject",
+      "subjectId": "18.075"
+    },
+    {
+      "type": "subject",
+      "subjectId": "18.085"
+    },
+    {
+      "type": "subject",
+      "subjectId": "18.086"
+    },
+    {
+      "type": "subject",
+      "subjectId": "18.305"
+    },
+    {
+      "type": "subject",
+      "subjectId": "18.306"
+    },
+    {
+      "type": "subject",
+      "subjectId": "12.THG"
+    },
+    {
+      "type": "subject",
+      "subjectId": "1.72"
+    },
+    {
+      "type": "subject",
+      "subjectId": "2.29"
+    },
+    {
+      "type": "subject",
+      "subjectId": "12.820"
+    },
+    {
+      "type": "subject",
+      "subjectId": "12.850"
+    }
+  ],
+  "version": "1"
+}

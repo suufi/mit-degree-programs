@@ -1,0 +1,50 @@
+{
+  "sharedListId": "course-6.ai-d-serc",
+  "program": "course-6",
+  "title": "AI+D_SERC",
+  "items": [
+    {
+      "type": "subject",
+      "subjectId": "6.3900"
+    },
+    {
+      "type": "subject",
+      "subjectId": "6.3950"
+    },
+    {
+      "type": "subject",
+      "subjectId": "6.4300"
+    },
+    {
+      "type": "subject",
+      "subjectId": "6.4590"
+    },
+    {
+      "type": "subject",
+      "subjectId": "6.4610"
+    },
+    {
+      "type": "subject",
+      "subjectId": "6.8611"
+    },
+    {
+      "type": "group",
+      "ruleType": "all_of",
+      "items": [
+        {
+          "type": "subject",
+          "subjectId": "6.C01"
+        },
+        {
+          "type": "subject",
+          "subjectId": "6.C011"
+        }
+      ]
+    },
+    {
+      "type": "subject",
+      "subjectId": "6.C40"
+    }
+  ],
+  "version": "1"
+}

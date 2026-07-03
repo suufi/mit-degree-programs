@@ -1,0 +1,145 @@
+{
+  "schemaVersion": "2",
+  "program": "7",
+  "title": "Biology (Course 7)",
+  "level": "undergraduate",
+  "complete": false,
+  "includesGir": "sb",
+  "catalogSource": {
+    "url": "https://catalog.mit.edu/degree-charts/biology-course-7/",
+    "slug": "biology-course-7",
+    "scrapedAt": "2026-07-03",
+    "contentHash": "a1ca745137b40cd4987a74e007c5b467b7df011b56151ee8bfc56f8cb3bcc67e"
+  },
+  "girCrosswalk": [
+    {
+      "subjectId": "7.002",
+      "satisfies": [
+        "lab"
+      ],
+      "note": "Also satisfies Laboratory Requirement via departmental program."
+    },
+    {
+      "subjectId": "7.003",
+      "satisfies": [
+        "lab"
+      ],
+      "note": "Also satisfies Laboratory Requirement via departmental program."
+    }
+  ],
+  "footnotes": [
+    {
+      "id": "1",
+      "text": "The department recommends the combination of 5.601 Thermodynamics I and 5.602 Thermodynamics II and Kinetics or 20.110 to fulfill this component of the program, but it will also accept 2.005 Thermal-Fluids Engineering I, 8.044 Statistical Physics I, or 10.213 Chemical and Biological Engineering Thermodynamics."
+    },
+    {
+      "id": "2",
+      "text": "Graduate-level subjects may not be used as restricted electives."
+    }
+  ],
+  "constraints": [],
+  "requirements": [
+    {
+      "groupId": "7-required-subjects",
+      "title": "Required Subjects",
+      "bucket": "departmental",
+      "subcategory": "required_subjects",
+      "root": {
+        "type": "group",
+        "ruleType": "all_of",
+        "items": [
+          {
+            "type": "subject",
+            "subjectId": "7.002"
+          },
+          {
+            "type": "subject",
+            "subjectId": "7.003"
+          },
+          {
+            "type": "subject",
+            "subjectId": "7.03"
+          },
+          {
+            "type": "subject",
+            "subjectId": "5.12"
+          },
+          {
+            "type": "subject",
+            "subjectId": "7.05"
+          },
+          {
+            "type": "selection",
+            "ruleType": "choose_one",
+            "itemsSource": "explicit",
+            "items": [
+              {
+                "type": "subject",
+                "subjectId": "5.07"
+              }
+            ]
+          },
+          {
+            "type": "subject",
+            "subjectId": "7.06"
+          },
+          {
+            "type": "group",
+            "ruleType": "all_of",
+            "items": [
+              {
+                "type": "subject",
+                "subjectId": "5.601"
+              },
+              {
+                "type": "subject",
+                "subjectId": "5.602"
+              }
+            ]
+          },
+          {
+            "type": "selection",
+            "ruleType": "choose_one",
+            "itemsSource": "explicit",
+            "items": [
+              {
+                "type": "subject",
+                "subjectId": "20.110"
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "groupId": "7-biology-capstone-subject",
+      "title": "Biology Capstone Subject",
+      "bucket": "departmental",
+      "subcategory": "required_subjects",
+      "root": {
+        "type": "subject",
+        "subjectId": "7.19"
+      }
+    },
+    {
+      "groupId": "7-restricted-electives",
+      "title": "Restricted Electives",
+      "bucket": "elective",
+      "subcategory": "restricted_electives",
+      "flexibility": {
+        "catalogText": "Select three undergraduate-level 12-unit subjects from the list of restricted electives below.2"
+      },
+      "root": {
+        "type": "selection",
+        "ruleType": "choose_units",
+        "ruleValue": 36,
+        "itemsSource": "shared_list",
+        "sharedListId": "7.restricted-electives"
+      }
+    }
+  ],
+  "status": "draft",
+  "revisionId": "7-2026-07-03-a1ca7451",
+  "catalogYear": "2026",
+  "effectiveTerm": "2026-FA"
+}

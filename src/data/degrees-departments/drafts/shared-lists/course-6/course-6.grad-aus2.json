@@ -1,0 +1,394 @@
+{
+  "sharedListId": "course-6.grad-aus2",
+  "program": "course-6",
+  "title": "grad_AUS2",
+  "items": [
+    {
+      "type": "subject",
+      "subjectId": "16.420"
+    },
+    {
+      "type": "subject",
+      "subjectId": "6.2092"
+    },
+    {
+      "type": "subject",
+      "subjectId": "6.2202"
+    },
+    {
+      "type": "subject",
+      "subjectId": "6.2532"
+    },
+    {
+      "type": "subject",
+      "subjectId": "6.3102"
+    },
+    {
+      "type": "subject",
+      "subjectId": "6.3722"
+    },
+    {
+      "type": "subject",
+      "subjectId": "6.3732"
+    },
+    {
+      "type": "subject",
+      "subjectId": "6.3932"
+    },
+    {
+      "type": "subject",
+      "subjectId": "6.4212"
+    },
+    {
+      "type": "subject",
+      "subjectId": "6.4812"
+    },
+    {
+      "type": "subject",
+      "subjectId": "6.4822"
+    },
+    {
+      "type": "subject",
+      "subjectId": "6.4832"
+    },
+    {
+      "type": "subject",
+      "subjectId": "6.5110"
+    },
+    {
+      "type": "subject",
+      "subjectId": "6.5120"
+    },
+    {
+      "type": "subject",
+      "subjectId": "6.5210"
+    },
+    {
+      "type": "subject",
+      "subjectId": "6.5230"
+    },
+    {
+      "type": "subject",
+      "subjectId": "6.5250"
+    },
+    {
+      "type": "subject",
+      "subjectId": "6.5310"
+    },
+    {
+      "type": "subject",
+      "subjectId": "6.5320"
+    },
+    {
+      "type": "subject",
+      "subjectId": "6.5340"
+    },
+    {
+      "type": "subject",
+      "subjectId": "6.5400"
+    },
+    {
+      "type": "subject",
+      "subjectId": "6.5410"
+    },
+    {
+      "type": "subject",
+      "subjectId": "6.5610"
+    },
+    {
+      "type": "subject",
+      "subjectId": "6.5620"
+    },
+    {
+      "type": "subject",
+      "subjectId": "6.5660"
+    },
+    {
+      "type": "subject",
+      "subjectId": "6.5690"
+    },
+    {
+      "type": "subject",
+      "subjectId": "6.5810"
+    },
+    {
+      "type": "subject",
+      "subjectId": "6.5820"
+    },
+    {
+      "type": "subject",
+      "subjectId": "6.5830"
+    },
+    {
+      "type": "subject",
+      "subjectId": "6.5840"
+    },
+    {
+      "type": "subject",
+      "subjectId": "6.5850"
+    },
+    {
+      "type": "subject",
+      "subjectId": "6.5900"
+    },
+    {
+      "type": "subject",
+      "subjectId": "6.5910"
+    },
+    {
+      "type": "subject",
+      "subjectId": "6.5930"
+    },
+    {
+      "type": "subject",
+      "subjectId": "6.5940"
+    },
+    {
+      "type": "subject",
+      "subjectId": "6.5950"
+    },
+    {
+      "type": "subject",
+      "subjectId": "6.6000"
+    },
+    {
+      "type": "subject",
+      "subjectId": "6.6010"
+    },
+    {
+      "type": "subject",
+      "subjectId": "6.6020"
+    },
+    {
+      "type": "subject",
+      "subjectId": "6.6210"
+    },
+    {
+      "type": "subject",
+      "subjectId": "6.6220"
+    },
+    {
+      "type": "subject",
+      "subjectId": "6.6310"
+    },
+    {
+      "type": "subject",
+      "subjectId": "6.6320"
+    },
+    {
+      "type": "subject",
+      "subjectId": "6.6330"
+    },
+    {
+      "type": "subject",
+      "subjectId": "6.6340"
+    },
+    {
+      "type": "subject",
+      "subjectId": "6.6400"
+    },
+    {
+      "type": "subject",
+      "subjectId": "6.6410"
+    },
+    {
+      "type": "subject",
+      "subjectId": "6.6420"
+    },
+    {
+      "type": "subject",
+      "subjectId": "6.6440"
+    },
+    {
+      "type": "subject",
+      "subjectId": "6.6500"
+    },
+    {
+      "type": "subject",
+      "subjectId": "6.6510"
+    },
+    {
+      "type": "subject",
+      "subjectId": "6.7000"
+    },
+    {
+      "type": "subject",
+      "subjectId": "6.7010"
+    },
+    {
+      "type": "subject",
+      "subjectId": "6.7100"
+    },
+    {
+      "type": "subject",
+      "subjectId": "6.7121"
+    },
+    {
+      "type": "subject",
+      "subjectId": "6.7200"
+    },
+    {
+      "type": "subject",
+      "subjectId": "6.7210"
+    },
+    {
+      "type": "subject",
+      "subjectId": "6.7220"
+    },
+    {
+      "type": "subject",
+      "subjectId": "6.7300"
+    },
+    {
+      "type": "subject",
+      "subjectId": "6.7310"
+    },
+    {
+      "type": "subject",
+      "subjectId": "6.7320"
+    },
+    {
+      "type": "subject",
+      "subjectId": "6.7420"
+    },
+    {
+      "type": "subject",
+      "subjectId": "6.7700"
+    },
+    {
+      "type": "subject",
+      "subjectId": "6.7710"
+    },
+    {
+      "type": "subject",
+      "subjectId": "6.7720"
+    },
+    {
+      "type": "subject",
+      "subjectId": "6.7730"
+    },
+    {
+      "type": "subject",
+      "subjectId": "6.7800"
+    },
+    {
+      "type": "subject",
+      "subjectId": "6.7810"
+    },
+    {
+      "type": "subject",
+      "subjectId": "6.7900"
+    },
+    {
+      "type": "subject",
+      "subjectId": "6.7910"
+    },
+    {
+      "type": "subject",
+      "subjectId": "6.7930"
+    },
+    {
+      "type": "subject",
+      "subjectId": "6.7940"
+    },
+    {
+      "type": "subject",
+      "subjectId": "6.7960"
+    },
+    {
+      "type": "subject",
+      "subjectId": "6.7970"
+    },
+    {
+      "type": "subject",
+      "subjectId": "6.7980"
+    },
+    {
+      "type": "subject",
+      "subjectId": "6.8110"
+    },
+    {
+      "type": "subject",
+      "subjectId": "6.8200"
+    },
+    {
+      "type": "subject",
+      "subjectId": "6.8210"
+    },
+    {
+      "type": "subject",
+      "subjectId": "6.8300"
+    },
+    {
+      "type": "subject",
+      "subjectId": "6.8370"
+    },
+    {
+      "type": "subject",
+      "subjectId": "6.8410"
+    },
+    {
+      "type": "subject",
+      "subjectId": "6.8420"
+    },
+    {
+      "type": "subject",
+      "subjectId": "6.8510"
+    },
+    {
+      "type": "subject",
+      "subjectId": "6.8530"
+    },
+    {
+      "type": "subject",
+      "subjectId": "6.8610"
+    },
+    {
+      "type": "subject",
+      "subjectId": "6.8620"
+    },
+    {
+      "type": "subject",
+      "subjectId": "6.8630"
+    },
+    {
+      "type": "subject",
+      "subjectId": "6.8710"
+    },
+    {
+      "type": "subject",
+      "subjectId": "6.8720"
+    },
+    {
+      "type": "subject",
+      "subjectId": "6.8800"
+    },
+    {
+      "type": "subject",
+      "subjectId": "6.8850"
+    },
+    {
+      "type": "group",
+      "ruleType": "all_of",
+      "items": [
+        {
+          "type": "subject",
+          "subjectId": "6.C51"
+        },
+        {
+          "type": "subject",
+          "subjectId": "6.C511"
+        }
+      ]
+    },
+    {
+      "type": "subject",
+      "subjectId": "6.C57"
+    },
+    {
+      "type": "subject",
+      "subjectId": "6.C85"
+    }
+  ],
+  "version": "1"
+}

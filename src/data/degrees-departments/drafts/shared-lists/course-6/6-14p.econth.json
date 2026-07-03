@@ -1,0 +1,44 @@
+{
+  "sharedListId": "6-14p.econth",
+  "program": "6-14p",
+  "title": "ECONTH",
+  "items": [
+    {
+      "type": "subject",
+      "subjectId": "14.04"
+    },
+    {
+      "type": "subject",
+      "subjectId": "14.12"
+    },
+    {
+      "type": "subject",
+      "subjectId": "14.13"
+    },
+    {
+      "type": "subject",
+      "subjectId": "14.16"
+    },
+    {
+      "type": "subject",
+      "subjectId": "14.17"
+    },
+    {
+      "type": "subject",
+      "subjectId": "14.19"
+    },
+    {
+      "type": "subject",
+      "subjectId": "14.26"
+    },
+    {
+      "type": "subject",
+      "subjectId": "14.54"
+    },
+    {
+      "type": "subject",
+      "subjectId": "6.3260"
+    }
+  ],
+  "version": "1"
+}

@@ -1,0 +1,303 @@
+{
+  "schemaVersion": "2",
+  "program": "6-7",
+  "title": "Computer Science and Molecular Biology (Course 6-7)",
+  "level": "undergraduate",
+  "complete": false,
+  "catalogYear": "2024",
+  "effectiveTerm": "2024-FA",
+  "includesGir": "sb",
+  "eecsSource": {
+    "url": "https://eecsis.mit.edu/degree_requirements.pcgi?program=6-7",
+    "programKey": "6-7_2024",
+    "enterYear": 2024,
+    "level": "SB",
+    "scrapedAt": "2026-07-03",
+    "contentHash": "95833f429ebaf813fbc56a02b8d55134504f3c83e6390b066b48f1f3532ef0ab"
+  },
+  "footnotes": [
+    {
+      "id": "1",
+      "text": "You must follow these requirements if you entered MIT in Fall 2024 or later."
+    },
+    {
+      "id": "2",
+      "text": "Includes subjects as of Fall 2026"
+    },
+    {
+      "id": "3",
+      "text": "Each completed subject can only be used to satisfy at most one _required_ subject but can be used to satisfy multiple _additional constraints_."
+    },
+    {
+      "id": "4",
+      "text": ": only offered fall term : only offered spring term grey: not offered this academic year."
+    },
+    {
+      "id": "5",
+      "text": "The prerequisites for 6.1210 can be satisfied in two different ways:"
+    },
+    {
+      "id": "6",
+      "text": "take 6.100A (6 units) and 6.1200 (12 units), or"
+    },
+    {
+      "id": "7",
+      "text": "take 6.100A (6 units) and 6.120A (6 units) and one of the following probability courses: 6.3700, 6.3800, 18.05, or 18.600 (all 12 units). You can petition to use the required probability course as one of the two restricted electives, provided that the second restricted elective is from Course 7."
+    }
+  ],
+  "constraints": [],
+  "requirements": [
+    {
+      "groupId": "6-7-required-subjects",
+      "title": "Required Subjects",
+      "bucket": "departmental",
+      "subcategory": "required_subjects",
+      "root": {
+        "type": "group",
+        "ruleType": "all_of",
+        "items": [
+          {
+            "type": "group",
+            "ruleType": "all_of",
+            "items": [
+              {
+                "type": "selection",
+                "ruleType": "choose_one",
+                "items": [
+                  {
+                    "type": "subject",
+                    "subjectId": "6.1000"
+                  },
+                  {
+                    "type": "subject",
+                    "subjectId": "6.100A"
+                  },
+                  {
+                    "type": "subject",
+                    "subjectId": "6.1020"
+                  }
+                ],
+                "itemsSource": "explicit"
+              },
+              {
+                "type": "selection",
+                "ruleType": "choose_one",
+                "items": [
+                  {
+                    "type": "subject",
+                    "subjectId": "6.1200"
+                  },
+                  {
+                    "type": "subject",
+                    "subjectId": "6.120A"
+                  },
+                  {
+                    "type": "subject",
+                    "subjectId": "18.062"
+                  }
+                ],
+                "itemsSource": "explicit"
+              },
+              {
+                "type": "selection",
+                "ruleType": "choose_one",
+                "items": [
+                  {
+                    "type": "subject",
+                    "subjectId": "18.06"
+                  },
+                  {
+                    "type": "subject",
+                    "subjectId": "18.C06"
+                  },
+                  {
+                    "type": "subject",
+                    "subjectId": "6.C06"
+                  }
+                ],
+                "itemsSource": "explicit"
+              }
+            ],
+            "note": "Three Mathematics and Introductory subjects"
+          },
+          {
+            "type": "group",
+            "ruleType": "all_of",
+            "items": [
+              {
+                "type": "selection",
+                "ruleType": "choose_one",
+                "items": [
+                  {
+                    "type": "subject",
+                    "subjectId": "5.12"
+                  },
+                  {
+                    "type": "subject",
+                    "subjectId": "CC.512"
+                  }
+                ],
+                "itemsSource": "explicit"
+              },
+              {
+                "type": "subject",
+                "subjectId": "5.601"
+              }
+            ],
+            "note": "Two Chemistry subjects"
+          },
+          {
+            "type": "selection",
+            "ruleType": "choose_one",
+            "items": [
+              {
+                "type": "subject",
+                "subjectId": "20.109"
+              },
+              {
+                "type": "subject",
+                "subjectId": "7.002"
+              },
+              {
+                "type": "subject",
+                "subjectId": "7.003"
+              },
+              {
+                "type": "subject",
+                "subjectId": "10.7003"
+              }
+            ],
+            "itemsSource": "explicit"
+          },
+          {
+            "type": "group",
+            "ruleType": "all_of",
+            "items": [
+              {
+                "type": "subject",
+                "subjectId": "6.1010"
+              },
+              {
+                "type": "subject",
+                "subjectId": "6.1210"
+              },
+              {
+                "type": "selection",
+                "ruleType": "choose_one",
+                "items": [
+                  {
+                    "type": "subject",
+                    "subjectId": "6.3900"
+                  },
+                  {
+                    "type": "subject",
+                    "subjectId": "6.C01"
+                  }
+                ],
+                "itemsSource": "explicit"
+              }
+            ],
+            "note": "Three Computer Science Foundation subjects"
+          },
+          {
+            "type": "group",
+            "ruleType": "all_of",
+            "items": [
+              {
+                "type": "subject",
+                "subjectId": "7.03"
+              },
+              {
+                "type": "selection",
+                "ruleType": "choose_one",
+                "items": [
+                  {
+                    "type": "subject",
+                    "subjectId": "5.07"
+                  },
+                  {
+                    "type": "subject",
+                    "subjectId": "7.05"
+                  },
+                  {
+                    "type": "subject",
+                    "subjectId": "20.507"
+                  }
+                ],
+                "itemsSource": "explicit"
+              },
+              {
+                "type": "subject",
+                "subjectId": "7.06"
+              }
+            ],
+            "note": "Three Biological Science Fundation subjects"
+          },
+          {
+            "type": "selection",
+            "ruleType": "choose_one",
+            "items": [
+              {
+                "type": "subject",
+                "subjectId": "6.UAR"
+              },
+              {
+                "type": "subject",
+                "subjectId": "6.UAT"
+              },
+              {
+                "type": "subject",
+                "subjectId": "7.19"
+              },
+              {
+                "type": "subject",
+                "subjectId": "9.12"
+              },
+              {
+                "type": "subject",
+                "subjectId": "2.UAR"
+              }
+            ],
+            "itemsSource": "explicit"
+          }
+        ]
+      }
+    },
+    {
+      "groupId": "6-7-computational-biology-elective",
+      "title": "Computational Biology Elective",
+      "bucket": "elective",
+      "subcategory": "elective_subjects",
+      "root": {
+        "type": "selection",
+        "ruleType": "choose_n",
+        "ruleValue": 1,
+        "itemsSource": "shared_list_union",
+        "sharedListIds": [
+          "6-7.compbio"
+        ],
+        "note": "One from the COMPBIOv2 list"
+      }
+    },
+    {
+      "groupId": "6-7-restricted-elective",
+      "title": "Restricted Elective",
+      "bucket": "elective",
+      "subcategory": "elective_subjects",
+      "root": {
+        "type": "selection",
+        "ruleType": "choose_n",
+        "ruleValue": 2,
+        "itemsSource": "shared_list_union",
+        "sharedListIds": [
+          "6-7.biore",
+          "course-6.ai-d-aus",
+          "course-6.grad-aid-aus"
+        ],
+        "note": "Two from the BIOREv2, AI+D\\_AUS, grad\\_AI+D\\_AUS, or COMPBIOv2 list"
+      }
+    }
+  ],
+  "status": "draft",
+  "revisionId": "6-7-2026-07-03-29957813"
+}

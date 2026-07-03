@@ -1,0 +1,366 @@
+{
+  "schemaVersion": "2",
+  "program": "phd-social-engineering-systems",
+  "title": "Social and Engineering Systems (PhD/ScD)",
+  "level": "graduate",
+  "complete": false,
+  "catalogSource": {
+    "url": "https://catalog.mit.edu/degree-charts/phd-social-engineering-systems/",
+    "slug": "phd-social-engineering-systems",
+    "scrapedAt": "2026-07-03",
+    "contentHash": "26e24070c932e32e7e797486dc4203b3263355f94bddf1ee47b4db83a6d79b1d"
+  },
+  "footnotes": [
+    {
+      "id": "1",
+      "text": "Can also be satisfied by Harvard University subject SOCIO 2205 Sociological Research Design."
+    },
+    {
+      "id": "2",
+      "text": "Students should choose 9-12 unit subjects to meet this requirement, with no more than half of the subjects chosen being 9-unit subjects. Two partial term subjects that form a two-subject sequence may be counted as one subject if their unit total is equal to or greater than 9 units. If Core subjects are used to satisfy this requirement, the remaining subjects in the focus should be at a more advanced level."
+    },
+    {
+      "id": "3",
+      "text": "Core subjects in Probability and Statistics should be counted toward this requirement."
+    },
+    {
+      "id": "4",
+      "text": "6.7700 Fundamentals of Probability or another subject approved by the advisor and the graduate program committee."
+    },
+    {
+      "id": "5",
+      "text": "Core subjects in Social Science and Microeconomics/Causal Inference should be counted toward this requirement."
+    },
+    {
+      "id": "6",
+      "text": "One subject may be satisfied by a one-term, 12-unit internship (IDS.955 Practical Experience in Data, Systems, and Society) or independent study (IDS.950 Independent Study in Data, Systems, and Society). IDS.955 is considered an ideal way to satisfy one Problem Domain requirement."
+    },
+    {
+      "id": "7",
+      "text": "One subject may also be counted toward the Social Science Focus."
+    },
+    {
+      "id": "8",
+      "text": "This represents the number of units the average student registers for this subject over the course of the program."
+    }
+  ],
+  "constraints": [],
+  "requirements": [
+    {
+      "groupId": "phd-social-engineering-systems-orientation",
+      "title": "Orientation",
+      "bucket": "departmental",
+      "subcategory": "required_subjects",
+      "flexibility": {
+        "advisorApproval": false,
+        "catalogText": "[IDS.900](https://catalog.mit.edu/search/?P=IDS.900 \"IDS.900\")"
+      },
+      "root": {
+        "type": "selection",
+        "ruleType": "choose_units",
+        "ruleValue": 3,
+        "itemsSource": "advisor_defined",
+        "note": "[IDS.900](https://catalog.mit.edu/search/?P=IDS.900 \"IDS.900\")",
+        "flexibility": {
+          "catalogText": "[IDS.900](https://catalog.mit.edu/search/?P=IDS.900 \"IDS.900\")"
+        }
+      }
+    },
+    {
+      "groupId": "phd-social-engineering-systems-probability",
+      "title": "Probability",
+      "bucket": "departmental",
+      "subcategory": "required_subjects",
+      "root": {
+        "type": "subject",
+        "subjectId": "6.7700"
+      }
+    },
+    {
+      "groupId": "phd-social-engineering-systems-statistics",
+      "title": "Statistics",
+      "bucket": "departmental",
+      "subcategory": "required_subjects",
+      "root": {
+        "type": "group",
+        "ruleType": "all_of",
+        "items": [
+          {
+            "type": "subject",
+            "subjectId": "18.6501"
+          },
+          {
+            "type": "subject",
+            "subjectId": "18.655"
+          }
+        ]
+      }
+    },
+    {
+      "groupId": "phd-social-engineering-systems-social-science-1",
+      "title": "_Social Science_1",
+      "bucket": "departmental",
+      "subcategory": "required_subjects",
+      "root": {
+        "type": "group",
+        "ruleType": "all_of",
+        "items": [
+          {
+            "type": "subject",
+            "subjectId": "17.850"
+          },
+          {
+            "type": "subject",
+            "subjectId": "21A.809"
+          },
+          {
+            "type": "subject",
+            "subjectId": "21A.819"
+          }
+        ]
+      }
+    },
+    {
+      "groupId": "phd-social-engineering-systems-microeconomics-causal-inference",
+      "title": "Microeconomics / Causal Inference",
+      "bucket": "departmental",
+      "subcategory": "required_subjects",
+      "flexibility": {
+        "advisorApproval": false,
+        "catalogText": "Information Systems and Decision Science Focus2, 3"
+      },
+      "root": {
+        "type": "group",
+        "ruleType": "all_of",
+        "items": [
+          {
+            "type": "group",
+            "ruleType": "all_of",
+            "items": [
+              {
+                "type": "subject",
+                "subjectId": "14.121"
+              },
+              {
+                "type": "subject",
+                "subjectId": "14.122"
+              }
+            ]
+          },
+          {
+            "type": "subject",
+            "subjectId": "14.320"
+          },
+          {
+            "type": "subject",
+            "subjectId": "14.386"
+          },
+          {
+            "type": "subject",
+            "subjectId": "14.388"
+          },
+          {
+            "type": "subject",
+            "subjectId": "17.802"
+          },
+          {
+            "type": "selection",
+            "ruleType": "choose_units",
+            "ruleValue": 54,
+            "itemsSource": "advisor_defined",
+            "note": "Information Systems and Decision Science Focus2, 3",
+            "flexibility": {
+              "catalogText": "Information Systems and Decision Science Focus2, 3"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "groupId": "phd-social-engineering-systems-two-subjects-belonging-to-a-sequence-that-provides-increasing-depth-on-a-particular-topic",
+      "title": "Two subjects belonging to a sequence that provides increasing depth on a particular topic",
+      "bucket": "departmental",
+      "subcategory": "required_subjects",
+      "flexibility": {
+        "advisorApproval": false,
+        "catalogText": "Social Science Focus2, 5"
+      },
+      "root": {
+        "type": "group",
+        "ruleType": "all_of",
+        "items": [
+          {
+            "type": "selection",
+            "ruleType": "choose_units",
+            "ruleValue": 42,
+            "itemsSource": "advisor_defined",
+            "note": "Social Science Focus2, 5",
+            "flexibility": {
+              "catalogText": "Social Science Focus2, 5"
+            }
+          },
+          {
+            "type": "selection",
+            "ruleType": "choose_units",
+            "ruleValue": 9,
+            "itemsSource": "advisor_defined",
+            "note": "Problem Domain Focus2, 6, 7",
+            "flexibility": {
+              "catalogText": "Problem Domain Focus2, 6, 7"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "groupId": "phd-social-engineering-systems-teaching",
+      "title": "Teaching",
+      "bucket": "departmental",
+      "subcategory": "required_subjects",
+      "flexibility": {
+        "advisorApproval": false,
+        "catalogText": "[IDS.960](https://catalog.mit.edu/search/?P=IDS.960 \"IDS.960\")"
+      },
+      "root": {
+        "type": "selection",
+        "ruleType": "choose_units",
+        "ruleValue": 20,
+        "itemsSource": "advisor_defined",
+        "note": "[IDS.960](https://catalog.mit.edu/search/?P=IDS.960 \"IDS.960\")",
+        "flexibility": {
+          "catalogText": "[IDS.960](https://catalog.mit.edu/search/?P=IDS.960 \"IDS.960\")"
+        }
+      }
+    },
+    {
+      "groupId": "phd-social-engineering-systems-research",
+      "title": "Research",
+      "bucket": "departmental",
+      "subcategory": "required_subjects",
+      "flexibility": {
+        "advisorApproval": false,
+        "catalogText": "[IDS.970](https://catalog.mit.edu/search/?P=IDS.970 \"IDS.970\")"
+      },
+      "root": {
+        "type": "group",
+        "ruleType": "all_of",
+        "items": [
+          {
+            "type": "selection",
+            "ruleType": "choose_units",
+            "ruleValue": 138,
+            "itemsSource": "advisor_defined",
+            "note": "[IDS.970](https://catalog.mit.edu/search/?P=IDS.970 \"IDS.970\")",
+            "flexibility": {
+              "catalogText": "[IDS.970](https://catalog.mit.edu/search/?P=IDS.970 \"IDS.970\")"
+            }
+          },
+          {
+            "type": "selection",
+            "ruleType": "choose_units",
+            "ruleValue": 60,
+            "itemsSource": "advisor_defined",
+            "note": "[IDS.THG](https://catalog.mit.edu/search/?P=IDS.THG \"IDS.THG\")",
+            "flexibility": {
+              "catalogText": "[IDS.THG](https://catalog.mit.edu/search/?P=IDS.THG \"IDS.THG\")"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "groupId": "phd-social-engineering-systems-8",
+      "title": "8",
+      "bucket": "departmental",
+      "subcategory": "required_subjects",
+      "flexibility": {
+        "advisorApproval": false,
+        "catalogText": "[IDS.131\\[J\\]](https://catalog.mit.edu/search/?P=IDS.131 \"IDS.131[J]\")"
+      },
+      "root": {
+        "type": "group",
+        "ruleType": "all_of",
+        "items": [
+          {
+            "type": "subject",
+            "subjectId": "6.7810"
+          },
+          {
+            "type": "subject",
+            "subjectId": "6.7900"
+          },
+          {
+            "type": "subject",
+            "subjectId": "9.520"
+          },
+          {
+            "type": "group",
+            "ruleType": "all_of",
+            "items": [
+              {
+                "type": "subject",
+                "subjectId": "14.382"
+              },
+              {
+                "type": "subject",
+                "subjectId": "14.383"
+              }
+            ]
+          },
+          {
+            "type": "subject",
+            "subjectId": "15.077"
+          },
+          {
+            "type": "subject",
+            "subjectId": "16.391"
+          },
+          {
+            "type": "subject",
+            "subjectId": "17.802"
+          },
+          {
+            "type": "subject",
+            "subjectId": "17.804"
+          },
+          {
+            "type": "subject",
+            "subjectId": "17.806"
+          },
+          {
+            "type": "subject",
+            "subjectId": "18.6501"
+          },
+          {
+            "type": "subject",
+            "subjectId": "18.655"
+          },
+          {
+            "type": "selection",
+            "ruleType": "choose_units",
+            "ruleValue": 12,
+            "itemsSource": "advisor_defined",
+            "note": "[IDS.131\\[J\\]](https://catalog.mit.edu/search/?P=IDS.131 \"IDS.131[J]\")",
+            "flexibility": {
+              "catalogText": "[IDS.131\\[J\\]](https://catalog.mit.edu/search/?P=IDS.131 \"IDS.131[J]\")"
+            }
+          },
+          {
+            "type": "selection",
+            "ruleType": "choose_units",
+            "ruleValue": 12,
+            "itemsSource": "advisor_defined",
+            "note": "[IDS.160\\[J\\]](https://catalog.mit.edu/search/?P=IDS.160 \"IDS.160[J]\")",
+            "flexibility": {
+              "catalogText": "[IDS.160\\[J\\]](https://catalog.mit.edu/search/?P=IDS.160 \"IDS.160[J]\")"
+            }
+          }
+        ]
+      }
+    }
+  ],
+  "status": "draft",
+  "revisionId": "phd-social-engineering-systems-2026-07-03-26e24070",
+  "catalogYear": "2026",
+  "effectiveTerm": "2026-FA"
+}

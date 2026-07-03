@@ -1,0 +1,16 @@
+{
+  "sharedListId": "7.communication-intensive-subjects-in-the-major",
+  "program": "7",
+  "title": "Communication-Intensive Subjects in the Major",
+  "items": [
+    {
+      "type": "subject",
+      "subjectId": "7.003"
+    },
+    {
+      "type": "subject",
+      "subjectId": "7.19"
+    }
+  ],
+  "version": "1"
+}

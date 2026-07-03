@@ -1,0 +1,28 @@
+{
+  "sharedListId": "course-6.track-embedded-systems",
+  "program": "course-6",
+  "title": "Embedded Systems",
+  "items": [
+    {
+      "type": "subject",
+      "subjectId": "6.1820"
+    },
+    {
+      "type": "subject",
+      "subjectId": "6.2050"
+    },
+    {
+      "type": "subject",
+      "subjectId": "6.2060"
+    },
+    {
+      "type": "subject",
+      "subjectId": "6.4510"
+    },
+    {
+      "type": "subject",
+      "subjectId": "6.6040"
+    }
+  ],
+  "version": "1"
+}

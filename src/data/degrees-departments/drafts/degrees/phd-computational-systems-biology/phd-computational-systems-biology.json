@@ -1,0 +1,828 @@
+{
+  "schemaVersion": "2",
+  "program": "phd-computational-systems-biology",
+  "title": "Computational and Systems Biology (PhD)",
+  "level": "graduate",
+  "complete": false,
+  "catalogSource": {
+    "url": "https://catalog.mit.edu/degree-charts/phd-computational-systems-biology/",
+    "slug": "phd-computational-systems-biology",
+    "scrapedAt": "2026-07-03",
+    "contentHash": "19ba027597433859b59dd4a65295abd31b1e12f70389858f5ba20727a5029584"
+  },
+  "footnotes": [
+    {
+      "id": "1",
+      "text": "6.C51 and 20.C51 must be taken concurrently for credit for a letter grade."
+    },
+    {
+      "id": "2",
+      "text": "Other subjects may be approved on a case-by-case basis by the program directors."
+    },
+    {
+      "id": "3",
+      "text": "With permission of their advisor, students may substitute another MIT subject of at least 2 units that supports career exploration or professional development."
+    },
+    {
+      "id": "4",
+      "text": "The units listed here represent an average number taken during the doctoral program."
+    }
+  ],
+  "constraints": [],
+  "requirements": [
+    {
+      "groupId": "phd-computational-systems-biology-core-curriculum",
+      "title": "Core Curriculum",
+      "bucket": "departmental",
+      "subcategory": "required_subjects",
+      "flexibility": {
+        "advisorApproval": false,
+        "catalogText": "[CSB.100\\[J\\]](https://catalog.mit.edu/search/?P=CSB.100 \"CSB.100[J]\")"
+      },
+      "root": {
+        "type": "selection",
+        "ruleType": "choose_units",
+        "ruleValue": 12,
+        "itemsSource": "advisor_defined",
+        "note": "[CSB.100\\[J\\]](https://catalog.mit.edu/search/?P=CSB.100 \"CSB.100[J]\")",
+        "flexibility": {
+          "catalogText": "[CSB.100\\[J\\]](https://catalog.mit.edu/search/?P=CSB.100 \"CSB.100[J]\")"
+        }
+      }
+    },
+    {
+      "groupId": "phd-computational-systems-biology-biology-requirement",
+      "title": "Biology Requirement",
+      "bucket": "departmental",
+      "subcategory": "required_subjects",
+      "root": {
+        "type": "selection",
+        "ruleType": "choose_one",
+        "itemsSource": "explicit",
+        "items": [
+          {
+            "type": "subject",
+            "subjectId": "7.51"
+          },
+          {
+            "type": "subject",
+            "subjectId": "7.52"
+          },
+          {
+            "type": "subject",
+            "subjectId": "7.58"
+          },
+          {
+            "type": "subject",
+            "subjectId": "7.61"
+          },
+          {
+            "type": "subject",
+            "subjectId": "7.63"
+          },
+          {
+            "type": "subject",
+            "subjectId": "7.68"
+          }
+        ]
+      }
+    },
+    {
+      "groupId": "phd-computational-systems-biology-computational-biology-requirement",
+      "title": "Computational Biology Requirement",
+      "bucket": "departmental",
+      "subcategory": "computation",
+      "root": {
+        "type": "selection",
+        "ruleType": "choose_one",
+        "itemsSource": "explicit",
+        "items": [
+          {
+            "type": "group",
+            "ruleType": "all_of",
+            "items": [
+              {
+                "type": "subject",
+                "subjectId": "6.C51"
+              },
+              {
+                "type": "subject",
+                "subjectId": "20.C51"
+              }
+            ]
+          },
+          {
+            "type": "subject",
+            "subjectId": "6.8700"
+          },
+          {
+            "type": "subject",
+            "subjectId": "7.81"
+          },
+          {
+            "type": "subject",
+            "subjectId": "20.490"
+          }
+        ]
+      }
+    },
+    {
+      "groupId": "phd-computational-systems-biology-research-rotations",
+      "title": "Research Rotations",
+      "bucket": "departmental",
+      "subcategory": "required_subjects",
+      "flexibility": {
+        "advisorApproval": false,
+        "catalogText": "[CSB.110](https://catalog.mit.edu/search/?P=CSB.110 \"CSB.110\")"
+      },
+      "root": {
+        "type": "selection",
+        "ruleType": "choose_units",
+        "ruleValue": 24,
+        "itemsSource": "advisor_defined",
+        "note": "[CSB.110](https://catalog.mit.edu/search/?P=CSB.110 \"CSB.110\")",
+        "flexibility": {
+          "catalogText": "[CSB.110](https://catalog.mit.edu/search/?P=CSB.110 \"CSB.110\")"
+        }
+      }
+    },
+    {
+      "groupId": "phd-computational-systems-biology-restricted-electives",
+      "title": "Restricted Electives",
+      "bucket": "elective",
+      "subcategory": "restricted_electives",
+      "flexibility": {
+        "advisorApproval": false,
+        "catalogText": "Four subjects from the list below, including two subjects in the student's research area or department that are topically related, one engineering subject, and one biology subject2"
+      },
+      "root": {
+        "type": "selection",
+        "ruleType": "choose_units",
+        "ruleValue": 48,
+        "itemsSource": "advisor_defined",
+        "note": "Four subjects from the list below, including two subjects in the student's research area or department that are topically related, one engineering subject, and one biology subject2",
+        "flexibility": {
+          "catalogText": "Four subjects from the list below, including two subjects in the student's research area or department that are topically related, one engineering subject, and one biology subject2"
+        }
+      }
+    },
+    {
+      "groupId": "phd-computational-systems-biology-teaching-experience",
+      "title": "Teaching Experience",
+      "bucket": "departmental",
+      "subcategory": "required_subjects",
+      "flexibility": {
+        "advisorApproval": false,
+        "catalogText": "[CSB.199](https://catalog.mit.edu/search/?P=CSB.199 \"CSB.199\")"
+      },
+      "root": {
+        "type": "selection",
+        "ruleType": "choose_units",
+        "ruleValue": 12,
+        "itemsSource": "advisor_defined",
+        "note": "[CSB.199](https://catalog.mit.edu/search/?P=CSB.199 \"CSB.199\")",
+        "flexibility": {
+          "catalogText": "[CSB.199](https://catalog.mit.edu/search/?P=CSB.199 \"CSB.199\")"
+        }
+      }
+    },
+    {
+      "groupId": "phd-computational-systems-biology-professional-development",
+      "title": "Professional Development",
+      "bucket": "departmental",
+      "subcategory": "required_subjects",
+      "root": {
+        "type": "group",
+        "ruleType": "all_of",
+        "items": [
+          {
+            "type": "subject",
+            "subjectId": "7.930"
+          },
+          {
+            "type": "subject",
+            "subjectId": "8.396"
+          },
+          {
+            "type": "subject",
+            "subjectId": "8.397"
+          }
+        ]
+      }
+    },
+    {
+      "groupId": "phd-computational-systems-biology-thesis",
+      "title": "Thesis",
+      "bucket": "thesis",
+      "subcategory": "thesis",
+      "flexibility": {
+        "advisorApproval": false,
+        "catalogText": "[CSB.THG](https://catalog.mit.edu/search/?P=CSB.THG \"CSB.THG\")"
+      },
+      "root": {
+        "type": "selection",
+        "ruleType": "choose_units",
+        "ruleValue": 252,
+        "itemsSource": "advisor_defined",
+        "note": "[CSB.THG](https://catalog.mit.edu/search/?P=CSB.THG \"CSB.THG\")",
+        "flexibility": {
+          "catalogText": "[CSB.THG](https://catalog.mit.edu/search/?P=CSB.THG \"CSB.THG\")"
+        }
+      }
+    },
+    {
+      "groupId": "phd-computational-systems-biology-civil-and-environmental-engineering",
+      "title": "Civil and Environmental Engineering",
+      "bucket": "departmental",
+      "subcategory": "required_subjects",
+      "root": {
+        "type": "group",
+        "ruleType": "all_of",
+        "items": [
+          {
+            "type": "subject",
+            "subjectId": "1.545"
+          },
+          {
+            "type": "subject",
+            "subjectId": "1.685"
+          },
+          {
+            "type": "subject",
+            "subjectId": "1.89"
+          },
+          {
+            "type": "subject",
+            "subjectId": "1.873"
+          },
+          {
+            "type": "subject",
+            "subjectId": "1.881"
+          }
+        ]
+      }
+    },
+    {
+      "groupId": "phd-computational-systems-biology-mechanical-engineering",
+      "title": "Mechanical Engineering",
+      "bucket": "departmental",
+      "subcategory": "required_subjects",
+      "root": {
+        "type": "group",
+        "ruleType": "all_of",
+        "items": [
+          {
+            "type": "subject",
+            "subjectId": "2.18"
+          },
+          {
+            "type": "subject",
+            "subjectId": "2.717"
+          }
+        ]
+      }
+    },
+    {
+      "groupId": "phd-computational-systems-biology-chemistry",
+      "title": "Chemistry",
+      "bucket": "departmental",
+      "subcategory": "required_subjects",
+      "root": {
+        "type": "group",
+        "ruleType": "all_of",
+        "items": [
+          {
+            "type": "subject",
+            "subjectId": "5.64"
+          },
+          {
+            "type": "subject",
+            "subjectId": "5.70"
+          }
+        ]
+      }
+    },
+    {
+      "groupId": "phd-computational-systems-biology-electrical-engineering-and-computer-science",
+      "title": "Electrical Engineering and Computer Science",
+      "bucket": "departmental",
+      "subcategory": "required_subjects",
+      "root": {
+        "type": "group",
+        "ruleType": "all_of",
+        "items": [
+          {
+            "type": "group",
+            "ruleType": "all_of",
+            "items": [
+              {
+                "type": "subject",
+                "subjectId": "6.C51"
+              },
+              {
+                "type": "subject",
+                "subjectId": "20.C51"
+              }
+            ]
+          },
+          {
+            "type": "subject",
+            "subjectId": "6.3702"
+          },
+          {
+            "type": "subject",
+            "subjectId": "6.3722"
+          },
+          {
+            "type": "subject",
+            "subjectId": "6.5060"
+          },
+          {
+            "type": "subject",
+            "subjectId": "6.5150"
+          },
+          {
+            "type": "subject",
+            "subjectId": "6.5210"
+          },
+          {
+            "type": "subject",
+            "subjectId": "6.5420"
+          },
+          {
+            "type": "subject",
+            "subjectId": "6.6220"
+          },
+          {
+            "type": "subject",
+            "subjectId": "6.6500"
+          },
+          {
+            "type": "subject",
+            "subjectId": "6.7100"
+          },
+          {
+            "type": "subject",
+            "subjectId": "6.7300"
+          },
+          {
+            "type": "subject",
+            "subjectId": "6.7310"
+          },
+          {
+            "type": "subject",
+            "subjectId": "6.7330"
+          },
+          {
+            "type": "subject",
+            "subjectId": "6.7700"
+          },
+          {
+            "type": "subject",
+            "subjectId": "6.7710"
+          },
+          {
+            "type": "subject",
+            "subjectId": "6.7720"
+          },
+          {
+            "type": "subject",
+            "subjectId": "6.7800"
+          },
+          {
+            "type": "subject",
+            "subjectId": "6.7810"
+          },
+          {
+            "type": "subject",
+            "subjectId": "6.7830"
+          },
+          {
+            "type": "subject",
+            "subjectId": "6.7900"
+          },
+          {
+            "type": "subject",
+            "subjectId": "6.7920"
+          },
+          {
+            "type": "subject",
+            "subjectId": "6.7930"
+          },
+          {
+            "type": "subject",
+            "subjectId": "6.7960"
+          },
+          {
+            "type": "subject",
+            "subjectId": "6.8610"
+          },
+          {
+            "type": "subject",
+            "subjectId": "6.8700"
+          },
+          {
+            "type": "subject",
+            "subjectId": "6.8710"
+          },
+          {
+            "type": "subject",
+            "subjectId": "6.S982"
+          }
+        ]
+      }
+    },
+    {
+      "groupId": "phd-computational-systems-biology-biology",
+      "title": "Biology",
+      "bucket": "departmental",
+      "subcategory": "required_subjects",
+      "root": {
+        "type": "group",
+        "ruleType": "all_of",
+        "items": [
+          {
+            "type": "subject",
+            "subjectId": "7.493"
+          },
+          {
+            "type": "subject",
+            "subjectId": "7.51"
+          },
+          {
+            "type": "subject",
+            "subjectId": "7.52"
+          },
+          {
+            "type": "subject",
+            "subjectId": "7.58"
+          },
+          {
+            "type": "subject",
+            "subjectId": "7.60"
+          },
+          {
+            "type": "subject",
+            "subjectId": "7.61"
+          },
+          {
+            "type": "subject",
+            "subjectId": "7.63"
+          },
+          {
+            "type": "subject",
+            "subjectId": "7.64"
+          },
+          {
+            "type": "subject",
+            "subjectId": "7.66"
+          },
+          {
+            "type": "subject",
+            "subjectId": "7.69"
+          },
+          {
+            "type": "subject",
+            "subjectId": "7.70"
+          },
+          {
+            "type": "subject",
+            "subjectId": "7.71"
+          },
+          {
+            "type": "subject",
+            "subjectId": "7.72"
+          },
+          {
+            "type": "subject",
+            "subjectId": "7.75"
+          },
+          {
+            "type": "subject",
+            "subjectId": "7.77"
+          },
+          {
+            "type": "subject",
+            "subjectId": "7.83"
+          },
+          {
+            "type": "subject",
+            "subjectId": "7.84"
+          },
+          {
+            "type": "subject",
+            "subjectId": "7.85"
+          },
+          {
+            "type": "subject",
+            "subjectId": "7.86"
+          },
+          {
+            "type": "subject",
+            "subjectId": "7.91"
+          },
+          {
+            "type": "subject",
+            "subjectId": "7.95"
+          }
+        ]
+      }
+    },
+    {
+      "groupId": "phd-computational-systems-biology-physics",
+      "title": "Physics",
+      "bucket": "departmental",
+      "subcategory": "required_subjects",
+      "root": {
+        "type": "group",
+        "ruleType": "all_of",
+        "items": [
+          {
+            "type": "subject",
+            "subjectId": "8.333"
+          },
+          {
+            "type": "subject",
+            "subjectId": "8.334"
+          },
+          {
+            "type": "subject",
+            "subjectId": "8.431"
+          },
+          {
+            "type": "subject",
+            "subjectId": "8.591"
+          },
+          {
+            "type": "subject",
+            "subjectId": "8.592"
+          },
+          {
+            "type": "subject",
+            "subjectId": "8.593"
+          }
+        ]
+      }
+    },
+    {
+      "groupId": "phd-computational-systems-biology-brain-and-cognitive-sciences",
+      "title": "Brain and Cognitive Sciences",
+      "bucket": "departmental",
+      "subcategory": "required_subjects",
+      "root": {
+        "type": "group",
+        "ruleType": "all_of",
+        "items": [
+          {
+            "type": "subject",
+            "subjectId": "9.013"
+          },
+          {
+            "type": "subject",
+            "subjectId": "9.015"
+          },
+          {
+            "type": "subject",
+            "subjectId": "9.520"
+          }
+        ]
+      }
+    },
+    {
+      "groupId": "phd-computational-systems-biology-chemical-engineering",
+      "title": "Chemical Engineering",
+      "bucket": "departmental",
+      "subcategory": "required_subjects",
+      "root": {
+        "type": "group",
+        "ruleType": "all_of",
+        "items": [
+          {
+            "type": "subject",
+            "subjectId": "10.544"
+          },
+          {
+            "type": "subject",
+            "subjectId": "10.555"
+          },
+          {
+            "type": "subject",
+            "subjectId": "10.557"
+          },
+          {
+            "type": "subject",
+            "subjectId": "10.637"
+          }
+        ]
+      }
+    },
+    {
+      "groupId": "phd-computational-systems-biology-aeronautics-and-astronautics",
+      "title": "Aeronautics and Astronautics",
+      "bucket": "departmental",
+      "subcategory": "required_subjects",
+      "root": {
+        "type": "group",
+        "ruleType": "all_of",
+        "items": [
+          {
+            "type": "subject",
+            "subjectId": "16.391"
+          },
+          {
+            "type": "subject",
+            "subjectId": "16.940"
+          }
+        ]
+      }
+    },
+    {
+      "groupId": "phd-computational-systems-biology-mathematics",
+      "title": "Mathematics",
+      "bucket": "departmental",
+      "subcategory": "required_subjects",
+      "root": {
+        "type": "group",
+        "ruleType": "all_of",
+        "items": [
+          {
+            "type": "subject",
+            "subjectId": "18.0651"
+          },
+          {
+            "type": "subject",
+            "subjectId": "18.0751"
+          },
+          {
+            "type": "subject",
+            "subjectId": "18.0851"
+          },
+          {
+            "type": "subject",
+            "subjectId": "18.0861"
+          },
+          {
+            "type": "subject",
+            "subjectId": "18.408"
+          },
+          {
+            "type": "subject",
+            "subjectId": "18.417"
+          },
+          {
+            "type": "subject",
+            "subjectId": "18.418"
+          },
+          {
+            "type": "subject",
+            "subjectId": "18.4531"
+          },
+          {
+            "type": "subject",
+            "subjectId": "18.455"
+          },
+          {
+            "type": "subject",
+            "subjectId": "18.6501"
+          },
+          {
+            "type": "subject",
+            "subjectId": "18.677"
+          }
+        ]
+      }
+    },
+    {
+      "groupId": "phd-computational-systems-biology-biological-engineering",
+      "title": "Biological Engineering",
+      "bucket": "departmental",
+      "subcategory": "required_subjects",
+      "root": {
+        "type": "group",
+        "ruleType": "all_of",
+        "items": [
+          {
+            "type": "subject",
+            "subjectId": "20.201"
+          },
+          {
+            "type": "subject",
+            "subjectId": "20.405"
+          },
+          {
+            "type": "subject",
+            "subjectId": "20.409"
+          },
+          {
+            "type": "subject",
+            "subjectId": "20.410"
+          },
+          {
+            "type": "subject",
+            "subjectId": "20.415"
+          },
+          {
+            "type": "subject",
+            "subjectId": "20.420"
+          },
+          {
+            "type": "subject",
+            "subjectId": "20.430"
+          },
+          {
+            "type": "subject",
+            "subjectId": "20.440"
+          },
+          {
+            "type": "subject",
+            "subjectId": "20.463"
+          },
+          {
+            "type": "subject",
+            "subjectId": "20.490"
+          },
+          {
+            "type": "subject",
+            "subjectId": "20.535"
+          }
+        ]
+      }
+    },
+    {
+      "groupId": "phd-computational-systems-biology-data-systems-and-society",
+      "title": "Data, Systems, and Society",
+      "bucket": "departmental",
+      "subcategory": "required_subjects",
+      "flexibility": {
+        "advisorApproval": false,
+        "catalogText": "[IDS.136\\[J\\]](https://catalog.mit.edu/search/?P=IDS.136 \"IDS.136[J]\")"
+      },
+      "root": {
+        "type": "group",
+        "ruleType": "all_of",
+        "items": [
+          {
+            "type": "selection",
+            "ruleType": "choose_units",
+            "ruleValue": 12,
+            "itemsSource": "advisor_defined",
+            "note": "[IDS.136\\[J\\]](https://catalog.mit.edu/search/?P=IDS.136 \"IDS.136[J]\")",
+            "flexibility": {
+              "catalogText": "[IDS.136\\[J\\]](https://catalog.mit.edu/search/?P=IDS.136 \"IDS.136[J]\")"
+            }
+          },
+          {
+            "type": "selection",
+            "ruleType": "choose_units",
+            "ruleValue": 12,
+            "itemsSource": "advisor_defined",
+            "note": "[IDS.147\\[J\\]](https://catalog.mit.edu/search/?P=IDS.147 \"IDS.147[J]\")",
+            "flexibility": {
+              "catalogText": "[IDS.147\\[J\\]](https://catalog.mit.edu/search/?P=IDS.147 \"IDS.147[J]\")"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "groupId": "phd-computational-systems-biology-health-sciences-and-technology",
+      "title": "Health Sciences and Technology",
+      "bucket": "departmental",
+      "subcategory": "required_subjects",
+      "flexibility": {
+        "advisorApproval": false,
+        "catalogText": "[HST.176](https://catalog.mit.edu/search/?P=HST.176 \"HST.176\")"
+      },
+      "root": {
+        "type": "group",
+        "ruleType": "all_of",
+        "items": [
+          {
+            "type": "selection",
+            "ruleType": "choose_units",
+            "ruleValue": 12,
+            "itemsSource": "advisor_defined",
+            "note": "[HST.176](https://catalog.mit.edu/search/?P=HST.176 \"HST.176\")",
+            "flexibility": {
+              "catalogText": "[HST.176](https://catalog.mit.edu/search/?P=HST.176 \"HST.176\")"
+            }
+          },
+          {
+            "type": "selection",
+            "ruleType": "choose_units",
+            "ruleValue": 12,
+            "itemsSource": "advisor_defined",
+            "note": "[HST.508\\[J\\]](https://catalog.mit.edu/search/?P=HST.508 \"HST.508[J]\")",
+            "flexibility": {
+              "catalogText": "[HST.508\\[J\\]](https://catalog.mit.edu/search/?P=HST.508 \"HST.508[J]\")"
+            }
+          }
+        ]
+      }
+    }
+  ],
+  "status": "draft",
+  "revisionId": "phd-computational-systems-biology-2026-07-03-19ba0275",
+  "catalogYear": "2026",
+  "effectiveTerm": "2026-FA"
+}

@@ -1,0 +1,164 @@
+{
+  "sharedListId": "course-6.track-theory",
+  "program": "course-6",
+  "title": "Theory",
+  "items": [
+    {
+      "type": "subject",
+      "subjectId": "18.404"
+    },
+    {
+      "type": "subject",
+      "subjectId": "6.1220"
+    },
+    {
+      "type": "subject",
+      "subjectId": "6.1400"
+    },
+    {
+      "type": "subject",
+      "subjectId": "6.1420"
+    },
+    {
+      "type": "subject",
+      "subjectId": "6.5060"
+    },
+    {
+      "type": "subject",
+      "subjectId": "6.5210"
+    },
+    {
+      "type": "subject",
+      "subjectId": "6.5220"
+    },
+    {
+      "type": "subject",
+      "subjectId": "6.5230"
+    },
+    {
+      "type": "subject",
+      "subjectId": "6.5240"
+    },
+    {
+      "type": "subject",
+      "subjectId": "6.5250"
+    },
+    {
+      "type": "subject",
+      "subjectId": "6.5310"
+    },
+    {
+      "type": "subject",
+      "subjectId": "6.5320"
+    },
+    {
+      "type": "subject",
+      "subjectId": "6.5340"
+    },
+    {
+      "type": "subject",
+      "subjectId": "6.5350"
+    },
+    {
+      "type": "subject",
+      "subjectId": "6.5360"
+    },
+    {
+      "type": "subject",
+      "subjectId": "6.5370"
+    },
+    {
+      "type": "subject",
+      "subjectId": "6.5380"
+    },
+    {
+      "type": "subject",
+      "subjectId": "6.5390"
+    },
+    {
+      "type": "subject",
+      "subjectId": "6.5400"
+    },
+    {
+      "type": "subject",
+      "subjectId": "6.5410"
+    },
+    {
+      "type": "subject",
+      "subjectId": "6.5420"
+    },
+    {
+      "type": "subject",
+      "subjectId": "6.5430"
+    },
+    {
+      "type": "subject",
+      "subjectId": "6.5480"
+    },
+    {
+      "type": "subject",
+      "subjectId": "6.5490"
+    },
+    {
+      "type": "subject",
+      "subjectId": "6.5620"
+    },
+    {
+      "type": "subject",
+      "subjectId": "6.5630"
+    },
+    {
+      "type": "subject",
+      "subjectId": "6.6410"
+    },
+    {
+      "type": "subject",
+      "subjectId": "6.7980"
+    },
+    {
+      "type": "subject",
+      "subjectId": "18.410"
+    },
+    {
+      "type": "subject",
+      "subjectId": "18.400"
+    },
+    {
+      "type": "subject",
+      "subjectId": "18.415"
+    },
+    {
+      "type": "subject",
+      "subjectId": "18.416"
+    },
+    {
+      "type": "subject",
+      "subjectId": "18.437"
+    },
+    {
+      "type": "subject",
+      "subjectId": "18.4041"
+    },
+    {
+      "type": "subject",
+      "subjectId": "18.405"
+    },
+    {
+      "type": "subject",
+      "subjectId": "18.425"
+    },
+    {
+      "type": "subject",
+      "subjectId": "2.111"
+    },
+    {
+      "type": "subject",
+      "subjectId": "8.370"
+    },
+    {
+      "type": "subject",
+      "subjectId": "18.435"
+    }
+  ],
+  "version": "1"
+}

@@ -1,0 +1,353 @@
+{
+  "schemaVersion": "2",
+  "program": "4",
+  "title": "Architecture (Course 4)",
+  "level": "undergraduate",
+  "complete": false,
+  "includesGir": "sb",
+  "catalogSource": {
+    "url": "https://catalog.mit.edu/degree-charts/architecture-course-4/",
+    "slug": "architecture-course-4",
+    "scrapedAt": "2026-07-03",
+    "contentHash": "b1365b0d6e82d67b108e09b09d93c6d374bf33f5efae45aa0fd11c0f190d7ecb"
+  },
+  "girCrosswalk": [
+    {
+      "subjectId": "4.440",
+      "satisfies": [
+        "rest"
+      ],
+      "note": "Also satisfies REST via departmental program."
+    },
+    {
+      "subjectId": "4.411",
+      "satisfies": [
+        "lab"
+      ],
+      "note": "Also satisfies Laboratory Requirement via departmental program."
+    }
+  ],
+  "footnotes": [],
+  "constraints": [],
+  "requirements": [
+    {
+      "groupId": "4-required-subjects",
+      "title": "Required Subjects",
+      "bucket": "departmental",
+      "subcategory": "required_subjects",
+      "root": {
+        "type": "group",
+        "ruleType": "all_of",
+        "items": [
+          {
+            "type": "subject",
+            "subjectId": "4.021"
+          },
+          {
+            "type": "selection",
+            "ruleType": "choose_one",
+            "itemsSource": "explicit",
+            "items": [
+              {
+                "type": "subject",
+                "subjectId": "4.02A"
+              }
+            ]
+          },
+          {
+            "type": "subject",
+            "subjectId": "4.022"
+          },
+          {
+            "type": "subject",
+            "subjectId": "4.023"
+          },
+          {
+            "type": "subject",
+            "subjectId": "4.024"
+          },
+          {
+            "type": "subject",
+            "subjectId": "4.302"
+          },
+          {
+            "type": "subject",
+            "subjectId": "4.401"
+          },
+          {
+            "type": "subject",
+            "subjectId": "4.440"
+          },
+          {
+            "type": "subject",
+            "subjectId": "4.500"
+          },
+          {
+            "type": "subject",
+            "subjectId": "4.603"
+          }
+        ]
+      }
+    },
+    {
+      "groupId": "4-thesis",
+      "title": "Thesis",
+      "bucket": "thesis",
+      "subcategory": "thesis",
+      "root": {
+        "type": "group",
+        "ruleType": "all_of",
+        "items": [
+          {
+            "type": "subject",
+            "subjectId": "4.THT"
+          },
+          {
+            "type": "subject",
+            "subjectId": "4.THU"
+          }
+        ]
+      }
+    },
+    {
+      "groupId": "4-architecture-design-and-studies",
+      "title": "Architecture Design and Studies",
+      "bucket": "departmental",
+      "subcategory": "required_subjects",
+      "root": {
+        "type": "group",
+        "ruleType": "all_of",
+        "items": [
+          {
+            "type": "subject",
+            "subjectId": "4.041"
+          },
+          {
+            "type": "subject",
+            "subjectId": "4.053"
+          },
+          {
+            "type": "subject",
+            "subjectId": "4.250"
+          }
+        ]
+      }
+    },
+    {
+      "groupId": "4-art-culture-and-technology",
+      "title": "Art, Culture, and Technology",
+      "bucket": "departmental",
+      "subcategory": "required_subjects",
+      "root": {
+        "type": "group",
+        "ruleType": "all_of",
+        "items": [
+          {
+            "type": "subject",
+            "subjectId": "4.307"
+          },
+          {
+            "type": "subject",
+            "subjectId": "4.314"
+          },
+          {
+            "type": "subject",
+            "subjectId": "4.322"
+          },
+          {
+            "type": "subject",
+            "subjectId": "4.341"
+          },
+          {
+            "type": "subject",
+            "subjectId": "4.344"
+          },
+          {
+            "type": "subject",
+            "subjectId": "4.354"
+          },
+          {
+            "type": "subject",
+            "subjectId": "4.356"
+          },
+          {
+            "type": "subject",
+            "subjectId": "4.368"
+          },
+          {
+            "type": "subject",
+            "subjectId": "4.373"
+          }
+        ]
+      }
+    },
+    {
+      "groupId": "4-building-technology",
+      "title": "Building Technology",
+      "bucket": "departmental",
+      "subcategory": "required_subjects",
+      "root": {
+        "type": "group",
+        "ruleType": "all_of",
+        "items": [
+          {
+            "type": "subject",
+            "subjectId": "4.411"
+          },
+          {
+            "type": "subject",
+            "subjectId": "4.432"
+          },
+          {
+            "type": "subject",
+            "subjectId": "4.451"
+          }
+        ]
+      }
+    },
+    {
+      "groupId": "4-computation",
+      "title": "Computation",
+      "bucket": "departmental",
+      "subcategory": "computation",
+      "flexibility": {
+        "advisorApproval": false,
+        "catalogText": "[CMS.405](https://catalog.mit.edu/search/?P=CMS.405 \"CMS.405\")"
+      },
+      "root": {
+        "type": "group",
+        "ruleType": "all_of",
+        "items": [
+          {
+            "type": "subject",
+            "subjectId": "4.501"
+          },
+          {
+            "type": "subject",
+            "subjectId": "4.502"
+          },
+          {
+            "type": "subject",
+            "subjectId": "4.507"
+          },
+          {
+            "type": "subject",
+            "subjectId": "4.520"
+          },
+          {
+            "type": "subject",
+            "subjectId": "6.1040"
+          },
+          {
+            "type": "subject",
+            "subjectId": "6.4400"
+          },
+          {
+            "type": "subject",
+            "subjectId": "6.8371"
+          },
+          {
+            "type": "selection",
+            "ruleType": "choose_units",
+            "ruleValue": 12,
+            "itemsSource": "advisor_defined",
+            "note": "[CMS.405](https://catalog.mit.edu/search/?P=CMS.405 \"CMS.405\")",
+            "flexibility": {
+              "catalogText": "[CMS.405](https://catalog.mit.edu/search/?P=CMS.405 \"CMS.405\")"
+            }
+          },
+          {
+            "type": "selection",
+            "ruleType": "choose_units",
+            "ruleValue": 12,
+            "itemsSource": "advisor_defined",
+            "note": "[CMS.631](https://catalog.mit.edu/search/?P=CMS.631 \"CMS.631\")",
+            "flexibility": {
+              "catalogText": "[CMS.631](https://catalog.mit.edu/search/?P=CMS.631 \"CMS.631\")"
+            }
+          },
+          {
+            "type": "selection",
+            "ruleType": "choose_units",
+            "ruleValue": 12,
+            "itemsSource": "advisor_defined",
+            "note": "[CMS.633](https://catalog.mit.edu/search/?P=CMS.633 \"CMS.633\")",
+            "flexibility": {
+              "catalogText": "[CMS.633](https://catalog.mit.edu/search/?P=CMS.633 \"CMS.633\")"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "groupId": "4-history-theory-and-criticism-of-architecture-art-and-design",
+      "title": "History, Theory and Criticism of Architecture, Art and Design",
+      "bucket": "departmental",
+      "subcategory": "history_theory_criticism",
+      "root": {
+        "type": "group",
+        "ruleType": "all_of",
+        "items": [
+          {
+            "type": "subject",
+            "subjectId": "4.601"
+          },
+          {
+            "type": "subject",
+            "subjectId": "4.602"
+          },
+          {
+            "type": "subject",
+            "subjectId": "4.605"
+          },
+          {
+            "type": "subject",
+            "subjectId": "4.614"
+          },
+          {
+            "type": "subject",
+            "subjectId": "4.635"
+          },
+          {
+            "type": "subject",
+            "subjectId": "4.636"
+          },
+          {
+            "type": "subject",
+            "subjectId": "4.651"
+          },
+          {
+            "type": "subject",
+            "subjectId": "4.657"
+          }
+        ]
+      }
+    },
+    {
+      "groupId": "4-restricted-electives",
+      "title": "Restricted Electives",
+      "bucket": "elective",
+      "subcategory": "restricted_electives",
+      "flexibility": {
+        "catalogText": "Select a minimum of 24 units of Restricted Electives"
+      },
+      "root": {
+        "type": "selection",
+        "ruleType": "choose_units",
+        "ruleValue": 24,
+        "itemsSource": "shared_list_union",
+        "sharedListIds": [
+          "4.architecture-design-and-studies",
+          "4.art-culture-and-technology",
+          "4.building-technology",
+          "4.computation",
+          "4.history-theory-and-criticism-of-architecture-art-and-design"
+        ]
+      }
+    }
+  ],
+  "status": "draft",
+  "revisionId": "4-2026-07-03-b1365b0d",
+  "catalogYear": "2026",
+  "effectiveTerm": "2026-FA"
+}

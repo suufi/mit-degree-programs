@@ -1,0 +1,40 @@
+{
+  "sharedListId": "6-7p.bio-aags",
+  "program": "6-7p",
+  "title": "BIO_AAGS",
+  "items": [
+    {
+      "type": "subject",
+      "subjectId": "1.881"
+    },
+    {
+      "type": "subject",
+      "subjectId": "18.418"
+    },
+    {
+      "type": "subject",
+      "subjectId": "6.3932"
+    },
+    {
+      "type": "subject",
+      "subjectId": "6.8700"
+    },
+    {
+      "type": "subject",
+      "subjectId": "6.8710"
+    },
+    {
+      "type": "subject",
+      "subjectId": "7.58"
+    },
+    {
+      "type": "subject",
+      "subjectId": "7.60"
+    },
+    {
+      "type": "subject",
+      "subjectId": "7.62"
+    }
+  ],
+  "version": "1"
+}

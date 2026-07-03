@@ -1,0 +1,44 @@
+{
+  "sharedListId": "4-b.information",
+  "program": "4-b",
+  "title": "Information",
+  "items": [
+    {
+      "type": "subject",
+      "subjectId": "4.032"
+    },
+    {
+      "type": "subject",
+      "subjectId": "4.051"
+    },
+    {
+      "type": "subject",
+      "subjectId": "4.502"
+    },
+    {
+      "type": "subject",
+      "subjectId": "4.520"
+    },
+    {
+      "type": "subject",
+      "subjectId": "6.1040"
+    },
+    {
+      "type": "subject",
+      "subjectId": "6.4400"
+    },
+    {
+      "type": "subject",
+      "subjectId": "6.8371"
+    },
+    {
+      "type": "subject",
+      "subjectId": "6.9101"
+    },
+    {
+      "type": "subject",
+      "subjectId": "6.C35"
+    }
+  ],
+  "version": "1"
+}

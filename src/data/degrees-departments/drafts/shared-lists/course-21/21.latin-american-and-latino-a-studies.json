@@ -1,0 +1,20 @@
+{
+  "sharedListId": "21.latin-american-and-latino-a-studies",
+  "program": "21",
+  "title": "# Latin American and Latino/a Studies",
+  "items": [
+    {
+      "type": "subject",
+      "subjectId": "17.55"
+    },
+    {
+      "type": "subject",
+      "subjectId": "21.THT"
+    },
+    {
+      "type": "subject",
+      "subjectId": "21.THU"
+    }
+  ],
+  "version": "1"
+}

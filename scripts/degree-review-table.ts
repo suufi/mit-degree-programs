@@ -18,7 +18,7 @@ import {
   csvCell,
   parseSiteArgs,
   type DegreeReviewRow,
-} from "./review-lib.js";
+} from "./review-lib";
 
 const HEADERS = [
   "Group",

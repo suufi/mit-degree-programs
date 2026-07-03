@@ -1,0 +1,120 @@
+{
+  "sharedListId": "phd-computational-systems-biology.electrical-engineering-and-computer-science",
+  "program": "phd-computational-systems-biology",
+  "title": "Electrical Engineering and Computer Science",
+  "items": [
+    {
+      "type": "subject",
+      "subjectId": "6.C51"
+    },
+    {
+      "type": "subject",
+      "subjectId": "20.C51"
+    },
+    {
+      "type": "subject",
+      "subjectId": "6.3702"
+    },
+    {
+      "type": "subject",
+      "subjectId": "6.3722"
+    },
+    {
+      "type": "subject",
+      "subjectId": "6.5060"
+    },
+    {
+      "type": "subject",
+      "subjectId": "6.5150"
+    },
+    {
+      "type": "subject",
+      "subjectId": "6.5210"
+    },
+    {
+      "type": "subject",
+      "subjectId": "6.5420"
+    },
+    {
+      "type": "subject",
+      "subjectId": "6.6220"
+    },
+    {
+      "type": "subject",
+      "subjectId": "6.6500"
+    },
+    {
+      "type": "subject",
+      "subjectId": "6.7100"
+    },
+    {
+      "type": "subject",
+      "subjectId": "6.7300"
+    },
+    {
+      "type": "subject",
+      "subjectId": "6.7310"
+    },
+    {
+      "type": "subject",
+      "subjectId": "6.7330"
+    },
+    {
+      "type": "subject",
+      "subjectId": "6.7700"
+    },
+    {
+      "type": "subject",
+      "subjectId": "6.7710"
+    },
+    {
+      "type": "subject",
+      "subjectId": "6.7720"
+    },
+    {
+      "type": "subject",
+      "subjectId": "6.7800"
+    },
+    {
+      "type": "subject",
+      "subjectId": "6.7810"
+    },
+    {
+      "type": "subject",
+      "subjectId": "6.7830"
+    },
+    {
+      "type": "subject",
+      "subjectId": "6.7900"
+    },
+    {
+      "type": "subject",
+      "subjectId": "6.7920"
+    },
+    {
+      "type": "subject",
+      "subjectId": "6.7930"
+    },
+    {
+      "type": "subject",
+      "subjectId": "6.7960"
+    },
+    {
+      "type": "subject",
+      "subjectId": "6.8610"
+    },
+    {
+      "type": "subject",
+      "subjectId": "6.8700"
+    },
+    {
+      "type": "subject",
+      "subjectId": "6.8710"
+    },
+    {
+      "type": "subject",
+      "subjectId": "6.S982"
+    }
+  ],
+  "version": "1"
+}

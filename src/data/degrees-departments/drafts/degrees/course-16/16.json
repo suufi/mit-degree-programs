@@ -1,0 +1,313 @@
+{
+  "schemaVersion": "2",
+  "program": "16",
+  "title": "Aerospace Engineering (Course 16)",
+  "level": "undergraduate",
+  "complete": false,
+  "includesGir": "sb",
+  "catalogSource": {
+    "url": "https://catalog.mit.edu/degree-charts/aerospace-engineering-course-16/",
+    "slug": "aerospace-engineering-course-16",
+    "scrapedAt": "2026-07-03",
+    "contentHash": "ac88390327680ca7dfb51fcfb18a35cd29759f383ef1e00bcb3202bd3f027799"
+  },
+  "girCrosswalk": [
+    {
+      "subjectId": "16.405J",
+      "satisfies": [
+        "lab"
+      ],
+      "note": "Also satisfies Laboratory Requirement via departmental program."
+    },
+    {
+      "subjectId": "16.811",
+      "satisfies": [
+        "lab"
+      ],
+      "note": "Also satisfies Laboratory Requirement via departmental program."
+    },
+    {
+      "subjectId": "16.821",
+      "satisfies": [
+        "lab"
+      ],
+      "note": "Also satisfies Laboratory Requirement via departmental program."
+    },
+    {
+      "subjectId": "16.831",
+      "satisfies": [
+        "lab"
+      ],
+      "note": "Also satisfies Laboratory Requirement via departmental program."
+    }
+  ],
+  "footnotes": [
+    {
+      "id": "1",
+      "text": "_Combination of 6.100A Introduction to Computer Science Programming in Python and 16.C20 Introduction to Computational Science and Engineering or 6.100B Introduction to Computational Thinking and Data Science counts as a REST._"
+    },
+    {
+      "id": "2",
+      "text": "18.032 Differential Equations is also an acceptable option."
+    },
+    {
+      "id": "3",
+      "text": "For students who wish to complete an option in aerospace information technology, 36 of the 48 units must come from subjects other than 16.100, 16.20, 16.50, or 16.90."
+    }
+  ],
+  "constraints": [],
+  "requirements": [
+    {
+      "groupId": "16-required-subjects",
+      "title": "Required Subjects",
+      "bucket": "departmental",
+      "subcategory": "required_subjects",
+      "root": {
+        "type": "group",
+        "ruleType": "all_of",
+        "items": [
+          {
+            "type": "subject",
+            "subjectId": "6.100A"
+          },
+          {
+            "type": "subject",
+            "subjectId": "16.C20"
+          },
+          {
+            "type": "selection",
+            "ruleType": "choose_one",
+            "itemsSource": "explicit",
+            "items": [
+              {
+                "type": "subject",
+                "subjectId": "6.100B"
+              }
+            ]
+          },
+          {
+            "type": "subject",
+            "subjectId": "16.001"
+          },
+          {
+            "type": "subject",
+            "subjectId": "16.002"
+          },
+          {
+            "type": "subject",
+            "subjectId": "16.003"
+          },
+          {
+            "type": "subject",
+            "subjectId": "16.004"
+          },
+          {
+            "type": "subject",
+            "subjectId": "16.06"
+          },
+          {
+            "type": "subject",
+            "subjectId": "16.07"
+          },
+          {
+            "type": "subject",
+            "subjectId": "16.09"
+          },
+          {
+            "type": "selection",
+            "ruleType": "choose_one",
+            "itemsSource": "explicit",
+            "items": [
+              {
+                "type": "subject",
+                "subjectId": "6.3700"
+              }
+            ]
+          },
+          {
+            "type": "subject",
+            "subjectId": "18.03"
+          }
+        ]
+      }
+    },
+    {
+      "groupId": "16-professional-area-subjects",
+      "title": "Professional Area Subjects",
+      "bucket": "departmental",
+      "subcategory": "required_subjects",
+      "flexibility": {
+        "advisorApproval": false,
+        "catalogText": "_Select four subjects from at least three professional areas._2"
+      },
+      "root": {
+        "type": "selection",
+        "ruleType": "choose_units",
+        "ruleValue": 48,
+        "itemsSource": "advisor_defined",
+        "note": "_Select four subjects from at least three professional areas._2",
+        "flexibility": {
+          "catalogText": "_Select four subjects from at least three professional areas._2"
+        }
+      }
+    },
+    {
+      "groupId": "16-fluid-mechanics",
+      "title": "Fluid Mechanics",
+      "bucket": "departmental",
+      "subcategory": "required_subjects",
+      "root": {
+        "type": "subject",
+        "subjectId": "16.100"
+      }
+    },
+    {
+      "groupId": "16-materials-and-structures",
+      "title": "Materials and Structures",
+      "bucket": "departmental",
+      "subcategory": "required_subjects",
+      "root": {
+        "type": "subject",
+        "subjectId": "16.20"
+      }
+    },
+    {
+      "groupId": "16-propulsion",
+      "title": "Propulsion",
+      "bucket": "departmental",
+      "subcategory": "required_subjects",
+      "root": {
+        "type": "subject",
+        "subjectId": "16.50"
+      }
+    },
+    {
+      "groupId": "16-computational-tools",
+      "title": "Computational Tools",
+      "bucket": "departmental",
+      "subcategory": "computation",
+      "root": {
+        "type": "subject",
+        "subjectId": "16.90"
+      }
+    },
+    {
+      "groupId": "16-estimation-and-control",
+      "title": "Estimation and Control",
+      "bucket": "departmental",
+      "subcategory": "required_subjects",
+      "root": {
+        "type": "subject",
+        "subjectId": "16.30"
+      }
+    },
+    {
+      "groupId": "16-computer-systems",
+      "title": "Computer Systems",
+      "bucket": "departmental",
+      "subcategory": "required_subjects",
+      "root": {
+        "type": "group",
+        "ruleType": "all_of",
+        "items": [
+          {
+            "type": "subject",
+            "subjectId": "6.2050"
+          },
+          {
+            "type": "subject",
+            "subjectId": "16.35"
+          }
+        ]
+      }
+    },
+    {
+      "groupId": "16-communications-systems",
+      "title": "Communications Systems",
+      "bucket": "departmental",
+      "subcategory": "communication",
+      "root": {
+        "type": "subject",
+        "subjectId": "16.36"
+      }
+    },
+    {
+      "groupId": "16-humans-and-automation",
+      "title": "Humans and Automation",
+      "bucket": "departmental",
+      "subcategory": "required_subjects",
+      "root": {
+        "type": "group",
+        "ruleType": "all_of",
+        "items": [
+          {
+            "type": "subject",
+            "subjectId": "16.400"
+          },
+          {
+            "type": "subject",
+            "subjectId": "16.410"
+          }
+        ]
+      }
+    },
+    {
+      "groupId": "16-laboratory-and-capstone-subjects",
+      "title": "Laboratory and Capstone Subjects",
+      "bucket": "departmental",
+      "subcategory": "laboratory",
+      "root": {
+        "type": "group",
+        "ruleType": "all_of",
+        "items": [
+          {
+            "type": "selection",
+            "ruleType": "choose_one",
+            "itemsSource": "explicit",
+            "items": [
+              {
+                "type": "subject",
+                "subjectId": "16.82"
+              },
+              {
+                "type": "subject",
+                "subjectId": "16.83"
+              },
+              {
+                "type": "subject",
+                "subjectId": "16.85"
+              }
+            ]
+          },
+          {
+            "type": "selection",
+            "ruleType": "choose_one",
+            "itemsSource": "explicit",
+            "items": [
+              {
+                "type": "subject",
+                "subjectId": "16.405"
+              },
+              {
+                "type": "subject",
+                "subjectId": "16.811"
+              },
+              {
+                "type": "subject",
+                "subjectId": "16.821"
+              },
+              {
+                "type": "subject",
+                "subjectId": "16.831"
+              }
+            ]
+          }
+        ]
+      }
+    }
+  ],
+  "status": "draft",
+  "revisionId": "16-2026-07-03-ac883903",
+  "catalogYear": "2026",
+  "effectiveTerm": "2026-FA"
+}

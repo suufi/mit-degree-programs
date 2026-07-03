@@ -1,0 +1,52 @@
+{
+  "sharedListId": "phd-computational-systems-biology.mathematics",
+  "program": "phd-computational-systems-biology",
+  "title": "Mathematics",
+  "items": [
+    {
+      "type": "subject",
+      "subjectId": "18.0651"
+    },
+    {
+      "type": "subject",
+      "subjectId": "18.0751"
+    },
+    {
+      "type": "subject",
+      "subjectId": "18.0851"
+    },
+    {
+      "type": "subject",
+      "subjectId": "18.0861"
+    },
+    {
+      "type": "subject",
+      "subjectId": "18.408"
+    },
+    {
+      "type": "subject",
+      "subjectId": "18.417"
+    },
+    {
+      "type": "subject",
+      "subjectId": "18.418"
+    },
+    {
+      "type": "subject",
+      "subjectId": "18.4531"
+    },
+    {
+      "type": "subject",
+      "subjectId": "18.455"
+    },
+    {
+      "type": "subject",
+      "subjectId": "18.6501"
+    },
+    {
+      "type": "subject",
+      "subjectId": "18.677"
+    }
+  ],
+  "version": "1"
+}

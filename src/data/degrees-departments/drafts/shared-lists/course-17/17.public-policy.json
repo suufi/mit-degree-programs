@@ -1,0 +1,56 @@
+{
+  "sharedListId": "17.public-policy",
+  "program": "17",
+  "title": "# Public Policy",
+  "items": [
+    {
+      "type": "subject",
+      "subjectId": "17.30"
+    },
+    {
+      "type": "subject",
+      "subjectId": "17.303"
+    },
+    {
+      "type": "subject",
+      "subjectId": "17.307"
+    },
+    {
+      "type": "subject",
+      "subjectId": "17.309"
+    },
+    {
+      "type": "subject",
+      "subjectId": "17.315"
+    },
+    {
+      "type": "subject",
+      "subjectId": "17.317"
+    },
+    {
+      "type": "subject",
+      "subjectId": "17.381"
+    },
+    {
+      "type": "subject",
+      "subjectId": "17.389"
+    },
+    {
+      "type": "subject",
+      "subjectId": "17.391"
+    },
+    {
+      "type": "subject",
+      "subjectId": "17.393"
+    },
+    {
+      "type": "subject",
+      "subjectId": "17.395"
+    },
+    {
+      "type": "subject",
+      "subjectId": "17.399"
+    }
+  ],
+  "version": "1"
+}

@@ -1,0 +1,24 @@
+{
+  "sharedListId": "master-computational-science-engineering.select-three-of-the-following-subjects",
+  "program": "master-computational-science-engineering",
+  "title": "Select three of the following subjects:",
+  "items": [
+    {
+      "type": "subject",
+      "subjectId": "6.7300"
+    },
+    {
+      "type": "subject",
+      "subjectId": "15.C57"
+    },
+    {
+      "type": "subject",
+      "subjectId": "16.920"
+    },
+    {
+      "type": "subject",
+      "subjectId": "18.335"
+    }
+  ],
+  "version": "1"
+}

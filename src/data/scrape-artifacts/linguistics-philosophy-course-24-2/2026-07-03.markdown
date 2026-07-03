@@ -1,0 +1,162 @@
+Degree Charts
+
+- [Home](https://catalog.mit.edu/) >
+- [Degree Charts](https://catalog.mit.edu/degree-charts/) >
+- Linguistics and Philosophy (SB, Course 24-2)
+
+# Linguistics and Philosophy (Course 24-2)
+
+[Department of Linguistics and Philosophy](https://catalog.mit.edu/schools/humanities-arts-social-sciences/linguistics-philosophy/#undergraduatetext)
+
+## Bachelor of Science in Linguistics and Philosophy   (Linguistics Track)
+
+### General Institute Requirements (GIRs)
+
+The General Institute Requirements include a Communication Requirement that is integrated into both the HASS Requirement and the requirements of each major; see details below.
+
+| Summary of Subject Requirements | Subjects |
+| --- | --- |
+| Science Requirement | 6 |
+| Humanities, Arts, and Social Sciences (HASS) Requirement \[between three and five subjects can be from the Departmental Program\]; at least two of these subjects must be designated as communication-intensive (CI-H) to fulfill the Communication Requirement. | 8 |
+| Restricted Electives in Science and Technology (REST) Requirement | 2 |
+| Laboratory Requirement (12 units) \[can be satisfied by either [24.905\[J\]](https://catalog.mit.edu/search/?P=24.905 "24.905[J]") or [24.909](https://catalog.mit.edu/search/?P=24.909 "24.909") in the Departmental Program\] | 1 |
+| **Total GIR Subjects Required for SB Degree** | **17** |
+
+| Physical Education Requirement |  |
+| --- | --- |
+| Swimming requirement, plus four physical education courses for eight points. |  |
+
+### Departmental Program
+
+Choose at least two subjects in the major that are designated as communication-intensive (CI-M) to fulfill the Communication Requirement.
+
+|     |     |     |
+| --- | --- | --- |
+| Required Subjects | **Units** |
+| [24.900](https://catalog.mit.edu/search/?P=24.900 "24.900") | Introduction to Linguistics | 12 |
+| or [24.9000](https://catalog.mit.edu/search/?P=24.9000 "24.9000") | How Language Works |
+| [24.901](https://catalog.mit.edu/search/?P=24.901 "24.901") | Language and Its Structure I: Phonology | 12 |
+| [24.902](https://catalog.mit.edu/search/?P=24.902 "24.902") | Language and Its Structure II: Syntax | 12 |
+| [24.903](https://catalog.mit.edu/search/?P=24.903 "24.903") | Language and Its Structure III: Semantics and Pragmatics | 12 |
+| [24.918](https://catalog.mit.edu/search/?P=24.918 "24.918") | Workshop in Linguistic Research (CI-M) | 12 |
+| _Select one of the following linguistic analysis subjects:_ | 12 |
+| [24.909](https://catalog.mit.edu/search/?P=24.909 "24.909") | Field Methods in Linguistics (CI-M) 1 |  |
+| [24.910](https://catalog.mit.edu/search/?P=24.910 "24.910") | Advanced Topics in Linguistic Analysis (CI-M) |  |
+| [24.914](https://catalog.mit.edu/search/?P=24.914 "24.914") | Language Variation and Change (CI-M) |  |
+| _Select one of the following philosophy, cognition, and computation subjects:_ | 12 |
+| [6.3900](https://catalog.mit.edu/search/?P=6.3900 "6.3900") | Introduction to Machine Learning 2 |  |
+| [6.8611](https://catalog.mit.edu/search/?P=6.8611 "6.8611") | Quantitative Methods for Natural Language Processing 2 |  |
+| [9.19](https://catalog.mit.edu/search/?P=9.19 "9.19") | Computational Psycholinguistics 2 |  |
+| [24.08\[J\]](https://catalog.mit.edu/search/?P=24.08 "24.08[J]") | Philosophical Issues in Brain Science |  |
+| [24.09](https://catalog.mit.edu/search/?P=24.09 "24.09") | Minds and Machines |  |
+| [24.141](https://catalog.mit.edu/search/?P=24.141 "24.141") | Logic I |  |
+| [24.251](https://catalog.mit.edu/search/?P=24.251 "24.251") | Introduction to Philosophy of Language |  |
+| _Select one of the following experimental results subjects:_ | 12 |
+| [24.904](https://catalog.mit.edu/search/?P=24.904 "24.904") | Language Acquisition |  |
+| [24.905\[J\]](https://catalog.mit.edu/search/?P=24.905 "24.905[J]") | Laboratory in Psycholinguistics 1 |  |
+| [24.906\[J\]](https://catalog.mit.edu/search/?P=24.906 "24.906[J]") | The Linguistic Study of Bilingualism |  |
+| [24.915](https://catalog.mit.edu/search/?P=24.915 "24.915") | Linguistic Phonetics |  |
+| Restricted Electives |  |
+| A coherent program of three additional subjects from linguistics, philosophy, or a related area3 | 36 |
+| Units in Major | 132 |
+| Unrestricted Electives4 | 84-120 |
+| Units in Major That Also Satisfy the GIRs | (36-72) |
+| Total Units Beyond the GIRs Required for SB Degree | 180 |
+
+The units for any subject that counts as one of the 17 GIR subjects cannot also be counted as units required beyond the GIRs.
+
+|     |     |
+| --- | --- |
+| _1_ | _Students who do not use [24.905\[J\]](https://catalog.mit.edu/search/?P=24.905 "24.905[J]") or [24.909](https://catalog.mit.edu/search/?P=24.909 "24.909") to satisfy the Laboratory Requirement may count a sixth subject from within the Departmental Program toward the HASS Requirement._ |
+| _2_ | _Subject has prerequisites that are outside of the program._ |
+| _3_ | _See the [Linguistics and Philosophy subject listing](https://catalog.mit.edu/subjects/24/) for a list of available subjects._ |
+| _4_ | __This chart has been calculated based on an overlap of 36 units (three subjects) between the HASS General Institute Requirement and the departmental requirements. Students who develop a program of study with more overlap will be able to select more unrestricted electives to meet the number of total units beyond the GIRs required for an SB degree.__ |
+
+[Department of Linguistics and Philosophy](https://catalog.mit.edu/schools/humanities-arts-social-sciences/linguistics-philosophy/#undergraduatetext)
+
+## Bachelor of Science in Linguistics and Philosophy (Philosophy Track)
+
+### General Institute Requirements (GIRs)
+
+The General Institute Requirements include a Communication Requirement that is integrated into both the HASS Requirement and the requirements of each major; see details below.
+
+| Summary of Subject Requirements | Subjects |
+| --- | --- |
+| Science Requirement | 6 |
+| Humanities, Arts, and Social Sciences (HASS) Requirement \[between three and five subjects can be from the Departmental Program\]; at least two of these subjects must be designated as communication-intensive (CI-H) to fulfill the Communication Requirement. | 8 |
+| Restricted Electives in Science and Technology (REST) Requirement | 2 |
+| Laboratory Requirement (12 units) \[can be satisfied by [24.905\[J\]](https://catalog.mit.edu/search/?P=24.905 "24.905[J]") in the Departmental Program\] | 1 |
+| **Total GIR Subjects Required for SB Degree** | **17** |
+
+| Physical Education Requirement |  |
+| --- | --- |
+| Swimming requirement, plus four physical education courses for eight points. |  |
+
+### Departmental Program
+
+Choose at least two subjects in the major that are designated as communication-intensive (CI-M) to fulfill the Communication Requirement.
+
+|     |     |     |
+| --- | --- | --- |
+| Required Subjects | **Units** |
+| [24.900](https://catalog.mit.edu/search/?P=24.900 "24.900") | Introduction to Linguistics 1 | 12 |
+| [24.251](https://catalog.mit.edu/search/?P=24.251 "24.251") | Introduction to Philosophy of Language (CI-M) | 12 |
+| [24.260](https://catalog.mit.edu/search/?P=24.260 "24.260") | Topics in Philosophy (CI-M) | 12 |
+| _Select one of the following Logic subjects:_2 | 12 |
+| [24.118](https://catalog.mit.edu/search/?P=24.118 "24.118") | Paradox and Infinity |  |
+| [24.141](https://catalog.mit.edu/search/?P=24.141 "24.141") | Logic I |  |
+| [24.242](https://catalog.mit.edu/search/?P=24.242 "24.242") | Logic II |  |
+| [24.243](https://catalog.mit.edu/search/?P=24.243 "24.243") | Classical Set Theory |  |
+| [24.244](https://catalog.mit.edu/search/?P=24.244 "24.244") | Modal Logic |  |
+| [24.245](https://catalog.mit.edu/search/?P=24.245 "24.245") | Theory of Models |  |
+| _Select two of the following Knowledge and Reality subjects:_ | 24 |
+| [24.05](https://catalog.mit.edu/search/?P=24.05 "24.05") | Philosophy of Religion |  |
+| [24.08\[J\]](https://catalog.mit.edu/search/?P=24.08 "24.08[J]") | Philosophical Issues in Brain Science |  |
+| [24.09](https://catalog.mit.edu/search/?P=24.09 "24.09") | Minds and Machines |  |
+| [24.111](https://catalog.mit.edu/search/?P=24.111 "24.111") | Philosophy of Quantum Mechanics |  |
+| [24.121](https://catalog.mit.edu/search/?P=24.121 "24.121") | Metaphysics (CI-M) |  |
+| [24.211](https://catalog.mit.edu/search/?P=24.211 "24.211") | Theory of Knowledge |  |
+| [24.212](https://catalog.mit.edu/search/?P=24.212 "24.212") | Philosophy of Perception |  |
+| [24.215](https://catalog.mit.edu/search/?P=24.215 "24.215") | Topics in the Philosophy of Science |  |
+| [24.252](https://catalog.mit.edu/search/?P=24.252 "24.252") | Language and Power (CI-M) |  |
+| [24.253](https://catalog.mit.edu/search/?P=24.253 "24.253") | Philosophy of Mathematics |  |
+| [24.280](https://catalog.mit.edu/search/?P=24.280 "24.280") | Foundations of Probability |  |
+| _Select one of the following:_ | 12 |
+| [24.903](https://catalog.mit.edu/search/?P=24.903 "24.903") | Language and Its Structure III: Semantics and Pragmatics |  |
+| [24.904](https://catalog.mit.edu/search/?P=24.904 "24.904") | Language Acquisition |  |
+| [24.905\[J\]](https://catalog.mit.edu/search/?P=24.905 "24.905[J]") | Laboratory in Psycholinguistics 3 |  |
+| Restricted Electives |  |
+| A coherent program of four additional subjects, at least two of which must be in Linguistics and Philosophy, approved by the major advisor.4 | 48 |
+| Units in Major | 132 |
+| Unrestricted Electives5 | 84-120 |
+| Units in Major That Also Satisfy the GIRs | (36-72) |
+| Total Units Beyond the GIRs Required for SB Degree | 180 |
+
+The units for any subject that counts as one of the 17 GIR subjects cannot also be counted as units required beyond the GIRs.
+
+|     |     |
+| --- | --- |
+| _1_ | _[24.9000](https://catalog.mit.edu/search/?P=24.9000 "24.9000") How Language Works is also an acceptable option._ |
+| _2_ | __Students may select a logic subject from another department (e.g., Mathematics) with the approval of their major advisor.__ |
+| _3_ | __Students who do not use_ [24.905\[J\]](https://catalog.mit.edu/search/?P=24.905 "24.905[J]") _to satisfy the Laboratory Requirement may count a sixth subject from within the Departmental Program toward the HASS Requirement.__ |
+| _4_ | _See the [Linguistics and Philosophy subject listing](https://catalog.mit.edu/subjects/24/) for a list of available subjects._ |
+| _5_ | __This chart has been calculated based on an overlap of 36 units (three subjects) between the HASS General Institute Requirement and the departmental requirements. Students who develop a program of study with more overlap will be able to select more unrestricted electives to meet the number of total units beyond the GIRs required for an SB degree.__ |
+
+Print Options
+
+
+[Send Page to Printer](https://catalog.mit.edu/degree-charts/linguistics-philosophy-course-24-2/#)
+
+_Print this page._
+
+[Download PDF of this Page](https://catalog.mit.edu/degree-charts/linguistics-philosophy-course-24-2/linguistics-philosophy-course-24-2.pdf)
+
+_The PDF includes all information on this page and its related tabs. Subject (course) information includes any changes approved for the current academic year._
+
+[Linguistics tab PDF](https://catalog.mit.edu/degree-charts/linguistics-philosophy-course-24-2/linguistics-philosophy-course-24-2_linguisticstext.pdf)
+
+[Philosophy tab PDF](https://catalog.mit.edu/degree-charts/linguistics-philosophy-course-24-2/linguistics-philosophy-course-24-2_philosophytext.pdf)
+
+[Download PDF of the Entire Catalog and/or Subject Descriptions](https://catalog.mit.edu/archive/)
+
+[Cancel](https://catalog.mit.edu/degree-charts/linguistics-philosophy-course-24-2/#)

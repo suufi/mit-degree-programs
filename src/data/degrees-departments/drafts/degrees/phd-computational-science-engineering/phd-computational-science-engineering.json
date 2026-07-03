@@ -1,0 +1,686 @@
+{
+  "schemaVersion": "2",
+  "program": "phd-computational-science-engineering",
+  "title": "Computational Science and Engineering (PhD)",
+  "level": "graduate",
+  "complete": false,
+  "catalogSource": {
+    "url": "https://catalog.mit.edu/degree-charts/phd-computational-science-engineering/",
+    "slug": "phd-computational-science-engineering",
+    "scrapedAt": "2026-07-03",
+    "contentHash": "7d61ddec8db147bd14c5c600b604d801704a6b81c41ede9022d187ee95dc67ad"
+  },
+  "footnotes": [
+    {
+      "id": "1",
+      "text": "A program of study comprising subjects in the selected core areas and the computational concentration must be developed in consultation with the student’s doctoral thesis committee and approved by the CCSE graduate officer."
+    },
+    {
+      "id": "2",
+      "text": "Harvard course COMPSCI 2050 High Performance Computing for Science and Engineering is also an approved subject in this area."
+    },
+    {
+      "id": "3",
+      "text": "Students can also choose any 12-unit, letter-graded (not P/D/F), graduate-level Mathematics subject numbered 18.1* or higher not listed elsewhere in this approved subject list, though seminar and special tops subjects are generally not allowed."
+    },
+    {
+      "id": "4",
+      "text": "Subject to Sloan bidding process."
+    }
+  ],
+  "constraints": [],
+  "requirements": [
+    {
+      "groupId": "phd-computational-science-engineering-core-subjects",
+      "title": "Core Subjects",
+      "bucket": "departmental",
+      "subcategory": "required_subjects",
+      "flexibility": {
+        "advisorApproval": false,
+        "catalogText": "[CSE.900](https://catalog.mit.edu/search/?P=CSE.900 \"CSE.900\")"
+      },
+      "root": {
+        "type": "group",
+        "ruleType": "all_of",
+        "items": [
+          {
+            "type": "subject",
+            "subjectId": "18.335"
+          },
+          {
+            "type": "selection",
+            "ruleType": "choose_units",
+            "ruleValue": 3,
+            "itemsSource": "advisor_defined",
+            "note": "[CSE.900](https://catalog.mit.edu/search/?P=CSE.900 \"CSE.900\")",
+            "flexibility": {
+              "catalogText": "[CSE.900](https://catalog.mit.edu/search/?P=CSE.900 \"CSE.900\")"
+            }
+          },
+          {
+            "type": "selection",
+            "ruleType": "choose_units",
+            "ruleValue": 48,
+            "itemsSource": "advisor_defined",
+            "note": "Core Area of Study",
+            "flexibility": {
+              "catalogText": "Core Area of Study"
+            }
+          },
+          {
+            "type": "selection",
+            "ruleType": "choose_units",
+            "ruleValue": 24,
+            "itemsSource": "advisor_defined",
+            "note": "Computational Concentration1",
+            "flexibility": {
+              "catalogText": "Computational Concentration1"
+            }
+          },
+          {
+            "type": "selection",
+            "ruleType": "choose_units",
+            "ruleValue": 168,
+            "itemsSource": "advisor_defined",
+            "note": "Thesis Research",
+            "flexibility": {
+              "catalogText": "Thesis Research"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "groupId": "phd-computational-science-engineering-computational-modeling",
+      "title": "Computational Modeling",
+      "bucket": "departmental",
+      "subcategory": "computation",
+      "root": {
+        "type": "group",
+        "ruleType": "all_of",
+        "items": [
+          {
+            "type": "subject",
+            "subjectId": "1.545"
+          },
+          {
+            "type": "subject",
+            "subjectId": "1.723"
+          },
+          {
+            "type": "subject",
+            "subjectId": "2.29"
+          },
+          {
+            "type": "subject",
+            "subjectId": "3.320"
+          },
+          {
+            "type": "subject",
+            "subjectId": "4.450"
+          },
+          {
+            "type": "subject",
+            "subjectId": "9.660"
+          },
+          {
+            "type": "subject",
+            "subjectId": "10.637"
+          },
+          {
+            "type": "subject",
+            "subjectId": "12.521"
+          },
+          {
+            "type": "subject",
+            "subjectId": "12.850"
+          },
+          {
+            "type": "subject",
+            "subjectId": "16.225"
+          },
+          {
+            "type": "subject",
+            "subjectId": "18.369"
+          },
+          {
+            "type": "subject",
+            "subjectId": "18.417"
+          },
+          {
+            "type": "subject",
+            "subjectId": "22.315"
+          }
+        ]
+      }
+    },
+    {
+      "groupId": "phd-computational-science-engineering-discretization-and-numerical-methods-for-partial-differential-equations",
+      "title": "Discretization and Numerical Methods for Partial Differential Equations",
+      "bucket": "departmental",
+      "subcategory": "required_subjects",
+      "root": {
+        "type": "group",
+        "ruleType": "all_of",
+        "items": [
+          {
+            "type": "subject",
+            "subjectId": "2.098"
+          },
+          {
+            "type": "subject",
+            "subjectId": "6.7300"
+          },
+          {
+            "type": "subject",
+            "subjectId": "6.8410"
+          },
+          {
+            "type": "subject",
+            "subjectId": "16.920"
+          },
+          {
+            "type": "subject",
+            "subjectId": "16.930"
+          },
+          {
+            "type": "subject",
+            "subjectId": "18.336"
+          },
+          {
+            "type": "subject",
+            "subjectId": "22.15"
+          }
+        ]
+      }
+    },
+    {
+      "groupId": "phd-computational-science-engineering-high-performance-computing-software-engineering-and-or-algorithms-2",
+      "title": "_High-Performance Computing, Software Engineering, and/or Algorithms_2",
+      "bucket": "departmental",
+      "subcategory": "required_subjects",
+      "root": {
+        "type": "group",
+        "ruleType": "all_of",
+        "items": [
+          {
+            "type": "subject",
+            "subjectId": "6.5060"
+          },
+          {
+            "type": "subject",
+            "subjectId": "6.5210"
+          },
+          {
+            "type": "subject",
+            "subjectId": "6.5220"
+          },
+          {
+            "type": "subject",
+            "subjectId": "6.5250"
+          },
+          {
+            "type": "subject",
+            "subjectId": "6.5320"
+          },
+          {
+            "type": "subject",
+            "subjectId": "18.337"
+          },
+          {
+            "type": "subject",
+            "subjectId": "18.435"
+          }
+        ]
+      }
+    },
+    {
+      "groupId": "phd-computational-science-engineering-inference-statistical-computing-and-data-driven-modeling",
+      "title": "Inference, Statistical Computing, and Data-Driven Modeling",
+      "bucket": "departmental",
+      "subcategory": "required_subjects",
+      "root": {
+        "type": "group",
+        "ruleType": "all_of",
+        "items": [
+          {
+            "type": "subject",
+            "subjectId": "2.156"
+          },
+          {
+            "type": "subject",
+            "subjectId": "6.7800"
+          },
+          {
+            "type": "subject",
+            "subjectId": "6.7810"
+          },
+          {
+            "type": "subject",
+            "subjectId": "6.7830"
+          },
+          {
+            "type": "subject",
+            "subjectId": "6.7900"
+          },
+          {
+            "type": "subject",
+            "subjectId": "6.C51"
+          }
+        ]
+      }
+    },
+    {
+      "groupId": "phd-computational-science-engineering-and-one-of-the-following-6-unit-co-requisites",
+      "title": "And one of the following 6-unit co-requisites:",
+      "bucket": "departmental",
+      "subcategory": "required_subjects",
+      "flexibility": {
+        "advisorApproval": false,
+        "catalogText": "[IDS.131\\[J\\]](https://catalog.mit.edu/search/?P=IDS.131 \"IDS.131[J]\")"
+      },
+      "root": {
+        "type": "group",
+        "ruleType": "all_of",
+        "items": [
+          {
+            "type": "subject",
+            "subjectId": "1.C51"
+          },
+          {
+            "type": "subject",
+            "subjectId": "2.C51"
+          },
+          {
+            "type": "subject",
+            "subjectId": "3.C51"
+          },
+          {
+            "type": "subject",
+            "subjectId": "6.C511"
+          },
+          {
+            "type": "subject",
+            "subjectId": "7.C51"
+          },
+          {
+            "type": "subject",
+            "subjectId": "22.C51"
+          },
+          {
+            "type": "subject",
+            "subjectId": "9.520"
+          },
+          {
+            "type": "subject",
+            "subjectId": "10.554"
+          },
+          {
+            "type": "subject",
+            "subjectId": "16.940"
+          },
+          {
+            "type": "selection",
+            "ruleType": "choose_units",
+            "ruleValue": 12,
+            "itemsSource": "advisor_defined",
+            "note": "[IDS.131\\[J\\]](https://catalog.mit.edu/search/?P=IDS.131 \"IDS.131[J]\")",
+            "flexibility": {
+              "catalogText": "[IDS.131\\[J\\]](https://catalog.mit.edu/search/?P=IDS.131 \"IDS.131[J]\")"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "groupId": "phd-computational-science-engineering-mathematical-foundations-3",
+      "title": "_Mathematical Foundations_3",
+      "bucket": "departmental",
+      "subcategory": "fundamentals",
+      "root": {
+        "type": "group",
+        "ruleType": "all_of",
+        "items": [
+          {
+            "type": "subject",
+            "subjectId": "6.7700"
+          },
+          {
+            "type": "subject",
+            "subjectId": "18.1002"
+          },
+          {
+            "type": "subject",
+            "subjectId": "18.1011"
+          },
+          {
+            "type": "subject",
+            "subjectId": "18.1021"
+          },
+          {
+            "type": "subject",
+            "subjectId": "18.1031"
+          },
+          {
+            "type": "subject",
+            "subjectId": "18.125"
+          },
+          {
+            "type": "subject",
+            "subjectId": "18.1521"
+          },
+          {
+            "type": "subject",
+            "subjectId": "18.3541"
+          },
+          {
+            "type": "subject",
+            "subjectId": "18.4041"
+          },
+          {
+            "type": "subject",
+            "subjectId": "18.655"
+          },
+          {
+            "type": "subject",
+            "subjectId": "18.675"
+          }
+        ]
+      }
+    },
+    {
+      "groupId": "phd-computational-science-engineering-optimization-methods",
+      "title": "Optimization Methods",
+      "bucket": "departmental",
+      "subcategory": "required_subjects",
+      "flexibility": {
+        "advisorApproval": false,
+        "catalogText": "[IDS.131\\[J\\]](https://catalog.mit.edu/search/?P=IDS.131 \"IDS.131[J]\")"
+      },
+      "root": {
+        "type": "group",
+        "ruleType": "all_of",
+        "items": [
+          {
+            "type": "subject",
+            "subjectId": "1.583"
+          },
+          {
+            "type": "subject",
+            "subjectId": "6.7210"
+          },
+          {
+            "type": "subject",
+            "subjectId": "6.7220"
+          },
+          {
+            "type": "subject",
+            "subjectId": "6.7230"
+          },
+          {
+            "type": "subject",
+            "subjectId": "6.7940"
+          },
+          {
+            "type": "subject",
+            "subjectId": "6.C57"
+          },
+          {
+            "type": "subject",
+            "subjectId": "10.557"
+          },
+          {
+            "type": "subject",
+            "subjectId": "15.083"
+          },
+          {
+            "type": "subject",
+            "subjectId": "15.C57"
+          },
+          {
+            "type": "subject",
+            "subjectId": "16.888"
+          },
+          {
+            "type": "subject",
+            "subjectId": "1.125"
+          },
+          {
+            "type": "subject",
+            "subjectId": "1.545"
+          },
+          {
+            "type": "subject",
+            "subjectId": "1.583"
+          },
+          {
+            "type": "subject",
+            "subjectId": "1.723"
+          },
+          {
+            "type": "subject",
+            "subjectId": "2.098"
+          },
+          {
+            "type": "subject",
+            "subjectId": "2.156"
+          },
+          {
+            "type": "subject",
+            "subjectId": "2.168"
+          },
+          {
+            "type": "subject",
+            "subjectId": "2.29"
+          },
+          {
+            "type": "subject",
+            "subjectId": "3.320"
+          },
+          {
+            "type": "subject",
+            "subjectId": "4.450"
+          },
+          {
+            "type": "subject",
+            "subjectId": "6.7210"
+          },
+          {
+            "type": "subject",
+            "subjectId": "6.7220"
+          },
+          {
+            "type": "subject",
+            "subjectId": "6.7230"
+          },
+          {
+            "type": "subject",
+            "subjectId": "6.7300"
+          },
+          {
+            "type": "subject",
+            "subjectId": "6.7810"
+          },
+          {
+            "type": "subject",
+            "subjectId": "6.7830"
+          },
+          {
+            "type": "subject",
+            "subjectId": "6.7900"
+          },
+          {
+            "type": "subject",
+            "subjectId": "6.7940"
+          },
+          {
+            "type": "subject",
+            "subjectId": "6.8300"
+          },
+          {
+            "type": "subject",
+            "subjectId": "6.8410"
+          },
+          {
+            "type": "subject",
+            "subjectId": "6.C51"
+          },
+          {
+            "type": "subject",
+            "subjectId": "9.520"
+          },
+          {
+            "type": "subject",
+            "subjectId": "9.660"
+          },
+          {
+            "type": "subject",
+            "subjectId": "10.551"
+          },
+          {
+            "type": "subject",
+            "subjectId": "10.552"
+          },
+          {
+            "type": "subject",
+            "subjectId": "10.554"
+          },
+          {
+            "type": "subject",
+            "subjectId": "10.557"
+          },
+          {
+            "type": "subject",
+            "subjectId": "10.637"
+          },
+          {
+            "type": "subject",
+            "subjectId": "12.515"
+          },
+          {
+            "type": "subject",
+            "subjectId": "12.521"
+          },
+          {
+            "type": "subject",
+            "subjectId": "12.620"
+          },
+          {
+            "type": "subject",
+            "subjectId": "12.714"
+          },
+          {
+            "type": "subject",
+            "subjectId": "12.805"
+          },
+          {
+            "type": "subject",
+            "subjectId": "12.850"
+          },
+          {
+            "type": "subject",
+            "subjectId": "15.070"
+          },
+          {
+            "type": "subject",
+            "subjectId": "15.077"
+          },
+          {
+            "type": "subject",
+            "subjectId": "15.083"
+          },
+          {
+            "type": "subject",
+            "subjectId": "15.764"
+          },
+          {
+            "type": "subject",
+            "subjectId": "15.C57"
+          },
+          {
+            "type": "subject",
+            "subjectId": "16.110"
+          },
+          {
+            "type": "subject",
+            "subjectId": "16.225"
+          },
+          {
+            "type": "subject",
+            "subjectId": "16.413"
+          },
+          {
+            "type": "subject",
+            "subjectId": "16.888"
+          },
+          {
+            "type": "subject",
+            "subjectId": "16.920"
+          },
+          {
+            "type": "subject",
+            "subjectId": "16.930"
+          },
+          {
+            "type": "subject",
+            "subjectId": "16.940"
+          },
+          {
+            "type": "subject",
+            "subjectId": "18.335"
+          },
+          {
+            "type": "subject",
+            "subjectId": "18.336"
+          },
+          {
+            "type": "subject",
+            "subjectId": "18.337"
+          },
+          {
+            "type": "subject",
+            "subjectId": "18.338"
+          },
+          {
+            "type": "subject",
+            "subjectId": "18.369"
+          },
+          {
+            "type": "subject",
+            "subjectId": "18.435"
+          },
+          {
+            "type": "subject",
+            "subjectId": "22.15"
+          },
+          {
+            "type": "subject",
+            "subjectId": "22.212"
+          },
+          {
+            "type": "subject",
+            "subjectId": "22.213"
+          },
+          {
+            "type": "subject",
+            "subjectId": "22.315"
+          },
+          {
+            "type": "selection",
+            "ruleType": "choose_units",
+            "ruleValue": 12,
+            "itemsSource": "advisor_defined",
+            "note": "[IDS.131\\[J\\]](https://catalog.mit.edu/search/?P=IDS.131 \"IDS.131[J]\")",
+            "flexibility": {
+              "catalogText": "[IDS.131\\[J\\]](https://catalog.mit.edu/search/?P=IDS.131 \"IDS.131[J]\")"
+            }
+          }
+        ]
+      }
+    }
+  ],
+  "status": "draft",
+  "revisionId": "phd-computational-science-engineering-2026-07-03-7d61ddec",
+  "catalogYear": "2026",
+  "effectiveTerm": "2026-FA"
+}

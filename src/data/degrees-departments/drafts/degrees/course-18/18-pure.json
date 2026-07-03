@@ -1,0 +1,148 @@
+{
+  "schemaVersion": "2",
+  "program": "18-pure",
+  "title": "Mathematics (Course 18) — Pure Mathematics Option",
+  "level": "undergraduate",
+  "complete": false,
+  "includesGir": "sb",
+  "catalogSource": {
+    "url": "https://catalog.mit.edu/degree-charts/mathematics-course-18/",
+    "slug": "mathematics-course-18",
+    "scrapedAt": "2026-07-03",
+    "contentHash": "c611ba8c83ed9fa95eda3641dcac7566ac246ec9959e21044b5fca318201fe99"
+  },
+  "girCrosswalk": [
+    {
+      "subjectId": "18.03",
+      "satisfies": [
+        "rest"
+      ],
+      "note": "Also satisfies REST via departmental program."
+    }
+  ],
+  "footnotes": [
+    {
+      "id": "1",
+      "text": "Students may substitute one of the more advanced subjects 18.152 Introduction to Partial Differential Equations or 18.303 Linear Partial Differential Equations: Analysis and Numerics for 18.03. 18.032 Differential Equations, which places more emphasis on theory, is also an acceptable option."
+    },
+    {
+      "id": "2",
+      "text": "Alternate versions of this subject, 18.100A, 18.100P and 18.100Q, also satisfy this requirement."
+    }
+  ],
+  "constraints": [],
+  "requirements": [
+    {
+      "groupId": "18-pure-required-subjects",
+      "title": "Required Subjects",
+      "bucket": "departmental",
+      "subcategory": "required_subjects",
+      "root": {
+        "type": "group",
+        "ruleType": "all_of",
+        "items": [
+          {
+            "type": "subject",
+            "subjectId": "18.03"
+          },
+          {
+            "type": "subject",
+            "subjectId": "18.100B"
+          },
+          {
+            "type": "subject",
+            "subjectId": "18.701"
+          },
+          {
+            "type": "subject",
+            "subjectId": "18.702"
+          },
+          {
+            "type": "subject",
+            "subjectId": "18.901"
+          }
+        ]
+      }
+    },
+    {
+      "groupId": "18-pure-restricted-electives",
+      "title": "Restricted Electives",
+      "bucket": "elective",
+      "subcategory": "restricted_electives",
+      "flexibility": {
+        "advisorApproval": false,
+        "catalogText": "Select two additional 12-unit Course 18 subjects of essentially different content, with the first decimal digit one or higher"
+      },
+      "root": {
+        "type": "group",
+        "ruleType": "all_of",
+        "items": [
+          {
+            "type": "selection",
+            "ruleType": "choose_one",
+            "itemsSource": "explicit",
+            "items": [
+              {
+                "type": "subject",
+                "subjectId": "18.101"
+              },
+              {
+                "type": "subject",
+                "subjectId": "18.102"
+              },
+              {
+                "type": "subject",
+                "subjectId": "18.103"
+              }
+            ]
+          },
+          {
+            "type": "selection",
+            "ruleType": "choose_one",
+            "itemsSource": "explicit",
+            "items": [
+              {
+                "type": "subject",
+                "subjectId": "18.104"
+              },
+              {
+                "type": "subject",
+                "subjectId": "18.504"
+              },
+              {
+                "type": "subject",
+                "subjectId": "18.704"
+              },
+              {
+                "type": "subject",
+                "subjectId": "18.784"
+              },
+              {
+                "type": "subject",
+                "subjectId": "18.904"
+              },
+              {
+                "type": "subject",
+                "subjectId": "18.994"
+              }
+            ]
+          },
+          {
+            "type": "selection",
+            "ruleType": "choose_units",
+            "ruleValue": 24,
+            "itemsSource": "advisor_defined",
+            "note": "Select two additional 12-unit Course 18 subjects of essentially different content, with the first decimal digit one or higher",
+            "flexibility": {
+              "catalogText": "Select two additional 12-unit Course 18 subjects of essentially different content, with the first decimal digit one or higher"
+            }
+          }
+        ]
+      }
+    }
+  ],
+  "status": "draft",
+  "revisionId": "18-pure-2026-07-03-c611ba8c",
+  "catalogYear": "2026",
+  "effectiveTerm": "2026-FA"
+}

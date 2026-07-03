@@ -1,0 +1,16 @@
+{
+  "sharedListId": "phd-computational-systems-biology.mechanical-engineering",
+  "program": "phd-computational-systems-biology",
+  "title": "Mechanical Engineering",
+  "items": [
+    {
+      "type": "subject",
+      "subjectId": "2.18"
+    },
+    {
+      "type": "subject",
+      "subjectId": "2.717"
+    }
+  ],
+  "version": "1"
+}

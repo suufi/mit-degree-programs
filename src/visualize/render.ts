@@ -4,10 +4,10 @@ import type {
   RequirementNode,
   SharedListDocument,
   SharedListItem,
-} from "../schemas/types.js";
-import { describeConstraint } from "../evaluate/constraints.js";
-import type { RequirementConstraint } from "../schemas/requirement-constraints.js";
-import { TAG_POOL_MAPPINGS } from "../schemas/tag-mapping.js";
+} from "../schemas/types";
+import { describeConstraint } from "../evaluate/constraints";
+import type { RequirementConstraint } from "../schemas/requirement-constraints";
+import { TAG_POOL_MAPPINGS } from "../schemas/tag-mapping";
 
 function sharedListItemLabel(item: SharedListItem): string {
   if (item.type === "subject") return item.subjectId;

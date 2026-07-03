@@ -1,0 +1,129 @@
+{
+  "schemaVersion": "2",
+  "program": "master-art-culture-technology",
+  "title": "Art, Culture, and Technology (SM)",
+  "level": "graduate",
+  "complete": false,
+  "catalogSource": {
+    "url": "https://catalog.mit.edu/degree-charts/master-art-culture-technology/",
+    "slug": "master-art-culture-technology",
+    "scrapedAt": "2026-07-03",
+    "contentHash": "84dd4fbcd08672defe7b8b18ae7dcfcb5bb5a12381f145795bcf48eb78c9ba4b"
+  },
+  "footnotes": [],
+  "constraints": [],
+  "requirements": [
+    {
+      "groupId": "master-art-culture-technology-required-subjects",
+      "title": "Required Subjects",
+      "bucket": "departmental",
+      "subcategory": "required_subjects",
+      "root": {
+        "type": "group",
+        "ruleType": "all_of",
+        "items": [
+          {
+            "type": "subject",
+            "subjectId": "4.387"
+          },
+          {
+            "type": "subject",
+            "subjectId": "4.388"
+          },
+          {
+            "type": "subject",
+            "subjectId": "4.389"
+          },
+          {
+            "type": "subject",
+            "subjectId": "4.390"
+          }
+        ]
+      }
+    },
+    {
+      "groupId": "master-art-culture-technology-select-18-units",
+      "title": "Select 18 units:",
+      "bucket": "departmental",
+      "subcategory": "required_subjects",
+      "root": {
+        "type": "group",
+        "ruleType": "all_of",
+        "items": [
+          {
+            "type": "subject",
+            "subjectId": "4.308"
+          },
+          {
+            "type": "subject",
+            "subjectId": "4.315"
+          },
+          {
+            "type": "subject",
+            "subjectId": "4.321"
+          },
+          {
+            "type": "subject",
+            "subjectId": "4.323"
+          },
+          {
+            "type": "subject",
+            "subjectId": "4.342"
+          },
+          {
+            "type": "subject",
+            "subjectId": "4.345"
+          },
+          {
+            "type": "subject",
+            "subjectId": "4.353"
+          },
+          {
+            "type": "subject",
+            "subjectId": "4.355"
+          },
+          {
+            "type": "subject",
+            "subjectId": "4.357"
+          },
+          {
+            "type": "subject",
+            "subjectId": "4.362"
+          },
+          {
+            "type": "subject",
+            "subjectId": "4.369"
+          },
+          {
+            "type": "subject",
+            "subjectId": "4.374"
+          }
+        ]
+      }
+    },
+    {
+      "groupId": "master-art-culture-technology-elective-subjects",
+      "title": "Elective Subjects",
+      "bucket": "elective",
+      "subcategory": "elective_subjects",
+      "flexibility": {
+        "advisorApproval": false,
+        "catalogText": "Select an additional 18 units of graduate-level subjects as approved by advisor"
+      },
+      "root": {
+        "type": "selection",
+        "ruleType": "choose_units",
+        "ruleValue": 18,
+        "itemsSource": "advisor_defined",
+        "note": "Select an additional 18 units of graduate-level subjects as approved by advisor",
+        "flexibility": {
+          "catalogText": "Select an additional 18 units of graduate-level subjects as approved by advisor"
+        }
+      }
+    }
+  ],
+  "status": "draft",
+  "revisionId": "master-art-culture-technology-2026-07-03-84dd4fbc",
+  "catalogYear": "2026",
+  "effectiveTerm": "2026-FA"
+}

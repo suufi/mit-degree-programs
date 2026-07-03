@@ -1,0 +1,358 @@
+{
+  "schemaVersion": "2",
+  "program": "5-7",
+  "title": "Chemistry and Biology (Course 5-7)",
+  "level": "undergraduate",
+  "complete": false,
+  "includesGir": "sb",
+  "catalogSource": {
+    "url": "https://catalog.mit.edu/degree-charts/chemistry-biology-course-5-7/",
+    "slug": "chemistry-biology-course-5-7",
+    "scrapedAt": "2026-07-03",
+    "contentHash": "74c234fe734a6a936038b287e74d869e77c148d409d139b1b138fe7810c108af"
+  },
+  "girCrosswalk": [
+    {
+      "subjectId": "5.12",
+      "satisfies": [
+        "rest"
+      ],
+      "note": "Also satisfies REST via departmental program."
+    },
+    {
+      "subjectId": "7.03",
+      "satisfies": [
+        "rest"
+      ],
+      "note": "Also satisfies REST via departmental program."
+    },
+    {
+      "subjectId": "7.003",
+      "satisfies": [
+        "lab"
+      ],
+      "note": "Also satisfies Laboratory Requirement via departmental program."
+    },
+    {
+      "subjectId": "5.351",
+      "satisfies": [
+        "lab"
+      ],
+      "note": "Also satisfies Laboratory Requirement via departmental program."
+    },
+    {
+      "subjectId": "5.352",
+      "satisfies": [
+        "lab"
+      ],
+      "note": "Also satisfies Laboratory Requirement via departmental program."
+    },
+    {
+      "subjectId": "5.353",
+      "satisfies": [
+        "lab"
+      ],
+      "note": "Also satisfies Laboratory Requirement via departmental program."
+    }
+  ],
+  "footnotes": [
+    {
+      "id": "1",
+      "text": "Subject has prerequisites that are outside of the program."
+    },
+    {
+      "id": "2",
+      "text": "Students must complete 6.C01 & 7.C01 simultaneously in order to receive credit."
+    }
+  ],
+  "constraints": [],
+  "requirements": [
+    {
+      "groupId": "5-7-required-subjects",
+      "title": "Required Subjects",
+      "bucket": "departmental",
+      "subcategory": "required_subjects",
+      "root": {
+        "type": "group",
+        "ruleType": "all_of",
+        "items": [
+          {
+            "type": "subject",
+            "subjectId": "5.03"
+          },
+          {
+            "type": "subject",
+            "subjectId": "5.07"
+          },
+          {
+            "type": "selection",
+            "ruleType": "choose_one",
+            "itemsSource": "explicit",
+            "items": [
+              {
+                "type": "subject",
+                "subjectId": "7.05"
+              }
+            ]
+          },
+          {
+            "type": "subject",
+            "subjectId": "5.08"
+          },
+          {
+            "type": "subject",
+            "subjectId": "5.12"
+          },
+          {
+            "type": "subject",
+            "subjectId": "5.13"
+          },
+          {
+            "type": "subject",
+            "subjectId": "5.601"
+          },
+          {
+            "type": "subject",
+            "subjectId": "5.611"
+          },
+          {
+            "type": "subject",
+            "subjectId": "7.03"
+          },
+          {
+            "type": "subject",
+            "subjectId": "7.06"
+          }
+        ]
+      }
+    },
+    {
+      "groupId": "5-7-departmental-laboratory-requirement",
+      "title": "Departmental Laboratory Requirement",
+      "bucket": "departmental",
+      "subcategory": "laboratory",
+      "root": {
+        "type": "group",
+        "ruleType": "all_of",
+        "items": [
+          {
+            "type": "subject",
+            "subjectId": "5.351"
+          },
+          {
+            "type": "subject",
+            "subjectId": "5.352"
+          },
+          {
+            "type": "subject",
+            "subjectId": "5.353"
+          },
+          {
+            "type": "subject",
+            "subjectId": "7.002"
+          }
+        ]
+      }
+    },
+    {
+      "groupId": "5-7-option-1",
+      "title": "Option 1",
+      "bucket": "departmental",
+      "subcategory": "required_subjects",
+      "root": {
+        "type": "group",
+        "ruleType": "all_of",
+        "items": [
+          {
+            "type": "subject",
+            "subjectId": "5.361"
+          },
+          {
+            "type": "subject",
+            "subjectId": "5.362"
+          }
+        ]
+      }
+    },
+    {
+      "groupId": "5-7-option-2",
+      "title": "Option 2",
+      "bucket": "departmental",
+      "subcategory": "required_subjects",
+      "root": {
+        "type": "subject",
+        "subjectId": "7.003"
+      }
+    },
+    {
+      "groupId": "5-7-select-30-units-of-the-following",
+      "title": "Select 30 units of the following:",
+      "bucket": "departmental",
+      "subcategory": "required_subjects",
+      "root": {
+        "type": "group",
+        "ruleType": "all_of",
+        "items": [
+          {
+            "type": "subject",
+            "subjectId": "5.04"
+          },
+          {
+            "type": "subject",
+            "subjectId": "5.363"
+          },
+          {
+            "type": "subject",
+            "subjectId": "5.371"
+          },
+          {
+            "type": "subject",
+            "subjectId": "5.372"
+          },
+          {
+            "type": "subject",
+            "subjectId": "5.373"
+          },
+          {
+            "type": "subject",
+            "subjectId": "5.381"
+          },
+          {
+            "type": "subject",
+            "subjectId": "5.382"
+          },
+          {
+            "type": "subject",
+            "subjectId": "5.383"
+          },
+          {
+            "type": "subject",
+            "subjectId": "5.39"
+          },
+          {
+            "type": "subject",
+            "subjectId": "5.43"
+          },
+          {
+            "type": "subject",
+            "subjectId": "5.602"
+          },
+          {
+            "type": "subject",
+            "subjectId": "5.612"
+          },
+          {
+            "type": "subject",
+            "subjectId": "5.62"
+          },
+          {
+            "type": "subject",
+            "subjectId": "7.093"
+          },
+          {
+            "type": "subject",
+            "subjectId": "7.094"
+          },
+          {
+            "type": "subject",
+            "subjectId": "7.19"
+          },
+          {
+            "type": "subject",
+            "subjectId": "7.20"
+          },
+          {
+            "type": "subject",
+            "subjectId": "7.21"
+          },
+          {
+            "type": "subject",
+            "subjectId": "7.23"
+          },
+          {
+            "type": "subject",
+            "subjectId": "7.24"
+          },
+          {
+            "type": "subject",
+            "subjectId": "7.26"
+          },
+          {
+            "type": "subject",
+            "subjectId": "7.27"
+          },
+          {
+            "type": "subject",
+            "subjectId": "7.28"
+          },
+          {
+            "type": "subject",
+            "subjectId": "7.29"
+          },
+          {
+            "type": "subject",
+            "subjectId": "7.30"
+          },
+          {
+            "type": "subject",
+            "subjectId": "7.31"
+          },
+          {
+            "type": "subject",
+            "subjectId": "7.32"
+          },
+          {
+            "type": "subject",
+            "subjectId": "7.33"
+          },
+          {
+            "type": "subject",
+            "subjectId": "7.35"
+          },
+          {
+            "type": "subject",
+            "subjectId": "7.371"
+          },
+          {
+            "type": "subject",
+            "subjectId": "7.45"
+          },
+          {
+            "type": "subject",
+            "subjectId": "7.46"
+          },
+          {
+            "type": "subject",
+            "subjectId": "7.49"
+          },
+          {
+            "type": "group",
+            "ruleType": "all_of",
+            "items": [
+              {
+                "type": "subject",
+                "subjectId": "6.C01"
+              },
+              {
+                "type": "subject",
+                "subjectId": "7.C01"
+              }
+            ]
+          },
+          {
+            "type": "subject",
+            "subjectId": "9.17"
+          },
+          {
+            "type": "subject",
+            "subjectId": "9.26"
+          }
+        ]
+      }
+    }
+  ],
+  "status": "draft",
+  "revisionId": "5-7-2026-07-03-74c234fe",
+  "catalogYear": "2026",
+  "effectiveTerm": "2026-FA"
+}

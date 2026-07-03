@@ -1,0 +1,52 @@
+{
+  "sharedListId": "phd-computational-systems-biology.biological-engineering",
+  "program": "phd-computational-systems-biology",
+  "title": "Biological Engineering",
+  "items": [
+    {
+      "type": "subject",
+      "subjectId": "20.201"
+    },
+    {
+      "type": "subject",
+      "subjectId": "20.405"
+    },
+    {
+      "type": "subject",
+      "subjectId": "20.409"
+    },
+    {
+      "type": "subject",
+      "subjectId": "20.410"
+    },
+    {
+      "type": "subject",
+      "subjectId": "20.415"
+    },
+    {
+      "type": "subject",
+      "subjectId": "20.420"
+    },
+    {
+      "type": "subject",
+      "subjectId": "20.430"
+    },
+    {
+      "type": "subject",
+      "subjectId": "20.440"
+    },
+    {
+      "type": "subject",
+      "subjectId": "20.463"
+    },
+    {
+      "type": "subject",
+      "subjectId": "20.490"
+    },
+    {
+      "type": "subject",
+      "subjectId": "20.535"
+    }
+  ],
+  "version": "1"
+}

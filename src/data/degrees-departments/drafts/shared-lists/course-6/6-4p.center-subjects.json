@@ -1,0 +1,124 @@
+{
+  "sharedListId": "6-4p.center-subjects",
+  "program": "6-4p",
+  "title": "Center subjects",
+  "items": [
+    {
+      "type": "subject",
+      "subjectId": "6.1220"
+    },
+    {
+      "type": "subject",
+      "subjectId": "6.1400"
+    },
+    {
+      "type": "subject",
+      "subjectId": "6.3000"
+    },
+    {
+      "type": "subject",
+      "subjectId": "6.3100"
+    },
+    {
+      "type": "subject",
+      "subjectId": "6.3260"
+    },
+    {
+      "type": "subject",
+      "subjectId": "6.3720"
+    },
+    {
+      "type": "subject",
+      "subjectId": "6.3900"
+    },
+    {
+      "type": "subject",
+      "subjectId": "6.3950"
+    },
+    {
+      "type": "subject",
+      "subjectId": "6.4110"
+    },
+    {
+      "type": "subject",
+      "subjectId": "6.4120"
+    },
+    {
+      "type": "subject",
+      "subjectId": "6.4400"
+    },
+    {
+      "type": "subject",
+      "subjectId": "6.4420"
+    },
+    {
+      "type": "subject",
+      "subjectId": "6.4590"
+    },
+    {
+      "type": "subject",
+      "subjectId": "6.C01"
+    },
+    {
+      "type": "subject",
+      "subjectId": "6.C011"
+    },
+    {
+      "type": "subject",
+      "subjectId": "6.C35"
+    },
+    {
+      "type": "subject",
+      "subjectId": "6.C395"
+    },
+    {
+      "type": "subject",
+      "subjectId": "6.C51"
+    },
+    {
+      "type": "subject",
+      "subjectId": "6.C511"
+    },
+    {
+      "type": "subject",
+      "subjectId": "6.C571"
+    },
+    {
+      "type": "subject",
+      "subjectId": "9.660"
+    },
+    {
+      "type": "subject",
+      "subjectId": "18.410"
+    },
+    {
+      "type": "subject",
+      "subjectId": "18.400"
+    },
+    {
+      "type": "subject",
+      "subjectId": "14.15"
+    },
+    {
+      "type": "subject",
+      "subjectId": "9.66"
+    },
+    {
+      "type": "subject",
+      "subjectId": "2.0911"
+    },
+    {
+      "type": "subject",
+      "subjectId": "14.C395"
+    },
+    {
+      "type": "subject",
+      "subjectId": "1.C571"
+    },
+    {
+      "type": "subject",
+      "subjectId": "15.C571"
+    }
+  ],
+  "version": "1"
+}

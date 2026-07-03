@@ -1,0 +1,332 @@
+[
+  {
+    "sharedListId": "6.advanced-departmental-lab",
+    "program": "6",
+    "title": "Advanced Departmental Lab Subjects",
+    "items": [
+      {
+        "type": "subject",
+        "subjectId": "6.1040"
+      },
+      {
+        "type": "subject",
+        "subjectId": "6.1060"
+      },
+      {
+        "type": "subject",
+        "subjectId": "6.1100"
+      },
+      {
+        "type": "subject",
+        "subjectId": "6.1820"
+      },
+      {
+        "type": "subject",
+        "subjectId": "6.1920"
+      },
+      {
+        "type": "subject",
+        "subjectId": "6.2040"
+      },
+      {
+        "type": "subject",
+        "subjectId": "6.2050"
+      },
+      {
+        "type": "subject",
+        "subjectId": "6.2060"
+      },
+      {
+        "type": "subject",
+        "subjectId": "6.2061"
+      },
+      {
+        "type": "subject",
+        "subjectId": "6.2090"
+      },
+      {
+        "type": "subject",
+        "subjectId": "6.2092"
+      },
+      {
+        "type": "subject",
+        "subjectId": "6.2220"
+      },
+      {
+        "type": "subject",
+        "subjectId": "6.2221"
+      },
+      {
+        "type": "subject",
+        "subjectId": "6.2370"
+      },
+      {
+        "type": "subject",
+        "subjectId": "6.2410"
+      },
+      {
+        "type": "subject",
+        "subjectId": "6.2540"
+      },
+      {
+        "type": "subject",
+        "subjectId": "6.2600"
+      },
+      {
+        "type": "subject",
+        "subjectId": "6.3100"
+      },
+      {
+        "type": "subject",
+        "subjectId": "6.4200"
+      },
+      {
+        "type": "subject",
+        "subjectId": "6.4400"
+      },
+      {
+        "type": "subject",
+        "subjectId": "6.4550"
+      },
+      {
+        "type": "subject",
+        "subjectId": "6.4570"
+      },
+      {
+        "type": "subject",
+        "subjectId": "6.4860"
+      },
+      {
+        "type": "subject",
+        "subjectId": "6.4880"
+      },
+      {
+        "type": "subject",
+        "subjectId": "6.5081"
+      },
+      {
+        "type": "subject",
+        "subjectId": "6.8301"
+      },
+      {
+        "type": "subject",
+        "subjectId": "6.8611"
+      },
+      {
+        "type": "subject",
+        "subjectId": "6.8701"
+      },
+      {
+        "type": "subject",
+        "subjectId": "6.8801"
+      },
+      {
+        "type": "subject",
+        "subjectId": "6.9030"
+      },
+      {
+        "type": "subject",
+        "subjectId": "6.C35"
+      }
+    ]
+  },
+  {
+    "sharedListId": "6.advanced-undergraduate-2",
+    "program": "6",
+    "title": "Advanced Undergraduate 2",
+    "items": [
+      {
+        "type": "subject",
+        "subjectId": "6.1040"
+      },
+      {
+        "type": "subject",
+        "subjectId": "6.1060"
+      },
+      {
+        "type": "subject",
+        "subjectId": "6.1100"
+      },
+      {
+        "type": "subject",
+        "subjectId": "6.1120"
+      },
+      {
+        "type": "subject",
+        "subjectId": "6.1420"
+      },
+      {
+        "type": "subject",
+        "subjectId": "6.1600"
+      },
+      {
+        "type": "subject",
+        "subjectId": "6.1810"
+      },
+      {
+        "type": "subject",
+        "subjectId": "6.1820"
+      },
+      {
+        "type": "subject",
+        "subjectId": "6.1920"
+      },
+      {
+        "type": "subject",
+        "subjectId": "6.2040"
+      },
+      {
+        "type": "subject",
+        "subjectId": "6.2050"
+      },
+      {
+        "type": "subject",
+        "subjectId": "6.2060"
+      },
+      {
+        "type": "subject",
+        "subjectId": "6.2061"
+      },
+      {
+        "type": "subject",
+        "subjectId": "6.2080"
+      },
+      {
+        "type": "subject",
+        "subjectId": "6.2090"
+      },
+      {
+        "type": "subject",
+        "subjectId": "6.2200"
+      },
+      {
+        "type": "subject",
+        "subjectId": "6.2220"
+      },
+      {
+        "type": "subject",
+        "subjectId": "6.2221"
+      },
+      {
+        "type": "subject",
+        "subjectId": "6.2400"
+      },
+      {
+        "type": "subject",
+        "subjectId": "6.2530"
+      },
+      {
+        "type": "subject",
+        "subjectId": "6.3100"
+      },
+      {
+        "type": "subject",
+        "subjectId": "6.3260"
+      },
+      {
+        "type": "subject",
+        "subjectId": "6.3720"
+      },
+      {
+        "type": "subject",
+        "subjectId": "6.3730"
+      },
+      {
+        "type": "subject",
+        "subjectId": "6.4210"
+      },
+      {
+        "type": "subject",
+        "subjectId": "6.4400"
+      },
+      {
+        "type": "subject",
+        "subjectId": "6.4420"
+      },
+      {
+        "type": "subject",
+        "subjectId": "6.4510"
+      },
+      {
+        "type": "subject",
+        "subjectId": "6.4830"
+      },
+      {
+        "type": "subject",
+        "subjectId": "6.4860"
+      },
+      {
+        "type": "subject",
+        "subjectId": "6.5081"
+      },
+      {
+        "type": "subject",
+        "subjectId": "6.5151"
+      },
+      {
+        "type": "subject",
+        "subjectId": "6.5831"
+      },
+      {
+        "type": "subject",
+        "subjectId": "6.5931"
+      },
+      {
+        "type": "subject",
+        "subjectId": "6.6331"
+      },
+      {
+        "type": "subject",
+        "subjectId": "6.7120"
+      },
+      {
+        "type": "subject",
+        "subjectId": "6.8301"
+      },
+      {
+        "type": "subject",
+        "subjectId": "6.8371"
+      },
+      {
+        "type": "subject",
+        "subjectId": "6.8611"
+      },
+      {
+        "type": "subject",
+        "subjectId": "6.8701"
+      },
+      {
+        "type": "subject",
+        "subjectId": "6.8711"
+      },
+      {
+        "type": "subject",
+        "subjectId": "6.8721"
+      },
+      {
+        "type": "subject",
+        "subjectId": "6.8801"
+      },
+      {
+        "type": "subject",
+        "subjectId": "6.9000"
+      },
+      {
+        "type": "subject",
+        "subjectId": "6.C25"
+      },
+      {
+        "type": "subject",
+        "subjectId": "6.C27"
+      },
+      {
+        "type": "subject",
+        "subjectId": "6.C571"
+      },
+      {
+        "type": "subject",
+        "subjectId": "18.404"
+      }
+    ]
+  }
+]

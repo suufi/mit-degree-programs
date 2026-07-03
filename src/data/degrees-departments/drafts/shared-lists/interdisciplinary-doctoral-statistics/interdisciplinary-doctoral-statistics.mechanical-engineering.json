@@ -1,0 +1,24 @@
+{
+  "sharedListId": "interdisciplinary-doctoral-statistics.mechanical-engineering",
+  "program": "interdisciplinary-doctoral-statistics",
+  "title": "# Mechanical Engineering",
+  "items": [
+    {
+      "type": "subject",
+      "subjectId": "2.168"
+    },
+    {
+      "type": "subject",
+      "subjectId": "6.7910"
+    },
+    {
+      "type": "subject",
+      "subjectId": "2.122"
+    },
+    {
+      "type": "subject",
+      "subjectId": "2.29"
+    }
+  ],
+  "version": "1"
+}

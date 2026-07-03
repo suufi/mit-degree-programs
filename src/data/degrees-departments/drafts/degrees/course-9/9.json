@@ -1,0 +1,222 @@
+{
+  "schemaVersion": "2",
+  "program": "9",
+  "title": "Brain and Cognitive Sciences (Course 9)",
+  "level": "undergraduate",
+  "complete": false,
+  "includesGir": "sb",
+  "catalogSource": {
+    "url": "https://catalog.mit.edu/degree-charts/brain-cognitive-sciences-course-9/",
+    "slug": "brain-cognitive-sciences-course-9",
+    "scrapedAt": "2026-07-03",
+    "contentHash": "f0f06062ddca5cb1e97acd3691d18dbef87e9e1f2740e38332be0a66a49c239d"
+  },
+  "girCrosswalk": [
+    {
+      "subjectId": "6.100A",
+      "satisfies": [
+        "rest"
+      ],
+      "note": "Also satisfies REST via departmental program."
+    },
+    {
+      "subjectId": "6.100B",
+      "satisfies": [
+        "rest"
+      ],
+      "note": "Also satisfies REST via departmental program."
+    },
+    {
+      "subjectId": "9.01",
+      "satisfies": [
+        "rest"
+      ],
+      "note": "Also satisfies REST via departmental program."
+    }
+  ],
+  "footnotes": [
+    {
+      "id": "1",
+      "text": "These subjects can count toward either the Laboratory or the Research requirement, but not both.",
+      "appliesTo": [
+        "9.tier-ii",
+        "9.tier-iii",
+        "9.restricted-electives"
+      ]
+    }
+  ],
+  "constraints": [
+    {
+      "type": "exclusive_pools",
+      "pools": [
+        "9.tier-ii",
+        "9.tier-iii",
+        "9.restricted-electives"
+      ],
+      "note": "These subjects can count toward either the Laboratory or the Research requirement, but not both."
+    }
+  ],
+  "requirements": [
+    {
+      "groupId": "9-tier-i",
+      "title": "Tier I",
+      "bucket": "departmental",
+      "subcategory": "required_subjects",
+      "root": {
+        "type": "group",
+        "ruleType": "all_of",
+        "items": [
+          {
+            "type": "subject",
+            "subjectId": "6.100A"
+          },
+          {
+            "type": "subject",
+            "subjectId": "6.100B"
+          },
+          {
+            "type": "subject",
+            "subjectId": "9.00"
+          },
+          {
+            "type": "subject",
+            "subjectId": "9.01"
+          },
+          {
+            "type": "subject",
+            "subjectId": "9.40"
+          },
+          {
+            "type": "subject",
+            "subjectId": "9.07"
+          },
+          {
+            "type": "selection",
+            "ruleType": "choose_one",
+            "itemsSource": "explicit",
+            "items": [
+              {
+                "type": "subject",
+                "subjectId": "18.05"
+              },
+              {
+                "type": "subject",
+                "subjectId": "18.600"
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "groupId": "9-tier-ii-tier-iii-and-restricted-electives",
+      "title": "Tier II, Tier III, and Restricted Electives",
+      "bucket": "elective",
+      "subcategory": "restricted_electives",
+      "flexibility": {
+        "advisorApproval": false,
+        "catalogText": "Select seven subjects from the Tier II, Tier III, or Restricted Elective categories. At least three of the seven must be from the Tier II list."
+      },
+      "root": {
+        "type": "selection",
+        "ruleType": "choose_units",
+        "ruleValue": 84,
+        "itemsSource": "advisor_defined",
+        "note": "Select seven subjects from the Tier II, Tier III, or Restricted Elective categories. At least three of the seven must be from the Tier II list.",
+        "flexibility": {
+          "catalogText": "Select seven subjects from the Tier II, Tier III, or Restricted Elective categories. At least three of the seven must be from the Tier II list."
+        }
+      }
+    },
+    {
+      "groupId": "9-laboratory",
+      "title": "Laboratory",
+      "bucket": "departmental",
+      "subcategory": "laboratory",
+      "root": {
+        "type": "selection",
+        "ruleType": "choose_one",
+        "itemsSource": "explicit",
+        "items": [
+          {
+            "type": "subject",
+            "subjectId": "9.12"
+          },
+          {
+            "type": "subject",
+            "subjectId": "9.17"
+          },
+          {
+            "type": "subject",
+            "subjectId": "9.59"
+          },
+          {
+            "type": "subject",
+            "subjectId": "9.60"
+          }
+        ]
+      }
+    },
+    {
+      "groupId": "9-research",
+      "title": "Research",
+      "bucket": "departmental",
+      "subcategory": "required_subjects",
+      "root": {
+        "type": "selection",
+        "ruleType": "choose_one",
+        "itemsSource": "explicit",
+        "items": [
+          {
+            "type": "subject",
+            "subjectId": "9.12"
+          },
+          {
+            "type": "subject",
+            "subjectId": "9.17"
+          },
+          {
+            "type": "subject",
+            "subjectId": "9.41"
+          },
+          {
+            "type": "subject",
+            "subjectId": "9.50"
+          },
+          {
+            "type": "subject",
+            "subjectId": "9.59"
+          },
+          {
+            "type": "subject",
+            "subjectId": "9.60"
+          },
+          {
+            "type": "subject",
+            "subjectId": "9.URG"
+          }
+        ]
+      }
+    },
+    {
+      "groupId": "9-restricted-electives",
+      "title": "Restricted Electives",
+      "bucket": "elective",
+      "subcategory": "restricted_electives",
+      "flexibility": {
+        "catalogText": "Select seven subjects from the Tier II, Tier III, or Restricted Elective categories. At least three of the seven must be from the Tier II list."
+      },
+      "root": {
+        "type": "selection",
+        "ruleType": "choose_units",
+        "ruleValue": 84,
+        "itemsSource": "shared_list",
+        "sharedListId": "9.restricted-electives"
+      }
+    }
+  ],
+  "status": "draft",
+  "revisionId": "9-2026-07-03-f0f06062",
+  "catalogYear": "2026",
+  "effectiveTerm": "2026-FA"
+}

@@ -1,0 +1,128 @@
+Degree Charts
+
+- [Home](https://catalog.mit.edu/) >
+- [Degree Charts](https://catalog.mit.edu/degree-charts/) >
+- Civil and Environmental Engineering (PhD)
+
+# Doctor of Philosophy in Civil and Environmental Engineering
+
+[Department of Civil and Environmental Engineering](https://catalog.mit.edu/schools/engineering/civil-environmental-engineering/#graduatetext)
+
+## Program Requirements
+
+|     |     |     |
+| --- | --- | --- |
+| Core | 33-36 |
+| Select three subjects from one of the Core Areas listed in the table below. |  |
+| Breadth Subject1 | 6-12 |
+| Unrestricted Electives | 48-57 |
+| Thesis |  |
+| [1.THG](https://catalog.mit.edu/search/?P=1.THG "1.THG") | Graduate Thesis 2 | 540 |
+| Total Units | 627-645 |
+
+**Note:** Students in this program can choose to receive the Doctor of Philosophy or the Doctor of Science in Civil and Environmental Engineering or in another departmental field of specialization. Students receiving veterans benefits must select the degree they wish to receive prior to program certification with the Veterans Administration.
+
+|     |     |
+| --- | --- |
+| _1_ | _A breadth subject is a subject chosen from outside a student’s main research area, intended to expand their knowledge base, strengthen interdisciplinary thinking, and provide contextual or methodological skills that enhance their primary field of study. CEE recommends [1.976](https://catalog.mit.edu/search/?P=1.976 "1.976") Graduate Professional Development Seminar but other subjects are acceptable with advisor approval._ |
+| _2_ | _Thesis units are based on the average duration of the doctoral program (five years) but will vary based on how long the student remains in the program._ |
+
+|     |     |     |
+| --- | --- | --- |
+| Core Areas |  |
+| _Environmental Chemistry_ |  |
+| [1.76](https://catalog.mit.edu/search/?P=1.76 "1.76") | Aquatic Chemistry | 12 |
+| [1.83](https://catalog.mit.edu/search/?P=1.83 "1.83") | Environmental Organic Chemistry | 12 |
+| [1.831](https://catalog.mit.edu/search/?P=1.831 "1.831") | Environmental Organic Chemistry | 12 |
+| or [1.84\[J\]](https://catalog.mit.edu/search/?P=1.84 "1.84[J]") | Atmospheric Chemistry |
+| _Environmental Fluid Mechanics_1 |  |
+| [1.61](https://catalog.mit.edu/search/?P=1.61 "1.61") | Transport Processes in the Environment | 12 |
+| [1.63\[J\]](https://catalog.mit.edu/search/?P=1.63 "1.63[J]") | Advanced Fluid Dynamics | 12 |
+| [1.65](https://catalog.mit.edu/search/?P=1.65 "1.65") | Atmospheric Boundary Layer Flows and Wind Energy | 12 |
+| [1.69](https://catalog.mit.edu/search/?P=1.69 "1.69") | Introduction to Coastal Engineering | 12 |
+| [2.25](https://catalog.mit.edu/search/?P=2.25 "2.25") | Fluid Mechanics | 12 |
+| [12.802](https://catalog.mit.edu/search/?P=12.802 "12.802") | Waves, Instability and Turbulence at Small Scales | 12 |
+| _Environmental Microbiology_ |  |
+| [1.87\[J\]](https://catalog.mit.edu/search/?P=1.87 "1.87[J]") | Microbial Genetics and Evolution | 12 |
+| [1.89](https://catalog.mit.edu/search/?P=1.89 "1.89") | Environmental Microbial Biogeochemistry | 12 |
+| _And one of the following subjects:_ |  |
+| [1.881\[J\]](https://catalog.mit.edu/search/?P=1.881 "1.881[J]") | Genomics and Evolution of Infectious Disease | 12 |
+| [6.8710\[J\]](https://catalog.mit.edu/search/?P=6.8710 "6.8710[J]") | Computational Systems Biology: Deep Learning in the Life Sciences | 12 |
+| [7.492\[J\]](https://catalog.mit.edu/search/?P=7.492 "7.492[J]") | Methods and Problems in Microbiology | 12 |
+| _Ecology and Evolution_1 |  |
+| [1.837](https://catalog.mit.edu/search/?P=1.837 "1.837") | Resilience of Living Systems to Environmental Change | 12 |
+| or [12.586](https://catalog.mit.edu/search/?P=12.586 "12.586") | Modeling Environmental Complexity |
+| [1.845](https://catalog.mit.edu/search/?P=1.845 "1.845") | Introduction to the Terrestrial Carbon Cycle and Ecosystem Ecology | 12 |
+| or [12.849](https://catalog.mit.edu/search/?P=12.849 "12.849") | Mechanisms and Models of the Global Carbon Cycle |
+| [1.87\[J\]](https://catalog.mit.edu/search/?P=1.87 "1.87[J]") | Microbial Genetics and Evolution | 12 |
+| or [8.591\[J\]](https://catalog.mit.edu/search/?P=8.591 "8.591[J]") | Systems Biology |
+| [1.872\[J\]](https://catalog.mit.edu/search/?P=1.872 "1.872[J]") | Evolutionary and Quantitative Genomics | 12 |
+| [1.873](https://catalog.mit.edu/search/?P=1.873 "1.873") | Mathematical Modeling of Ecological Systems | 12 |
+| or [1.89](https://catalog.mit.edu/search/?P=1.89 "1.89") | Environmental Microbial Biogeochemistry |
+| [1.881\[J\]](https://catalog.mit.edu/search/?P=1.881 "1.881[J]") | Genomics and Evolution of Infectious Disease | 12 |
+| _Hydrology_ |  |
+| [1.61](https://catalog.mit.edu/search/?P=1.61 "1.61") | Transport Processes in the Environment | 12 |
+| [1.65](https://catalog.mit.edu/search/?P=1.65 "1.65") | Atmospheric Boundary Layer Flows and Wind Energy | 12 |
+| [1.713\[J\]](https://catalog.mit.edu/search/?P=1.713 "1.713[J]") | Land-Atmosphere Interactions | 12 |
+| [1.714](https://catalog.mit.edu/search/?P=1.714 "1.714") | Surface Hydrology | 12 |
+| [1.72](https://catalog.mit.edu/search/?P=1.72 "1.72") | Groundwater Hydrology | 12 |
+| [1.723](https://catalog.mit.edu/search/?P=1.723 "1.723") | Computational Methods for Flow in Porous Media | 12 |
+| _Geotechnics/Geomechanics_ |  |
+| [1.361](https://catalog.mit.edu/search/?P=1.361 "1.361") | Advanced Soil Mechanics | 9 |
+| _And two of the following subjects:_ |  |
+| [1.364](https://catalog.mit.edu/search/?P=1.364 "1.364") | Advanced Geotechnical Engineering | 9 |
+| [1.38](https://catalog.mit.edu/search/?P=1.38 "1.38") | Engineering Geology | 12 |
+| [1.72](https://catalog.mit.edu/search/?P=1.72 "1.72") | Groundwater Hydrology | 12 |
+| _Mechanics and Materials_ |  |
+| _Select one subject from each concentration, with at least one from CEE:_ |  |
+| Concentration 1: Fundamentals |  |
+| [1.550](https://catalog.mit.edu/search/?P=1.550 "1.550") | Engineering Mechanics |  |
+| [1.581\[J\]](https://catalog.mit.edu/search/?P=1.581 "1.581[J]") | Structural Dynamics |  |
+| Concentration 2: Computation |  |
+| [1.001](https://catalog.mit.edu/search/?P=1.001 "1.001") | Engineering Computation and Data Science |  |
+| [1.121\[J\]](https://catalog.mit.edu/search/?P=1.121 "1.121[J]") | Advancing Mechanics and Materials via Machine Learning |  |
+| [1.545\[J\]](https://catalog.mit.edu/search/?P=1.545 "1.545[J]") | Atomistic Modeling and Simulation of Materials and Structures |  |
+| Concentration 3: Specialization |  |
+| [1.361](https://catalog.mit.edu/search/?P=1.361 "1.361") | Advanced Soil Mechanics |  |
+| [1.541](https://catalog.mit.edu/search/?P=1.541 "1.541") | Mechanics and Design of Concrete Structures |  |
+| [1.583\[J\]](https://catalog.mit.edu/search/?P=1.583 "1.583[J]") | Topology Optimization of Structures |  |
+| [2.074](https://catalog.mit.edu/search/?P=2.074 "2.074") | Solid Mechanics: Elasticity |  |
+| _Systems Engineering_ |  |
+| _Select one of the following CEE domain subjects:_ |  |
+| [1.125](https://catalog.mit.edu/search/?P=1.125 "1.125") | Architecting and Engineering Software Systems |  |
+| [1.144\[J\]](https://catalog.mit.edu/search/?P=1.144 "1.144[J]") | Applied Category Theory for Engineering Design |  |
+| [1.200\[J\]](https://catalog.mit.edu/search/?P=1.200 "1.200[J]") | Transportation: Foundations and Methods |  |
+| [1.202](https://catalog.mit.edu/search/?P=1.202 "1.202") | Demand Modeling |  |
+| [1.208](https://catalog.mit.edu/search/?P=1.208 "1.208") | Resilient Networks |  |
+| [1.260\[J\]](https://catalog.mit.edu/search/?P=1.260 "1.260[J]") | Logistics Systems |  |
+| _Select one subject each from two different methods:_ |  |
+| Probability and Statistics |  |
+| [1.203\[J\]](https://catalog.mit.edu/search/?P=1.203 "1.203[J]") | Applied Probability and Stochastic Models |  |
+| [6.3702](https://catalog.mit.edu/search/?P=6.3702 "6.3702") | Introduction to Probability |  |
+| [6.7700\[J\]](https://catalog.mit.edu/search/?P=6.7700 "6.7700[J]") | Fundamentals of Probability |  |
+| Optimization |  |
+| [15.081\[J\]](https://catalog.mit.edu/search/?P=15.081 "15.081[J]") | Introduction to Mathematical Programming |  |
+| [15.C57\[J\]](https://catalog.mit.edu/search/?P=15.C57 "15.C57[J]") | Optimization Methods |  |
+| Machine Learning |  |
+| [1.C51](https://catalog.mit.edu/search/?P=1.C51 "1.C51")<br>& [6.C51](https://catalog.mit.edu/search/?P=6.C51 "6.C51") | Machine Learning for Sustainable Systems<br>and Modeling with Machine Learning: from Algorithms to Applications |  |
+| [6.7900](https://catalog.mit.edu/search/?P=6.7900 "6.7900") | Machine Learning |  |
+| [6.7920\[J\]](https://catalog.mit.edu/search/?P=6.7920 "6.7920[J]") | Reinforcement Learning: Foundations and Methods |  |
+
+|     |     |
+| --- | --- |
+| _1_ | _At least two subjects must be CEE subjects._ |
+
+Print Options
+
+
+[Send Page to Printer](https://catalog.mit.edu/degree-charts/phd-civil-environmental-engineering/#)
+
+_Print this page._
+
+[Download PDF of this Page](https://catalog.mit.edu/degree-charts/phd-civil-environmental-engineering/phd-civil-environmental-engineering.pdf)
+
+_The PDF includes all information on this page and its related tabs. Subject (course) information includes any changes approved for the current academic year._
+
+[Download PDF of the Entire Catalog and/or Subject Descriptions](https://catalog.mit.edu/archive/)
+
+[Cancel](https://catalog.mit.edu/degree-charts/phd-civil-environmental-engineering/#)

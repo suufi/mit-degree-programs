@@ -1,0 +1,53 @@
+Degree Charts
+
+- [Home](https://catalog.mit.edu/) >
+- [Degree Charts](https://catalog.mit.edu/degree-charts/) >
+- Electrical Engineering and Computer Science (MEng)
+
+# Electrical Engineering and Computer Science (Course 6-P)
+
+[Department of Electrical Engineering and Computer Science](https://catalog.mit.edu/schools/engineering/electrical-engineering-computer-science/#graduatestudytext)
+
+## Master of Engineering in Electrical Engineering and Computer Science
+
+Further [details on all EECS programs](http://www.eecs.mit.edu/acad.html) are available on the department's website.
+
+The Master of Engineering degree is awarded only to students who have already received, or who will simultaneously receive, one of the Bachelor’s degrees listed below. See the degree charts to view the requirements of each undergraduate program.
+
+- [Bachelor of Science in Computer Science and Engineering (Course 6-3)](https://catalog.mit.edu/degree-charts/computer-science-engineering-course-6-3/)
+- [Bachelor of Science in Artificial Intelligence and Decision Making (Course 6-4)](https://catalog.mit.edu/degree-charts/artifical-intelligence-decision-making-course-6-4/)
+- [Bachelor of Science in Electrical Engineering and Computing (Course 6-5)](https://catalog.mit.edu/degree-charts/electrical-engineering-computing-course-6-5/)
+
+The graduate component of the MEng program is described below.
+
+### Course 6-P Graduate Requirements
+
+|     |     |     |
+| --- | --- | --- |
+| Required Subjects |  |
+| [6.THM](https://catalog.mit.edu/search/?P=6.THM "6.THM") | Master of Engineering Program Thesis 1 | 24 |
+| [6.9830](https://catalog.mit.edu/search/?P=6.9830 "6.9830") | Professional Perspective Internship | 1 |
+| Restricted Electives |  |
+| Four graduate subjects totaling at least 42 units from a list specified by EECS.2 | 42-48 |
+| Subjects from a restricted departmental list including 6.998 and subjects from mathematics, science, and engineering electives totaling at least 24 units. | 24 |
+| Total Units | 91-97 |
+
+|     |     |
+| --- | --- |
+| _1_ | _6-PA Program requires performance of thesis at company location._ |
+| _2_ | _The 42 units must be chosen so that among these four subjects and the two Advanced Undergraduate Subjects used for the SB degree there are three subjects that satisfy one of the [department's concentration fields](https://www.eecs.mit.edu/academics/undergraduate-programs/meng-program/requirements/)._ |
+
+Print Options
+
+
+[Send Page to Printer](https://catalog.mit.edu/degree-charts/master-electrical-engineering-computer-science-course-6-p/#)
+
+_Print this page._
+
+[Download PDF of this Page](https://catalog.mit.edu/degree-charts/master-electrical-engineering-computer-science-course-6-p/master-electrical-engineering-computer-science-course-6-p.pdf)
+
+_The PDF includes all information on this page and its related tabs. Subject (course) information includes any changes approved for the current academic year._
+
+[Download PDF of the Entire Catalog and/or Subject Descriptions](https://catalog.mit.edu/archive/)
+
+[Cancel](https://catalog.mit.edu/degree-charts/master-electrical-engineering-computer-science-course-6-p/#)

@@ -1,0 +1,42 @@
+{
+  "sharedListId": "6-7.compbio",
+  "program": "6-7",
+  "title": "COMPBIOv2",
+  "items": [
+    {
+      "type": "subject",
+      "subjectId": "1.088"
+    },
+    {
+      "type": "subject",
+      "subjectId": "18.413"
+    },
+    {
+      "type": "subject",
+      "subjectId": "6.8701"
+    },
+    {
+      "type": "group",
+      "ruleType": "all_of",
+      "items": [
+        {
+          "type": "subject",
+          "subjectId": "7.093"
+        },
+        {
+          "type": "subject",
+          "subjectId": "7.094"
+        }
+      ]
+    },
+    {
+      "type": "subject",
+      "subjectId": "7.32"
+    },
+    {
+      "type": "subject",
+      "subjectId": "7.33"
+    }
+  ],
+  "version": "1"
+}

@@ -1,0 +1,76 @@
+{
+  "sharedListId": "master-transportation.policy-technology-and-society-subjects",
+  "program": "master-transportation",
+  "title": "Policy, Technology, and Society Subjects",
+  "items": [
+    {
+      "type": "subject",
+      "subjectId": "2.65"
+    },
+    {
+      "type": "subject",
+      "subjectId": "2.810"
+    },
+    {
+      "type": "subject",
+      "subjectId": "6.7260"
+    },
+    {
+      "type": "subject",
+      "subjectId": "10.805"
+    },
+    {
+      "type": "subject",
+      "subjectId": "11.255"
+    },
+    {
+      "type": "subject",
+      "subjectId": "11.478"
+    },
+    {
+      "type": "subject",
+      "subjectId": "11.526"
+    },
+    {
+      "type": "subject",
+      "subjectId": "11.540"
+    },
+    {
+      "type": "subject",
+      "subjectId": "15.020"
+    },
+    {
+      "type": "subject",
+      "subjectId": "15.038"
+    },
+    {
+      "type": "subject",
+      "subjectId": "15.230"
+    },
+    {
+      "type": "subject",
+      "subjectId": "15.655"
+    },
+    {
+      "type": "subject",
+      "subjectId": "16.422"
+    },
+    {
+      "type": "subject",
+      "subjectId": "16.453"
+    },
+    {
+      "type": "subject",
+      "subjectId": "16.71"
+    },
+    {
+      "type": "subject",
+      "subjectId": "16.72"
+    },
+    {
+      "type": "subject",
+      "subjectId": "16.89"
+    }
+  ],
+  "version": "1"
+}

@@ -1,0 +1,134 @@
+{
+  "schemaVersion": "2",
+  "program": "21-german",
+  "title": "Global Studies and Languages (Course 21G) — German Studies",
+  "level": "undergraduate",
+  "complete": false,
+  "includesGir": "sb",
+  "catalogSource": {
+    "url": "https://catalog.mit.edu/degree-charts/global-studies-languages-course-21g/",
+    "slug": "global-studies-languages-course-21g",
+    "scrapedAt": "2026-07-03",
+    "contentHash": "379fe8e992bd90c4ee48eddede639dd558e215b7cb84f8f41f9ad2611d71b091"
+  },
+  "girCrosswalk": [],
+  "footnotes": [
+    {
+      "id": "1",
+      "text": "The units for the prerequisite subjects are not included in the calculations for this degree chart."
+    },
+    {
+      "id": "2",
+      "text": "Intermediate and advanced German subjects can be found in this subject listing."
+    },
+    {
+      "id": "3",
+      "text": "This chart has been calculated based on an overlap of 36 units (three subjects) between the HASS General Institute Requirement and the departmental requirements. Students who develop a program of study with more overlap will be able to select more unrestricted electives to meet the number of total units beyond the GIRs required for an SB degree."
+    }
+  ],
+  "constraints": [],
+  "requirements": [
+    {
+      "groupId": "21-german-required-subjects",
+      "title": "Required Subjects",
+      "bucket": "departmental",
+      "subcategory": "required_subjects",
+      "root": {
+        "type": "group",
+        "ruleType": "all_of",
+        "items": [
+          {
+            "type": "subject",
+            "subjectId": "21G.401"
+          },
+          {
+            "type": "subject",
+            "subjectId": "21G.402"
+          },
+          {
+            "type": "subject",
+            "subjectId": "21G.404"
+          },
+          {
+            "type": "subject",
+            "subjectId": "21G.406"
+          },
+          {
+            "type": "subject",
+            "subjectId": "21G.407"
+          },
+          {
+            "type": "group",
+            "ruleType": "all_of",
+            "items": [
+              {
+                "type": "subject",
+                "subjectId": "21G.406"
+              },
+              {
+                "type": "subject",
+                "subjectId": "21G.407"
+              }
+            ]
+          },
+          {
+            "type": "subject",
+            "subjectId": "21G.409"
+          },
+          {
+            "type": "subject",
+            "subjectId": "21G.410"
+          },
+          {
+            "type": "subject",
+            "subjectId": "21G.412"
+          },
+          {
+            "type": "subject",
+            "subjectId": "21G.414"
+          },
+          {
+            "type": "subject",
+            "subjectId": "21G.417"
+          },
+          {
+            "type": "subject",
+            "subjectId": "21G.418"
+          },
+          {
+            "type": "subject",
+            "subjectId": "21G.420"
+          },
+          {
+            "type": "subject",
+            "subjectId": "21G.055"
+          }
+        ]
+      }
+    },
+    {
+      "groupId": "21-german-restricted-electives",
+      "title": "Restricted Electives",
+      "bucket": "elective",
+      "subcategory": "restricted_electives",
+      "root": {
+        "type": "group",
+        "ruleType": "all_of",
+        "items": [
+          {
+            "type": "subject",
+            "subjectId": "21G.THT"
+          },
+          {
+            "type": "subject",
+            "subjectId": "21G.THU"
+          }
+        ]
+      }
+    }
+  ],
+  "status": "draft",
+  "revisionId": "21-german-2026-07-03-379fe8e9",
+  "catalogYear": "2026",
+  "effectiveTerm": "2026-FA"
+}

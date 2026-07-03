@@ -1,0 +1,108 @@
+{
+  "sharedListId": "phd-microbiology.select-at-least-three-subjects-from-the-following-list",
+  "program": "phd-microbiology",
+  "title": "Select at least three subjects from the following list:",
+  "items": [
+    {
+      "type": "subject",
+      "subjectId": "1.881"
+    },
+    {
+      "type": "subject",
+      "subjectId": "1.89"
+    },
+    {
+      "type": "subject",
+      "subjectId": "5.062"
+    },
+    {
+      "type": "subject",
+      "subjectId": "5.52"
+    },
+    {
+      "type": "subject",
+      "subjectId": "5.54"
+    },
+    {
+      "type": "subject",
+      "subjectId": "5.64"
+    },
+    {
+      "type": "subject",
+      "subjectId": "5.78"
+    },
+    {
+      "type": "subject",
+      "subjectId": "7.58"
+    },
+    {
+      "type": "subject",
+      "subjectId": "7.62"
+    },
+    {
+      "type": "subject",
+      "subjectId": "7.63"
+    },
+    {
+      "type": "subject",
+      "subjectId": "7.66"
+    },
+    {
+      "type": "subject",
+      "subjectId": "7.70"
+    },
+    {
+      "type": "subject",
+      "subjectId": "7.71"
+    },
+    {
+      "type": "subject",
+      "subjectId": "7.77"
+    },
+    {
+      "type": "subject",
+      "subjectId": "8.591"
+    },
+    {
+      "type": "subject",
+      "subjectId": "10.542"
+    },
+    {
+      "type": "subject",
+      "subjectId": "10.544"
+    },
+    {
+      "type": "subject",
+      "subjectId": "10.546"
+    },
+    {
+      "type": "subject",
+      "subjectId": "20.420"
+    },
+    {
+      "type": "subject",
+      "subjectId": "20.440"
+    },
+    {
+      "type": "subject",
+      "subjectId": "20.450"
+    },
+    {
+      "type": "subject",
+      "subjectId": "20.490"
+    },
+    {
+      "type": "subject",
+      "subjectId": "7.498"
+    },
+    {
+      "type": "subject",
+      "subjectId": "7.494"
+    },
+    {
+      "type": "subject",
+      "subjectId": "7.MTHG"
+    }
+  ],
+  "version": "1"
+}

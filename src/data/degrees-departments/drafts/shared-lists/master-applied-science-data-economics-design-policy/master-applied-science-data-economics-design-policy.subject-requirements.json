@@ -1,0 +1,104 @@
+{
+  "sharedListId": "master-applied-science-data-economics-design-policy.subject-requirements",
+  "program": "master-applied-science-data-economics-design-policy",
+  "title": "Subject Requirements",
+  "items": [
+    {
+      "type": "subject",
+      "subjectId": "14.01"
+    },
+    {
+      "type": "subject",
+      "subjectId": "14.310"
+    },
+    {
+      "type": "subject",
+      "subjectId": "14.73"
+    },
+    {
+      "type": "subject",
+      "subjectId": "14.740"
+    },
+    {
+      "type": "subject",
+      "subjectId": "14.750"
+    },
+    {
+      "type": "subject",
+      "subjectId": "14.320"
+    },
+    {
+      "type": "subject",
+      "subjectId": "14.399"
+    },
+    {
+      "type": "subject",
+      "subjectId": "14.003"
+    },
+    {
+      "type": "subject",
+      "subjectId": "14.131"
+    },
+    {
+      "type": "subject",
+      "subjectId": "14.160"
+    },
+    {
+      "type": "subject",
+      "subjectId": "14.161"
+    },
+    {
+      "type": "subject",
+      "subjectId": "14.283"
+    },
+    {
+      "type": "subject",
+      "subjectId": "14.284"
+    },
+    {
+      "type": "subject",
+      "subjectId": "14.772"
+    },
+    {
+      "type": "subject",
+      "subjectId": "14.773"
+    },
+    {
+      "type": "subject",
+      "subjectId": "14.760"
+    },
+    {
+      "type": "subject",
+      "subjectId": "14.137"
+    },
+    {
+      "type": "subject",
+      "subjectId": "14.150"
+    },
+    {
+      "type": "subject",
+      "subjectId": "14.163"
+    },
+    {
+      "type": "subject",
+      "subjectId": "14.260"
+    },
+    {
+      "type": "subject",
+      "subjectId": "14.388"
+    },
+    {
+      "type": "subject",
+      "subjectId": "14.420"
+    },
+    {
+      "type": "subject",
+      "subjectId": "14.444"
+    },
+    {
+      "type": "subject",
+      "subjectId": "14.001"
+    }
+  ],
+  "version": "1"
+}

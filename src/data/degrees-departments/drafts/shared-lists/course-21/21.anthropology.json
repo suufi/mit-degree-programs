@@ -1,0 +1,28 @@
+{
+  "sharedListId": "21.anthropology",
+  "program": "21",
+  "title": "# Anthropology",
+  "items": [
+    {
+      "type": "subject",
+      "subjectId": "21A.00"
+    },
+    {
+      "type": "subject",
+      "subjectId": "21A.01"
+    },
+    {
+      "type": "subject",
+      "subjectId": "21A.157"
+    },
+    {
+      "type": "subject",
+      "subjectId": "21A.155"
+    },
+    {
+      "type": "subject",
+      "subjectId": "21A.802"
+    }
+  ],
+  "version": "1"
+}

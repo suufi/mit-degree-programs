@@ -1,0 +1,52 @@
+{
+  "sharedListId": "3-a.communication-intensive-subjects-in-the-major",
+  "program": "3-a",
+  "title": "Communication-Intensive Subjects in the Major",
+  "items": [
+    {
+      "type": "subject",
+      "subjectId": "3.010"
+    },
+    {
+      "type": "subject",
+      "subjectId": "3.020"
+    },
+    {
+      "type": "subject",
+      "subjectId": "2.009"
+    },
+    {
+      "type": "subject",
+      "subjectId": "2.671"
+    },
+    {
+      "type": "subject",
+      "subjectId": "3.042"
+    },
+    {
+      "type": "subject",
+      "subjectId": "3.155"
+    },
+    {
+      "type": "subject",
+      "subjectId": "7.003"
+    },
+    {
+      "type": "subject",
+      "subjectId": "10.26"
+    },
+    {
+      "type": "subject",
+      "subjectId": "10.28"
+    },
+    {
+      "type": "subject",
+      "subjectId": "10.29"
+    },
+    {
+      "type": "subject",
+      "subjectId": "10.467"
+    }
+  ],
+  "version": "1"
+}

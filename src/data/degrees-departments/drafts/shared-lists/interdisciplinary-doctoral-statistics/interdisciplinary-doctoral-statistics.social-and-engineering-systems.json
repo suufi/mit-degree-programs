@@ -1,0 +1,72 @@
+{
+  "sharedListId": "interdisciplinary-doctoral-statistics.social-and-engineering-systems",
+  "program": "interdisciplinary-doctoral-statistics",
+  "title": "# Social and Engineering Systems",
+  "items": [
+    {
+      "type": "subject",
+      "subjectId": "6.7810"
+    },
+    {
+      "type": "subject",
+      "subjectId": "6.7900"
+    },
+    {
+      "type": "subject",
+      "subjectId": "9.520"
+    },
+    {
+      "type": "subject",
+      "subjectId": "16.391"
+    },
+    {
+      "type": "subject",
+      "subjectId": "14.380"
+    },
+    {
+      "type": "subject",
+      "subjectId": "14.381"
+    },
+    {
+      "type": "subject",
+      "subjectId": "14.382"
+    },
+    {
+      "type": "subject",
+      "subjectId": "15.077"
+    },
+    {
+      "type": "subject",
+      "subjectId": "17.802"
+    },
+    {
+      "type": "subject",
+      "subjectId": "17.804"
+    },
+    {
+      "type": "subject",
+      "subjectId": "17.806"
+    },
+    {
+      "type": "subject",
+      "subjectId": "6.8800"
+    },
+    {
+      "type": "subject",
+      "subjectId": "6.8300"
+    },
+    {
+      "type": "subject",
+      "subjectId": "9.073"
+    },
+    {
+      "type": "subject",
+      "subjectId": "9.272"
+    },
+    {
+      "type": "subject",
+      "subjectId": "18.367"
+    }
+  ],
+  "version": "1"
+}

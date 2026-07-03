@@ -1,0 +1,234 @@
+{
+  "schemaVersion": "2",
+  "program": "18-c",
+  "title": "Mathematics with Computer Science (Course 18-C)",
+  "level": "undergraduate",
+  "complete": false,
+  "includesGir": "sb",
+  "catalogSource": {
+    "url": "https://catalog.mit.edu/degree-charts/mathematics-computer-science-course-18-c/",
+    "slug": "mathematics-computer-science-course-18-c",
+    "scrapedAt": "2026-07-03",
+    "contentHash": "ad2a2c86bead1e0cdcb1ea4e70e47d8c47427cec620ed3e21a09359ae14efb8e"
+  },
+  "girCrosswalk": [
+    {
+      "subjectId": "18.03",
+      "satisfies": [
+        "rest"
+      ],
+      "note": "Also satisfies REST via departmental program."
+    },
+    {
+      "subjectId": "18.06",
+      "satisfies": [
+        "rest"
+      ],
+      "note": "Also satisfies REST via departmental program."
+    },
+    {
+      "subjectId": "18.062",
+      "satisfies": [
+        "rest"
+      ],
+      "note": "Also satisfies REST via departmental program."
+    },
+    {
+      "subjectId": "6.1200",
+      "satisfies": [
+        "rest"
+      ],
+      "note": "Also satisfies REST via departmental program."
+    },
+    {
+      "subjectId": "6.1010",
+      "satisfies": [
+        "lab"
+      ],
+      "note": "Also satisfies Laboratory Requirement via departmental program."
+    }
+  ],
+  "footnotes": [
+    {
+      "id": "1",
+      "text": "Students may substitute one of the more advanced subjects, 18.152 Introduction to Partial Differential Equations or 18.303 Linear Partial Differential Equations: Analysis and Numerics, for 18.03. 18.032 Differential Equations, which places more emphasis on theory, is also an acceptable option."
+    },
+    {
+      "id": "2",
+      "text": "Students may substitute 18.700 Linear Algebra, which places more emphasis on theory and proofs, or the more advanced subject, 18.701 Algebra I."
+    },
+    {
+      "id": "3",
+      "text": "The overall program must consist of subjects of essentially different content, and must include at least five Course 18 subjects with a first decimal digit of 1 or higher."
+    },
+    {
+      "id": "4",
+      "text": "The additional Course 6 subject can be a second subject from 6.1020, 6.1800, 6.3900, 6.4110; it can also be 6.1040, 6.1600, 6.1910, 6.3800, or, with the permission of the Department of Mathematics, an advanced Course 6 subject with sufficient mathematical content."
+    }
+  ],
+  "constraints": [],
+  "requirements": [
+    {
+      "groupId": "18-c-foundational-subjects",
+      "title": "Foundational Subjects",
+      "bucket": "departmental",
+      "subcategory": "fundamentals",
+      "root": {
+        "type": "group",
+        "ruleType": "all_of",
+        "items": [
+          {
+            "type": "subject",
+            "subjectId": "18.03"
+          },
+          {
+            "type": "selection",
+            "ruleType": "choose_one",
+            "itemsSource": "explicit",
+            "items": [
+              {
+                "type": "subject",
+                "subjectId": "18.06"
+              },
+              {
+                "type": "subject",
+                "subjectId": "18.C06"
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "groupId": "18-c-discrete-mathematics",
+      "title": "Discrete Mathematics",
+      "bucket": "departmental",
+      "subcategory": "required_subjects",
+      "root": {
+        "type": "selection",
+        "ruleType": "choose_one",
+        "itemsSource": "explicit",
+        "items": [
+          {
+            "type": "subject",
+            "subjectId": "18.062"
+          },
+          {
+            "type": "subject",
+            "subjectId": "18.200"
+          },
+          {
+            "type": "subject",
+            "subjectId": "18.200A"
+          }
+        ]
+      }
+    },
+    {
+      "groupId": "18-c-computation-and-algorithms",
+      "title": "Computation and Algorithms",
+      "bucket": "departmental",
+      "subcategory": "computation",
+      "root": {
+        "type": "group",
+        "ruleType": "all_of",
+        "items": [
+          {
+            "type": "subject",
+            "subjectId": "6.100A"
+          },
+          {
+            "type": "subject",
+            "subjectId": "6.1010"
+          },
+          {
+            "type": "subject",
+            "subjectId": "6.1210"
+          },
+          {
+            "type": "subject",
+            "subjectId": "18.400"
+          },
+          {
+            "type": "selection",
+            "ruleType": "choose_one",
+            "itemsSource": "explicit",
+            "items": [
+              {
+                "type": "subject",
+                "subjectId": "18.404"
+              }
+            ]
+          },
+          {
+            "type": "subject",
+            "subjectId": "18.410"
+          },
+          {
+            "type": "selection",
+            "ruleType": "choose_one",
+            "itemsSource": "explicit",
+            "items": [
+              {
+                "type": "subject",
+                "subjectId": "6.1020"
+              },
+              {
+                "type": "subject",
+                "subjectId": "6.1800"
+              },
+              {
+                "type": "subject",
+                "subjectId": "6.3900"
+              },
+              {
+                "type": "subject",
+                "subjectId": "6.4110"
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "groupId": "18-c-restricted-electives",
+      "title": "Restricted Electives",
+      "bucket": "elective",
+      "subcategory": "restricted_electives",
+      "flexibility": {
+        "advisorApproval": false,
+        "catalogText": "Select four additional 12-unit subjects from Course 183"
+      },
+      "root": {
+        "type": "group",
+        "ruleType": "all_of",
+        "items": [
+          {
+            "type": "selection",
+            "ruleType": "choose_units",
+            "ruleValue": 48,
+            "itemsSource": "advisor_defined",
+            "note": "Select four additional 12-unit subjects from Course 183",
+            "flexibility": {
+              "catalogText": "Select four additional 12-unit subjects from Course 183"
+            }
+          },
+          {
+            "type": "selection",
+            "ruleType": "choose_units",
+            "ruleValue": 12,
+            "itemsSource": "advisor_defined",
+            "note": "Select one additional subject of at least 12 units from Course 64",
+            "flexibility": {
+              "catalogText": "Select one additional subject of at least 12 units from Course 64"
+            }
+          }
+        ]
+      }
+    }
+  ],
+  "status": "draft",
+  "revisionId": "18-c-2026-07-03-ad2a2c86",
+  "catalogYear": "2026",
+  "effectiveTerm": "2026-FA"
+}

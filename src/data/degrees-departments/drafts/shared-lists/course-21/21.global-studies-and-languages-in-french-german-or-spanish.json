@@ -1,0 +1,16 @@
+{
+  "sharedListId": "21.global-studies-and-languages-in-french-german-or-spanish",
+  "program": "21",
+  "title": "# Global Studies and Languages (in French, German, or Spanish)",
+  "items": [
+    {
+      "type": "subject",
+      "subjectId": "21G.THT"
+    },
+    {
+      "type": "subject",
+      "subjectId": "21G.THU"
+    }
+  ],
+  "version": "1"
+}

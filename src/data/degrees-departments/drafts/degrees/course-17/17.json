@@ -1,0 +1,94 @@
+{
+  "schemaVersion": "2",
+  "program": "17",
+  "title": "Political Science (Course 17)",
+  "level": "undergraduate",
+  "complete": false,
+  "includesGir": "sb",
+  "catalogSource": {
+    "url": "https://catalog.mit.edu/degree-charts/political-science-course-17/",
+    "slug": "political-science-course-17",
+    "scrapedAt": "2026-07-03",
+    "contentHash": "950cb088d93f8e82b791bb659d45426ad93d18de6440e280abaae2bbf9bd16a3"
+  },
+  "girCrosswalk": [
+    {
+      "subjectId": "17.803",
+      "satisfies": [
+        "lab"
+      ],
+      "note": "Also satisfies Laboratory Requirement via departmental program."
+    }
+  ],
+  "footnotes": [
+    {
+      "id": "1",
+      "text": "Students typically enroll in subjects as follows: 17.801, fall term, junior year; 17.803, spring term, junior year; 17.THT, fall term, senior year; 17.THU, spring term, senior year."
+    },
+    {
+      "id": "2",
+      "text": "17.THT and 17.THU may be replaced by two additional elective subjects in Political Science."
+    },
+    {
+      "id": "3",
+      "text": "This chart has been calculated based on an overlap of 36 units (three subjects) between the HASS General Institute Requirement and the departmental requirements. Students who develop a program of study with more overlap will be able to select more unrestricted electives to meet the number of total units beyond the GIRs required for an SB degree."
+    }
+  ],
+  "constraints": [],
+  "requirements": [
+    {
+      "groupId": "17-required-subjects",
+      "title": "Required Subjects",
+      "bucket": "departmental",
+      "subcategory": "required_subjects",
+      "root": {
+        "type": "group",
+        "ruleType": "all_of",
+        "items": [
+          {
+            "type": "subject",
+            "subjectId": "17.801"
+          },
+          {
+            "type": "subject",
+            "subjectId": "17.803"
+          },
+          {
+            "type": "group",
+            "ruleType": "all_of",
+            "items": [
+              {
+                "type": "subject",
+                "subjectId": "17.THT"
+              },
+              {
+                "type": "subject",
+                "subjectId": "17.THU"
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "groupId": "17-restricted-electives",
+      "title": "Restricted Electives",
+      "bucket": "elective",
+      "subcategory": "restricted_electives",
+      "flexibility": {
+        "catalogText": "Select seven subjects, including one subject from the each of the four groups listed below and three additional political science subjects representing a coherent plan of study. Specific subjects satisfying these criteria should be chosen in consultation with a faculty advisor."
+      },
+      "root": {
+        "type": "selection",
+        "ruleType": "choose_units",
+        "ruleValue": 81,
+        "itemsSource": "shared_list",
+        "sharedListId": "17.restricted-electives"
+      }
+    }
+  ],
+  "status": "draft",
+  "revisionId": "17-2026-07-03-950cb088",
+  "catalogYear": "2026",
+  "effectiveTerm": "2026-FA"
+}

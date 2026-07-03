@@ -1,0 +1,338 @@
+{
+  "schemaVersion": "2",
+  "program": "22",
+  "title": "Nuclear Science and Engineering (Course 22)",
+  "level": "undergraduate",
+  "complete": false,
+  "includesGir": "sb",
+  "catalogSource": {
+    "url": "https://catalog.mit.edu/degree-charts/nuclear-science-engineering-course-22/",
+    "slug": "nuclear-science-engineering-course-22",
+    "scrapedAt": "2026-07-03",
+    "contentHash": "041c242e4495992095c9b48c796b9f24926ba5044c1ca336af34102c2f8a85a2"
+  },
+  "girCrosswalk": [
+    {
+      "subjectId": "22.09",
+      "satisfies": [
+        "lab"
+      ],
+      "note": "Also satisfies Laboratory Requirement via departmental program."
+    }
+  ],
+  "footnotes": [
+    {
+      "id": "1",
+      "text": "18.032 Differential Equations is also an acceptable option."
+    },
+    {
+      "id": "2",
+      "text": "Unit totals shown are the minimum requirements."
+    },
+    {
+      "id": "3",
+      "text": "Consult the NSE Academic Office, Room 24-102, regarding substitutions."
+    }
+  ],
+  "constraints": [],
+  "requirements": [
+    {
+      "groupId": "22-required-subjects",
+      "title": "Required Subjects",
+      "bucket": "departmental",
+      "subcategory": "required_subjects",
+      "root": {
+        "type": "group",
+        "ruleType": "all_of",
+        "items": [
+          {
+            "type": "subject",
+            "subjectId": "2.005"
+          },
+          {
+            "type": "subject",
+            "subjectId": "18.03"
+          },
+          {
+            "type": "subject",
+            "subjectId": "22.01"
+          }
+        ]
+      }
+    },
+    {
+      "groupId": "22-computation-elective",
+      "title": "Computation Elective",
+      "bucket": "elective",
+      "subcategory": "computation",
+      "root": {
+        "type": "selection",
+        "ruleType": "choose_one",
+        "itemsSource": "explicit",
+        "items": [
+          {
+            "type": "subject",
+            "subjectId": "1.000"
+          },
+          {
+            "type": "subject",
+            "subjectId": "2.086"
+          },
+          {
+            "type": "group",
+            "ruleType": "all_of",
+            "items": [
+              {
+                "type": "subject",
+                "subjectId": "6.100A"
+              },
+              {
+                "type": "subject",
+                "subjectId": "6.100B"
+              }
+            ]
+          },
+          {
+            "type": "subject",
+            "subjectId": "6.100A"
+          },
+          {
+            "type": "subject",
+            "subjectId": "12.010"
+          },
+          {
+            "type": "subject",
+            "subjectId": "22.C25"
+          }
+        ]
+      }
+    },
+    {
+      "groupId": "22-required-core-subjects",
+      "title": "Required Core Subjects",
+      "bucket": "departmental",
+      "subcategory": "required_subjects",
+      "root": {
+        "type": "group",
+        "ruleType": "all_of",
+        "items": [
+          {
+            "type": "subject",
+            "subjectId": "22.02"
+          },
+          {
+            "type": "subject",
+            "subjectId": "22.033"
+          },
+          {
+            "type": "subject",
+            "subjectId": "22.04"
+          },
+          {
+            "type": "subject",
+            "subjectId": "22.05"
+          },
+          {
+            "type": "subject",
+            "subjectId": "22.06"
+          },
+          {
+            "type": "subject",
+            "subjectId": "22.061"
+          },
+          {
+            "type": "subject",
+            "subjectId": "22.09"
+          }
+        ]
+      }
+    },
+    {
+      "groupId": "22-required-thesis2",
+      "title": "Required Thesis2",
+      "bucket": "thesis",
+      "subcategory": "thesis",
+      "root": {
+        "type": "group",
+        "ruleType": "all_of",
+        "items": [
+          {
+            "type": "subject",
+            "subjectId": "22.THT"
+          },
+          {
+            "type": "subject",
+            "subjectId": "22.THU"
+          }
+        ]
+      }
+    },
+    {
+      "groupId": "22-mathematics-elective",
+      "title": "Mathematics Elective",
+      "bucket": "elective",
+      "subcategory": "elective_subjects",
+      "root": {
+        "type": "selection",
+        "ruleType": "choose_one",
+        "itemsSource": "explicit",
+        "items": [
+          {
+            "type": "subject",
+            "subjectId": "6.3700"
+          },
+          {
+            "type": "subject",
+            "subjectId": "18.04"
+          },
+          {
+            "type": "subject",
+            "subjectId": "18.05"
+          },
+          {
+            "type": "subject",
+            "subjectId": "18.06"
+          },
+          {
+            "type": "subject",
+            "subjectId": "18.C06"
+          },
+          {
+            "type": "subject",
+            "subjectId": "18.075"
+          },
+          {
+            "type": "subject",
+            "subjectId": "18.600"
+          }
+        ]
+      }
+    },
+    {
+      "groupId": "22-materials-science-and-physics-elective",
+      "title": "Materials Science and Physics Elective",
+      "bucket": "elective",
+      "subcategory": "elective_subjects",
+      "flexibility": {
+        "advisorApproval": false,
+        "catalogText": "Restricted Elective in NSE3"
+      },
+      "root": {
+        "type": "group",
+        "ruleType": "all_of",
+        "items": [
+          {
+            "type": "selection",
+            "ruleType": "choose_one",
+            "itemsSource": "explicit",
+            "items": [
+              {
+                "type": "subject",
+                "subjectId": "1.050"
+              },
+              {
+                "type": "subject",
+                "subjectId": "2.001"
+              },
+              {
+                "type": "subject",
+                "subjectId": "3.010"
+              },
+              {
+                "type": "subject",
+                "subjectId": "3.013"
+              },
+              {
+                "type": "subject",
+                "subjectId": "8.03"
+              }
+            ]
+          },
+          {
+            "type": "selection",
+            "ruleType": "choose_units",
+            "ruleValue": 12,
+            "itemsSource": "advisor_defined",
+            "note": "Restricted Elective in NSE3",
+            "flexibility": {
+              "catalogText": "Restricted Elective in NSE3"
+            }
+          },
+          {
+            "type": "selection",
+            "ruleType": "choose_one",
+            "itemsSource": "explicit",
+            "items": [
+              {
+                "type": "subject",
+                "subjectId": "22.071"
+              },
+              {
+                "type": "subject",
+                "subjectId": "22.022"
+              },
+              {
+                "type": "subject",
+                "subjectId": "22.039"
+              },
+              {
+                "type": "subject",
+                "subjectId": "22.051"
+              },
+              {
+                "type": "subject",
+                "subjectId": "22.055"
+              },
+              {
+                "type": "subject",
+                "subjectId": "22.072"
+              },
+              {
+                "type": "subject",
+                "subjectId": "22.074"
+              },
+              {
+                "type": "subject",
+                "subjectId": "22.078"
+              },
+              {
+                "type": "subject",
+                "subjectId": "22.081"
+              },
+              {
+                "type": "subject",
+                "subjectId": "22.03"
+              },
+              {
+                "type": "group",
+                "ruleType": "all_of",
+                "items": [
+                  {
+                    "type": "subject",
+                    "subjectId": "22.C01"
+                  },
+                  {
+                    "type": "subject",
+                    "subjectId": "6.C01"
+                  }
+                ]
+              },
+              {
+                "type": "subject",
+                "subjectId": "2.006"
+              },
+              {
+                "type": "subject",
+                "subjectId": "3.14"
+              }
+            ]
+          }
+        ]
+      }
+    }
+  ],
+  "status": "draft",
+  "revisionId": "22-2026-07-03-041c242e",
+  "catalogYear": "2026",
+  "effectiveTerm": "2026-FA"
+}

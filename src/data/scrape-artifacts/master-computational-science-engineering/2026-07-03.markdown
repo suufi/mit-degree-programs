@@ -1,0 +1,116 @@
+Degree Charts
+
+- [Home](https://catalog.mit.edu/) >
+- [Degree Charts](https://catalog.mit.edu/degree-charts/) >
+- Computational Science and Engineering (SM)
+
+# Master of Science in Computational Science and Engineering
+
+[Computational Science and Engineering](https://catalog.mit.edu/interdisciplinary/graduate-programs/computational-science-engineering/)
+
+|     |     |     |
+| --- | --- | --- |
+| Core Subjects | 36 |
+| _Select three of the following subjects:_ |  |
+| [6.7300\[J\]](https://catalog.mit.edu/search/?P=6.7300 "6.7300[J]") | Introduction to Modeling and Simulation |  |
+| [15.C57\[J\]](https://catalog.mit.edu/search/?P=15.C57 "15.C57[J]") | Optimization Methods |  |
+| [16.920\[J\]](https://catalog.mit.edu/search/?P=16.920 "16.920[J]") | Numerical Methods for Partial Differential Equations |  |
+| [18.335\[J\]](https://catalog.mit.edu/search/?P=18.335 "18.335[J]") | Introduction to Numerical Methods |  |
+| Restricted Electives1 | 24 |
+| Choose 24 units of coursework from the list below. |  |
+| Unrestricted Elective1 | 12 |
+| Choose any graduate-level subject.2 |  |
+| Thesis |  |
+| [CSE.THG](https://catalog.mit.edu/search/?P=CSE.THG "CSE.THG") | Graduate Thesis | 36 |
+| Total Units | 108 |
+
+|     |     |
+| --- | --- |
+| _1_ | _Subjects that can be repeated for credit cannot be used to satisfy multiple CSE SM requirements._ |
+| _2_ | _See list of [subjects offered at MIT](https://catalog.mit.edu/subjects/)._ |
+
+### Restricted Electives
+
+|     |     |     |
+| --- | --- | --- |
+| [1.125](https://catalog.mit.edu/search/?P=1.125 "1.125") | Architecting and Engineering Software Systems | 12 |
+| [1.545\[J\]](https://catalog.mit.edu/search/?P=1.545 "1.545[J]") | Atomistic Modeling and Simulation of Materials and Structures | 12 |
+| [1.583\[J\]](https://catalog.mit.edu/search/?P=1.583 "1.583[J]") | Topology Optimization of Structures | 12 |
+| [1.723](https://catalog.mit.edu/search/?P=1.723 "1.723") | Computational Methods for Flow in Porous Media | 12 |
+| [2.098](https://catalog.mit.edu/search/?P=2.098 "2.098") | Introduction to Finite Element Methods | 12 |
+| [2.156](https://catalog.mit.edu/search/?P=2.156 "2.156") | Artificial Intelligence and Machine Learning for Engineering Design | 12 |
+| [2.168](https://catalog.mit.edu/search/?P=2.168 "2.168") | Learning Machines | 12 |
+| [2.29](https://catalog.mit.edu/search/?P=2.29 "2.29") | Numerical Fluid Mechanics | 12 |
+| [3.320](https://catalog.mit.edu/search/?P=3.320 "3.320") | Atomistic Computer Modeling of Materials | 12 |
+| [4.450\[J\]](https://catalog.mit.edu/search/?P=4.450 "4.450[J]") | Computational Structural Design and Optimization |  |
+| [4.453](https://catalog.mit.edu/search/?P=4.453 "4.453") | Creative Machine Learning for Design | 12 |
+| [6.7210\[J\]](https://catalog.mit.edu/search/?P=6.7210 "6.7210[J]") | Introduction to Mathematical Programming | 12 |
+| [6.7220\[J\]](https://catalog.mit.edu/search/?P=6.7220 "6.7220[J]") | Nonlinear Optimization | 12 |
+| [6.7230\[J\]](https://catalog.mit.edu/search/?P=6.7230 "6.7230[J]") | Algebraic Techniques and Semidefinite Optimization | 12 |
+| [6.7300\[J\]](https://catalog.mit.edu/search/?P=6.7300 "6.7300[J]") | Introduction to Modeling and Simulation | 12 |
+| [6.7810](https://catalog.mit.edu/search/?P=6.7810 "6.7810") | Algorithms for Inference | 12 |
+| [6.7830](https://catalog.mit.edu/search/?P=6.7830 "6.7830") | Bayesian Modeling and Inference | 12 |
+| [6.7900](https://catalog.mit.edu/search/?P=6.7900 "6.7900") | Machine Learning | 12 |
+| [6.7940](https://catalog.mit.edu/search/?P=6.7940 "6.7940") | Dynamic Programming and Reinforcement Learning 1 | 12 |
+| [6.8300](https://catalog.mit.edu/search/?P=6.8300 "6.8300") | Advances in Computer Vision | 12 |
+| [6.8410](https://catalog.mit.edu/search/?P=6.8410 "6.8410") | Shape Analysis | 12 |
+| [6.C51](https://catalog.mit.edu/search/?P=6.C51 "6.C51") | Modeling with Machine Learning: from Algorithms to Applications 2 | 6 |
+| [9.520\[J\]](https://catalog.mit.edu/search/?P=9.520 "9.520[J]") | Statistical Learning Theory and Applications | 12 |
+| [9.660](https://catalog.mit.edu/search/?P=9.660 "9.660") | Computational Cognitive Science | 12 |
+| [10.551](https://catalog.mit.edu/search/?P=10.551 "10.551") | Systems Engineering 2 | 9 |
+| [10.552](https://catalog.mit.edu/search/?P=10.552 "10.552") | Modern Control Design 2 | 9 |
+| [10.554\[J\]](https://catalog.mit.edu/search/?P=10.554 "10.554[J]") | Process Data Analytics | 12 |
+| [10.557](https://catalog.mit.edu/search/?P=10.557 "10.557") | Mixed-integer and Nonconvex Optimization | 12 |
+| [10.637\[J\]](https://catalog.mit.edu/search/?P=10.637 "10.637[J]") | Computational Chemistry | 12 |
+| [12.515](https://catalog.mit.edu/search/?P=12.515 "12.515") | Data and Models | 12 |
+| [12.521](https://catalog.mit.edu/search/?P=12.521 "12.521") | Computational Geophysical Modeling | 12 |
+| [12.620\[J\]](https://catalog.mit.edu/search/?P=12.620 "12.620[J]") | Classical Mechanics: A Computational Approach | 12 |
+| [12.714](https://catalog.mit.edu/search/?P=12.714 "12.714") | Computational Data Analysis | 12 |
+| [12.805](https://catalog.mit.edu/search/?P=12.805 "12.805") | Data Analysis in Physical Oceanography | 12 |
+| [12.850](https://catalog.mit.edu/search/?P=12.850 "12.850") | Computational Ocean Modeling | 12 |
+| [15.070\[J\]](https://catalog.mit.edu/search/?P=15.070 "15.070[J]") | Discrete Probability and Stochastic Processes | 12 |
+| [15.077\[J\]](https://catalog.mit.edu/search/?P=15.077 "15.077[J]") | Statistical Machine Learning and Data Science 1 | 12 |
+| [15.083](https://catalog.mit.edu/search/?P=15.083 "15.083") | Integer Optimization 3 | 12 |
+| [15.764\[J\]](https://catalog.mit.edu/search/?P=15.764 "15.764[J]") | The Theory of Operations Management | 12 |
+| [15.C57\[J\]](https://catalog.mit.edu/search/?P=15.C57 "15.C57[J]") | Optimization Methods | 12 |
+| [16.110](https://catalog.mit.edu/search/?P=16.110 "16.110") | Flight Vehicle Aerodynamics | 12 |
+| [16.225\[J\]](https://catalog.mit.edu/search/?P=16.225 "16.225[J]") | Computational Mechanics of Materials | 12 |
+| [16.413\[J\]](https://catalog.mit.edu/search/?P=16.413 "16.413[J]") | Principles of Autonomy and Decision Making | 12 |
+| [16.888\[J\]](https://catalog.mit.edu/search/?P=16.888 "16.888[J]") | Multidisciplinary Design Optimization | 12 |
+| [16.920\[J\]](https://catalog.mit.edu/search/?P=16.920 "16.920[J]") | Numerical Methods for Partial Differential Equations | 12 |
+| [16.930](https://catalog.mit.edu/search/?P=16.930 "16.930") | Advanced Topics in Numerical Methods for Partial Differential Equations | 12 |
+| [16.940](https://catalog.mit.edu/search/?P=16.940 "16.940") | Numerical Methods for Stochastic Modeling and Inference | 12 |
+| [18.335\[J\]](https://catalog.mit.edu/search/?P=18.335 "18.335[J]") | Introduction to Numerical Methods | 12 |
+| [18.336\[J\]](https://catalog.mit.edu/search/?P=18.336 "18.336[J]") | Fast Methods for Partial Differential and Integral Equations | 12 |
+| [18.337\[J\]](https://catalog.mit.edu/search/?P=18.337 "18.337[J]") | Parallel Computing and Scientific Machine Learning | 12 |
+| [18.338](https://catalog.mit.edu/search/?P=18.338 "18.338") | Eigenvalues of Random Matrices | 12 |
+| [18.369\[J\]](https://catalog.mit.edu/search/?P=18.369 "18.369[J]") | Mathematical Methods in Nanophotonics | 12 |
+| [18.435\[J\]](https://catalog.mit.edu/search/?P=18.435 "18.435[J]") | Quantum Computation | 12 |
+| [22.15](https://catalog.mit.edu/search/?P=22.15 "22.15") | Essential Numerical Methods | 6 |
+| [22.212](https://catalog.mit.edu/search/?P=22.212 "22.212") | Nuclear Reactor Analysis II | 12 |
+| [22.213](https://catalog.mit.edu/search/?P=22.213 "22.213") | Nuclear Reactor Physics III | 12 |
+| [22.315](https://catalog.mit.edu/search/?P=22.315 "22.315") | Applied Computational Fluid Dynamics and Heat Transfer | 12 |
+| [CSE.999](https://catalog.mit.edu/search/?P=CSE.999 "CSE.999") | Experiential Learning in Computational Science and Engineering |  |
+| [IDS.131\[J\]](https://catalog.mit.edu/search/?P=IDS.131 "IDS.131[J]") | Statistics, Computation and Applications | 12 |
+
+|     |     |
+| --- | --- |
+| _1_ | _Restricted elective credit can only be given for one of [6.7900](https://catalog.mit.edu/search/?P=6.7900 "6.7900"), [15.077\[J\]](https://catalog.mit.edu/search/?P=15.077 "15.077[J]"), or [IDS.147\[J\]](https://catalog.mit.edu/search/?P=IDS.147 "IDS.147[J]")._ |
+| _2_ | _Students cannot receive credit without simultaneous completion of a 6-unit Common Ground disciplinary module. The two subjects together count as one 12-unit restricted elective. See [6.C51](https://catalog.mit.edu/search/?P=6.C51 "6.C51") for more information._ |
+| _3_ | _Students receive credit for either [10.551](https://catalog.mit.edu/search/?P=10.551 "10.551") or [10.552](https://catalog.mit.edu/search/?P=10.552 "10.552") as a CSE concentration subject, but not both._ |
+| _4_ | _Subject to Sloan bidding process._ |
+
+Print Options
+
+
+[Send Page to Printer](https://catalog.mit.edu/degree-charts/master-computational-science-engineering/#)
+
+_Print this page._
+
+[Download PDF of this Page](https://catalog.mit.edu/degree-charts/master-computational-science-engineering/master-computational-science-engineering.pdf)
+
+_The PDF includes all information on this page and its related tabs. Subject (course) information includes any changes approved for the current academic year._
+
+[Download PDF of the Entire Catalog and/or Subject Descriptions](https://catalog.mit.edu/archive/)
+
+[Cancel](https://catalog.mit.edu/degree-charts/master-computational-science-engineering/#)

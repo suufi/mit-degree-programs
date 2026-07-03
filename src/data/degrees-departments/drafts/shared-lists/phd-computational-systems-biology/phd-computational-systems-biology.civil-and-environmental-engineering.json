@@ -1,0 +1,28 @@
+{
+  "sharedListId": "phd-computational-systems-biology.civil-and-environmental-engineering",
+  "program": "phd-computational-systems-biology",
+  "title": "Civil and Environmental Engineering",
+  "items": [
+    {
+      "type": "subject",
+      "subjectId": "1.545"
+    },
+    {
+      "type": "subject",
+      "subjectId": "1.685"
+    },
+    {
+      "type": "subject",
+      "subjectId": "1.89"
+    },
+    {
+      "type": "subject",
+      "subjectId": "1.873"
+    },
+    {
+      "type": "subject",
+      "subjectId": "1.881"
+    }
+  ],
+  "version": "1"
+}

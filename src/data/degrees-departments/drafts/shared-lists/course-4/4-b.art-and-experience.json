@@ -1,0 +1,60 @@
+{
+  "sharedListId": "4-b.art-and-experience",
+  "program": "4-b",
+  "title": "Art and Experience",
+  "items": [
+    {
+      "type": "subject",
+      "subjectId": "4.301"
+    },
+    {
+      "type": "subject",
+      "subjectId": "4.307"
+    },
+    {
+      "type": "subject",
+      "subjectId": "4.314"
+    },
+    {
+      "type": "subject",
+      "subjectId": "4.320"
+    },
+    {
+      "type": "subject",
+      "subjectId": "4.322"
+    },
+    {
+      "type": "subject",
+      "subjectId": "4.341"
+    },
+    {
+      "type": "subject",
+      "subjectId": "4.344"
+    },
+    {
+      "type": "subject",
+      "subjectId": "4.354"
+    },
+    {
+      "type": "subject",
+      "subjectId": "4.356"
+    },
+    {
+      "type": "subject",
+      "subjectId": "4.602"
+    },
+    {
+      "type": "subject",
+      "subjectId": "21T.120"
+    },
+    {
+      "type": "subject",
+      "subjectId": "21T.121"
+    },
+    {
+      "type": "subject",
+      "subjectId": "21T.320"
+    }
+  ],
+  "version": "1"
+}

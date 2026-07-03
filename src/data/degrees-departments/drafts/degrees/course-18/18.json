@@ -1,0 +1,88 @@
+{
+  "schemaVersion": "2",
+  "program": "18",
+  "title": "Mathematics (Course 18) — General Mathematics Option",
+  "level": "undergraduate",
+  "complete": false,
+  "includesGir": "sb",
+  "catalogSource": {
+    "url": "https://catalog.mit.edu/degree-charts/mathematics-course-18/",
+    "slug": "mathematics-course-18",
+    "scrapedAt": "2026-07-03",
+    "contentHash": "c611ba8c83ed9fa95eda3641dcac7566ac246ec9959e21044b5fca318201fe99"
+  },
+  "girCrosswalk": [
+    {
+      "subjectId": "18.03",
+      "satisfies": [
+        "rest"
+      ],
+      "note": "Also satisfies REST via departmental program."
+    }
+  ],
+  "footnotes": [
+    {
+      "id": "1",
+      "text": "Students may also fulfill this requirement by completing 18.032 Differential Equations (which places more emphasis on theory),   18.152 Introduction to Partial Differential Equations, or 18.303 Linear Partial Differential Equations: Analysis and Numerics. Any subject substituted for 18.03 cannot also count towards the eight-subject Restricted Elective requirement."
+    }
+  ],
+  "constraints": [],
+  "requirements": [
+    {
+      "groupId": "18-required-subjects",
+      "title": "Required Subjects",
+      "bucket": "departmental",
+      "subcategory": "required_subjects",
+      "root": {
+        "type": "subject",
+        "subjectId": "18.03"
+      }
+    },
+    {
+      "groupId": "18-restricted-electives",
+      "title": "Restricted Electives",
+      "bucket": "elective",
+      "subcategory": "restricted_electives",
+      "flexibility": {
+        "advisorApproval": false,
+        "catalogText": "Select eight 12-unit subjects of essentially different content, including at least six advanced subjects (first decimal digit one or higher) that are distributed over at least three distinct areas (at least three distinct first decimal digits). One of these eight subjects must be one of the following:"
+      },
+      "root": {
+        "type": "group",
+        "ruleType": "all_of",
+        "items": [
+          {
+            "type": "selection",
+            "ruleType": "choose_units",
+            "ruleValue": 96,
+            "itemsSource": "advisor_defined",
+            "note": "Select eight 12-unit subjects of essentially different content, including at least six advanced subjects (first decimal digit one or higher) that are distributed over at least three distinct areas (at least three distinct first decimal digits). One of these eight subjects must be one of the following:",
+            "flexibility": {
+              "catalogText": "Select eight 12-unit subjects of essentially different content, including at least six advanced subjects (first decimal digit one or higher) that are distributed over at least three distinct areas (at least three distinct first decimal digits). One of these eight subjects must be one of the following:"
+            }
+          },
+          {
+            "type": "subject",
+            "subjectId": "18.06"
+          },
+          {
+            "type": "subject",
+            "subjectId": "18.C06"
+          },
+          {
+            "type": "subject",
+            "subjectId": "18.700"
+          },
+          {
+            "type": "subject",
+            "subjectId": "18.701"
+          }
+        ]
+      }
+    }
+  ],
+  "status": "draft",
+  "revisionId": "18-2026-07-03-c611ba8c",
+  "catalogYear": "2026",
+  "effectiveTerm": "2026-FA"
+}

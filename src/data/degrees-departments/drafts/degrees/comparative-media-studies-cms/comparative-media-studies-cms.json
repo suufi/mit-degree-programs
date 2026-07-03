@@ -1,0 +1,102 @@
+{
+  "schemaVersion": "2",
+  "program": "comparative-media-studies-cms",
+  "title": "Comparative Media Studies (CMS)",
+  "level": "undergraduate",
+  "complete": false,
+  "includesGir": "sb",
+  "catalogSource": {
+    "url": "https://catalog.mit.edu/degree-charts/comparative-media-studies-cms/",
+    "slug": "comparative-media-studies-cms",
+    "scrapedAt": "2026-07-03",
+    "contentHash": "019c8503207f1b465ed664ccf5c564b4a84766ea3ea87b7e3ca66805122c873b"
+  },
+  "girCrosswalk": [],
+  "footnotes": [
+    {
+      "id": "1",
+      "text": "Consult the list of CMS subjects offered by Comparative Media Studies/Writing."
+    },
+    {
+      "id": "2",
+      "text": "This chart has been calculated based on an overlap of 36 units (three subjects) between the HASS General Institute Requirement and the departmental requirements. Students who develop a program of study with more overlap will be able to select more unrestricted electives to meet the number of total units beyond the GIRs required for an SB degree."
+    }
+  ],
+  "constraints": [],
+  "requirements": [
+    {
+      "groupId": "comparative-media-studies-cms-required-subjects",
+      "title": "Required Subjects",
+      "bucket": "departmental",
+      "subcategory": "required_subjects",
+      "flexibility": {
+        "advisorApproval": false,
+        "catalogText": "[CMS.100](https://catalog.mit.edu/search/?P=CMS.100 \"CMS.100\")"
+      },
+      "root": {
+        "type": "group",
+        "ruleType": "all_of",
+        "items": [
+          {
+            "type": "selection",
+            "ruleType": "choose_units",
+            "ruleValue": 12,
+            "itemsSource": "advisor_defined",
+            "note": "[CMS.100](https://catalog.mit.edu/search/?P=CMS.100 \"CMS.100\")",
+            "flexibility": {
+              "catalogText": "[CMS.100](https://catalog.mit.edu/search/?P=CMS.100 \"CMS.100\")"
+            }
+          },
+          {
+            "type": "subject",
+            "subjectId": "21W.752"
+          }
+        ]
+      }
+    },
+    {
+      "groupId": "comparative-media-studies-cms-capstone",
+      "title": "Capstone",
+      "bucket": "departmental",
+      "subcategory": "required_subjects",
+      "flexibility": {
+        "advisorApproval": false,
+        "catalogText": "[CMS.701](https://catalog.mit.edu/search/?P=CMS.701 \"CMS.701\")"
+      },
+      "root": {
+        "type": "selection",
+        "ruleType": "choose_units",
+        "ruleValue": 12,
+        "itemsSource": "advisor_defined",
+        "note": "[CMS.701](https://catalog.mit.edu/search/?P=CMS.701 \"CMS.701\")",
+        "flexibility": {
+          "catalogText": "[CMS.701](https://catalog.mit.edu/search/?P=CMS.701 \"CMS.701\")"
+        }
+      }
+    },
+    {
+      "groupId": "comparative-media-studies-cms-restricted-electives",
+      "title": "Restricted Electives",
+      "bucket": "elective",
+      "subcategory": "restricted_electives",
+      "flexibility": {
+        "advisorApproval": false,
+        "catalogText": "Select six subjects offered by CMS. Qualified students may, with departmental approval, substitute a pre-thesis tutorial ( [CMS.THT](https://catalog.mit.edu/search/?P=CMS.THT \"CMS.THT\")) and thesis ( [CMS.THU](https://catalog.mit.edu/search/?P=CMS.THU \"CMS.THU\")) for one elective.1"
+      },
+      "root": {
+        "type": "selection",
+        "ruleType": "choose_units",
+        "ruleValue": 72,
+        "itemsSource": "advisor_defined",
+        "note": "Select six subjects offered by CMS. Qualified students may, with departmental approval, substitute a pre-thesis tutorial ( [CMS.THT](https://catalog.mit.edu/search/?P=CMS.THT \"CMS.THT\")) and thesis ( [CMS.THU](https://catalog.mit.edu/search/?P=CMS.THU \"CMS.THU\")) for one elective.1",
+        "flexibility": {
+          "catalogText": "Select six subjects offered by CMS. Qualified students may, with departmental approval, substitute a pre-thesis tutorial ( [CMS.THT](https://catalog.mit.edu/search/?P=CMS.THT \"CMS.THT\")) and thesis ( [CMS.THU](https://catalog.mit.edu/search/?P=CMS.THU \"CMS.THU\")) for one elective.1"
+        }
+      }
+    }
+  ],
+  "status": "draft",
+  "revisionId": "comparative-media-studies-cms-2026-07-03-019c8503",
+  "catalogYear": "2026",
+  "effectiveTerm": "2026-FA"
+}

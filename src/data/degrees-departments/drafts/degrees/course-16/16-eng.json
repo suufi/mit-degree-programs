@@ -1,0 +1,219 @@
+{
+  "schemaVersion": "2",
+  "program": "16-eng",
+  "title": "Engineering (Course 16-ENG)",
+  "level": "undergraduate",
+  "complete": false,
+  "includesGir": "sb",
+  "catalogSource": {
+    "url": "https://catalog.mit.edu/degree-charts/engineering-aeronautics-astronautics-course-16-eng/",
+    "slug": "engineering-aeronautics-astronautics-course-16-eng",
+    "scrapedAt": "2026-07-03",
+    "contentHash": "84d5dadab867973a0986bf5788670d2aa61771432f4809573e9480e0978caffc"
+  },
+  "girCrosswalk": [
+    {
+      "subjectId": "16.405J",
+      "satisfies": [
+        "lab"
+      ],
+      "note": "Also satisfies Laboratory Requirement via departmental program."
+    },
+    {
+      "subjectId": "16.811",
+      "satisfies": [
+        "lab"
+      ],
+      "note": "Also satisfies Laboratory Requirement via departmental program."
+    },
+    {
+      "subjectId": "16.821",
+      "satisfies": [
+        "lab"
+      ],
+      "note": "Also satisfies Laboratory Requirement via departmental program."
+    },
+    {
+      "subjectId": "16.831",
+      "satisfies": [
+        "lab"
+      ],
+      "note": "Also satisfies Laboratory Requirement via departmental program."
+    }
+  ],
+  "footnotes": [
+    {
+      "id": "1",
+      "text": "Combination of 6.100A Introduction to Computer Science Programming in Python and 16.C20 Introduction to Computational Science and Engineering counts as a REST."
+    },
+    {
+      "id": "2",
+      "text": "18.032 Differential Equations is also an acceptable option."
+    },
+    {
+      "id": "3",
+      "text": "Additional information about the 16-ENG program and possible concentration areas is available on the department's website."
+    }
+  ],
+  "constraints": [],
+  "requirements": [
+    {
+      "groupId": "16-eng-required-subjects",
+      "title": "Required Subjects",
+      "bucket": "departmental",
+      "subcategory": "required_subjects",
+      "root": {
+        "type": "group",
+        "ruleType": "all_of",
+        "items": [
+          {
+            "type": "subject",
+            "subjectId": "6.100A"
+          },
+          {
+            "type": "subject",
+            "subjectId": "16.C20"
+          },
+          {
+            "type": "selection",
+            "ruleType": "choose_one",
+            "itemsSource": "explicit",
+            "items": [
+              {
+                "type": "subject",
+                "subjectId": "6.100B"
+              }
+            ]
+          },
+          {
+            "type": "subject",
+            "subjectId": "16.001"
+          },
+          {
+            "type": "subject",
+            "subjectId": "16.002"
+          },
+          {
+            "type": "subject",
+            "subjectId": "16.003"
+          },
+          {
+            "type": "subject",
+            "subjectId": "16.004"
+          },
+          {
+            "type": "subject",
+            "subjectId": "16.06"
+          },
+          {
+            "type": "selection",
+            "ruleType": "choose_one",
+            "itemsSource": "explicit",
+            "items": [
+              {
+                "type": "subject",
+                "subjectId": "16.07"
+              }
+            ]
+          },
+          {
+            "type": "subject",
+            "subjectId": "18.03"
+          }
+        ]
+      }
+    },
+    {
+      "groupId": "16-eng-concentration-subjects",
+      "title": "Concentration Subjects",
+      "bucket": "departmental",
+      "subcategory": "required_subjects",
+      "flexibility": {
+        "advisorApproval": false,
+        "catalogText": "These electives define a concentrated area of study and must be chosen with the written approval of the AeroAstro Undergraduate Office. A minimum of 42 units of engineering topics and a minimum of 12 units of mathematics or science topics must be included in the 72 units of concentration electives. In all cases, the concentration subjects must be clearly related to the theme of the concentration.3"
+      },
+      "root": {
+        "type": "selection",
+        "ruleType": "choose_units",
+        "ruleValue": 72,
+        "itemsSource": "advisor_defined",
+        "note": "These electives define a concentrated area of study and must be chosen with the written approval of the AeroAstro Undergraduate Office. A minimum of 42 units of engineering topics and a minimum of 12 units of mathematics or science topics must be included in the 72 units of concentration electives. In all cases, the concentration subjects must be clearly related to the theme of the concentration.3",
+        "flexibility": {
+          "catalogText": "These electives define a concentrated area of study and must be chosen with the written approval of the AeroAstro Undergraduate Office. A minimum of 42 units of engineering topics and a minimum of 12 units of mathematics or science topics must be included in the 72 units of concentration electives. In all cases, the concentration subjects must be clearly related to the theme of the concentration.3"
+        }
+      }
+    },
+    {
+      "groupId": "16-eng-laboratory-and-capstone-subjects",
+      "title": "Laboratory and Capstone Subjects",
+      "bucket": "departmental",
+      "subcategory": "laboratory",
+      "flexibility": {
+        "advisorApproval": false,
+        "catalogText": "Unrestrictive Electives"
+      },
+      "root": {
+        "type": "group",
+        "ruleType": "all_of",
+        "items": [
+          {
+            "type": "selection",
+            "ruleType": "choose_one",
+            "itemsSource": "explicit",
+            "items": [
+              {
+                "type": "subject",
+                "subjectId": "16.82"
+              },
+              {
+                "type": "subject",
+                "subjectId": "16.83"
+              },
+              {
+                "type": "subject",
+                "subjectId": "16.85"
+              }
+            ]
+          },
+          {
+            "type": "selection",
+            "ruleType": "choose_one",
+            "itemsSource": "explicit",
+            "items": [
+              {
+                "type": "subject",
+                "subjectId": "16.405"
+              },
+              {
+                "type": "subject",
+                "subjectId": "16.811"
+              },
+              {
+                "type": "subject",
+                "subjectId": "16.821"
+              },
+              {
+                "type": "subject",
+                "subjectId": "16.831"
+              }
+            ]
+          },
+          {
+            "type": "selection",
+            "ruleType": "choose_units",
+            "ruleValue": 48,
+            "itemsSource": "advisor_defined",
+            "note": "Unrestrictive Electives",
+            "flexibility": {
+              "catalogText": "Unrestrictive Electives"
+            }
+          }
+        ]
+      }
+    }
+  ],
+  "status": "draft",
+  "revisionId": "16-eng-2026-07-03-84d5dada",
+  "catalogYear": "2026",
+  "effectiveTerm": "2026-FA"
+}

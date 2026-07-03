@@ -1,0 +1,98 @@
+{
+  "sharedListId": "6-7-2017.biore",
+  "program": "6-7-2017",
+  "title": "BIORE",
+  "items": [
+    {
+      "type": "subject",
+      "subjectId": "11.134"
+    },
+    {
+      "type": "subject",
+      "subjectId": "7.08"
+    },
+    {
+      "type": "group",
+      "ruleType": "all_of",
+      "items": [
+        {
+          "type": "subject",
+          "subjectId": "7.093"
+        },
+        {
+          "type": "subject",
+          "subjectId": "7.094"
+        }
+      ]
+    },
+    {
+      "type": "subject",
+      "subjectId": "7.20"
+    },
+    {
+      "type": "subject",
+      "subjectId": "7.21"
+    },
+    {
+      "type": "subject",
+      "subjectId": "7.23"
+    },
+    {
+      "type": "subject",
+      "subjectId": "7.26"
+    },
+    {
+      "type": "subject",
+      "subjectId": "7.27"
+    },
+    {
+      "type": "subject",
+      "subjectId": "7.28"
+    },
+    {
+      "type": "subject",
+      "subjectId": "7.29"
+    },
+    {
+      "type": "subject",
+      "subjectId": "7.30"
+    },
+    {
+      "type": "subject",
+      "subjectId": "7.31"
+    },
+    {
+      "type": "subject",
+      "subjectId": "7.32"
+    },
+    {
+      "type": "subject",
+      "subjectId": "7.33"
+    },
+    {
+      "type": "subject",
+      "subjectId": "7.37"
+    },
+    {
+      "type": "subject",
+      "subjectId": "7.371"
+    },
+    {
+      "type": "subject",
+      "subjectId": "7.45"
+    },
+    {
+      "type": "subject",
+      "subjectId": "7.46"
+    },
+    {
+      "type": "subject",
+      "subjectId": "7.49"
+    },
+    {
+      "type": "subject",
+      "subjectId": "8.591"
+    }
+  ],
+  "version": "1"
+}

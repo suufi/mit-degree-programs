@@ -1,0 +1,104 @@
+{
+  "sharedListId": "7.restricted-electives",
+  "program": "7",
+  "title": "Restricted Electives",
+  "items": [
+    {
+      "type": "subject",
+      "subjectId": "7.08"
+    },
+    {
+      "type": "subject",
+      "subjectId": "7.093"
+    },
+    {
+      "type": "subject",
+      "subjectId": "7.094"
+    },
+    {
+      "type": "subject",
+      "subjectId": "7.20"
+    },
+    {
+      "type": "subject",
+      "subjectId": "7.21"
+    },
+    {
+      "type": "subject",
+      "subjectId": "7.23"
+    },
+    {
+      "type": "subject",
+      "subjectId": "7.24"
+    },
+    {
+      "type": "subject",
+      "subjectId": "7.26"
+    },
+    {
+      "type": "subject",
+      "subjectId": "7.27"
+    },
+    {
+      "type": "subject",
+      "subjectId": "7.28"
+    },
+    {
+      "type": "subject",
+      "subjectId": "7.29"
+    },
+    {
+      "type": "subject",
+      "subjectId": "7.30"
+    },
+    {
+      "type": "subject",
+      "subjectId": "7.31"
+    },
+    {
+      "type": "subject",
+      "subjectId": "7.32"
+    },
+    {
+      "type": "subject",
+      "subjectId": "7.33"
+    },
+    {
+      "type": "subject",
+      "subjectId": "7.35"
+    },
+    {
+      "type": "subject",
+      "subjectId": "7.371"
+    },
+    {
+      "type": "subject",
+      "subjectId": "7.45"
+    },
+    {
+      "type": "subject",
+      "subjectId": "7.46"
+    },
+    {
+      "type": "subject",
+      "subjectId": "7.49"
+    },
+    {
+      "type": "subject",
+      "subjectId": "9.17"
+    },
+    {
+      "type": "subject",
+      "subjectId": "9.26"
+    },
+    {
+      "type": "subject",
+      "subjectId": "6.C01"
+    },
+    {
+      "type": "subject",
+      "subjectId": "7.C01"
+    }
+  ],
+  "version": "1"
+}

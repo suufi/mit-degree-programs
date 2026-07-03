@@ -1,0 +1,104 @@
+{
+  "sharedListId": "17.international-politics",
+  "program": "17",
+  "title": "# International Politics",
+  "items": [
+    {
+      "type": "subject",
+      "subjectId": "17.40"
+    },
+    {
+      "type": "subject",
+      "subjectId": "17.407"
+    },
+    {
+      "type": "subject",
+      "subjectId": "17.41"
+    },
+    {
+      "type": "subject",
+      "subjectId": "17.42"
+    },
+    {
+      "type": "subject",
+      "subjectId": "17.433"
+    },
+    {
+      "type": "subject",
+      "subjectId": "17.447"
+    },
+    {
+      "type": "subject",
+      "subjectId": "17.449"
+    },
+    {
+      "type": "subject",
+      "subjectId": "17.46"
+    },
+    {
+      "type": "subject",
+      "subjectId": "17.473"
+    },
+    {
+      "type": "subject",
+      "subjectId": "17.483"
+    },
+    {
+      "type": "subject",
+      "subjectId": "17.50"
+    },
+    {
+      "type": "subject",
+      "subjectId": "17.503"
+    },
+    {
+      "type": "subject",
+      "subjectId": "17.511"
+    },
+    {
+      "type": "subject",
+      "subjectId": "17.517"
+    },
+    {
+      "type": "subject",
+      "subjectId": "17.537"
+    },
+    {
+      "type": "subject",
+      "subjectId": "17.55"
+    },
+    {
+      "type": "subject",
+      "subjectId": "17.561"
+    },
+    {
+      "type": "subject",
+      "subjectId": "17.565"
+    },
+    {
+      "type": "subject",
+      "subjectId": "17.569"
+    },
+    {
+      "type": "subject",
+      "subjectId": "17.57"
+    },
+    {
+      "type": "subject",
+      "subjectId": "17.577"
+    },
+    {
+      "type": "subject",
+      "subjectId": "17.571"
+    },
+    {
+      "type": "subject",
+      "subjectId": "17.591"
+    },
+    {
+      "type": "subject",
+      "subjectId": "17.567"
+    }
+  ],
+  "version": "1"
+}

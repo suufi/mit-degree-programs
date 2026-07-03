@@ -1,0 +1,216 @@
+Degree Charts
+
+- [Home](https://catalog.mit.edu/) >
+- [Degree Charts](https://catalog.mit.edu/degree-charts/) >
+- Earth, Atmospheric and Planetary Sciences (SB, Course 12)
+
+# Earth, Atmospheric, and Planetary Sciences (Course 12)
+
+[Department of Earth, Atmospheric, and Planetary Sciences](https://catalog.mit.edu/schools/science/earth-atmospheric-planetary-sciences/#undergraduatetext)
+
+## Bachelor of Science in Earth, Atmospheric, and Planetary Sciences
+
+### General Institute Requirements (GIRs)
+
+The General Institute Requirements include a Communication Requirement that is integrated into both the HASS Requirement and the requirements of each major; see details below.
+
+| Summary of Subject Requirements | Subjects |
+| --- | --- |
+| Science Requirement | 6 |
+| Humanities, Arts, and Social Sciences (HASS) Requirement; at least two of these subjects must be designated as communication-intensive (CI-H) to fulfill the Communication Requirement. | 8 |
+| Restricted Electives in Science and Technology (REST) Requirement \[can be satisfied by [12.001](https://catalog.mit.edu/search/?P=12.001 "12.001"), [12.002](https://catalog.mit.edu/search/?P=12.002 "12.002"), [12.003](https://catalog.mit.edu/search/?P=12.003 "12.003"), or [12.004](https://catalog.mit.edu/search/?P=12.004 "12.004") and [18.03](https://catalog.mit.edu/search/?P=18.03 "18.03") in the Departmental Program\] | 2 |
+| Laboratory Requirement (12 units) \[can be satisfied by a laboratory/field subject in the Departmental Program\] | 1 |
+| **Total GIR Subjects Required for SB Degree** | **17** |
+
+| Physical Education Requirement |  |
+| --- | --- |
+| Swimming requirement, plus four physical education courses for eight points. |  |
+
+### Departmental Program
+
+Choose at least two subjects in the major that are designated as communication-intensive (CI-M) to fulfill the Communication Requirement.
+
+|     |     |     |
+| --- | --- | --- |
+| General Department Requirements | **Units** |
+| Introductory Subjects |  |
+| _Select three of the following:_1 | 36 |
+| [12.001](https://catalog.mit.edu/search/?P=12.001 "12.001") | Introduction to Geology |  |
+| [12.002](https://catalog.mit.edu/search/?P=12.002 "12.002") | Introduction to Geophysics and Planetary Science |  |
+| [12.003](https://catalog.mit.edu/search/?P=12.003 "12.003") | Introduction to Atmosphere, Ocean, and Climate Dynamics |  |
+| [12.004](https://catalog.mit.edu/search/?P=12.004 "12.004") | Introduction to the Global Carbon Cycle |  |
+| [12.TIP](https://catalog.mit.edu/search/?P=12.TIP "12.TIP") | Thesis Preparation | 6 |
+| [12.THU](https://catalog.mit.edu/search/?P=12.THU "12.THU") | Undergraduate Thesis (at least 6 units, CI-M) | 6 |
+| Laboratory/Field Subjects |  |
+| _Select one of the following:_ | 12-15 |
+| [12.115](https://catalog.mit.edu/search/?P=12.115 "12.115")<br>& [12.116](https://catalog.mit.edu/search/?P=12.116 "12.116") | Field Geology<br>and Analysis of Geologic Data (CI-M) 2 |  |
+| [12.307](https://catalog.mit.edu/search/?P=12.307 "12.307") | Weather and Climate Laboratory (CI-M) 3 |  |
+| [12.335](https://catalog.mit.edu/search/?P=12.335 "12.335") | Experimental Atmospheric Chemistry (CI-M) 3 |  |
+| [12.410\[J\]](https://catalog.mit.edu/search/?P=12.410 "12.410[J]") | Observational Techniques of Optical Astronomy (CI-M) 4 |  |
+| Computational Science Subjects |  |
+| _Select one of the following:_ | 12 |
+| [12.010](https://catalog.mit.edu/search/?P=12.010 "12.010") | Computational Methods of Scientific Programming |  |
+| [12.012](https://catalog.mit.edu/search/?P=12.012 "12.012") | MatLab, Statistics, Regression, Signal Processing |  |
+| [12.C25\[J\]](https://catalog.mit.edu/search/?P=12.C25 "12.C25[J]") | Real World Computation with Julia |  |
+| [6.100A](https://catalog.mit.edu/search/?P=6.100A "6.100A")<br>& [6.100B](https://catalog.mit.edu/search/?P=6.100B "6.100B") | Introduction to Computer Science Programming in Python<br>and Introduction to Computational Thinking and Data Science |  |
+| [6.100A](https://catalog.mit.edu/search/?P=6.100A "6.100A")<br>& [16.C20\[J\]](https://catalog.mit.edu/search/?P=16.C20 "16.C20[J]") | Introduction to Computer Science Programming in Python<br>and Introduction to Computational Science and Engineering |  |
+| Concentration Subjects | 36-39 |
+| Supporting Subjects | 36 |
+| Units in Major | 144-150 |
+| Unrestricted Electives | 48-72 |
+| Units in Major That Also Satisfy the GIRs | (12-36) |
+| Total Units Beyond the GIRs Required for SB Degree | 180-186 |
+
+The units for any subject that counts as one of the 17 GIR subjects cannot also be counted as units required beyond the GIRs.
+
+|     |     |
+| --- | --- |
+| _1_ | __With approval of the advisor, one introductory subject may be replaced by one concentration subject that is not being used to fulfill the concentration requirement.__ |
+| _2_ | _Recommended for concentration area 1. May also be applicable to areas 3 and 4._ |
+| _3_ | _Recommended for concentration areas 2 and 4._ |
+| _4_ | _Recommended for concentration area 3._ |
+
+### Areas of Concentration 1
+
+|     |     |     |
+| --- | --- | --- |
+| Area 1—Earth Science2 |  |
+| _Select 36-39 units:_ |  |
+| [12.007](https://catalog.mit.edu/search/?P=12.007 "12.007") | Geobiology: History of Life on Earth | 12 |
+| [12.100](https://catalog.mit.edu/search/?P=12.100 "12.100") | Plate Tectonics and Climate | 9 |
+| [12.104](https://catalog.mit.edu/search/?P=12.104 "12.104") | Geochemistry of Natural Waters | 12 |
+| [12.108](https://catalog.mit.edu/search/?P=12.108 "12.108") | Earth Materials: Minerals and Rocks | 12 |
+| [12.110A](https://catalog.mit.edu/search/?P=12.110A "12.110A") | Sedimentary Environments | 6 |
+| [12.110B](https://catalog.mit.edu/search/?P=12.110B "12.110B") | Sedimentology in the Field | 9 |
+| [12.113](https://catalog.mit.edu/search/?P=12.113 "12.113") | Structural Geology | 12 |
+| [12.163](https://catalog.mit.edu/search/?P=12.163 "12.163") | Geomorphology | 12 |
+| [12.177](https://catalog.mit.edu/search/?P=12.177 "12.177") | Astrobiology, Origins and Early Evolution of Life | 12 |
+| [12.178](https://catalog.mit.edu/search/?P=12.178 "12.178") | The Phylogenomic Planetary Record | 12 |
+| [12.201](https://catalog.mit.edu/search/?P=12.201 "12.201") | Essentials of Global Geophysics | 12 |
+| [12.202](https://catalog.mit.edu/search/?P=12.202 "12.202") | Flow, Deformation, and Fracture in Earth and Other Terrestrial Bodies | 12 |
+| [12.203](https://catalog.mit.edu/search/?P=12.203 "12.203") | Mechanics of Earth | 12 |
+| [12.210](https://catalog.mit.edu/search/?P=12.210 "12.210") | Introduction to Seismology | 12 |
+| [12.211](https://catalog.mit.edu/search/?P=12.211 "12.211") | Field Geophysics | 6 |
+| [12.214](https://catalog.mit.edu/search/?P=12.214 "12.214") | Essentials of Field Geophysics | 12 |
+| [12.225](https://catalog.mit.edu/search/?P=12.225 "12.225") | Mechanisms of Faulting and Earthquakes | 12 |
+| [12.377](https://catalog.mit.edu/search/?P=12.377 "12.377") | The History of Earth's Climate | 12 |
+| [12.421](https://catalog.mit.edu/search/?P=12.421 "12.421") | Physical Principles of Remote Sensing | 12 |
+| Area 2—Climate, Atmospheres, and Oceans3 |  |
+| [12.301](https://catalog.mit.edu/search/?P=12.301 "12.301") | Climate Science | 12 |
+| or [12.318](https://catalog.mit.edu/search/?P=12.318 "12.318") | Introduction to Atmospheric Data and Large-scale Dynamics |
+| _Select 24-27 units:_ |  |
+| [12.006\[J\]](https://catalog.mit.edu/search/?P=12.006 "12.006[J]") | Nonlinear Dynamics: Chaos | 12 |
+| [12.086](https://catalog.mit.edu/search/?P=12.086 "12.086") | Modeling Environmental Complexity | 12 |
+| [12.300\[J\]](https://catalog.mit.edu/search/?P=12.300 "12.300[J]") | Global Change Science | 12 |
+| [12.306](https://catalog.mit.edu/search/?P=12.306 "12.306") | Atmospheric Chemistry Models & Climate | 12 |
+| [12.314\[J\]](https://catalog.mit.edu/search/?P=12.314 "12.314[J]") | Ocean Chemistry Change Laboratory | 6 |
+| [12.315](https://catalog.mit.edu/search/?P=12.315 "12.315") | Atmospheric Radiation and Convection | 12 |
+| [12.320A\[J\]](https://catalog.mit.edu/search/?P=12.320A "12.320A[J]") | Introduction to Hydrology and Water Resources | 6 |
+| [12.320B\[J\]](https://catalog.mit.edu/search/?P=12.320B "12.320B[J]") | Introduction to Hydrology Modeling | 6 |
+| [12.349](https://catalog.mit.edu/search/?P=12.349 "12.349") | Mechanisms and Models of the Global Carbon Cycle | 12 |
+| [12.372](https://catalog.mit.edu/search/?P=12.372 "12.372") | Elements of Modern Oceanography | 12 |
+| [12.373](https://catalog.mit.edu/search/?P=12.373 "12.373") | Field Oceanography | 15 |
+| [12.377](https://catalog.mit.edu/search/?P=12.377 "12.377") | The History of Earth's Climate | 12 |
+| [12.390](https://catalog.mit.edu/search/?P=12.390 "12.390") | Fluid Dynamics of the Atmosphere and Ocean | 12 |
+| [12.421](https://catalog.mit.edu/search/?P=12.421 "12.421") | Physical Principles of Remote Sensing | 12 |
+| [12.422](https://catalog.mit.edu/search/?P=12.422 "12.422") | Planetary Atmospheres | 12 |
+| Area 3—Planetary Science and Astronomy4 |  |
+| [12.420](https://catalog.mit.edu/search/?P=12.420 "12.420") | Essentials of Planetary Science | 12 |
+| _Select 24-27 units:_ |  |
+| [12.006\[J\]](https://catalog.mit.edu/search/?P=12.006 "12.006[J]") | Nonlinear Dynamics: Chaos | 12 |
+| [12.104](https://catalog.mit.edu/search/?P=12.104 "12.104") | Geochemistry of Natural Waters | 12 |
+| [12.177](https://catalog.mit.edu/search/?P=12.177 "12.177") | Astrobiology, Origins and Early Evolution of Life | 12 |
+| [12.409](https://catalog.mit.edu/search/?P=12.409 "12.409") | Hands-On Astronomy: Observing Stars and Planets | 6 |
+| [12.411](https://catalog.mit.edu/search/?P=12.411 "12.411") | Astronomy Field Camp | 9 |
+| [12.412](https://catalog.mit.edu/search/?P=12.412 "12.412") | Meteorites, Cosmochemistry, and Solar System Formation | 12 |
+| [12.421](https://catalog.mit.edu/search/?P=12.421 "12.421") | Physical Principles of Remote Sensing | 12 |
+| [12.422](https://catalog.mit.edu/search/?P=12.422 "12.422") | Planetary Atmospheres | 12 |
+| [12.425\[J\]](https://catalog.mit.edu/search/?P=12.425 "12.425[J]") | Extrasolar Planets: Physics and Detection Techniques | 12 |
+| [12.43\[J\]](https://catalog.mit.edu/search/?P=12.43 "12.43[J]") | Space Systems Engineering | 12 |
+| Area 4—Environmental Science5 |  |
+| _Select 36-39 units:_ |  |
+| [12.006\[J\]](https://catalog.mit.edu/search/?P=12.006 "12.006[J]") | Nonlinear Dynamics: Chaos | 12 |
+| [12.007](https://catalog.mit.edu/search/?P=12.007 "12.007") | Geobiology: History of Life on Earth | 12 |
+| [12.031\[J\]](https://catalog.mit.edu/search/?P=12.031 "12.031[J]") | Fundamentals of Ecology | 12 |
+| [12.086](https://catalog.mit.edu/search/?P=12.086 "12.086") | Modeling Environmental Complexity | 12 |
+| [12.104](https://catalog.mit.edu/search/?P=12.104 "12.104") | Geochemistry of Natural Waters | 12 |
+| [12.110A](https://catalog.mit.edu/search/?P=12.110A "12.110A") | Sedimentary Environments | 6 |
+| [12.110B](https://catalog.mit.edu/search/?P=12.110B "12.110B") | Sedimentology in the Field | 9 |
+| [12.163](https://catalog.mit.edu/search/?P=12.163 "12.163") | Geomorphology | 12 |
+| [12.177](https://catalog.mit.edu/search/?P=12.177 "12.177") | Astrobiology, Origins and Early Evolution of Life | 12 |
+| [12.301](https://catalog.mit.edu/search/?P=12.301 "12.301") | Climate Science | 12 |
+| [12.348\[J\]](https://catalog.mit.edu/search/?P=12.348 "12.348[J]") | Global Climate Change: Economics, Science, and Policy | 9 |
+| [12.349](https://catalog.mit.edu/search/?P=12.349 "12.349") | Mechanisms and Models of the Global Carbon Cycle | 12 |
+| [12.373](https://catalog.mit.edu/search/?P=12.373 "12.373") | Field Oceanography | 15 |
+| [12.377](https://catalog.mit.edu/search/?P=12.377 "12.377") | The History of Earth's Climate | 12 |
+| [12.384\[J\]](https://catalog.mit.edu/search/?P=12.384 "12.384[J]") | Living Dangerously: Environmental Problems from 1900 to Today | 12 |
+| [12.385](https://catalog.mit.edu/search/?P=12.385 "12.385") | Science, Politics, and Environmental Policy | 9 |
+| [12.386\[J\]](https://catalog.mit.edu/search/?P=12.386 "12.386[J]") | Environment and History | 12 |
+| [12.387\[J\]](https://catalog.mit.edu/search/?P=12.387 "12.387[J]") | People and the Planet: Environmental Governance and Science | 9 |
+| [12.421](https://catalog.mit.edu/search/?P=12.421 "12.421") | Physical Principles of Remote Sensing | 12 |
+
+|     |     |
+| --- | --- |
+| _1_ | _With approval of the academic advisor, one Course 12 subject not in the concentration area may count as a concentration subject as long as it is not otherwise being used to fulfill the degree requirements._ |
+| _2_ | _Recommended supporting subjects: [5.601](https://catalog.mit.edu/search/?P=5.601 "5.601") & [5.602](https://catalog.mit.edu/search/?P=5.602 "5.602"), [5.12](https://catalog.mit.edu/search/?P=5.12 "5.12"), [7.05](https://catalog.mit.edu/search/?P=7.05 "7.05"), [18.03](https://catalog.mit.edu/search/?P=18.03 "18.03"), or [18.06](https://catalog.mit.edu/search/?P=18.06 "18.06")._ |
+| _3_ | _Recommended supporting subjects: [5.601](https://catalog.mit.edu/search/?P=5.601 "5.601") & [5.602](https://catalog.mit.edu/search/?P=5.602 "5.602"), [8.03](https://catalog.mit.edu/search/?P=8.03 "8.03"), [18.03](https://catalog.mit.edu/search/?P=18.03 "18.03")._ |
+| _4_ | _Recommended supporting subjects: [8.03](https://catalog.mit.edu/search/?P=8.03 "8.03"), [8.04](https://catalog.mit.edu/search/?P=8.04 "8.04"), [8.044](https://catalog.mit.edu/search/?P=8.044 "8.044"), [18.03](https://catalog.mit.edu/search/?P=18.03 "18.03")._ |
+| _5_ | _Recommended supporting subjects: [5.12](https://catalog.mit.edu/search/?P=5.12 "5.12"), [6.8711\[J\]](https://catalog.mit.edu/search/?P=6.8711 "6.8711[J]"), [8.03](https://catalog.mit.edu/search/?P=8.03 "8.03"), [18.03](https://catalog.mit.edu/search/?P=18.03 "18.03"), or [18.06](https://catalog.mit.edu/search/?P=18.06 "18.06")._ |
+
+### Supporting Subjects
+
+|     |     |     |
+| --- | --- | --- |
+| _Select 36 units:_ |  |
+| [1.C01](https://catalog.mit.edu/search/?P=1.C01 "1.C01")<br>& [6.C01](https://catalog.mit.edu/search/?P=6.C01 "6.C01") | Machine Learning for Sustainable Systems<br>and Modeling with Machine Learning: from Algorithms to Applications | 12 |
+| [1.060](https://catalog.mit.edu/search/?P=1.060 "1.060") | Fluid Mechanics | 12 |
+| [1.060A](https://catalog.mit.edu/search/?P=1.060A "1.060A") | Fluid Mechanics I | 6 |
+| [1.061A](https://catalog.mit.edu/search/?P=1.061A "1.061A")<br>& [1.106](https://catalog.mit.edu/search/?P=1.106 "1.106") | Transport Processes in the Environment I<br>and Environmental Fluid Mechanics Lab | 12 |
+| [1.080](https://catalog.mit.edu/search/?P=1.080 "1.080") | Chemicals in the Environment | 12 |
+| [2.001](https://catalog.mit.edu/search/?P=2.001 "2.001") | Mechanics and Materials I | 12 |
+| [2.016](https://catalog.mit.edu/search/?P=2.016 "2.016") | Hydrodynamics | 12 |
+| [3.010](https://catalog.mit.edu/search/?P=3.010 "3.010") | Structure of Materials | 12 |
+| [3.020](https://catalog.mit.edu/search/?P=3.020 "3.020") | Thermodynamics of Materials | 12 |
+| [5.601](https://catalog.mit.edu/search/?P=5.601 "5.601")<br>& [5.602](https://catalog.mit.edu/search/?P=5.602 "5.602") | Thermodynamics I<br>and Thermodynamics II and Kinetics | 12 |
+| [6.8711\[J\]](https://catalog.mit.edu/search/?P=6.8711 "6.8711[J]") | Computational Systems Biology: Deep Learning in the Life Sciences | 12 |
+| [6.1010](https://catalog.mit.edu/search/?P=6.1010 "6.1010") | Fundamentals of Programming | 12 |
+| [6.1200\[J\]](https://catalog.mit.edu/search/?P=6.1200 "6.1200[J]") | Mathematics for Computer Science | 12 |
+| [6.3000](https://catalog.mit.edu/search/?P=6.3000 "6.3000") | Signal Processing | 12 |
+| [6.3700](https://catalog.mit.edu/search/?P=6.3700 "6.3700") | Introduction to Probability | 12 |
+| [6.3800](https://catalog.mit.edu/search/?P=6.3800 "6.3800") | Introduction to Inference | 12 |
+| [6.3900](https://catalog.mit.edu/search/?P=6.3900 "6.3900") | Introduction to Machine Learning | 12 |
+| [6.9080](https://catalog.mit.edu/search/?P=6.9080 "6.9080") | Introduction to EECS via Robotics | 12 |
+| [7.05](https://catalog.mit.edu/search/?P=7.05 "7.05") | General Biochemistry | 12 |
+| [8.03](https://catalog.mit.edu/search/?P=8.03 "8.03") | Physics III | 12 |
+| [8.04](https://catalog.mit.edu/search/?P=8.04 "8.04") | Quantum Physics I | 12 |
+| [8.044](https://catalog.mit.edu/search/?P=8.044 "8.044") | Statistical Physics I | 12 |
+| [8.07](https://catalog.mit.edu/search/?P=8.07 "8.07") | Electromagnetism II | 12 |
+| [8.223](https://catalog.mit.edu/search/?P=8.223 "8.223") | Classical Mechanics II | 6 |
+| [12.320A\[J\]](https://catalog.mit.edu/search/?P=12.320A "12.320A[J]")<br>& [12.320B\[J\]](https://catalog.mit.edu/search/?P=12.320B "12.320B[J]") | Introduction to Hydrology and Water Resources<br>and Introduction to Hydrology Modeling | 12 |
+| [14.01](https://catalog.mit.edu/search/?P=14.01 "14.01") | Principles of Microeconomics | 12 |
+| [18.C06\[J\]](https://catalog.mit.edu/search/?P=18.C06 "18.C06[J]") | Linear Algebra and Optimization | 12 |
+| [18.C20\[J\]](https://catalog.mit.edu/search/?P=18.C20 "18.C20[J]") | Introduction to Computational Science and Engineering | 6 |
+| [18.03](https://catalog.mit.edu/search/?P=18.03 "18.03") | Differential Equations 1 | 12 |
+| [18.05](https://catalog.mit.edu/search/?P=18.05 "18.05") | Introduction to Probability and Statistics | 12 |
+| [18.06](https://catalog.mit.edu/search/?P=18.06 "18.06") | Linear Algebra | 12 |
+| [18.300](https://catalog.mit.edu/search/?P=18.300 "18.300") | Principles of Continuum Applied Mathematics | 12 |
+
+|     |     |
+| --- | --- |
+| _1_ | _With approval of the academic advisor, one subject from the computational requirement may be counted as a supporting subject so long as it is not also counting for the computational requirement._ |
+| _2_ | _[18.032](https://catalog.mit.edu/search/?P=18.032 "18.032") is also an acceptable option._ |
+
+Print Options
+
+
+[Send Page to Printer](https://catalog.mit.edu/degree-charts/earth-atmospheric-planetary-sciences-course-12/#)
+
+_Print this page._
+
+[Download PDF of this Page](https://catalog.mit.edu/degree-charts/earth-atmospheric-planetary-sciences-course-12/earth-atmospheric-planetary-sciences-course-12.pdf)
+
+_The PDF includes all information on this page and its related tabs. Subject (course) information includes any changes approved for the current academic year._
+
+[Download PDF of the Entire Catalog and/or Subject Descriptions](https://catalog.mit.edu/archive/)
+
+[Cancel](https://catalog.mit.edu/degree-charts/earth-atmospheric-planetary-sciences-course-12/#)

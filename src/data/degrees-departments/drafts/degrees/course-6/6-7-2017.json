@@ -1,0 +1,273 @@
+{
+  "schemaVersion": "2",
+  "program": "6-7-2017",
+  "title": "Computer Science and Molecular Biology (Course 6-7)",
+  "level": "undergraduate",
+  "complete": false,
+  "catalogYear": "2017",
+  "effectiveTerm": "2017-FA",
+  "includesGir": "sb",
+  "eecsSource": {
+    "url": "https://eecsis.mit.edu/degree_requirements.pcgi?program=6-7_2017",
+    "programKey": "6-7_2017",
+    "enterYear": 2017,
+    "level": "SB",
+    "scrapedAt": "2026-07-03",
+    "contentHash": "71c0867f98f83fbb91f84719406203c7db79bef722fd2582b1a74ea7cc6d4f17"
+  },
+  "footnotes": [
+    {
+      "id": "1",
+      "text": "You must follow these requirements if you entered MIT in Summer 2024 or earlier. Students may choose to be audited using a more recent program if they wish."
+    },
+    {
+      "id": "2",
+      "text": "Includes subjects as of Fall 2026"
+    },
+    {
+      "id": "3",
+      "text": "Each completed subject can only be used to satisfy at most one _required_ subject but can be used to satisfy multiple _additional constraints_."
+    },
+    {
+      "id": "4",
+      "text": ": only offered fall term : only offered spring term grey: not offered this academic year."
+    },
+    {
+      "id": "5",
+      "text": "16.0002/18.0002/CSE.01 are acceptable alternatives to 6.0002"
+    }
+  ],
+  "constraints": [],
+  "requirements": [
+    {
+      "groupId": "6-7-2017-required-subjects",
+      "title": "Required Subjects",
+      "bucket": "departmental",
+      "subcategory": "required_subjects",
+      "root": {
+        "type": "group",
+        "ruleType": "all_of",
+        "items": [
+          {
+            "type": "group",
+            "ruleType": "all_of",
+            "items": [
+              {
+                "type": "selection",
+                "ruleType": "choose_one",
+                "items": [
+                  {
+                    "type": "subject",
+                    "subjectId": "18.0002"
+                  },
+                  {
+                    "type": "subject",
+                    "subjectId": "6.1000"
+                  },
+                  {
+                    "type": "group",
+                    "ruleType": "all_of",
+                    "items": [
+                      {
+                        "type": "subject",
+                        "subjectId": "6.100A"
+                      },
+                      {
+                        "type": "subject",
+                        "subjectId": "6.100B"
+                      }
+                    ]
+                  },
+                  {
+                    "type": "subject",
+                    "subjectId": "6.1020"
+                  }
+                ],
+                "itemsSource": "explicit"
+              },
+              {
+                "type": "subject",
+                "subjectId": "6.1010"
+              }
+            ],
+            "note": "Two introductory subjects"
+          },
+          {
+            "type": "selection",
+            "ruleType": "choose_one",
+            "items": [
+              {
+                "type": "subject",
+                "subjectId": "6.1200"
+              },
+              {
+                "type": "subject",
+                "subjectId": "18.062"
+              }
+            ],
+            "itemsSource": "explicit"
+          },
+          {
+            "type": "group",
+            "ruleType": "all_of",
+            "items": [
+              {
+                "type": "subject",
+                "subjectId": "6.1210"
+              },
+              {
+                "type": "subject",
+                "subjectId": "6.1220"
+              }
+            ],
+            "note": "Two foundation subjects"
+          },
+          {
+            "type": "group",
+            "ruleType": "all_of",
+            "items": [
+              {
+                "type": "selection",
+                "ruleType": "choose_one",
+                "items": [
+                  {
+                    "type": "subject",
+                    "subjectId": "5.12"
+                  },
+                  {
+                    "type": "subject",
+                    "subjectId": "CC.512"
+                  }
+                ],
+                "itemsSource": "explicit"
+              },
+              {
+                "type": "selection",
+                "ruleType": "choose_one",
+                "items": [
+                  {
+                    "type": "subject",
+                    "subjectId": "20.110"
+                  },
+                  {
+                    "type": "subject",
+                    "subjectId": "5.601"
+                  },
+                  {
+                    "type": "subject",
+                    "subjectId": "5.602"
+                  },
+                  {
+                    "type": "subject",
+                    "subjectId": "2.772"
+                  }
+                ],
+                "itemsSource": "explicit"
+              }
+            ],
+            "note": "Two chemistry subjects"
+          },
+          {
+            "type": "selection",
+            "ruleType": "choose_one",
+            "items": [
+              {
+                "type": "subject",
+                "subjectId": "20.109"
+              },
+              {
+                "type": "subject",
+                "subjectId": "6.4880"
+              },
+              {
+                "type": "subject",
+                "subjectId": "7.002"
+              },
+              {
+                "type": "subject",
+                "subjectId": "10.7003"
+              },
+              {
+                "type": "subject",
+                "subjectId": "7.003"
+              },
+              {
+                "type": "subject",
+                "subjectId": "20.129"
+              }
+            ],
+            "itemsSource": "explicit"
+          },
+          {
+            "type": "group",
+            "ruleType": "all_of",
+            "items": [
+              {
+                "type": "subject",
+                "subjectId": "7.03"
+              },
+              {
+                "type": "selection",
+                "ruleType": "choose_one",
+                "items": [
+                  {
+                    "type": "subject",
+                    "subjectId": "5.07"
+                  },
+                  {
+                    "type": "subject",
+                    "subjectId": "7.05"
+                  },
+                  {
+                    "type": "subject",
+                    "subjectId": "20.507"
+                  }
+                ],
+                "itemsSource": "explicit"
+              },
+              {
+                "type": "subject",
+                "subjectId": "7.06"
+              }
+            ],
+            "note": "Three Bio foundation subjects"
+          }
+        ]
+      }
+    },
+    {
+      "groupId": "6-7-2017-elective-subjects",
+      "title": "Elective Subjects",
+      "bucket": "elective",
+      "subcategory": "elective_subjects",
+      "root": {
+        "type": "group",
+        "ruleType": "all_of",
+        "items": [
+          {
+            "type": "selection",
+            "ruleType": "choose_n",
+            "ruleValue": 1,
+            "itemsSource": "shared_list_union",
+            "sharedListIds": [
+              "6-7-2017.compbio"
+            ],
+            "note": "One from the COMPBIO list"
+          },
+          {
+            "type": "selection",
+            "ruleType": "choose_n",
+            "ruleValue": 1,
+            "itemsSource": "shared_list_union",
+            "sharedListIds": [
+              "6-7-2017.biore"
+            ],
+            "note": "One from the BIORE list"
+          }
+        ]
+      }
+    }
+  ],
+  "status": "draft",
+  "revisionId": "6-7-2017-2026-07-03-057d1bf5"
+}

@@ -1,0 +1,126 @@
+Degree Charts
+
+- [Home](https://catalog.mit.edu/) >
+- [Degree Charts](https://catalog.mit.edu/degree-charts/) >
+- Master of Applied Science in Data, Economics, and Design of Policy
+
+# Master of Applied Science in Data, Economics, and Design of Policy
+
+[Department of Economics](https://catalog.mit.edu/schools/humanities-arts-social-sciences/economics/#graduatetext)
+
+The Master of Applied Science in Data, Economics, and Design of Policy (DEDP) degree is an intensive, five-month blended program requiring 109 units of graduate subjects. The MASc degree is only available to students who have successfully completed the MITx MicroMasters credential in Data, Economics, and Design of Policy. Students receive 48 units of advance standing credit for completion of the MicroMasters Credential, complete at least 61 units of coursework in residence. The subject requirements for this program are described below.
+
+### Subject Requirements
+
+|     |     |     |
+| --- | --- | --- |
+| Subjects taken online as part of the MicroMasters program |  |
+| Through a proctored examination process, students receive advanced standing credit for the following MIT subjects which constitute the first semester of the program. |  |
+| [14.01](https://catalog.mit.edu/search/?P=14.01 "14.01") | Principles of Microeconomics | 12 |
+| [14.310](https://catalog.mit.edu/search/?P=14.310 "14.310") | Data Analysis for Social Scientists | 12 |
+| _Select two of the following:_ | 24 |
+| [14.73](https://catalog.mit.edu/search/?P=14.73 "14.73") | The Challenge of World Poverty |  |
+| [14.740](https://catalog.mit.edu/search/?P=14.740 "14.740") | Foundations of Development Policy |  |
+| [14.750](https://catalog.mit.edu/search/?P=14.750 "14.750") | Political Economy and Economic Development |  |
+| Subjects taken in residence1 |  |
+| [14.320](https://catalog.mit.edu/search/?P=14.320 "14.320") | Econometric Data Science | 12 |
+| [14.399](https://catalog.mit.edu/search/?P=14.399 "14.399") | Seminar in Data Economics and Development Policy | 12 |
+| _Microeconomics_ | 12 |
+| _Select one of the following subjects:_ |  |
+| [14.003](https://catalog.mit.edu/search/?P=14.003 "14.003") | Microeconomic Theory and Public Policy 2 |  |
+| [14.131](https://catalog.mit.edu/search/?P=14.131 "14.131") | Psychology and Economics |  |
+| [14.160](https://catalog.mit.edu/search/?P=14.160 "14.160") | Behavioral Economics |  |
+| [14.161](https://catalog.mit.edu/search/?P=14.161 "14.161") | Strategy and Information |  |
+| [14.283](https://catalog.mit.edu/search/?P=14.283 "14.283")<br>& [14.284](https://catalog.mit.edu/search/?P=14.284 "14.284") | Advanced Topics in Organizational Economics I<br>and Advanced Topics in Organizational Economics II |  |
+| _International Development (Development Economics)_ | 12 |
+| _Select one of the following subjects:_ |  |
+| [14.772](https://catalog.mit.edu/search/?P=14.772 "14.772") | Development Economics: Macroeconomics |  |
+| [14.773](https://catalog.mit.edu/search/?P=14.773 "14.773") | Political Economy: Institutions and Development |  |
+| [14.750](https://catalog.mit.edu/search/?P=14.750 "14.750") | Political Economy and Economic Development 3 |  |
+| [14.760](https://catalog.mit.edu/search/?P=14.760 "14.760") | Firms, Markets, Trade and Growth |  |
+| _Restricted Elective_4 | 12 |
+| _Select one of the following subjects:_ |  |
+| [14.137\[J\]](https://catalog.mit.edu/search/?P=14.137 "14.137[J]") | Psychology and Economics |  |
+| [14.150](https://catalog.mit.edu/search/?P=14.150 "14.150") | Networks |  |
+| [14.163](https://catalog.mit.edu/search/?P=14.163 "14.163") | Algorithms and Behavioral Science |  |
+| [14.260](https://catalog.mit.edu/search/?P=14.260 "14.260") | Organizational Economics |  |
+| [14.388](https://catalog.mit.edu/search/?P=14.388 "14.388") | Inference on Causal and Structural Parameters Using ML and AI |  |
+| [14.420](https://catalog.mit.edu/search/?P=14.420 "14.420") | Environmental Policy and Economics |  |
+| [14.444\[J\]](https://catalog.mit.edu/search/?P=14.444 "14.444[J]") | Energy Economics and Policy |  |
+| _Capstone_ |  |
+| [14.001](https://catalog.mit.edu/search/?P=14.001 "14.001") | Design of Policy Summer Internship | 1 |
+| Total Units | 109 |
+
+|     |     |
+| --- | --- |
+| _1_ | _Students may substitute similar coursework with advisor's permission._ |
+| _2_ | _Students who take [14.003](https://catalog.mit.edu/search/?P=14.003 "14.003") for advanced standing credit cannot take it in residence for credit._ |
+| _3_ | _Students who take [14.750](https://catalog.mit.edu/search/?P=14.750 "14.750") for advanced standing credit cannot take it in residence for credit._ |
+| _4_ | _With approval of the program director, students can choose one subject within or outside the department._ |
+
+[Department of Economics](https://catalog.mit.edu/schools/humanities-arts-social-sciences/economics/#graduatetext)
+
+The Master of Applied Science in Data, Economics, and Design of Policy degree is an intensive, five-month blended program requiring 109 units of graduate subjects. The MASc degree is only available to students who have successfully completed the MITx MicroMasters credential in Data, Economics, and Design of Policy. Students receive 48 units of advance standing credit for completion of the MicroMasters Credential, complete at least 61 units of coursework in residence. The subject requirements for this program are described below.
+
+### Subject Requirements
+
+|     |     |     |
+| --- | --- | --- |
+| Subjects taken online as part of the MicroMasters program |  |
+| Through a proctored examination process, students receive advanced standing credit for the following MIT subjects which constitute the first semester of the program. |  |
+| [14.01](https://catalog.mit.edu/search/?P=14.01 "14.01") | Principles of Microeconomics | 12 |
+| [14.003](https://catalog.mit.edu/search/?P=14.003 "14.003") | Microeconomic Theory and Public Policy | 12 |
+| [14.009](https://catalog.mit.edu/search/?P=14.009 "14.009") | Economics and Society's Toughest Problems | 12 |
+| [14.310](https://catalog.mit.edu/search/?P=14.310 "14.310") | Data Analysis for Social Scientists | 12 |
+| Subjects taken in residence1 |  |
+| [14.320](https://catalog.mit.edu/search/?P=14.320 "14.320") | Econometric Data Science | 12 |
+| [14.399](https://catalog.mit.edu/search/?P=14.399 "14.399") | Seminar in Data Economics and Development Policy | 12 |
+| _Microeconomics_ | 12 |
+| _Select one of the following subjects:_ |  |
+| [14.131](https://catalog.mit.edu/search/?P=14.131 "14.131") | Psychology and Economics |  |
+| [14.160](https://catalog.mit.edu/search/?P=14.160 "14.160") | Behavioral Economics |  |
+| [14.161](https://catalog.mit.edu/search/?P=14.161 "14.161") | Strategy and Information |  |
+| [14.283](https://catalog.mit.edu/search/?P=14.283 "14.283")<br>& [14.284](https://catalog.mit.edu/search/?P=14.284 "14.284") | Advanced Topics in Organizational Economics I<br>and Advanced Topics in Organizational Economics II |  |
+| _Public Policy_ | 12 |
+| _Select one of the following subjects:_ |  |
+| [14.125](https://catalog.mit.edu/search/?P=14.125 "14.125") | Market Design |  |
+| [14.200](https://catalog.mit.edu/search/?P=14.200 "14.200") | Industrial Organization: Competitive Strategy and Public Policy |  |
+| [14.270](https://catalog.mit.edu/search/?P=14.270 "14.270") | Economics of Digitization |  |
+| [14.410](https://catalog.mit.edu/search/?P=14.410 "14.410") | Public Finance and Public Policy |  |
+| [14.640](https://catalog.mit.edu/search/?P=14.640 "14.640") | Labor Economics and Public Policy |  |
+| _Restricted Elective_2 | 12 |
+| _Select one of the following subjects:_ |  |
+| [14.137\[J\]](https://catalog.mit.edu/search/?P=14.137 "14.137[J]") | Psychology and Economics |  |
+| [14.150](https://catalog.mit.edu/search/?P=14.150 "14.150") | Networks |  |
+| [14.163](https://catalog.mit.edu/search/?P=14.163 "14.163") | Algorithms and Behavioral Science |  |
+| [14.260](https://catalog.mit.edu/search/?P=14.260 "14.260") | Organizational Economics |  |
+| [14.388](https://catalog.mit.edu/search/?P=14.388 "14.388") | Inference on Causal and Structural Parameters Using ML and AI |  |
+| [14.420](https://catalog.mit.edu/search/?P=14.420 "14.420") | Environmental Policy and Economics |  |
+| [14.444\[J\]](https://catalog.mit.edu/search/?P=14.444 "14.444[J]") | Energy Economics and Policy |  |
+| _Capstone_ |  |
+| [14.001](https://catalog.mit.edu/search/?P=14.001 "14.001") | Design of Policy Summer Internship | 1 |
+| Total Units | 109 |
+
+|     |     |
+| --- | --- |
+| _1_ | _Students may substitute similar coursework with advisor's permission._ |
+| _2_ | _With approval of the program director, students can choose one subject within or outside the department._ |
+
+Print Options
+
+
+[Send Page to Printer](https://catalog.mit.edu/degree-charts/master-applied-science-data-economics-design-policy/#)
+
+_Print this page._
+
+[Download PDF of this Page](https://catalog.mit.edu/degree-charts/master-applied-science-data-economics-design-policy/master-applied-science-data-economics-design-policy.pdf)
+
+_The PDF includes all information on this page and its related tabs. Subject (course) information includes any changes approved for the current academic year._
+
+[International Development Track tab PDF](https://catalog.mit.edu/degree-charts/master-applied-science-data-economics-design-policy/master-applied-science-data-economics-design-policy_internationaldevelopmenttracktext.pdf)
+
+[Public Policy Track tab PDF](https://catalog.mit.edu/degree-charts/master-applied-science-data-economics-design-policy/master-applied-science-data-economics-design-policy_publicpolicytracktext.pdf)
+
+[Download PDF of the Entire Catalog and/or Subject Descriptions](https://catalog.mit.edu/archive/)
+
+[Cancel](https://catalog.mit.edu/degree-charts/master-applied-science-data-economics-design-policy/#)

@@ -1,0 +1,28 @@
+{
+  "sharedListId": "8-flexible.communication-intensive-subjects-in-the-major",
+  "program": "8-flexible",
+  "title": "Communication-Intensive Subjects in the Major",
+  "items": [
+    {
+      "type": "subject",
+      "subjectId": "8.06"
+    },
+    {
+      "type": "subject",
+      "subjectId": "8.13"
+    },
+    {
+      "type": "subject",
+      "subjectId": "8.14"
+    },
+    {
+      "type": "subject",
+      "subjectId": "8.226"
+    },
+    {
+      "type": "subject",
+      "subjectId": "12.410"
+    }
+  ],
+  "version": "1"
+}

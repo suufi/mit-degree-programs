@@ -1,0 +1,198 @@
+{
+  "schemaVersion": "2",
+  "program": "24-2-philosophy",
+  "title": "Linguistics and Philosophy (Course 24-2) — Philosophy Track",
+  "level": "undergraduate",
+  "complete": false,
+  "includesGir": "sb",
+  "catalogSource": {
+    "url": "https://catalog.mit.edu/degree-charts/linguistics-philosophy-course-24-2/",
+    "slug": "linguistics-philosophy-course-24-2",
+    "scrapedAt": "2026-07-03",
+    "contentHash": "806d8397b957f38e87f9865fbd9479dfe408c81762d62bd64e6e1bd43c6574d1"
+  },
+  "girCrosswalk": [
+    {
+      "subjectId": "24.905",
+      "satisfies": [
+        "lab"
+      ],
+      "note": "Also satisfies Laboratory Requirement via departmental program."
+    }
+  ],
+  "footnotes": [
+    {
+      "id": "1",
+      "text": "24.9000 How Language Works is also an acceptable option."
+    },
+    {
+      "id": "2",
+      "text": "_Students may select a logic subject from another department (e.g., Mathematics) with the approval of their major advisor._"
+    },
+    {
+      "id": "3",
+      "text": "_Students who do not use_ 24.905 _to satisfy the Laboratory Requirement may count a sixth subject from within the Departmental Program toward the HASS Requirement._"
+    },
+    {
+      "id": "4",
+      "text": "See the Linguistics and Philosophy subject listing for a list of available subjects."
+    },
+    {
+      "id": "5",
+      "text": "_This chart has been calculated based on an overlap of 36 units (three subjects) between the HASS General Institute Requirement and the departmental requirements. Students who develop a program of study with more overlap will be able to select more unrestricted electives to meet the number of total units beyond the GIRs required for an SB degree._"
+    }
+  ],
+  "constraints": [],
+  "requirements": [
+    {
+      "groupId": "24-2-philosophy-required-subjects",
+      "title": "Required Subjects",
+      "bucket": "departmental",
+      "subcategory": "required_subjects",
+      "root": {
+        "type": "group",
+        "ruleType": "all_of",
+        "items": [
+          {
+            "type": "subject",
+            "subjectId": "24.900"
+          },
+          {
+            "type": "subject",
+            "subjectId": "24.251"
+          },
+          {
+            "type": "subject",
+            "subjectId": "24.260"
+          },
+          {
+            "type": "selection",
+            "ruleType": "choose_one",
+            "itemsSource": "explicit",
+            "items": [
+              {
+                "type": "subject",
+                "subjectId": "24.118"
+              },
+              {
+                "type": "subject",
+                "subjectId": "24.141"
+              },
+              {
+                "type": "subject",
+                "subjectId": "24.242"
+              },
+              {
+                "type": "subject",
+                "subjectId": "24.243"
+              },
+              {
+                "type": "subject",
+                "subjectId": "24.244"
+              },
+              {
+                "type": "subject",
+                "subjectId": "24.245"
+              }
+            ]
+          },
+          {
+            "type": "selection",
+            "ruleType": "choose_n",
+            "ruleValue": 2,
+            "itemsSource": "explicit",
+            "items": [
+              {
+                "type": "subject",
+                "subjectId": "24.05"
+              },
+              {
+                "type": "subject",
+                "subjectId": "24.08"
+              },
+              {
+                "type": "subject",
+                "subjectId": "24.09"
+              },
+              {
+                "type": "subject",
+                "subjectId": "24.111"
+              },
+              {
+                "type": "subject",
+                "subjectId": "24.121"
+              },
+              {
+                "type": "subject",
+                "subjectId": "24.211"
+              },
+              {
+                "type": "subject",
+                "subjectId": "24.212"
+              },
+              {
+                "type": "subject",
+                "subjectId": "24.215"
+              },
+              {
+                "type": "subject",
+                "subjectId": "24.252"
+              },
+              {
+                "type": "subject",
+                "subjectId": "24.253"
+              },
+              {
+                "type": "subject",
+                "subjectId": "24.280"
+              }
+            ]
+          },
+          {
+            "type": "selection",
+            "ruleType": "choose_one",
+            "itemsSource": "explicit",
+            "items": [
+              {
+                "type": "subject",
+                "subjectId": "24.903"
+              },
+              {
+                "type": "subject",
+                "subjectId": "24.904"
+              },
+              {
+                "type": "subject",
+                "subjectId": "24.905"
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "groupId": "24-2-philosophy-restricted-electives",
+      "title": "Restricted Electives",
+      "bucket": "elective",
+      "subcategory": "restricted_electives",
+      "flexibility": {
+        "advisorApproval": false,
+        "catalogText": "A coherent program of four additional subjects, at least two of which must be in Linguistics and Philosophy, approved by the major advisor.4"
+      },
+      "root": {
+        "type": "selection",
+        "ruleType": "choose_units",
+        "ruleValue": 48,
+        "itemsSource": "advisor_defined",
+        "note": "A coherent program of four additional subjects, at least two of which must be in Linguistics and Philosophy, approved by the major advisor.4",
+        "flexibility": {
+          "catalogText": "A coherent program of four additional subjects, at least two of which must be in Linguistics and Philosophy, approved by the major advisor.4"
+        }
+      }
+    }
+  ],
+  "status": "draft",
+  "revisionId": "24-2-philosophy-2026-07-03-806d8397",
+  "catalogYear": "2026",
+  "effectiveTerm": "2026-FA"
+}

@@ -1,0 +1,44 @@
+{
+  "sharedListId": "course-6.ai-d-aus",
+  "program": "course-6",
+  "title": "AI+D Advanced Undergraduate Subjects",
+  "items": [
+    {
+      "type": "subject",
+      "subjectId": "6.3730"
+    },
+    {
+      "type": "subject",
+      "subjectId": "6.4200"
+    },
+    {
+      "type": "subject",
+      "subjectId": "6.5151"
+    },
+    {
+      "type": "subject",
+      "subjectId": "6.5831"
+    },
+    {
+      "type": "subject",
+      "subjectId": "6.7411"
+    },
+    {
+      "type": "subject",
+      "subjectId": "6.8371"
+    },
+    {
+      "type": "subject",
+      "subjectId": "6.8701"
+    },
+    {
+      "type": "subject",
+      "subjectId": "6.8711"
+    },
+    {
+      "type": "subject",
+      "subjectId": "18.404"
+    }
+  ],
+  "version": "1"
+}

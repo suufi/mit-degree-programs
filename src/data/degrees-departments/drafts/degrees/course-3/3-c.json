@@ -1,0 +1,235 @@
+{
+  "schemaVersion": "2",
+  "program": "3-c",
+  "title": "Archaeology and Materials as Recommended by the Department of Materials Science and Engineering (Course 3-C)",
+  "level": "undergraduate",
+  "complete": false,
+  "includesGir": "sb",
+  "catalogSource": {
+    "url": "https://catalog.mit.edu/degree-charts/archaeology-materials-course-3-c/",
+    "slug": "archaeology-materials-course-3-c",
+    "scrapedAt": "2026-07-03",
+    "contentHash": "d2e479fa9e2cc0745268242f53acc459784f64e3c1b978cfc449ceddb37acc72"
+  },
+  "girCrosswalk": [
+    {
+      "subjectId": "18.03",
+      "satisfies": [
+        "rest"
+      ],
+      "note": "Also satisfies REST via departmental program."
+    },
+    {
+      "subjectId": "18.06",
+      "satisfies": [
+        "rest"
+      ],
+      "note": "Also satisfies REST via departmental program."
+    },
+    {
+      "subjectId": "18.C06",
+      "satisfies": [
+        "rest"
+      ],
+      "note": "Also satisfies REST via departmental program."
+    },
+    {
+      "subjectId": "3.020",
+      "satisfies": [
+        "rest"
+      ],
+      "note": "Also satisfies REST via departmental program."
+    },
+    {
+      "subjectId": "3.010",
+      "satisfies": [
+        "lab"
+      ],
+      "note": "Also satisfies Laboratory Requirement via departmental program."
+    }
+  ],
+  "footnotes": [
+    {
+      "id": "1",
+      "text": "18.032 Differential Equations, CC.1803 Differential Equations, and ES.1803 Differential Equations are also acceptable options."
+    },
+    {
+      "id": "2",
+      "text": "Substitution of similar subjects may be permitted by petition."
+    },
+    {
+      "id": "3",
+      "text": "This chart has been calculated based on an overlap of 24 units (two subjects) between the HASS General Institute Requirement and the departmental requirements. Students who develop a program of study with more or less overlap will need to select more or fewer unrestricted electives to meet the number of total units beyond the GIRs required for an SB degree."
+    }
+  ],
+  "constraints": [],
+  "requirements": [
+    {
+      "groupId": "3-c-required-subjects",
+      "title": "Required Subjects",
+      "bucket": "departmental",
+      "subcategory": "required_subjects",
+      "root": {
+        "type": "group",
+        "ruleType": "all_of",
+        "items": [
+          {
+            "type": "subject",
+            "subjectId": "3.010"
+          },
+          {
+            "type": "subject",
+            "subjectId": "3.020"
+          },
+          {
+            "type": "subject",
+            "subjectId": "3.029"
+          },
+          {
+            "type": "subject",
+            "subjectId": "3.030"
+          },
+          {
+            "type": "subject",
+            "subjectId": "3.013"
+          },
+          {
+            "type": "selection",
+            "ruleType": "choose_one",
+            "itemsSource": "explicit",
+            "items": [
+              {
+                "type": "subject",
+                "subjectId": "3.044"
+              }
+            ]
+          },
+          {
+            "type": "subject",
+            "subjectId": "3.985"
+          },
+          {
+            "type": "subject",
+            "subjectId": "3.986"
+          },
+          {
+            "type": "subject",
+            "subjectId": "3.987"
+          },
+          {
+            "type": "subject",
+            "subjectId": "3.990"
+          },
+          {
+            "type": "subject",
+            "subjectId": "6.100A"
+          },
+          {
+            "type": "selection",
+            "ruleType": "choose_one",
+            "itemsSource": "explicit",
+            "items": [
+              {
+                "type": "subject",
+                "subjectId": "6.100L"
+              }
+            ]
+          },
+          {
+            "type": "subject",
+            "subjectId": "12.001"
+          },
+          {
+            "type": "subject",
+            "subjectId": "18.03"
+          },
+          {
+            "type": "selection",
+            "ruleType": "choose_one",
+            "itemsSource": "explicit",
+            "items": [
+              {
+                "type": "subject",
+                "subjectId": "18.06"
+              },
+              {
+                "type": "subject",
+                "subjectId": "18.C06"
+              }
+            ]
+          },
+          {
+            "type": "subject",
+            "subjectId": "21A.00"
+          },
+          {
+            "type": "subject",
+            "subjectId": "3.THU"
+          }
+        ]
+      }
+    },
+    {
+      "groupId": "3-c-restricted-electives2",
+      "title": "Restricted Electives2",
+      "bucket": "elective",
+      "subcategory": "restricted_electives",
+      "root": {
+        "type": "group",
+        "ruleType": "all_of",
+        "items": [
+          {
+            "type": "subject",
+            "subjectId": "3.983"
+          },
+          {
+            "type": "selection",
+            "ruleType": "choose_one",
+            "itemsSource": "explicit",
+            "items": [
+              {
+                "type": "subject",
+                "subjectId": "3.988"
+              }
+            ]
+          },
+          {
+            "type": "selection",
+            "ruleType": "choose_one",
+            "itemsSource": "explicit",
+            "items": [
+              {
+                "type": "subject",
+                "subjectId": "3.07"
+              },
+              {
+                "type": "subject",
+                "subjectId": "3.094"
+              },
+              {
+                "type": "subject",
+                "subjectId": "3.098"
+              },
+              {
+                "type": "subject",
+                "subjectId": "3.14"
+              },
+              {
+                "type": "subject",
+                "subjectId": "3.19"
+              },
+              {
+                "type": "subject",
+                "subjectId": "12.108"
+              }
+            ]
+          }
+        ]
+      }
+    }
+  ],
+  "status": "draft",
+  "revisionId": "3-c-2026-07-03-d2e479fa",
+  "catalogYear": "2026",
+  "effectiveTerm": "2026-FA"
+}

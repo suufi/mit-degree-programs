@@ -1,0 +1,80 @@
+{
+  "sharedListId": "18-c.communication-intensive-subjects-in-the-major",
+  "program": "18-c",
+  "title": "Communication-Intensive Subjects in the Major",
+  "items": [
+    {
+      "type": "subject",
+      "subjectId": "18.104"
+    },
+    {
+      "type": "subject",
+      "subjectId": "18.204"
+    },
+    {
+      "type": "subject",
+      "subjectId": "18.384"
+    },
+    {
+      "type": "subject",
+      "subjectId": "18.424"
+    },
+    {
+      "type": "subject",
+      "subjectId": "18.434"
+    },
+    {
+      "type": "subject",
+      "subjectId": "18.504"
+    },
+    {
+      "type": "subject",
+      "subjectId": "18.704"
+    },
+    {
+      "type": "subject",
+      "subjectId": "18.784"
+    },
+    {
+      "type": "subject",
+      "subjectId": "18.821"
+    },
+    {
+      "type": "subject",
+      "subjectId": "18.904"
+    },
+    {
+      "type": "subject",
+      "subjectId": "18.994"
+    },
+    {
+      "type": "subject",
+      "subjectId": "6.1800"
+    },
+    {
+      "type": "subject",
+      "subjectId": "8.06"
+    },
+    {
+      "type": "subject",
+      "subjectId": "14.18"
+    },
+    {
+      "type": "subject",
+      "subjectId": "14.33"
+    },
+    {
+      "type": "subject",
+      "subjectId": "18.100P"
+    },
+    {
+      "type": "subject",
+      "subjectId": "18.100Q"
+    },
+    {
+      "type": "subject",
+      "subjectId": "18.200"
+    }
+  ],
+  "version": "1"
+}

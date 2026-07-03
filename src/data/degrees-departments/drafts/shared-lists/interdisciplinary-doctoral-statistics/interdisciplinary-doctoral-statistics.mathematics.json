@@ -1,0 +1,68 @@
+{
+  "sharedListId": "interdisciplinary-doctoral-statistics.mathematics",
+  "program": "interdisciplinary-doctoral-statistics",
+  "title": "# Mathematics",
+  "items": [
+    {
+      "type": "subject",
+      "subjectId": "6.7220"
+    },
+    {
+      "type": "subject",
+      "subjectId": "6.7230"
+    },
+    {
+      "type": "subject",
+      "subjectId": "6.7810"
+    },
+    {
+      "type": "subject",
+      "subjectId": "6.7900"
+    },
+    {
+      "type": "subject",
+      "subjectId": "9.520"
+    },
+    {
+      "type": "subject",
+      "subjectId": "18.337"
+    },
+    {
+      "type": "subject",
+      "subjectId": "18.338"
+    },
+    {
+      "type": "subject",
+      "subjectId": "18.415"
+    },
+    {
+      "type": "subject",
+      "subjectId": "18.416"
+    },
+    {
+      "type": "subject",
+      "subjectId": "18.657"
+    },
+    {
+      "type": "subject",
+      "subjectId": "6.8800"
+    },
+    {
+      "type": "subject",
+      "subjectId": "6.8300"
+    },
+    {
+      "type": "subject",
+      "subjectId": "9.073"
+    },
+    {
+      "type": "subject",
+      "subjectId": "9.272"
+    },
+    {
+      "type": "subject",
+      "subjectId": "18.367"
+    }
+  ],
+  "version": "1"
+}

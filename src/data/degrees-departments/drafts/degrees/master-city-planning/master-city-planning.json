@@ -1,0 +1,104 @@
+{
+  "schemaVersion": "2",
+  "program": "master-city-planning",
+  "title": "City Planning (SM)",
+  "level": "graduate",
+  "complete": false,
+  "catalogSource": {
+    "url": "https://catalog.mit.edu/degree-charts/master-city-planning/",
+    "slug": "master-city-planning",
+    "scrapedAt": "2026-07-03",
+    "contentHash": "4bf02f003598be1073c4150381acd11fad8c57c9e534ab2d2dedd7fd69e2db2b"
+  },
+  "footnotes": [
+    {
+      "id": "1",
+      "text": "Students can test out of these subjects but must take an equivalent number of additional unrestricted elective units to meet the 120-unit requirement for coursework."
+    },
+    {
+      "id": "2",
+      "text": "Subjects are selected in consultation with the department."
+    },
+    {
+      "id": "3",
+      "text": "Subjects are selected in consultation with the advisor. Graduate-level subjects offered at MIT or other area universities can be used to fulfill part of this requirement."
+    }
+  ],
+  "constraints": [],
+  "requirements": [
+    {
+      "groupId": "master-city-planning-program-requirements",
+      "title": "Program Requirements",
+      "bucket": "departmental",
+      "subcategory": "required_subjects",
+      "root": {
+        "type": "group",
+        "ruleType": "all_of",
+        "items": [
+          {
+            "type": "subject",
+            "subjectId": "11.200"
+          },
+          {
+            "type": "subject",
+            "subjectId": "11.202"
+          },
+          {
+            "type": "subject",
+            "subjectId": "11.203"
+          },
+          {
+            "type": "subject",
+            "subjectId": "11.205"
+          },
+          {
+            "type": "subject",
+            "subjectId": "11.220"
+          },
+          {
+            "type": "subject",
+            "subjectId": "11.222"
+          },
+          {
+            "type": "subject",
+            "subjectId": "11.328"
+          }
+        ]
+      }
+    },
+    {
+      "groupId": "master-city-planning-practicum",
+      "title": "Practicum",
+      "bucket": "departmental",
+      "subcategory": "required_subjects",
+      "flexibility": {
+        "advisorApproval": false,
+        "catalogText": "At least one core practicum subject2"
+      },
+      "root": {
+        "type": "selection",
+        "ruleType": "choose_units",
+        "ruleValue": 9,
+        "itemsSource": "advisor_defined",
+        "note": "At least one core practicum subject2",
+        "flexibility": {
+          "catalogText": "At least one core practicum subject2"
+        }
+      }
+    },
+    {
+      "groupId": "master-city-planning-thesis",
+      "title": "Thesis",
+      "bucket": "thesis",
+      "subcategory": "thesis",
+      "root": {
+        "type": "subject",
+        "subjectId": "11.THG"
+      }
+    }
+  ],
+  "status": "draft",
+  "revisionId": "master-city-planning-2026-07-03-4bf02f00",
+  "catalogYear": "2026",
+  "effectiveTerm": "2026-FA"
+}

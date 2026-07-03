@@ -1,0 +1,136 @@
+{
+  "schemaVersion": "2",
+  "program": "interdisciplinary-doctoral-statistics",
+  "title": "Statistics (PhD)",
+  "level": "graduate",
+  "complete": false,
+  "catalogSource": {
+    "url": "https://catalog.mit.edu/degree-charts/interdisciplinary-doctoral-statistics/",
+    "slug": "interdisciplinary-doctoral-statistics",
+    "scrapedAt": "2026-07-03",
+    "contentHash": "73c025ead087a37a42a3f92663302651be3f0d009917e67aa702a3429515867d"
+  },
+  "footnotes": [
+    {
+      "id": "1",
+      "text": "Mathematics students may not elect 18.6501."
+    }
+  ],
+  "constraints": [],
+  "requirements": [
+    {
+      "groupId": "interdisciplinary-doctoral-statistics-required-subjects",
+      "title": "Required Subjects",
+      "bucket": "departmental",
+      "subcategory": "required_subjects",
+      "flexibility": {
+        "advisorApproval": false,
+        "catalogText": "[IDS.190](https://catalog.mit.edu/search/?P=IDS.190 \"IDS.190\")"
+      },
+      "root": {
+        "type": "group",
+        "ruleType": "all_of",
+        "items": [
+          {
+            "type": "subject",
+            "subjectId": "6.7700"
+          },
+          {
+            "type": "selection",
+            "ruleType": "choose_one",
+            "itemsSource": "explicit",
+            "items": [
+              {
+                "type": "subject",
+                "subjectId": "18.675"
+              }
+            ]
+          },
+          {
+            "type": "selection",
+            "ruleType": "choose_units",
+            "ruleValue": 3,
+            "itemsSource": "advisor_defined",
+            "note": "[IDS.190](https://catalog.mit.edu/search/?P=IDS.190 \"IDS.190\")",
+            "flexibility": {
+              "catalogText": "[IDS.190](https://catalog.mit.edu/search/?P=IDS.190 \"IDS.190\")"
+            }
+          },
+          {
+            "type": "selection",
+            "ruleType": "choose_one",
+            "itemsSource": "explicit",
+            "items": [
+              {
+                "type": "subject",
+                "subjectId": "18.6501"
+              },
+              {
+                "type": "subject",
+                "subjectId": "18.655"
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "groupId": "interdisciplinary-doctoral-statistics-computation-and-statistics",
+      "title": "Computation and Statistics",
+      "bucket": "departmental",
+      "subcategory": "computation",
+      "root": {
+        "type": "selection",
+        "ruleType": "choose_one",
+        "itemsSource": "explicit",
+        "items": [
+          {
+            "type": "subject",
+            "subjectId": "6.7810"
+          },
+          {
+            "type": "subject",
+            "subjectId": "6.7900"
+          },
+          {
+            "type": "subject",
+            "subjectId": "9.520"
+          },
+          {
+            "type": "subject",
+            "subjectId": "16.391"
+          },
+          {
+            "type": "subject",
+            "subjectId": "16.940"
+          }
+        ]
+      }
+    },
+    {
+      "groupId": "interdisciplinary-doctoral-statistics-data-analysis",
+      "title": "Data Analysis",
+      "bucket": "departmental",
+      "subcategory": "required_subjects",
+      "root": {
+        "type": "selection",
+        "ruleType": "choose_one",
+        "itemsSource": "explicit",
+        "items": [
+          {
+            "type": "subject",
+            "subjectId": "16.393"
+          },
+          {
+            "type": "subject",
+            "subjectId": "16.470"
+          }
+        ]
+      }
+    }
+  ],
+  "status": "draft",
+  "revisionId": "interdisciplinary-doctoral-statistics-2026-07-03-73c025ea",
+  "catalogYear": "2026",
+  "effectiveTerm": "2026-FA"
+}

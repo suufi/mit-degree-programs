@@ -1,0 +1,56 @@
+{
+  "sharedListId": "course-6.track-systems",
+  "program": "course-6",
+  "title": "Systems",
+  "items": [
+    {
+      "type": "subject",
+      "subjectId": "6.1600"
+    },
+    {
+      "type": "subject",
+      "subjectId": "6.1810"
+    },
+    {
+      "type": "subject",
+      "subjectId": "6.1820"
+    },
+    {
+      "type": "subject",
+      "subjectId": "6.5610"
+    },
+    {
+      "type": "subject",
+      "subjectId": "6.5660"
+    },
+    {
+      "type": "subject",
+      "subjectId": "6.5810"
+    },
+    {
+      "type": "subject",
+      "subjectId": "6.5820"
+    },
+    {
+      "type": "subject",
+      "subjectId": "6.5821"
+    },
+    {
+      "type": "subject",
+      "subjectId": "6.5830"
+    },
+    {
+      "type": "subject",
+      "subjectId": "6.5831"
+    },
+    {
+      "type": "subject",
+      "subjectId": "6.5840"
+    },
+    {
+      "type": "subject",
+      "subjectId": "6.5850"
+    }
+  ],
+  "version": "1"
+}

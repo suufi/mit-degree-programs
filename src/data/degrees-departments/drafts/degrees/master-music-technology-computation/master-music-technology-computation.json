@@ -1,0 +1,366 @@
+{
+  "schemaVersion": "2",
+  "program": "master-music-technology-computation",
+  "title": "Music Technology and Computation (MASc & SM)",
+  "level": "graduate",
+  "complete": false,
+  "catalogSource": {
+    "url": "https://catalog.mit.edu/degree-charts/master-music-technology-computation/",
+    "slug": "master-music-technology-computation",
+    "scrapedAt": "2026-07-03",
+    "contentHash": "884e823318e8f42b4db4f7fcb59dc551e65072d6e67a5763a703dfcb4a6e457f"
+  },
+  "footnotes": [
+    {
+      "id": "1",
+      "text": "With permission of advisor, other subjects in music, computation, engineering, or technology can be used to satisfy up to 24 units of restricted electives."
+    },
+    {
+      "id": "2",
+      "text": "Subject can fulfill either the core requirement or the elective requirement, but not both.",
+      "appliesTo": [
+        "master-music-technology-computation.subject-requirements",
+        "master-music-technology-computation.select-36-units",
+        "master-music-technology-computation.one-of-the-following-selected-by-the-advisor-at-the-time-of-admission"
+      ]
+    },
+    {
+      "id": "3",
+      "text": "Subject is taken twice."
+    }
+  ],
+  "constraints": [
+    {
+      "type": "exclusive_pools",
+      "pools": [
+        "master-music-technology-computation.subject-requirements",
+        "master-music-technology-computation.select-36-units",
+        "master-music-technology-computation.one-of-the-following-selected-by-the-advisor-at-the-time-of-admission"
+      ],
+      "note": "Subject can fulfill either the core requirement or the elective requirement, but not both."
+    }
+  ],
+  "requirements": [
+    {
+      "groupId": "master-music-technology-computation-core-requirements",
+      "title": "Core Requirements",
+      "bucket": "departmental",
+      "subcategory": "required_subjects",
+      "flexibility": {
+        "advisorApproval": false,
+        "catalogText": "Restricted Electives1"
+      },
+      "root": {
+        "type": "group",
+        "ruleType": "all_of",
+        "items": [
+          {
+            "type": "selection",
+            "ruleType": "choose_n",
+            "ruleValue": 2,
+            "itemsSource": "explicit",
+            "items": [
+              {
+                "type": "subject",
+                "subjectId": "21M.569"
+              },
+              {
+                "type": "subject",
+                "subjectId": "21M.583"
+              },
+              {
+                "type": "subject",
+                "subjectId": "21M.585"
+              },
+              {
+                "type": "subject",
+                "subjectId": "21M.586"
+              },
+              {
+                "type": "subject",
+                "subjectId": "21M.587"
+              }
+            ]
+          },
+          {
+            "type": "selection",
+            "ruleType": "choose_units",
+            "ruleValue": 36,
+            "itemsSource": "advisor_defined",
+            "note": "Restricted Electives1",
+            "flexibility": {
+              "catalogText": "Restricted Electives1"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "groupId": "master-music-technology-computation-select-36-units",
+      "title": "Select 36 units:",
+      "bucket": "departmental",
+      "subcategory": "required_subjects",
+      "root": {
+        "type": "group",
+        "ruleType": "all_of",
+        "items": [
+          {
+            "type": "subject",
+            "subjectId": "21M.517"
+          },
+          {
+            "type": "subject",
+            "subjectId": "21M.540"
+          },
+          {
+            "type": "subject",
+            "subjectId": "21M.560"
+          },
+          {
+            "type": "subject",
+            "subjectId": "21M.561"
+          },
+          {
+            "type": "subject",
+            "subjectId": "21M.562"
+          },
+          {
+            "type": "subject",
+            "subjectId": "21M.569"
+          },
+          {
+            "type": "subject",
+            "subjectId": "21M.570"
+          },
+          {
+            "type": "subject",
+            "subjectId": "21M.580"
+          },
+          {
+            "type": "subject",
+            "subjectId": "21M.583"
+          },
+          {
+            "type": "subject",
+            "subjectId": "21M.585"
+          },
+          {
+            "type": "subject",
+            "subjectId": "21M.586"
+          },
+          {
+            "type": "subject",
+            "subjectId": "21M.587"
+          },
+          {
+            "type": "subject",
+            "subjectId": "21M.589"
+          },
+          {
+            "type": "subject",
+            "subjectId": "21T.523"
+          }
+        ]
+      }
+    },
+    {
+      "groupId": "master-music-technology-computation-colloquium",
+      "title": "Colloquium",
+      "bucket": "departmental",
+      "subcategory": "required_subjects",
+      "root": {
+        "type": "subject",
+        "subjectId": "21M.590"
+      }
+    },
+    {
+      "groupId": "master-music-technology-computation-research-seminar",
+      "title": "Research Seminar",
+      "bucket": "departmental",
+      "subcategory": "required_subjects",
+      "root": {
+        "type": "subject",
+        "subjectId": "21M.595"
+      }
+    },
+    {
+      "groupId": "master-music-technology-computation-thesis",
+      "title": "Thesis",
+      "bucket": "thesis",
+      "subcategory": "thesis",
+      "root": {
+        "type": "subject",
+        "subjectId": "21M.THG"
+      }
+    },
+    {
+      "groupId": "master-music-technology-computation-foundation-subjects",
+      "title": "Foundation Subjects",
+      "bucket": "departmental",
+      "subcategory": "fundamentals",
+      "root": {
+        "type": "subject",
+        "subjectId": "21M.540"
+      }
+    },
+    {
+      "groupId": "master-music-technology-computation-one-of-the-following-selected-by-the-advisor-at-the-time-of-admission",
+      "title": "One of the following, selected by the advisor at the time of admission:",
+      "bucket": "departmental",
+      "subcategory": "required_subjects",
+      "root": {
+        "type": "group",
+        "ruleType": "all_of",
+        "items": [
+          {
+            "type": "subject",
+            "subjectId": "21M.541"
+          },
+          {
+            "type": "subject",
+            "subjectId": "21M.565"
+          }
+        ]
+      }
+    },
+    {
+      "groupId": "master-music-technology-computation-overviews",
+      "title": "Overviews",
+      "bucket": "departmental",
+      "subcategory": "required_subjects",
+      "root": {
+        "type": "selection",
+        "ruleType": "choose_n",
+        "ruleValue": 3,
+        "itemsSource": "explicit",
+        "items": [
+          {
+            "type": "subject",
+            "subjectId": "21M.572"
+          },
+          {
+            "type": "subject",
+            "subjectId": "21M.573"
+          },
+          {
+            "type": "subject",
+            "subjectId": "21M.574"
+          },
+          {
+            "type": "subject",
+            "subjectId": "21M.576"
+          },
+          {
+            "type": "subject",
+            "subjectId": "21M.577"
+          }
+        ]
+      }
+    },
+    {
+      "groupId": "master-music-technology-computation-restricted-elective",
+      "title": "Restricted Elective",
+      "bucket": "elective",
+      "subcategory": "restricted_electives",
+      "root": {
+        "type": "selection",
+        "ruleType": "choose_one",
+        "itemsSource": "explicit",
+        "items": [
+          {
+            "type": "subject",
+            "subjectId": "21M.560"
+          },
+          {
+            "type": "subject",
+            "subjectId": "21M.561"
+          },
+          {
+            "type": "subject",
+            "subjectId": "21M.562"
+          },
+          {
+            "type": "subject",
+            "subjectId": "21M.569"
+          },
+          {
+            "type": "subject",
+            "subjectId": "21M.570"
+          },
+          {
+            "type": "subject",
+            "subjectId": "21M.580"
+          }
+        ]
+      }
+    },
+    {
+      "groupId": "master-music-technology-computation-advanced-subjects",
+      "title": "Advanced Subjects",
+      "bucket": "departmental",
+      "subcategory": "required_subjects",
+      "flexibility": {
+        "advisorApproval": false,
+        "catalogText": "Elective"
+      },
+      "root": {
+        "type": "group",
+        "ruleType": "all_of",
+        "items": [
+          {
+            "type": "selection",
+            "ruleType": "choose_n",
+            "ruleValue": 2,
+            "itemsSource": "explicit",
+            "items": [
+              {
+                "type": "subject",
+                "subjectId": "21M.583"
+              },
+              {
+                "type": "subject",
+                "subjectId": "21M.585"
+              },
+              {
+                "type": "subject",
+                "subjectId": "21M.587"
+              },
+              {
+                "type": "subject",
+                "subjectId": "21M.589"
+              }
+            ]
+          },
+          {
+            "type": "selection",
+            "ruleType": "choose_units",
+            "ruleValue": 12,
+            "itemsSource": "advisor_defined",
+            "note": "Elective",
+            "flexibility": {
+              "catalogText": "Elective"
+            }
+          },
+          {
+            "type": "subject",
+            "subjectId": "21M.517"
+          }
+        ]
+      }
+    },
+    {
+      "groupId": "master-music-technology-computation-capstone",
+      "title": "Capstone",
+      "bucket": "departmental",
+      "subcategory": "required_subjects",
+      "root": {
+        "type": "subject",
+        "subjectId": "21M.591"
+      }
+    }
+  ],
+  "status": "draft",
+  "revisionId": "master-music-technology-computation-2026-07-03-884e8233",
+  "catalogYear": "2026",
+  "effectiveTerm": "2026-FA"
+}

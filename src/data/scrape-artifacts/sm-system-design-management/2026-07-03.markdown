@@ -1,0 +1,369 @@
+Degree Charts
+
+- [Home](https://catalog.mit.edu/) >
+- [Degree Charts](https://catalog.mit.edu/degree-charts/) >
+- Engineering and Management (SM)
+
+# Master of Science in Engineering and Management
+
+[System Design and Management Program](https://catalog.mit.edu/interdisciplinary/graduate-programs/system-design-management/)
+
+### Subject Requirements
+
+|     |     |     |
+| --- | --- | --- |
+| Core | Units |
+| [EM.411](https://catalog.mit.edu/search/?P=EM.411 "EM.411") | Foundations of System Design and Management | 15 |
+| [EM.412](https://catalog.mit.edu/search/?P=EM.412 "EM.412") | Foundations of System Design and Management II | 6 |
+| [EM.413](https://catalog.mit.edu/search/?P=EM.413 "EM.413") | Foundations of System Design and Management III | 15 |
+| Management Foundations1 | 12 |
+| Engineering Depth1 | 12 |
+| Management Electives1 | 15 |
+| Engineering Electives1 | 15 |
+| Thesis |  |
+| [EM.THG](https://catalog.mit.edu/search/?P=EM.THG "EM.THG") | EM Graduate Thesis | 24 |
+| Total Units | 114 |
+
+|     |     |
+| --- | --- |
+| _1_ | _Choose subjects from the SDM restricted subjects lists._ |
+
+|     |     |     |
+| --- | --- | --- |
+| Management Foundations Subjects |  |
+| [1.266](https://catalog.mit.edu/search/?P=1.266 "1.266") | Supply Chain and Demand Analytics 1 | 6 |
+| [15.034](https://catalog.mit.edu/search/?P=15.034 "15.034") | Econometrics for Managers: Correlation & Causality in a Big Data World | 9 |
+| [15.071](https://catalog.mit.edu/search/?P=15.071 "15.071") | The Analytics Edge | 12 |
+| [15.072](https://catalog.mit.edu/search/?P=15.072 "15.072") | Advanced Analytics Edge | 12 |
+| [15.218](https://catalog.mit.edu/search/?P=15.218 "15.218") | Global Economic Challenges and Opportunities | 9 |
+| [15.310](https://catalog.mit.edu/search/?P=15.310 "15.310") | People, Teams, and Organizations | 9 |
+| [15.320](https://catalog.mit.edu/search/?P=15.320 "15.320") | Strategic Organizational Design | 9 |
+| [15.364](https://catalog.mit.edu/search/?P=15.364 "15.364") | Innovation Ecosystems for Regional Entrepreneurship Acceleration Leaders (iEco4REAL) | 9 |
+| [15.374](https://catalog.mit.edu/search/?P=15.374 "15.374") | Organizing for Innovation | 6 |
+| [15.394](https://catalog.mit.edu/search/?P=15.394 "15.394") | Entrepreneurial Founding and Teams | 9 |
+| [15.401](https://catalog.mit.edu/search/?P=15.401 "15.401") | Managerial Finance | 9 |
+| [15.431](https://catalog.mit.edu/search/?P=15.431 "15.431") | Entrepreneurial Finance and Venture Capital | 9 |
+| [15.439](https://catalog.mit.edu/search/?P=15.439 "15.439") | Quantitative Investment Management | 9 |
+| [15.515](https://catalog.mit.edu/search/?P=15.515 "15.515") | Financial Accounting | 9 |
+| [15.516](https://catalog.mit.edu/search/?P=15.516 "15.516") | Corporate Financial Accounting | 12 |
+| [15.521](https://catalog.mit.edu/search/?P=15.521 "15.521") | Accounting Information for Decision Makers | 6 |
+| [15.535](https://catalog.mit.edu/search/?P=15.535 "15.535") | Business Analysis Using Financial Statements | 9 |
+| [15.665](https://catalog.mit.edu/search/?P=15.665 "15.665") | Power and Negotiation | 9 |
+| [15.761](https://catalog.mit.edu/search/?P=15.761 "15.761") | Introduction to Operations Management | 9 |
+| [15.768](https://catalog.mit.edu/search/?P=15.768 "15.768") | Management of Services: Creating Value for Customers, Employees, and Investors | 9 |
+| [15.762\[J\]](https://catalog.mit.edu/search/?P=15.762 "15.762[J]") | Supply Chain Analytics 1 | 12 |
+| [15.774](https://catalog.mit.edu/search/?P=15.774 "15.774") | The Analytics of Operations Management | 12 |
+| [15.814](https://catalog.mit.edu/search/?P=15.814 "15.814") | Marketing Innovation | 9 |
+| [15.818](https://catalog.mit.edu/search/?P=15.818 "15.818") | Pricing | 6 |
+| [15.833](https://catalog.mit.edu/search/?P=15.833 "15.833") | Business-to-Business Marketing | 6 |
+| [15.871](https://catalog.mit.edu/search/?P=15.871 "15.871") | Introduction to System Dynamics | 6 |
+| [15.873](https://catalog.mit.edu/search/?P=15.873 "15.873") | System Dynamics for Business and Policy | 9 |
+| [15.900](https://catalog.mit.edu/search/?P=15.900 "15.900") | Competitive Strategy | 9 |
+| [15.910](https://catalog.mit.edu/search/?P=15.910 "15.910") | Innovation Strategy | 6 |
+| [15.911](https://catalog.mit.edu/search/?P=15.911 "15.911") | Entrepreneurial Strategy | 9 |
+| [15.915](https://catalog.mit.edu/search/?P=15.915 "15.915") | Business Strategies for a Sustainable Future | 9 |
+| [15.C57\[J\]](https://catalog.mit.edu/search/?P=15.C57 "15.C57[J]") | Optimization Methods 1 | 12 |
+| [EM.S21](https://catalog.mit.edu/search/?P=EM.S21 "EM.S21") | Special Subject in Engineering Management 1 |  |
+
+|     |     |
+| --- | --- |
+| _1_ | _Units are split between engineering depth and management foundation subjects. Splits vary based on the subject and unit value._ |
+
+|     |     |     |
+| --- | --- | --- |
+| Engineering Depth Subjects |  |
+| [1.200\[J\]](https://catalog.mit.edu/search/?P=1.200 "1.200[J]") | Transportation: Foundations and Methods | 12 |
+| [1.266](https://catalog.mit.edu/search/?P=1.266 "1.266") | Supply Chain and Demand Analytics 1 | 6 |
+| [2.702](https://catalog.mit.edu/search/?P=2.702 "2.702") | Systems Engineering and Naval Ship Design | 12 |
+| [2.83](https://catalog.mit.edu/search/?P=2.83 "2.83") | Energy, Materials and Manufacturing | 12 |
+| [2.854](https://catalog.mit.edu/search/?P=2.854 "2.854") | Introduction to Manufacturing Systems | 12 |
+| [6.5840](https://catalog.mit.edu/search/?P=6.5840 "6.5840") | Distributed Computer Systems Engineering | 12 |
+| [6.5900](https://catalog.mit.edu/search/?P=6.5900 "6.5900") | Computer System Architecture | 12 |
+| [16.391](https://catalog.mit.edu/search/?P=16.391 "16.391") | Statistics for Engineers and Scientists | 12 |
+| [15.C57\[J\]](https://catalog.mit.edu/search/?P=15.C57 "15.C57[J]") | Optimization Methods 1 | 12 |
+| [15.762\[J\]](https://catalog.mit.edu/search/?P=15.762 "15.762[J]") | Supply Chain Analytics 1 | 12 |
+| [16.453\[J\]](https://catalog.mit.edu/search/?P=16.453 "16.453[J]") | Human Systems Engineering | 12 |
+| [16.863\[J\]](https://catalog.mit.edu/search/?P=16.863 "16.863[J]") | System Safety Concepts | 12 |
+| [EM.422](https://catalog.mit.edu/search/?P=EM.422 "EM.422") | System Design and Management for a Changing World: Combined | 12 |
+| [EM.423\[J\]](https://catalog.mit.edu/search/?P=EM.423 "EM.423[J]") | System Design and Management for a Changing World: Tools | 6 |
+| [EM.424\[J\]](https://catalog.mit.edu/search/?P=EM.424 "EM.424[J]") | System Design and Management for a Changing World: Projects | 6 |
+| [EM.S21](https://catalog.mit.edu/search/?P=EM.S21 "EM.S21") | Special Subject in Engineering Management 1 |  |
+
+|     |     |
+| --- | --- |
+| _1_ | _Units are split between engineering depth and management foundations. Splits vary based on the subject and unit value._ |
+
+|     |     |     |
+| --- | --- | --- |
+| Management Electives |  |
+| _Managerial Economics_ |  |
+| [15.308](https://catalog.mit.edu/search/?P=15.308 "15.308") | Leading the Way: Interpersonal and Organizational Strategies for Advancing DE&I | 9 |
+| _Operations Research/Statistics_ |  |
+| [15.068](https://catalog.mit.edu/search/?P=15.068 "15.068") | Statistical Consulting | 9 |
+| [15.095](https://catalog.mit.edu/search/?P=15.095 "15.095") | Machine Learning Under a Modern Optimization Lens | 12 |
+| _Health Care Management_ |  |
+| [15.128\[J\]](https://catalog.mit.edu/search/?P=15.128 "15.128[J]") | Revolutionary Ventures: How to Invent and Deploy Transformative Technologies | 9 |
+| [15.141\[J\]](https://catalog.mit.edu/search/?P=15.141 "15.141[J]") | Economics of Health Care Industries | 6 |
+| _Global Economics and Management_ |  |
+| [15.216](https://catalog.mit.edu/search/?P=15.216 "15.216") | Central Banks, Monetary Policy and Global Financial Markets | 9 |
+| [15.223](https://catalog.mit.edu/search/?P=15.223 "15.223") | Global Markets, National Policies and the Competitive Advantages of Firms | 6 |
+| [15.226](https://catalog.mit.edu/search/?P=15.226 "15.226") | Modern Business in Southeast Asia: ASEAN Lab | 12 |
+| [15.232](https://catalog.mit.edu/search/?P=15.232 "15.232") | Breakthrough Ventures: Effective Business Models in Frontier Markets | 6 |
+| [15.235](https://catalog.mit.edu/search/?P=15.235 "15.235") | Blockchain and Money | 6 |
+| [15.236](https://catalog.mit.edu/search/?P=15.236 "15.236") | Global Business of Artificial Intelligence and Robotics (GBAIR) | 6 |
+| [15.248](https://catalog.mit.edu/search/?P=15.248 "15.248") | MENA Lab: Promoting Innovation & Entrepreneurship in the Middle East and North Africa | 12 |
+| _History, Environment, Ethics_ |  |
+| [15.269](https://catalog.mit.edu/search/?P=15.269 "15.269") | Leadership Stories: Literature, Ethics, and Authority | 9 |
+| _Communication_ |  |
+| [15.270](https://catalog.mit.edu/search/?P=15.270 "15.270") | Ethical Practice: Leading Through Professionalism, Social Responsibility, and System Design | 6 |
+| [15.281](https://catalog.mit.edu/search/?P=15.281 "15.281") | Advanced Leadership Communication | 9 |
+| [15.283](https://catalog.mit.edu/search/?P=15.283 "15.283") | Social Media Management: Persuasion in Networked Culture | 9 |
+| [15.286](https://catalog.mit.edu/search/?P=15.286 "15.286") | Communicating with Data | 6 |
+| _Work and Organizational Studies_ |  |
+| [15.318](https://catalog.mit.edu/search/?P=15.318 "15.318") | Discovering Your Leadership Signature | 9 |
+| [15.321](https://catalog.mit.edu/search/?P=15.321 "15.321") | Improvisational Leadership: In-the-Moment Leadership Skills | 6 |
+| _Technology, Innovation, and Entrepreneurship_ |  |
+| [15.365](https://catalog.mit.edu/search/?P=15.365 "15.365") | Overcoming Obstacles to Entrepreneurial Success | 9 |
+| [15.366](https://catalog.mit.edu/search/?P=15.366 "15.366") | Climate & Energy Ventures | 12 |
+| [15.367\[J\]](https://catalog.mit.edu/search/?P=15.367 "15.367[J]") | Healthcare Ventures | 12 |
+| [15.369](https://catalog.mit.edu/search/?P=15.369 "15.369") | Corporate Entrepreneurship Lab | 9 |
+| [15.378](https://catalog.mit.edu/search/?P=15.378 "15.378") | Building an Entrepreneurial Venture: Advanced Tools and Techniques | 12 |
+| [15.385](https://catalog.mit.edu/search/?P=15.385 "15.385") | Innovating for Impact | 6 |
+| [15.386](https://catalog.mit.edu/search/?P=15.386 "15.386") | Leading in Ambiguity: Steering Through Strategic Inflection Points | 6 |
+| [15.387](https://catalog.mit.edu/search/?P=15.387 "15.387") | Entrepreneurial Sales | 12 |
+| [15.388](https://catalog.mit.edu/search/?P=15.388 "15.388") | Venture Creation Tactics | 12 |
+| [15.389](https://catalog.mit.edu/search/?P=15.389 "15.389") | Global Entrepreneurship Lab | 12 |
+| [15.390](https://catalog.mit.edu/search/?P=15.390 "15.390") | Entrepreneurship 101: Systematic Approach to New Venture Creation | 12 |
+| [15.392](https://catalog.mit.edu/search/?P=15.392 "15.392") | Scaling Entrepreneurial Ventures | 6 |
+| [15.398](https://catalog.mit.edu/search/?P=15.398 "15.398") | Corporations at the Crossroads: Leading an Organization Through Change & Challenge | 6 |
+| [15.399](https://catalog.mit.edu/search/?P=15.399 "15.399") | Entrepreneurship Lab | 12 |
+| _Finance_ |  |
+| [15.402](https://catalog.mit.edu/search/?P=15.402 "15.402") | Corporate Finance | 9 |
+| [15.426\[J\]](https://catalog.mit.edu/search/?P=15.426 "15.426[J]") | Real Estate Finance and Investment | 12 |
+| [15.434](https://catalog.mit.edu/search/?P=15.434 "15.434") | Advanced Corporate Finance | 9 |
+| [15.437](https://catalog.mit.edu/search/?P=15.437 "15.437") | Options and Futures Markets | 9 |
+| [15.451](https://catalog.mit.edu/search/?P=15.451 "15.451") | Proseminar in Capital Markets/Investment Management | 6 |
+| [15.453](https://catalog.mit.edu/search/?P=15.453 "15.453") | Finance Lab | 9 |
+| [15.456](https://catalog.mit.edu/search/?P=15.456 "15.456") | Financial Engineering | 9 |
+| [15.458](https://catalog.mit.edu/search/?P=15.458 "15.458") | Financial Data Science and Computing | 9 |
+| [15.492](https://catalog.mit.edu/search/?P=15.492 "15.492") | Practice of Finance: Crypto Finance | 6 |
+| [15.497](https://catalog.mit.edu/search/?P=15.497 "15.497") | FinTech Ventures | 9 |
+| [15.499](https://catalog.mit.edu/search/?P=15.499 "15.499") | Practice of Finance: Climate and Social Impact Investing | 9 |
+| _Information Technologies_ |  |
+| [15.561](https://catalog.mit.edu/search/?P=15.561 "15.561") | Digital Revolution: From Foundations to Future Trends | 9 |
+| [15.562](https://catalog.mit.edu/search/?P=15.562 "15.562") | Web3 and Strategy: Blockchain, Metaverse, and NFT Essentials | 6 |
+| [15.567](https://catalog.mit.edu/search/?P=15.567 "15.567") | The Economics of Information: Strategy, Structure and Pricing | 6 |
+| [15.570](https://catalog.mit.edu/search/?P=15.570 "15.570") | Digital Marketing and Social Media Analytics | 6 |
+| [15.572](https://catalog.mit.edu/search/?P=15.572 "15.572") | Analytics Lab: Action Learning Seminar on Analytics, Machine Learning, and the Digital Economy | 9 |
+| _Law_ |  |
+| [15.615](https://catalog.mit.edu/search/?P=15.615 "15.615") | Essential Law | 9 |
+| [15.655\[J\]](https://catalog.mit.edu/search/?P=15.655 "15.655[J]") | Law, Technology, and Public Policy | 12 |
+| _Industrial Relations and Human Resources_ |  |
+| [15.661](https://catalog.mit.edu/search/?P=15.661 "15.661") | Building Successful Careers and Organizations | 6 |
+| [15.662\[J\]](https://catalog.mit.edu/search/?P=15.662 "15.662[J]") | People and Profits: Shaping the Future of Work | 12 |
+| [15.669](https://catalog.mit.edu/search/?P=15.669 "15.669") | Strategies for People Analytics | 6 |
+| [15.677\[J\]](https://catalog.mit.edu/search/?P=15.677 "15.677[J]") | Labor Markets and Employment Policy | 12 |
+| _Operations Management_ |  |
+| [15.764\[J\]](https://catalog.mit.edu/search/?P=15.764 "15.764[J]") | The Theory of Operations Management | 12 |
+| [15.769](https://catalog.mit.edu/search/?P=15.769 "15.769") | Operations Strategy | 9 |
+| [15.777](https://catalog.mit.edu/search/?P=15.777 "15.777") | Healthcare Lab: Introduction to Healthcare Delivery in the United States | 15 |
+| [15.784](https://catalog.mit.edu/search/?P=15.784 "15.784") | Operations Laboratory | 9 |
+| [15.785](https://catalog.mit.edu/search/?P=15.785 "15.785") | Product Management | 6 |
+| _Marketing_ |  |
+| [15.815](https://catalog.mit.edu/search/?P=15.815 "15.815") | Applied Behavioral Economics | 9 |
+| [15.819](https://catalog.mit.edu/search/?P=15.819 "15.819") | Marketing and Product Analytics | 9 |
+| [15.846](https://catalog.mit.edu/search/?P=15.846 "15.846") | Branding | 6 |
+| [15.847\[J\]](https://catalog.mit.edu/search/?P=15.847 "15.847[J]") | Consumer Behavior | 9 |
+| _System Dynamics_ |  |
+| [15.878](https://catalog.mit.edu/search/?P=15.878 "15.878") | Sustainable Business Lab | 9 |
+
+|     |     |     |
+| --- | --- | --- |
+| Engineering Electives |  |
+| _Civil and Environmental Engineering_ |  |
+| [1.001](https://catalog.mit.edu/search/?P=1.001 "1.001") | Engineering Computation and Data Science | 12 |
+| [1.125](https://catalog.mit.edu/search/?P=1.125 "1.125") | Architecting and Engineering Software Systems | 12 |
+| [1.208](https://catalog.mit.edu/search/?P=1.208 "1.208") | Resilient Networks | 12 |
+| [1.261\[J\]](https://catalog.mit.edu/search/?P=1.261 "1.261[J]") | Case Studies in Logistics and Supply Chain Management | 6 |
+| [1.263\[J\]](https://catalog.mit.edu/search/?P=1.263 "1.263[J]") | Urban Last-Mile Logistics | 6 |
+| [1.275\[J\]](https://catalog.mit.edu/search/?P=1.275 "1.275[J]") | Business and Operations Analytics | 6 |
+| [1.286\[J\]](https://catalog.mit.edu/search/?P=1.286 "1.286[J]") | Urban Energy Systems and Policy | 12 |
+| [1.472\[J\]](https://catalog.mit.edu/search/?P=1.472 "1.472[J]") | Innovative Project Delivery in the Public and Private Sectors | 6 |
+| [1.541](https://catalog.mit.edu/search/?P=1.541 "1.541") | Mechanics and Design of Concrete Structures | 12 |
+| [1.573\[J\]](https://catalog.mit.edu/search/?P=1.573 "1.573[J]") | Structural Mechanics | 12 |
+| [1.818\[J\]](https://catalog.mit.edu/search/?P=1.818 "1.818[J]") | Sustainable Energy | 12 |
+| _Mechanical Engineering_ |  |
+| [2.096\[J\]](https://catalog.mit.edu/search/?P=2.096 "2.096[J]") | Introduction to Modeling and Simulation | 12 |
+| [2.111\[J\]](https://catalog.mit.edu/search/?P=2.111 "2.111[J]") | Quantum Computation | 12 |
+| [2.120](https://catalog.mit.edu/search/?P=2.120 "2.120") | Introduction to Robotics | 12 |
+| [2.131](https://catalog.mit.edu/search/?P=2.131 "2.131") | Advanced Instrumentation and Measurement | 12 |
+| [2.140](https://catalog.mit.edu/search/?P=2.140 "2.140") | Analysis and Design of Feedback Control Systems | 12 |
+| [2.151](https://catalog.mit.edu/search/?P=2.151 "2.151") | Advanced System Dynamics and Control | 12 |
+| [2.154](https://catalog.mit.edu/search/?P=2.154 "2.154") | Maneuvering and Control of Surface and Underwater Vehicles | 12 |
+| [2.156](https://catalog.mit.edu/search/?P=2.156 "2.156") | Artificial Intelligence and Machine Learning for Engineering Design | 12 |
+| [2.160](https://catalog.mit.edu/search/?P=2.160 "2.160") | Identification, Estimation, and Learning | 12 |
+| [2.165\[J\]](https://catalog.mit.edu/search/?P=2.165 "2.165[J]") | Robotics | 12 |
+| [2.183\[J\]](https://catalog.mit.edu/search/?P=2.183 "2.183[J]") | Biomechanics and Neural Control of Movement | 12 |
+| [2.22](https://catalog.mit.edu/search/?P=2.22 "2.22") | Design Principles for Ocean Vehicles | 12 |
+| [2.42](https://catalog.mit.edu/search/?P=2.42 "2.42") | General Thermodynamics | 12 |
+| [2.55](https://catalog.mit.edu/search/?P=2.55 "2.55") | Advanced Heat and Mass Transfer | 12 |
+| [2.62\[J\]](https://catalog.mit.edu/search/?P=2.62 "2.62[J]") | Fundamentals of Advanced Energy Conversion | 12 |
+| [2.680](https://catalog.mit.edu/search/?P=2.680 "2.680") | Unmanned Marine Vehicle Autonomy, Sensing, and Communication | 12 |
+| [2.720](https://catalog.mit.edu/search/?P=2.720 "2.720") | Elements of Mechanical Design | 12 |
+| [2.737](https://catalog.mit.edu/search/?P=2.737 "2.737") | Mechatronics | 12 |
+| [2.740](https://catalog.mit.edu/search/?P=2.740 "2.740") | Bio-inspired Robotics | 12 |
+| [2.75\[J\]](https://catalog.mit.edu/search/?P=2.75 "2.75[J]") | Medical Device Design | 12 |
+| [2.76](https://catalog.mit.edu/search/?P=2.76 "2.76") | Global Engineering: Green Machines | 12 |
+| [2.782\[J\]](https://catalog.mit.edu/search/?P=2.782 "2.782[J]") | Design of Medical Devices and Implants | 12 |
+| [2.788](https://catalog.mit.edu/search/?P=2.788 "2.788") | Mechanical Engineering and Design of Living Systems | 12 |
+| [2.798\[J\]](https://catalog.mit.edu/search/?P=2.798 "2.798[J]") | Molecular, Cellular, and Tissue Biomechanics | 12 |
+| [2.810](https://catalog.mit.edu/search/?P=2.810 "2.810") | Manufacturing Processes and Systems | 12 |
+| [2.821\[J\]](https://catalog.mit.edu/search/?P=2.821 "2.821[J]") | Structural Materials | 12 |
+| [2.83](https://catalog.mit.edu/search/?P=2.83 "2.83") | Energy, Materials and Manufacturing | 12 |
+| [2.888](https://catalog.mit.edu/search/?P=2.888 "2.888") | Professional Seminar in Global Manufacturing Innovation and Entrepreneurship | 3 |
+| [2.98](https://catalog.mit.edu/search/?P=2.98 "2.98") | Sports Technology: Engineering & Innovation | 6 |
+| _Materials Science and Engineering_ |  |
+| [3.207](https://catalog.mit.edu/search/?P=3.207 "3.207") | Innovation and Commercialization | 12 |
+| [3.22](https://catalog.mit.edu/search/?P=3.22 "3.22") | Structure and Mechanics of Materials | 12 |
+| [3.371\[J\]](https://catalog.mit.edu/search/?P=3.371 "3.371[J]") | Structural Materials | 12 |
+| [3.560](https://catalog.mit.edu/search/?P=3.560 "3.560") | Industrial Ecology of Materials | 12 |
+| [3.70](https://catalog.mit.edu/search/?P=3.70 "3.70") | Materials Science and Engineering of Clean Energy | 12 |
+| [3.963\[J\]](https://catalog.mit.edu/search/?P=3.963 "3.963[J]") | Biomaterials Science and Engineering | 12 |
+| _Electrical Engineering and Computer Science_ |  |
+| [6.3102](https://catalog.mit.edu/search/?P=6.3102 "6.3102") | Dynamical System Modeling and Control Design | 12 |
+| [6.3702](https://catalog.mit.edu/search/?P=6.3702 "6.3702") | Introduction to Probability | 12 |
+| [6.3952](https://catalog.mit.edu/search/?P=6.3952 "6.3952") | AI, Decision Making, and Society | 12 |
+| [6.4132\[J\]](https://catalog.mit.edu/search/?P=6.4132 "6.4132[J]") | Principles of Autonomy and Decision Making | 12 |
+| [6.4822\[J\]](https://catalog.mit.edu/search/?P=6.4822 "6.4822[J]") | Quantitative and Clinical Physiology | 12 |
+| [6.4832\[J\]](https://catalog.mit.edu/search/?P=6.4832 "6.4832[J]") | Fields, Forces, and Flows in Biological Systems | 12 |
+| [6.4861\[J\]](https://catalog.mit.edu/search/?P=6.4861 "6.4861[J]") | Medical Device Design | 12 |
+| [6.5080](https://catalog.mit.edu/search/?P=6.5080 "6.5080") | Multicore Programming | 12 |
+| [6.5160\[J\]](https://catalog.mit.edu/search/?P=6.5160 "6.5160[J]") | Classical Mechanics: A Computational Approach | 12 |
+| [6.5400\[J\]](https://catalog.mit.edu/search/?P=6.5400 "6.5400[J]") | Theory of Computation | 12 |
+| [6.5610](https://catalog.mit.edu/search/?P=6.5610 "6.5610") | Applied Cryptography | 12 |
+| [6.5660](https://catalog.mit.edu/search/?P=6.5660 "6.5660") | Computer Systems Security | 12 |
+| [6.5810](https://catalog.mit.edu/search/?P=6.5810 "6.5810") | Operating System Engineering | 12 |
+| [6.5820](https://catalog.mit.edu/search/?P=6.5820 "6.5820") | Computer Networks | 12 |
+| [6.5830](https://catalog.mit.edu/search/?P=6.5830 "6.5830") | Database Systems | 12 |
+| [6.5940](https://catalog.mit.edu/search/?P=6.5940 "6.5940") | TinyML and Efficient Deep Learning Computing | 12 |
+| [6.6010](https://catalog.mit.edu/search/?P=6.6010 "6.6010") | Analysis and Design of Digital Integrated Circuits | 12 |
+| [6.6020](https://catalog.mit.edu/search/?P=6.6020 "6.6020") | High-Frequency Integrated Circuits | 12 |
+| [6.6300](https://catalog.mit.edu/search/?P=6.6300 "6.6300") | Electromagnetics | 12 |
+| [6.6330](https://catalog.mit.edu/search/?P=6.6330 "6.6330") | Fundamentals of Photonics | 12 |
+| [6.6400](https://catalog.mit.edu/search/?P=6.6400 "6.6400") | Applied Quantum and Statistical Physics | 12 |
+| [6.6500\[J\]](https://catalog.mit.edu/search/?P=6.6500 "6.6500[J]") | Integrated Microelectronic Devices | 12 |
+| [6.7300\[J\]](https://catalog.mit.edu/search/?P=6.7300 "6.7300[J]") | Introduction to Modeling and Simulation | 12 |
+| [6.7410](https://catalog.mit.edu/search/?P=6.7410 "6.7410") | Principles of Digital Communication | 12 |
+| [6.7810](https://catalog.mit.edu/search/?P=6.7810 "6.7810") | Algorithms for Inference | 12 |
+| [6.7910\[J\]](https://catalog.mit.edu/search/?P=6.7910 "6.7910[J]") | Statistical Learning Theory and Applications | 12 |
+| [6.8110\[J\]](https://catalog.mit.edu/search/?P=6.8110 "6.8110[J]") | Cognitive Robotics | 12 |
+| [6.7900](https://catalog.mit.edu/search/?P=6.7900 "6.7900") | Machine Learning | 12 |
+| [6.7910\[J\]](https://catalog.mit.edu/search/?P=6.7910 "6.7910[J]") | Statistical Learning Theory and Applications | 12 |
+| [6.7930\[J\]](https://catalog.mit.edu/search/?P=6.7930 "6.7930[J]") | Machine Learning for Healthcare | 12 |
+| [6.8210](https://catalog.mit.edu/search/?P=6.8210 "6.8210") | Underactuated Robotics | 12 |
+| [6.8110\[J\]](https://catalog.mit.edu/search/?P=6.8110 "6.8110[J]") | Cognitive Robotics | 12 |
+| [6.8210](https://catalog.mit.edu/search/?P=6.8210 "6.8210") | Underactuated Robotics | 12 |
+| [6.8300](https://catalog.mit.edu/search/?P=6.8300 "6.8300") | Advances in Computer Vision | 12 |
+| [6.8420](https://catalog.mit.edu/search/?P=6.8420 "6.8420") | Computational Design and Fabrication | 12 |
+| [6.8510](https://catalog.mit.edu/search/?P=6.8510 "6.8510") | Intelligent Multimodal User Interfaces | 12 |
+| [6.8610](https://catalog.mit.edu/search/?P=6.8610 "6.8610") | Quantitative Methods for Natural Language Processing | 12 |
+| [6.8620\[J\]](https://catalog.mit.edu/search/?P=6.8620 "6.8620[J]") | Spoken Language Processing | 12 |
+| [6.8800\[J\]](https://catalog.mit.edu/search/?P=6.8800 "6.8800[J]") | Biomedical Signal and Image Processing | 12 |
+| _Chemical Engineering_ |  |
+| [10.392\[J\]](https://catalog.mit.edu/search/?P=10.392 "10.392[J]") | Fundamentals of Advanced Energy Conversion | 12 |
+| [10.524](https://catalog.mit.edu/search/?P=10.524 "10.524") | Pharmaceutical Engineering | 9 |
+| [10.53\[J\]](https://catalog.mit.edu/search/?P=10.53 "10.53[J]") | Advances in Biomanufacturing | 3 |
+| [10.551](https://catalog.mit.edu/search/?P=10.551 "10.551") | Systems Engineering | 9 |
+| [10.552](https://catalog.mit.edu/search/?P=10.552 "10.552") | Modern Control Design | 9 |
+| [10.595](https://catalog.mit.edu/search/?P=10.595 "10.595") | Molecular Design and Bioprocess Development of Immunotherapies | 9 |
+| [10.626](https://catalog.mit.edu/search/?P=10.626 "10.626") | Electrochemical Energy Systems | 12 |
+| _Aeronautics and Astronautics_ |  |
+| [16.31](https://catalog.mit.edu/search/?P=16.31 "16.31") | Feedback Control Systems | 12 |
+| [16.32](https://catalog.mit.edu/search/?P=16.32 "16.32") | Principles of Optimal Control and Estimation | 12 |
+| [16.363](https://catalog.mit.edu/search/?P=16.363 "16.363") | Communication Systems and Networks | 12 |
+| [16.422](https://catalog.mit.edu/search/?P=16.422 "16.422") | Human Supervisory Control of Automated Systems | 12 |
+| [16.423\[J\]](https://catalog.mit.edu/search/?P=16.423 "16.423[J]") | Aerospace Biomedical and Life Support Engineering | 12 |
+| [16.511](https://catalog.mit.edu/search/?P=16.511 "16.511") | Aircraft Engines and Gas Turbines | 12 |
+| [16.512](https://catalog.mit.edu/search/?P=16.512 "16.512") | Rocket Propulsion | 12 |
+| [16.522](https://catalog.mit.edu/search/?P=16.522 "16.522") | Space Propulsion | 12 |
+| [16.851](https://catalog.mit.edu/search/?P=16.851 "16.851") | Introduction to Satellite Engineering | 6 |
+| [16.885](https://catalog.mit.edu/search/?P=16.885 "16.885") | Aircraft Systems Engineering | 12 |
+| [16.89\[J\]](https://catalog.mit.edu/search/?P=16.89 "16.89[J]") | Space Systems Engineering | 12 |
+| [16.895\[J\]](https://catalog.mit.edu/search/?P=16.895 "16.895[J]") | Engineering Apollo: The Moon Project as a Complex System | 12 |
+| _Biological Engineering_ |  |
+| [20.201](https://catalog.mit.edu/search/?P=20.201 "20.201") | Fundamentals of Drug Development | 12 |
+| [20.203\[J\]](https://catalog.mit.edu/search/?P=20.203 "20.203[J]") | Neurotechnology in Action | 12 |
+| [20.405\[J\]](https://catalog.mit.edu/search/?P=20.405 "20.405[J]") | Principles of Synthetic Biology | 12 |
+| [20.410\[J\]](https://catalog.mit.edu/search/?P=20.410 "20.410[J]") | Molecular, Cellular, and Tissue Biomechanics | 12 |
+| [20.420\[J\]](https://catalog.mit.edu/search/?P=20.420 "20.420[J]") | Principles of Molecular Bioengineering | 12 |
+| [20.445\[J\]](https://catalog.mit.edu/search/?P=20.445 "20.445[J]") | Methods and Problems in Microbiology | 12 |
+| [20.463\[J\]](https://catalog.mit.edu/search/?P=20.463 "20.463[J]") | Biomaterials Science and Engineering | 12 |
+| [20.554\[J\]](https://catalog.mit.edu/search/?P=20.554 "20.554[J]") | Advances in Chemical Biology | 12 |
+| _Nuclear Science and Engineering_ |  |
+| [22.13](https://catalog.mit.edu/search/?P=22.13 "22.13") | Nuclear Energy Systems | 6 |
+| [22.55\[J\]](https://catalog.mit.edu/search/?P=22.55 "22.55[J]") | Radiation Biophysics | 12 |
+| [22.611\[J\]](https://catalog.mit.edu/search/?P=22.611 "22.611[J]") | Introduction to Plasma Physics I | 12 |
+| [22.811\[J\]](https://catalog.mit.edu/search/?P=22.811 "22.811[J]") | Sustainable Energy | 12 |
+| _Institute for Data, Systems and Society_ |  |
+| [IDS.131\[J\]](https://catalog.mit.edu/search/?P=IDS.131 "IDS.131[J]") | Statistics, Computation and Applications | 12 |
+| [IDS.521\[J\]](https://catalog.mit.edu/search/?P=IDS.521 "IDS.521[J]") | Energy Systems for Climate Change Mitigation | 12 |
+| [IDS.522](https://catalog.mit.edu/search/?P=IDS.522 "IDS.522") | Mapping and Evaluating New Energy Technologies | 12 |
+
+|     |     |     |
+| --- | --- | --- |
+| Engineering and Management Electives—Split Credits1 |  |
+| [6.7700\[J\]](https://catalog.mit.edu/search/?P=6.7700 "6.7700[J]") | Fundamentals of Probability | 12 |
+| [6.9820](https://catalog.mit.edu/search/?P=6.9820 "6.9820") | Practical Internship Experience | 1 |
+| [10.807\[J\]](https://catalog.mit.edu/search/?P=10.807 "10.807[J]") | Innovation Teams | 12 |
+| [15.029\[J\]](https://catalog.mit.edu/search/?P=15.029 "15.029[J]") | United States Energy Policy: Lessons Learned for the Future | 6 |
+| [15.054\[J\]](https://catalog.mit.edu/search/?P=15.054 "15.054[J]") | The Airline Industry | 12 |
+| [15.070\[J\]](https://catalog.mit.edu/search/?P=15.070 "15.070[J]") | Discrete Probability and Stochastic Processes | 12 |
+| [15.081\[J\]](https://catalog.mit.edu/search/?P=15.081 "15.081[J]") | Introduction to Mathematical Programming | 12 |
+| [15.084\[J\]](https://catalog.mit.edu/search/?P=15.084 "15.084[J]") | Nonlinear Optimization | 12 |
+| [15.085\[J\]](https://catalog.mit.edu/search/?P=15.085 "15.085[J]") | Fundamentals of Probability | 12 |
+| [15.094\[J\]](https://catalog.mit.edu/search/?P=15.094 "15.094[J]") | Robust Modeling, Optimization, and Computation | 12 |
+| [15.136\[J\]](https://catalog.mit.edu/search/?P=15.136 "15.136[J]") | Principles and Practice of Drug Development | 9 |
+| [15.379\[J\]](https://catalog.mit.edu/search/?P=15.379 "15.379[J]") | Mobility Ventures: Driving Innovation in Transportation Systems | 12 |
+| [15.480\[J\]](https://catalog.mit.edu/search/?P=15.480 "15.480[J]") | Science and Business of Biotechnology | 9 |
+| [15.563\[J\]](https://catalog.mit.edu/search/?P=15.563 "15.563[J]") | Artificial Intelligence for Business | 9 |
+| [15.657\[J\]](https://catalog.mit.edu/search/?P=15.657 "15.657[J]") | Technology, Globalization, and Sustainable Development | 12 |
+| [15.770\[J\]](https://catalog.mit.edu/search/?P=15.770 "15.770[J]") | Logistics Systems | 12 |
+| [15.783\[J\]](https://catalog.mit.edu/search/?P=15.783 "15.783[J]") | Product Design and Development | 12 |
+| [16.855\[J\]](https://catalog.mit.edu/search/?P=16.855 "16.855[J]") | Systems Architecting Applied to Enterprises | 12 |
+| [16.891](https://catalog.mit.edu/search/?P=16.891 "16.891") | Space Policy Seminar | 6 |
+| [EM.425](https://catalog.mit.edu/search/?P=EM.425 "EM.425") | Research Seminar on Engineering Projects and Teamwork | 6 |
+| [EM.426](https://catalog.mit.edu/search/?P=EM.426 "EM.426") | Model-building and Analysis Lab for Engineering Project Teamwork | 6 |
+| [EM.427\[J\]](https://catalog.mit.edu/search/?P=EM.427 "EM.427[J]") | Technology Roadmapping and Development | 12 |
+| [SCM.256](https://catalog.mit.edu/search/?P=SCM.256 "SCM.256") | Data Science and Machine Learning for Supply Chain Management | 12 |
+| [SCM.290](https://catalog.mit.edu/search/?P=SCM.290 "SCM.290") | Sustainable Supply Chain Management | 6 |
+
+|     |     |
+| --- | --- |
+| _1_ | _Units are split between engineering and management. Splits vary based on the subject and unit value._ |
+
+Print Options
+
+
+[Send Page to Printer](https://catalog.mit.edu/degree-charts/sm-system-design-management/#)
+
+_Print this page._
+
+[Download PDF of this Page](https://catalog.mit.edu/degree-charts/sm-system-design-management/sm-system-design-management.pdf)
+
+_The PDF includes all information on this page and its related tabs. Subject (course) information includes any changes approved for the current academic year._
+
+[Overview tab PDF](https://catalog.mit.edu/degree-charts/sm-system-design-management/sm-system-design-management_text.pdf)
+
+[Management Foundations tab PDF](https://catalog.mit.edu/degree-charts/sm-system-design-management/sm-system-design-management_managementfoundationstext.pdf)
+
+[Engineering Depth tab PDF](https://catalog.mit.edu/degree-charts/sm-system-design-management/sm-system-design-management_engineeringdepthtext.pdf)
+
+[Management Electives tab PDF](https://catalog.mit.edu/degree-charts/sm-system-design-management/sm-system-design-management_managementelectivestext.pdf)
+
+[Engineering Electives tab PDF](https://catalog.mit.edu/degree-charts/sm-system-design-management/sm-system-design-management_engineeringelectivestext.pdf)
+
+[Engineering & Management (Split) tab PDF](https://catalog.mit.edu/degree-charts/sm-system-design-management/sm-system-design-management_engineeringmanagementsplittext.pdf)
+
+[Download PDF of the Entire Catalog and/or Subject Descriptions](https://catalog.mit.edu/archive/)
+
+[Cancel](https://catalog.mit.edu/degree-charts/sm-system-design-management/#)

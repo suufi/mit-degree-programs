@@ -1,0 +1,36 @@
+{
+  "sharedListId": "10-c.select-one-additional-subject-from-the-above-list-or-the-following",
+  "program": "10-c",
+  "title": "Select one additional subject from the above list or the following:",
+  "items": [
+    {
+      "type": "subject",
+      "subjectId": "6.1800"
+    },
+    {
+      "type": "subject",
+      "subjectId": "6.2050"
+    },
+    {
+      "type": "subject",
+      "subjectId": "6.4590"
+    },
+    {
+      "type": "subject",
+      "subjectId": "6.4810"
+    },
+    {
+      "type": "subject",
+      "subjectId": "14.05"
+    },
+    {
+      "type": "subject",
+      "subjectId": "15.279"
+    },
+    {
+      "type": "subject",
+      "subjectId": "15.301"
+    }
+  ],
+  "version": "1"
+}

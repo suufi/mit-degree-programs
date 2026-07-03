@@ -1,0 +1,32 @@
+{
+  "sharedListId": "course-6.application-cim",
+  "program": "course-6",
+  "title": "Application_CIM",
+  "items": [
+    {
+      "type": "subject",
+      "subjectId": "6.3930"
+    },
+    {
+      "type": "subject",
+      "subjectId": "6.4200"
+    },
+    {
+      "type": "subject",
+      "subjectId": "6.4210"
+    },
+    {
+      "type": "subject",
+      "subjectId": "6.4300"
+    },
+    {
+      "type": "subject",
+      "subjectId": "6.4610"
+    },
+    {
+      "type": "subject",
+      "subjectId": "6.8611"
+    }
+  ],
+  "version": "1"
+}

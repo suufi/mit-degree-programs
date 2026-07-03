@@ -1,0 +1,90 @@
+{
+  "schemaVersion": "2",
+  "program": "master-science-writing",
+  "title": "Science Writing (SM)",
+  "level": "graduate",
+  "complete": false,
+  "catalogSource": {
+    "url": "https://catalog.mit.edu/degree-charts/master-science-writing/",
+    "slug": "master-science-writing",
+    "scrapedAt": "2026-07-03",
+    "contentHash": "de23804b806f6defa20156a29a6ed8fe242972e8b16d5ed19a7fc85638f7434c"
+  },
+  "footnotes": [
+    {
+      "id": "1",
+      "text": "The total units represent the average taken over the course of the program."
+    },
+    {
+      "id": "2",
+      "text": "Taken twice for a total of 6 units."
+    },
+    {
+      "id": "3",
+      "text": "Only one 9-unit subject can be used to fulfill this requirement. Students may take one undergraduate-level subject can be used to fulfill this requirement."
+    },
+    {
+      "id": "4",
+      "text": "Students are permitted to register for an additional 12 units 21W.892 Science Writing Internship in the spring term in lieu of 9-12 units of Unrestricted Elective credit, with permission of the advisor."
+    }
+  ],
+  "constraints": [],
+  "requirements": [
+    {
+      "groupId": "master-science-writing-core-requirements1",
+      "title": "Core Requirements1",
+      "bucket": "departmental",
+      "subcategory": "required_subjects",
+      "root": {
+        "type": "group",
+        "ruleType": "all_of",
+        "items": [
+          {
+            "type": "subject",
+            "subjectId": "21W.822"
+          },
+          {
+            "type": "subject",
+            "subjectId": "21W.823"
+          },
+          {
+            "type": "subject",
+            "subjectId": "21W.824"
+          },
+          {
+            "type": "subject",
+            "subjectId": "21W.825"
+          },
+          {
+            "type": "subject",
+            "subjectId": "21W.826"
+          }
+        ]
+      }
+    },
+    {
+      "groupId": "master-science-writing-internship",
+      "title": "Internship",
+      "bucket": "departmental",
+      "subcategory": "required_subjects",
+      "root": {
+        "type": "subject",
+        "subjectId": "21W.892"
+      }
+    },
+    {
+      "groupId": "master-science-writing-thesis",
+      "title": "Thesis",
+      "bucket": "thesis",
+      "subcategory": "thesis",
+      "root": {
+        "type": "subject",
+        "subjectId": "21W.THG"
+      }
+    }
+  ],
+  "status": "draft",
+  "revisionId": "master-science-writing-2026-07-03-de23804b",
+  "catalogYear": "2026",
+  "effectiveTerm": "2026-FA"
+}

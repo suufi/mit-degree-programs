@@ -1,0 +1,257 @@
+{
+  "schemaVersion": "2",
+  "program": "master-supply-chain-management",
+  "title": "Supply Chain Management (MASc & MEng)",
+  "level": "graduate",
+  "complete": false,
+  "catalogSource": {
+    "url": "https://catalog.mit.edu/degree-charts/master-supply-chain-management/",
+    "slug": "master-supply-chain-management",
+    "scrapedAt": "2026-07-03",
+    "contentHash": "f51621a05532a7fab17126f77557c568bd249c860ecc45e0e1351dec2c5f0fcb"
+  },
+  "footnotes": [
+    {
+      "id": "1",
+      "text": "_Students who have already successfully completed one of the required subjects at a graduate level elsewhere may petition to replace that subject with another elective._"
+    },
+    {
+      "id": "2",
+      "text": "With the approval of the instructor, students may substitute SCM.271 Logistics Systems Topics (3 units) plus 9 additional units of electives."
+    },
+    {
+      "id": "3",
+      "text": "With the approval of the instructor, students may substitute SCM.274 Databases and Data Analysis Topics for Supply Chain Management (3 units) plus 3 additional units of electives."
+    },
+    {
+      "id": "4",
+      "text": "With the permission of the program director, students may substitute SCM.253 Case Studies in Supply Chain Financial Analysis (6 units) plus 3 additional units of electives."
+    },
+    {
+      "id": "5",
+      "text": "See SCM Track Electives."
+    }
+  ],
+  "constraints": [],
+  "requirements": [
+    {
+      "groupId": "master-supply-chain-management-fall-required-subjects",
+      "title": "Fall Required Subjects",
+      "bucket": "departmental",
+      "subcategory": "required_subjects",
+      "flexibility": {
+        "advisorApproval": false,
+        "catalogText": "[SCM.250](https://catalog.mit.edu/search/?P=SCM.250 \"SCM.250\")"
+      },
+      "root": {
+        "type": "group",
+        "ruleType": "all_of",
+        "items": [
+          {
+            "type": "selection",
+            "ruleType": "choose_units",
+            "ruleValue": 3,
+            "itemsSource": "advisor_defined",
+            "note": "[SCM.250](https://catalog.mit.edu/search/?P=SCM.250 \"SCM.250\")",
+            "flexibility": {
+              "catalogText": "[SCM.250](https://catalog.mit.edu/search/?P=SCM.250 \"SCM.250\")"
+            }
+          },
+          {
+            "type": "selection",
+            "ruleType": "choose_units",
+            "ruleValue": 3,
+            "itemsSource": "advisor_defined",
+            "note": "[SCM.259](https://catalog.mit.edu/search/?P=SCM.259 \"SCM.259\")",
+            "flexibility": {
+              "catalogText": "[SCM.259](https://catalog.mit.edu/search/?P=SCM.259 \"SCM.259\")"
+            }
+          },
+          {
+            "type": "selection",
+            "ruleType": "choose_units",
+            "ruleValue": 12,
+            "itemsSource": "advisor_defined",
+            "note": "[SCM.260\\[J\\]](https://catalog.mit.edu/search/?P=SCM.260 \"SCM.260[J]\")",
+            "flexibility": {
+              "catalogText": "[SCM.260\\[J\\]](https://catalog.mit.edu/search/?P=SCM.260 \"SCM.260[J]\")"
+            }
+          },
+          {
+            "type": "selection",
+            "ruleType": "choose_units",
+            "ruleValue": 6,
+            "itemsSource": "advisor_defined",
+            "note": "[SCM.264](https://catalog.mit.edu/search/?P=SCM.264 \"SCM.264\")",
+            "flexibility": {
+              "catalogText": "[SCM.264](https://catalog.mit.edu/search/?P=SCM.264 \"SCM.264\")"
+            }
+          },
+          {
+            "type": "selection",
+            "ruleType": "choose_units",
+            "ruleValue": 6,
+            "itemsSource": "advisor_defined",
+            "note": "[SCM.275](https://catalog.mit.edu/search/?P=SCM.275 \"SCM.275\")",
+            "flexibility": {
+              "catalogText": "[SCM.275](https://catalog.mit.edu/search/?P=SCM.275 \"SCM.275\")"
+            }
+          },
+          {
+            "type": "selection",
+            "ruleType": "choose_units",
+            "ruleValue": 5,
+            "itemsSource": "advisor_defined",
+            "note": "[SCM.800](https://catalog.mit.edu/search/?P=SCM.800 \"SCM.800\")",
+            "flexibility": {
+              "catalogText": "[SCM.800](https://catalog.mit.edu/search/?P=SCM.800 \"SCM.800\")"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "groupId": "master-supply-chain-management-iap-required-subjects",
+      "title": "IAP Required Subjects",
+      "bucket": "departmental",
+      "subcategory": "required_subjects",
+      "flexibility": {
+        "advisorApproval": false,
+        "catalogText": "[SCM.254](https://catalog.mit.edu/search/?P=SCM.254 \"SCM.254\")"
+      },
+      "root": {
+        "type": "group",
+        "ruleType": "all_of",
+        "items": [
+          {
+            "type": "selection",
+            "ruleType": "choose_units",
+            "ruleValue": 3,
+            "itemsSource": "advisor_defined",
+            "note": "[SCM.254](https://catalog.mit.edu/search/?P=SCM.254 \"SCM.254\")",
+            "flexibility": {
+              "catalogText": "[SCM.254](https://catalog.mit.edu/search/?P=SCM.254 \"SCM.254\")"
+            }
+          },
+          {
+            "type": "selection",
+            "ruleType": "choose_units",
+            "ruleValue": 3,
+            "itemsSource": "advisor_defined",
+            "note": "[SCM.262](https://catalog.mit.edu/search/?P=SCM.262 \"SCM.262\")",
+            "flexibility": {
+              "catalogText": "[SCM.262](https://catalog.mit.edu/search/?P=SCM.262 \"SCM.262\")"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "groupId": "master-supply-chain-management-spring-required-subjects",
+      "title": "Spring Required Subjects",
+      "bucket": "departmental",
+      "subcategory": "required_subjects",
+      "flexibility": {
+        "advisorApproval": false,
+        "catalogText": "[SCM.263](https://catalog.mit.edu/search/?P=SCM.263 \"SCM.263\")"
+      },
+      "root": {
+        "type": "group",
+        "ruleType": "all_of",
+        "items": [
+          {
+            "type": "selection",
+            "ruleType": "choose_units",
+            "ruleValue": 3,
+            "itemsSource": "advisor_defined",
+            "note": "[SCM.263](https://catalog.mit.edu/search/?P=SCM.263 \"SCM.263\")",
+            "flexibility": {
+              "catalogText": "[SCM.263](https://catalog.mit.edu/search/?P=SCM.263 \"SCM.263\")"
+            }
+          },
+          {
+            "type": "selection",
+            "ruleType": "choose_units",
+            "ruleValue": 1,
+            "itemsSource": "advisor_defined",
+            "note": "[SCM.281](https://catalog.mit.edu/search/?P=SCM.281 \"SCM.281\")",
+            "flexibility": {
+              "catalogText": "[SCM.281](https://catalog.mit.edu/search/?P=SCM.281 \"SCM.281\")"
+            }
+          },
+          {
+            "type": "selection",
+            "ruleType": "choose_units",
+            "ruleValue": 6,
+            "itemsSource": "advisor_defined",
+            "note": "[SCM.800](https://catalog.mit.edu/search/?P=SCM.800 \"SCM.800\")",
+            "flexibility": {
+              "catalogText": "[SCM.800](https://catalog.mit.edu/search/?P=SCM.800 \"SCM.800\")"
+            }
+          },
+          {
+            "type": "selection",
+            "ruleType": "choose_units",
+            "ruleValue": 12,
+            "itemsSource": "advisor_defined",
+            "note": "[SCM.256](https://catalog.mit.edu/search/?P=SCM.256 \"SCM.256\")",
+            "flexibility": {
+              "catalogText": "[SCM.256](https://catalog.mit.edu/search/?P=SCM.256 \"SCM.256\")"
+            }
+          },
+          {
+            "type": "selection",
+            "ruleType": "choose_one",
+            "itemsSource": "explicit",
+            "items": [
+              {
+                "type": "subject",
+                "subjectId": "6.C51"
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "groupId": "master-supply-chain-management-required-electives5",
+      "title": "Required Electives5",
+      "bucket": "elective",
+      "subcategory": "elective_subjects",
+      "flexibility": {
+        "advisorApproval": false,
+        "catalogText": "Supply Chain Track"
+      },
+      "root": {
+        "type": "group",
+        "ruleType": "all_of",
+        "items": [
+          {
+            "type": "selection",
+            "ruleType": "choose_units",
+            "ruleValue": 6,
+            "itemsSource": "advisor_defined",
+            "note": "Supply Chain Track",
+            "flexibility": {
+              "catalogText": "Supply Chain Track"
+            }
+          },
+          {
+            "type": "selection",
+            "ruleType": "choose_units",
+            "ruleValue": 21,
+            "itemsSource": "advisor_defined",
+            "note": "Select subjects from two of the three following tracks: Analytics; Leadership and Management; and Strategy.",
+            "flexibility": {
+              "catalogText": "Select subjects from two of the three following tracks: Analytics; Leadership and Management; and Strategy."
+            }
+          }
+        ]
+      }
+    }
+  ],
+  "status": "draft",
+  "revisionId": "master-supply-chain-management-2026-07-03-f51621a0",
+  "catalogYear": "2026",
+  "effectiveTerm": "2026-FA"
+}

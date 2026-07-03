@@ -1,0 +1,1536 @@
+{
+  "schemaVersion": "2",
+  "program": "sm-system-design-management",
+  "title": "Engineering and Management (System Design and Management, SM)",
+  "level": "graduate",
+  "complete": false,
+  "catalogSource": {
+    "url": "https://catalog.mit.edu/degree-charts/sm-system-design-management/",
+    "slug": "sm-system-design-management",
+    "scrapedAt": "2026-07-03",
+    "contentHash": "77dfb6d06b7389cc9a8d227a1764440a16e85e095033ffefba221bab79baa971"
+  },
+  "footnotes": [
+    {
+      "id": "1",
+      "text": "Choose subjects from the SDM restricted subjects lists."
+    }
+  ],
+  "constraints": [],
+  "requirements": [
+    {
+      "groupId": "sm-system-design-management-required-subjects",
+      "title": "Required Subjects",
+      "bucket": "departmental",
+      "subcategory": "required_subjects",
+      "flexibility": {
+        "advisorApproval": false,
+        "catalogText": "[EM.411](https://catalog.mit.edu/search/?P=EM.411 \"EM.411\")"
+      },
+      "root": {
+        "type": "group",
+        "ruleType": "all_of",
+        "items": [
+          {
+            "type": "selection",
+            "ruleType": "choose_units",
+            "ruleValue": 15,
+            "itemsSource": "advisor_defined",
+            "note": "[EM.411](https://catalog.mit.edu/search/?P=EM.411 \"EM.411\")",
+            "flexibility": {
+              "catalogText": "[EM.411](https://catalog.mit.edu/search/?P=EM.411 \"EM.411\")"
+            }
+          },
+          {
+            "type": "selection",
+            "ruleType": "choose_units",
+            "ruleValue": 6,
+            "itemsSource": "advisor_defined",
+            "note": "[EM.412](https://catalog.mit.edu/search/?P=EM.412 \"EM.412\")",
+            "flexibility": {
+              "catalogText": "[EM.412](https://catalog.mit.edu/search/?P=EM.412 \"EM.412\")"
+            }
+          },
+          {
+            "type": "selection",
+            "ruleType": "choose_units",
+            "ruleValue": 15,
+            "itemsSource": "advisor_defined",
+            "note": "[EM.413](https://catalog.mit.edu/search/?P=EM.413 \"EM.413\")",
+            "flexibility": {
+              "catalogText": "[EM.413](https://catalog.mit.edu/search/?P=EM.413 \"EM.413\")"
+            }
+          },
+          {
+            "type": "selection",
+            "ruleType": "choose_units",
+            "ruleValue": 12,
+            "itemsSource": "advisor_defined",
+            "note": "Management Foundations1",
+            "flexibility": {
+              "catalogText": "Management Foundations1"
+            }
+          },
+          {
+            "type": "selection",
+            "ruleType": "choose_units",
+            "ruleValue": 12,
+            "itemsSource": "advisor_defined",
+            "note": "Engineering Depth1",
+            "flexibility": {
+              "catalogText": "Engineering Depth1"
+            }
+          },
+          {
+            "type": "selection",
+            "ruleType": "choose_units",
+            "ruleValue": 15,
+            "itemsSource": "advisor_defined",
+            "note": "Management Electives1",
+            "flexibility": {
+              "catalogText": "Management Electives1"
+            }
+          },
+          {
+            "type": "selection",
+            "ruleType": "choose_units",
+            "ruleValue": 15,
+            "itemsSource": "advisor_defined",
+            "note": "Engineering Electives1",
+            "flexibility": {
+              "catalogText": "Engineering Electives1"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "groupId": "sm-system-design-management-thesis",
+      "title": "Thesis",
+      "bucket": "thesis",
+      "subcategory": "thesis",
+      "flexibility": {
+        "advisorApproval": false,
+        "catalogText": "[EM.THG](https://catalog.mit.edu/search/?P=EM.THG \"EM.THG\")"
+      },
+      "root": {
+        "type": "selection",
+        "ruleType": "choose_units",
+        "ruleValue": 24,
+        "itemsSource": "advisor_defined",
+        "note": "[EM.THG](https://catalog.mit.edu/search/?P=EM.THG \"EM.THG\")",
+        "flexibility": {
+          "catalogText": "[EM.THG](https://catalog.mit.edu/search/?P=EM.THG \"EM.THG\")"
+        }
+      }
+    },
+    {
+      "groupId": "sm-system-design-management-management-foundations-subjects",
+      "title": "Management Foundations Subjects",
+      "bucket": "departmental",
+      "subcategory": "fundamentals",
+      "root": {
+        "type": "group",
+        "ruleType": "all_of",
+        "items": [
+          {
+            "type": "subject",
+            "subjectId": "1.266"
+          },
+          {
+            "type": "subject",
+            "subjectId": "15.034"
+          },
+          {
+            "type": "subject",
+            "subjectId": "15.071"
+          },
+          {
+            "type": "subject",
+            "subjectId": "15.072"
+          },
+          {
+            "type": "subject",
+            "subjectId": "15.218"
+          },
+          {
+            "type": "subject",
+            "subjectId": "15.310"
+          },
+          {
+            "type": "subject",
+            "subjectId": "15.320"
+          },
+          {
+            "type": "subject",
+            "subjectId": "15.364"
+          },
+          {
+            "type": "subject",
+            "subjectId": "15.374"
+          },
+          {
+            "type": "subject",
+            "subjectId": "15.394"
+          },
+          {
+            "type": "subject",
+            "subjectId": "15.401"
+          },
+          {
+            "type": "subject",
+            "subjectId": "15.431"
+          },
+          {
+            "type": "subject",
+            "subjectId": "15.439"
+          },
+          {
+            "type": "subject",
+            "subjectId": "15.515"
+          },
+          {
+            "type": "subject",
+            "subjectId": "15.516"
+          },
+          {
+            "type": "subject",
+            "subjectId": "15.521"
+          },
+          {
+            "type": "subject",
+            "subjectId": "15.535"
+          },
+          {
+            "type": "subject",
+            "subjectId": "15.665"
+          },
+          {
+            "type": "subject",
+            "subjectId": "15.761"
+          },
+          {
+            "type": "subject",
+            "subjectId": "15.768"
+          },
+          {
+            "type": "subject",
+            "subjectId": "15.762"
+          },
+          {
+            "type": "subject",
+            "subjectId": "15.774"
+          },
+          {
+            "type": "subject",
+            "subjectId": "15.814"
+          },
+          {
+            "type": "subject",
+            "subjectId": "15.818"
+          },
+          {
+            "type": "subject",
+            "subjectId": "15.833"
+          },
+          {
+            "type": "subject",
+            "subjectId": "15.871"
+          },
+          {
+            "type": "subject",
+            "subjectId": "15.873"
+          },
+          {
+            "type": "subject",
+            "subjectId": "15.900"
+          },
+          {
+            "type": "subject",
+            "subjectId": "15.910"
+          },
+          {
+            "type": "subject",
+            "subjectId": "15.911"
+          },
+          {
+            "type": "subject",
+            "subjectId": "15.915"
+          },
+          {
+            "type": "subject",
+            "subjectId": "15.C57"
+          }
+        ]
+      }
+    },
+    {
+      "groupId": "sm-system-design-management-engineering-depth-subjects",
+      "title": "Engineering Depth Subjects",
+      "bucket": "departmental",
+      "subcategory": "required_subjects",
+      "flexibility": {
+        "advisorApproval": false,
+        "catalogText": "[EM.422](https://catalog.mit.edu/search/?P=EM.422 \"EM.422\")"
+      },
+      "root": {
+        "type": "group",
+        "ruleType": "all_of",
+        "items": [
+          {
+            "type": "subject",
+            "subjectId": "1.200"
+          },
+          {
+            "type": "subject",
+            "subjectId": "1.266"
+          },
+          {
+            "type": "subject",
+            "subjectId": "2.702"
+          },
+          {
+            "type": "subject",
+            "subjectId": "2.83"
+          },
+          {
+            "type": "subject",
+            "subjectId": "2.854"
+          },
+          {
+            "type": "subject",
+            "subjectId": "6.5840"
+          },
+          {
+            "type": "subject",
+            "subjectId": "6.5900"
+          },
+          {
+            "type": "subject",
+            "subjectId": "16.391"
+          },
+          {
+            "type": "subject",
+            "subjectId": "15.C57"
+          },
+          {
+            "type": "subject",
+            "subjectId": "15.762"
+          },
+          {
+            "type": "subject",
+            "subjectId": "16.453"
+          },
+          {
+            "type": "subject",
+            "subjectId": "16.863"
+          },
+          {
+            "type": "selection",
+            "ruleType": "choose_units",
+            "ruleValue": 12,
+            "itemsSource": "advisor_defined",
+            "note": "[EM.422](https://catalog.mit.edu/search/?P=EM.422 \"EM.422\")",
+            "flexibility": {
+              "catalogText": "[EM.422](https://catalog.mit.edu/search/?P=EM.422 \"EM.422\")"
+            }
+          },
+          {
+            "type": "selection",
+            "ruleType": "choose_units",
+            "ruleValue": 6,
+            "itemsSource": "advisor_defined",
+            "note": "[EM.423\\[J\\]](https://catalog.mit.edu/search/?P=EM.423 \"EM.423[J]\")",
+            "flexibility": {
+              "catalogText": "[EM.423\\[J\\]](https://catalog.mit.edu/search/?P=EM.423 \"EM.423[J]\")"
+            }
+          },
+          {
+            "type": "selection",
+            "ruleType": "choose_units",
+            "ruleValue": 6,
+            "itemsSource": "advisor_defined",
+            "note": "[EM.424\\[J\\]](https://catalog.mit.edu/search/?P=EM.424 \"EM.424[J]\")",
+            "flexibility": {
+              "catalogText": "[EM.424\\[J\\]](https://catalog.mit.edu/search/?P=EM.424 \"EM.424[J]\")"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "groupId": "sm-system-design-management-managerial-economics",
+      "title": "Managerial Economics",
+      "bucket": "departmental",
+      "subcategory": "required_subjects",
+      "root": {
+        "type": "subject",
+        "subjectId": "15.308"
+      }
+    },
+    {
+      "groupId": "sm-system-design-management-operations-research-statistics",
+      "title": "Operations Research/Statistics",
+      "bucket": "departmental",
+      "subcategory": "required_subjects",
+      "root": {
+        "type": "group",
+        "ruleType": "all_of",
+        "items": [
+          {
+            "type": "subject",
+            "subjectId": "15.068"
+          },
+          {
+            "type": "subject",
+            "subjectId": "15.095"
+          }
+        ]
+      }
+    },
+    {
+      "groupId": "sm-system-design-management-health-care-management",
+      "title": "Health Care Management",
+      "bucket": "departmental",
+      "subcategory": "required_subjects",
+      "root": {
+        "type": "group",
+        "ruleType": "all_of",
+        "items": [
+          {
+            "type": "subject",
+            "subjectId": "15.128"
+          },
+          {
+            "type": "subject",
+            "subjectId": "15.141"
+          }
+        ]
+      }
+    },
+    {
+      "groupId": "sm-system-design-management-global-economics-and-management",
+      "title": "Global Economics and Management",
+      "bucket": "departmental",
+      "subcategory": "required_subjects",
+      "root": {
+        "type": "group",
+        "ruleType": "all_of",
+        "items": [
+          {
+            "type": "subject",
+            "subjectId": "15.216"
+          },
+          {
+            "type": "subject",
+            "subjectId": "15.223"
+          },
+          {
+            "type": "subject",
+            "subjectId": "15.226"
+          },
+          {
+            "type": "subject",
+            "subjectId": "15.232"
+          },
+          {
+            "type": "subject",
+            "subjectId": "15.235"
+          },
+          {
+            "type": "subject",
+            "subjectId": "15.236"
+          },
+          {
+            "type": "subject",
+            "subjectId": "15.248"
+          }
+        ]
+      }
+    },
+    {
+      "groupId": "sm-system-design-management-history-environment-ethics",
+      "title": "History, Environment, Ethics",
+      "bucket": "departmental",
+      "subcategory": "history_theory_criticism",
+      "root": {
+        "type": "subject",
+        "subjectId": "15.269"
+      }
+    },
+    {
+      "groupId": "sm-system-design-management-communication",
+      "title": "Communication",
+      "bucket": "departmental",
+      "subcategory": "communication",
+      "root": {
+        "type": "group",
+        "ruleType": "all_of",
+        "items": [
+          {
+            "type": "subject",
+            "subjectId": "15.270"
+          },
+          {
+            "type": "subject",
+            "subjectId": "15.281"
+          },
+          {
+            "type": "subject",
+            "subjectId": "15.283"
+          },
+          {
+            "type": "subject",
+            "subjectId": "15.286"
+          }
+        ]
+      }
+    },
+    {
+      "groupId": "sm-system-design-management-work-and-organizational-studies",
+      "title": "Work and Organizational Studies",
+      "bucket": "departmental",
+      "subcategory": "required_subjects",
+      "root": {
+        "type": "group",
+        "ruleType": "all_of",
+        "items": [
+          {
+            "type": "subject",
+            "subjectId": "15.318"
+          },
+          {
+            "type": "subject",
+            "subjectId": "15.321"
+          }
+        ]
+      }
+    },
+    {
+      "groupId": "sm-system-design-management-technology-innovation-and-entrepreneurship",
+      "title": "Technology, Innovation, and Entrepreneurship",
+      "bucket": "departmental",
+      "subcategory": "required_subjects",
+      "root": {
+        "type": "group",
+        "ruleType": "all_of",
+        "items": [
+          {
+            "type": "subject",
+            "subjectId": "15.365"
+          },
+          {
+            "type": "subject",
+            "subjectId": "15.366"
+          },
+          {
+            "type": "subject",
+            "subjectId": "15.367"
+          },
+          {
+            "type": "subject",
+            "subjectId": "15.369"
+          },
+          {
+            "type": "subject",
+            "subjectId": "15.378"
+          },
+          {
+            "type": "subject",
+            "subjectId": "15.385"
+          },
+          {
+            "type": "subject",
+            "subjectId": "15.386"
+          },
+          {
+            "type": "subject",
+            "subjectId": "15.387"
+          },
+          {
+            "type": "subject",
+            "subjectId": "15.388"
+          },
+          {
+            "type": "subject",
+            "subjectId": "15.389"
+          },
+          {
+            "type": "subject",
+            "subjectId": "15.390"
+          },
+          {
+            "type": "subject",
+            "subjectId": "15.392"
+          },
+          {
+            "type": "subject",
+            "subjectId": "15.398"
+          },
+          {
+            "type": "subject",
+            "subjectId": "15.399"
+          }
+        ]
+      }
+    },
+    {
+      "groupId": "sm-system-design-management-finance",
+      "title": "Finance",
+      "bucket": "departmental",
+      "subcategory": "required_subjects",
+      "root": {
+        "type": "group",
+        "ruleType": "all_of",
+        "items": [
+          {
+            "type": "subject",
+            "subjectId": "15.402"
+          },
+          {
+            "type": "subject",
+            "subjectId": "15.426"
+          },
+          {
+            "type": "subject",
+            "subjectId": "15.434"
+          },
+          {
+            "type": "subject",
+            "subjectId": "15.437"
+          },
+          {
+            "type": "subject",
+            "subjectId": "15.451"
+          },
+          {
+            "type": "subject",
+            "subjectId": "15.453"
+          },
+          {
+            "type": "subject",
+            "subjectId": "15.456"
+          },
+          {
+            "type": "subject",
+            "subjectId": "15.458"
+          },
+          {
+            "type": "subject",
+            "subjectId": "15.492"
+          },
+          {
+            "type": "subject",
+            "subjectId": "15.497"
+          },
+          {
+            "type": "subject",
+            "subjectId": "15.499"
+          }
+        ]
+      }
+    },
+    {
+      "groupId": "sm-system-design-management-information-technologies",
+      "title": "Information Technologies",
+      "bucket": "departmental",
+      "subcategory": "required_subjects",
+      "root": {
+        "type": "group",
+        "ruleType": "all_of",
+        "items": [
+          {
+            "type": "subject",
+            "subjectId": "15.561"
+          },
+          {
+            "type": "subject",
+            "subjectId": "15.562"
+          },
+          {
+            "type": "subject",
+            "subjectId": "15.567"
+          },
+          {
+            "type": "subject",
+            "subjectId": "15.570"
+          },
+          {
+            "type": "subject",
+            "subjectId": "15.572"
+          }
+        ]
+      }
+    },
+    {
+      "groupId": "sm-system-design-management-law",
+      "title": "Law",
+      "bucket": "departmental",
+      "subcategory": "required_subjects",
+      "root": {
+        "type": "group",
+        "ruleType": "all_of",
+        "items": [
+          {
+            "type": "subject",
+            "subjectId": "15.615"
+          },
+          {
+            "type": "subject",
+            "subjectId": "15.655"
+          }
+        ]
+      }
+    },
+    {
+      "groupId": "sm-system-design-management-industrial-relations-and-human-resources",
+      "title": "Industrial Relations and Human Resources",
+      "bucket": "departmental",
+      "subcategory": "required_subjects",
+      "root": {
+        "type": "group",
+        "ruleType": "all_of",
+        "items": [
+          {
+            "type": "subject",
+            "subjectId": "15.661"
+          },
+          {
+            "type": "subject",
+            "subjectId": "15.662"
+          },
+          {
+            "type": "subject",
+            "subjectId": "15.669"
+          },
+          {
+            "type": "subject",
+            "subjectId": "15.677"
+          }
+        ]
+      }
+    },
+    {
+      "groupId": "sm-system-design-management-operations-management",
+      "title": "Operations Management",
+      "bucket": "departmental",
+      "subcategory": "required_subjects",
+      "root": {
+        "type": "group",
+        "ruleType": "all_of",
+        "items": [
+          {
+            "type": "subject",
+            "subjectId": "15.764"
+          },
+          {
+            "type": "subject",
+            "subjectId": "15.769"
+          },
+          {
+            "type": "subject",
+            "subjectId": "15.777"
+          },
+          {
+            "type": "subject",
+            "subjectId": "15.784"
+          },
+          {
+            "type": "subject",
+            "subjectId": "15.785"
+          }
+        ]
+      }
+    },
+    {
+      "groupId": "sm-system-design-management-marketing",
+      "title": "Marketing",
+      "bucket": "departmental",
+      "subcategory": "required_subjects",
+      "root": {
+        "type": "group",
+        "ruleType": "all_of",
+        "items": [
+          {
+            "type": "subject",
+            "subjectId": "15.815"
+          },
+          {
+            "type": "subject",
+            "subjectId": "15.819"
+          },
+          {
+            "type": "subject",
+            "subjectId": "15.846"
+          },
+          {
+            "type": "subject",
+            "subjectId": "15.847"
+          }
+        ]
+      }
+    },
+    {
+      "groupId": "sm-system-design-management-system-dynamics",
+      "title": "System Dynamics",
+      "bucket": "departmental",
+      "subcategory": "required_subjects",
+      "root": {
+        "type": "subject",
+        "subjectId": "15.878"
+      }
+    },
+    {
+      "groupId": "sm-system-design-management-civil-and-environmental-engineering",
+      "title": "Civil and Environmental Engineering",
+      "bucket": "departmental",
+      "subcategory": "required_subjects",
+      "root": {
+        "type": "group",
+        "ruleType": "all_of",
+        "items": [
+          {
+            "type": "subject",
+            "subjectId": "1.001"
+          },
+          {
+            "type": "subject",
+            "subjectId": "1.125"
+          },
+          {
+            "type": "subject",
+            "subjectId": "1.208"
+          },
+          {
+            "type": "subject",
+            "subjectId": "1.261"
+          },
+          {
+            "type": "subject",
+            "subjectId": "1.263"
+          },
+          {
+            "type": "subject",
+            "subjectId": "1.275"
+          },
+          {
+            "type": "subject",
+            "subjectId": "1.286"
+          },
+          {
+            "type": "subject",
+            "subjectId": "1.472"
+          },
+          {
+            "type": "subject",
+            "subjectId": "1.541"
+          },
+          {
+            "type": "subject",
+            "subjectId": "1.573"
+          },
+          {
+            "type": "subject",
+            "subjectId": "1.818"
+          }
+        ]
+      }
+    },
+    {
+      "groupId": "sm-system-design-management-mechanical-engineering",
+      "title": "Mechanical Engineering",
+      "bucket": "departmental",
+      "subcategory": "required_subjects",
+      "root": {
+        "type": "group",
+        "ruleType": "all_of",
+        "items": [
+          {
+            "type": "subject",
+            "subjectId": "2.096"
+          },
+          {
+            "type": "subject",
+            "subjectId": "2.111"
+          },
+          {
+            "type": "subject",
+            "subjectId": "2.120"
+          },
+          {
+            "type": "subject",
+            "subjectId": "2.131"
+          },
+          {
+            "type": "subject",
+            "subjectId": "2.140"
+          },
+          {
+            "type": "subject",
+            "subjectId": "2.151"
+          },
+          {
+            "type": "subject",
+            "subjectId": "2.154"
+          },
+          {
+            "type": "subject",
+            "subjectId": "2.156"
+          },
+          {
+            "type": "subject",
+            "subjectId": "2.160"
+          },
+          {
+            "type": "subject",
+            "subjectId": "2.165"
+          },
+          {
+            "type": "subject",
+            "subjectId": "2.183"
+          },
+          {
+            "type": "subject",
+            "subjectId": "2.22"
+          },
+          {
+            "type": "subject",
+            "subjectId": "2.42"
+          },
+          {
+            "type": "subject",
+            "subjectId": "2.55"
+          },
+          {
+            "type": "subject",
+            "subjectId": "2.62"
+          },
+          {
+            "type": "subject",
+            "subjectId": "2.680"
+          },
+          {
+            "type": "subject",
+            "subjectId": "2.720"
+          },
+          {
+            "type": "subject",
+            "subjectId": "2.737"
+          },
+          {
+            "type": "subject",
+            "subjectId": "2.740"
+          },
+          {
+            "type": "subject",
+            "subjectId": "2.75"
+          },
+          {
+            "type": "subject",
+            "subjectId": "2.76"
+          },
+          {
+            "type": "subject",
+            "subjectId": "2.782"
+          },
+          {
+            "type": "subject",
+            "subjectId": "2.788"
+          },
+          {
+            "type": "subject",
+            "subjectId": "2.798"
+          },
+          {
+            "type": "subject",
+            "subjectId": "2.810"
+          },
+          {
+            "type": "subject",
+            "subjectId": "2.821"
+          },
+          {
+            "type": "subject",
+            "subjectId": "2.83"
+          },
+          {
+            "type": "subject",
+            "subjectId": "2.888"
+          },
+          {
+            "type": "subject",
+            "subjectId": "2.98"
+          }
+        ]
+      }
+    },
+    {
+      "groupId": "sm-system-design-management-materials-science-and-engineering",
+      "title": "Materials Science and Engineering",
+      "bucket": "departmental",
+      "subcategory": "required_subjects",
+      "root": {
+        "type": "group",
+        "ruleType": "all_of",
+        "items": [
+          {
+            "type": "subject",
+            "subjectId": "3.207"
+          },
+          {
+            "type": "subject",
+            "subjectId": "3.22"
+          },
+          {
+            "type": "subject",
+            "subjectId": "3.371"
+          },
+          {
+            "type": "subject",
+            "subjectId": "3.560"
+          },
+          {
+            "type": "subject",
+            "subjectId": "3.70"
+          },
+          {
+            "type": "subject",
+            "subjectId": "3.963"
+          }
+        ]
+      }
+    },
+    {
+      "groupId": "sm-system-design-management-electrical-engineering-and-computer-science",
+      "title": "Electrical Engineering and Computer Science",
+      "bucket": "departmental",
+      "subcategory": "required_subjects",
+      "root": {
+        "type": "group",
+        "ruleType": "all_of",
+        "items": [
+          {
+            "type": "subject",
+            "subjectId": "6.3102"
+          },
+          {
+            "type": "subject",
+            "subjectId": "6.3702"
+          },
+          {
+            "type": "subject",
+            "subjectId": "6.3952"
+          },
+          {
+            "type": "subject",
+            "subjectId": "6.4132"
+          },
+          {
+            "type": "subject",
+            "subjectId": "6.4822"
+          },
+          {
+            "type": "subject",
+            "subjectId": "6.4832"
+          },
+          {
+            "type": "subject",
+            "subjectId": "6.4861"
+          },
+          {
+            "type": "subject",
+            "subjectId": "6.5080"
+          },
+          {
+            "type": "subject",
+            "subjectId": "6.5160"
+          },
+          {
+            "type": "subject",
+            "subjectId": "6.5400"
+          },
+          {
+            "type": "subject",
+            "subjectId": "6.5610"
+          },
+          {
+            "type": "subject",
+            "subjectId": "6.5660"
+          },
+          {
+            "type": "subject",
+            "subjectId": "6.5810"
+          },
+          {
+            "type": "subject",
+            "subjectId": "6.5820"
+          },
+          {
+            "type": "subject",
+            "subjectId": "6.5830"
+          },
+          {
+            "type": "subject",
+            "subjectId": "6.5940"
+          },
+          {
+            "type": "subject",
+            "subjectId": "6.6010"
+          },
+          {
+            "type": "subject",
+            "subjectId": "6.6020"
+          },
+          {
+            "type": "subject",
+            "subjectId": "6.6300"
+          },
+          {
+            "type": "subject",
+            "subjectId": "6.6330"
+          },
+          {
+            "type": "subject",
+            "subjectId": "6.6400"
+          },
+          {
+            "type": "subject",
+            "subjectId": "6.6500"
+          },
+          {
+            "type": "subject",
+            "subjectId": "6.7300"
+          },
+          {
+            "type": "subject",
+            "subjectId": "6.7410"
+          },
+          {
+            "type": "subject",
+            "subjectId": "6.7810"
+          },
+          {
+            "type": "subject",
+            "subjectId": "6.7910"
+          },
+          {
+            "type": "subject",
+            "subjectId": "6.8110"
+          },
+          {
+            "type": "subject",
+            "subjectId": "6.7900"
+          },
+          {
+            "type": "subject",
+            "subjectId": "6.7910"
+          },
+          {
+            "type": "subject",
+            "subjectId": "6.7930"
+          },
+          {
+            "type": "subject",
+            "subjectId": "6.8210"
+          },
+          {
+            "type": "subject",
+            "subjectId": "6.8110"
+          },
+          {
+            "type": "subject",
+            "subjectId": "6.8210"
+          },
+          {
+            "type": "subject",
+            "subjectId": "6.8300"
+          },
+          {
+            "type": "subject",
+            "subjectId": "6.8420"
+          },
+          {
+            "type": "subject",
+            "subjectId": "6.8510"
+          },
+          {
+            "type": "subject",
+            "subjectId": "6.8610"
+          },
+          {
+            "type": "subject",
+            "subjectId": "6.8620"
+          },
+          {
+            "type": "subject",
+            "subjectId": "6.8800"
+          }
+        ]
+      }
+    },
+    {
+      "groupId": "sm-system-design-management-chemical-engineering",
+      "title": "Chemical Engineering",
+      "bucket": "departmental",
+      "subcategory": "required_subjects",
+      "root": {
+        "type": "group",
+        "ruleType": "all_of",
+        "items": [
+          {
+            "type": "subject",
+            "subjectId": "10.392"
+          },
+          {
+            "type": "subject",
+            "subjectId": "10.524"
+          },
+          {
+            "type": "subject",
+            "subjectId": "10.53"
+          },
+          {
+            "type": "subject",
+            "subjectId": "10.551"
+          },
+          {
+            "type": "subject",
+            "subjectId": "10.552"
+          },
+          {
+            "type": "subject",
+            "subjectId": "10.595"
+          },
+          {
+            "type": "subject",
+            "subjectId": "10.626"
+          }
+        ]
+      }
+    },
+    {
+      "groupId": "sm-system-design-management-aeronautics-and-astronautics",
+      "title": "Aeronautics and Astronautics",
+      "bucket": "departmental",
+      "subcategory": "required_subjects",
+      "root": {
+        "type": "group",
+        "ruleType": "all_of",
+        "items": [
+          {
+            "type": "subject",
+            "subjectId": "16.31"
+          },
+          {
+            "type": "subject",
+            "subjectId": "16.32"
+          },
+          {
+            "type": "subject",
+            "subjectId": "16.363"
+          },
+          {
+            "type": "subject",
+            "subjectId": "16.422"
+          },
+          {
+            "type": "subject",
+            "subjectId": "16.423"
+          },
+          {
+            "type": "subject",
+            "subjectId": "16.511"
+          },
+          {
+            "type": "subject",
+            "subjectId": "16.512"
+          },
+          {
+            "type": "subject",
+            "subjectId": "16.522"
+          },
+          {
+            "type": "subject",
+            "subjectId": "16.851"
+          },
+          {
+            "type": "subject",
+            "subjectId": "16.885"
+          },
+          {
+            "type": "subject",
+            "subjectId": "16.89"
+          },
+          {
+            "type": "subject",
+            "subjectId": "16.895"
+          }
+        ]
+      }
+    },
+    {
+      "groupId": "sm-system-design-management-biological-engineering",
+      "title": "Biological Engineering",
+      "bucket": "departmental",
+      "subcategory": "required_subjects",
+      "root": {
+        "type": "group",
+        "ruleType": "all_of",
+        "items": [
+          {
+            "type": "subject",
+            "subjectId": "20.201"
+          },
+          {
+            "type": "subject",
+            "subjectId": "20.203"
+          },
+          {
+            "type": "subject",
+            "subjectId": "20.405"
+          },
+          {
+            "type": "subject",
+            "subjectId": "20.410"
+          },
+          {
+            "type": "subject",
+            "subjectId": "20.420"
+          },
+          {
+            "type": "subject",
+            "subjectId": "20.445"
+          },
+          {
+            "type": "subject",
+            "subjectId": "20.463"
+          },
+          {
+            "type": "subject",
+            "subjectId": "20.554"
+          }
+        ]
+      }
+    },
+    {
+      "groupId": "sm-system-design-management-nuclear-science-and-engineering",
+      "title": "Nuclear Science and Engineering",
+      "bucket": "departmental",
+      "subcategory": "required_subjects",
+      "root": {
+        "type": "group",
+        "ruleType": "all_of",
+        "items": [
+          {
+            "type": "subject",
+            "subjectId": "22.13"
+          },
+          {
+            "type": "subject",
+            "subjectId": "22.55"
+          },
+          {
+            "type": "subject",
+            "subjectId": "22.611"
+          },
+          {
+            "type": "subject",
+            "subjectId": "22.811"
+          }
+        ]
+      }
+    },
+    {
+      "groupId": "sm-system-design-management-institute-for-data-systems-and-society",
+      "title": "Institute for Data, Systems and Society",
+      "bucket": "departmental",
+      "subcategory": "required_subjects",
+      "flexibility": {
+        "advisorApproval": false,
+        "catalogText": "[IDS.131\\[J\\]](https://catalog.mit.edu/search/?P=IDS.131 \"IDS.131[J]\")"
+      },
+      "root": {
+        "type": "group",
+        "ruleType": "all_of",
+        "items": [
+          {
+            "type": "selection",
+            "ruleType": "choose_units",
+            "ruleValue": 12,
+            "itemsSource": "advisor_defined",
+            "note": "[IDS.131\\[J\\]](https://catalog.mit.edu/search/?P=IDS.131 \"IDS.131[J]\")",
+            "flexibility": {
+              "catalogText": "[IDS.131\\[J\\]](https://catalog.mit.edu/search/?P=IDS.131 \"IDS.131[J]\")"
+            }
+          },
+          {
+            "type": "selection",
+            "ruleType": "choose_units",
+            "ruleValue": 12,
+            "itemsSource": "advisor_defined",
+            "note": "[IDS.521\\[J\\]](https://catalog.mit.edu/search/?P=IDS.521 \"IDS.521[J]\")",
+            "flexibility": {
+              "catalogText": "[IDS.521\\[J\\]](https://catalog.mit.edu/search/?P=IDS.521 \"IDS.521[J]\")"
+            }
+          },
+          {
+            "type": "selection",
+            "ruleType": "choose_units",
+            "ruleValue": 12,
+            "itemsSource": "advisor_defined",
+            "note": "[IDS.522](https://catalog.mit.edu/search/?P=IDS.522 \"IDS.522\")",
+            "flexibility": {
+              "catalogText": "[IDS.522](https://catalog.mit.edu/search/?P=IDS.522 \"IDS.522\")"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "groupId": "sm-system-design-management-engineering-and-management-electives-split-credits1",
+      "title": "Engineering and Management Electives—Split Credits1",
+      "bucket": "elective",
+      "subcategory": "elective_subjects",
+      "flexibility": {
+        "advisorApproval": false,
+        "catalogText": "[EM.425](https://catalog.mit.edu/search/?P=EM.425 \"EM.425\")"
+      },
+      "root": {
+        "type": "group",
+        "ruleType": "all_of",
+        "items": [
+          {
+            "type": "subject",
+            "subjectId": "6.7700"
+          },
+          {
+            "type": "subject",
+            "subjectId": "6.9820"
+          },
+          {
+            "type": "subject",
+            "subjectId": "10.807"
+          },
+          {
+            "type": "subject",
+            "subjectId": "15.029"
+          },
+          {
+            "type": "subject",
+            "subjectId": "15.054"
+          },
+          {
+            "type": "subject",
+            "subjectId": "15.070"
+          },
+          {
+            "type": "subject",
+            "subjectId": "15.081"
+          },
+          {
+            "type": "subject",
+            "subjectId": "15.084"
+          },
+          {
+            "type": "subject",
+            "subjectId": "15.085"
+          },
+          {
+            "type": "subject",
+            "subjectId": "15.094"
+          },
+          {
+            "type": "subject",
+            "subjectId": "15.136"
+          },
+          {
+            "type": "subject",
+            "subjectId": "15.379"
+          },
+          {
+            "type": "subject",
+            "subjectId": "15.480"
+          },
+          {
+            "type": "subject",
+            "subjectId": "15.563"
+          },
+          {
+            "type": "subject",
+            "subjectId": "15.657"
+          },
+          {
+            "type": "subject",
+            "subjectId": "15.770"
+          },
+          {
+            "type": "subject",
+            "subjectId": "15.783"
+          },
+          {
+            "type": "subject",
+            "subjectId": "16.855"
+          },
+          {
+            "type": "subject",
+            "subjectId": "16.891"
+          },
+          {
+            "type": "selection",
+            "ruleType": "choose_units",
+            "ruleValue": 6,
+            "itemsSource": "advisor_defined",
+            "note": "[EM.425](https://catalog.mit.edu/search/?P=EM.425 \"EM.425\")",
+            "flexibility": {
+              "catalogText": "[EM.425](https://catalog.mit.edu/search/?P=EM.425 \"EM.425\")"
+            }
+          },
+          {
+            "type": "selection",
+            "ruleType": "choose_units",
+            "ruleValue": 6,
+            "itemsSource": "advisor_defined",
+            "note": "[EM.426](https://catalog.mit.edu/search/?P=EM.426 \"EM.426\")",
+            "flexibility": {
+              "catalogText": "[EM.426](https://catalog.mit.edu/search/?P=EM.426 \"EM.426\")"
+            }
+          },
+          {
+            "type": "selection",
+            "ruleType": "choose_units",
+            "ruleValue": 12,
+            "itemsSource": "advisor_defined",
+            "note": "[EM.427\\[J\\]](https://catalog.mit.edu/search/?P=EM.427 \"EM.427[J]\")",
+            "flexibility": {
+              "catalogText": "[EM.427\\[J\\]](https://catalog.mit.edu/search/?P=EM.427 \"EM.427[J]\")"
+            }
+          },
+          {
+            "type": "selection",
+            "ruleType": "choose_units",
+            "ruleValue": 12,
+            "itemsSource": "advisor_defined",
+            "note": "[SCM.256](https://catalog.mit.edu/search/?P=SCM.256 \"SCM.256\")",
+            "flexibility": {
+              "catalogText": "[SCM.256](https://catalog.mit.edu/search/?P=SCM.256 \"SCM.256\")"
+            }
+          },
+          {
+            "type": "selection",
+            "ruleType": "choose_units",
+            "ruleValue": 6,
+            "itemsSource": "advisor_defined",
+            "note": "[SCM.290](https://catalog.mit.edu/search/?P=SCM.290 \"SCM.290\")",
+            "flexibility": {
+              "catalogText": "[SCM.290](https://catalog.mit.edu/search/?P=SCM.290 \"SCM.290\")"
+            }
+          }
+        ]
+      }
+    }
+  ],
+  "status": "draft",
+  "revisionId": "sm-system-design-management-2026-07-03-77dfb6d0",
+  "catalogYear": "2026",
+  "effectiveTerm": "2026-FA"
+}

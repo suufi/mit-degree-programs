@@ -1,0 +1,131 @@
+Degree Charts
+
+- [Home](https://catalog.mit.edu/) >
+- [Degree Charts](https://catalog.mit.edu/degree-charts/) >
+- Computer Science, Economics, and Data Science (SB, Course 6-14)
+
+# Computer Science, Economics, and Data Science (Course 6-14)
+
+[Computer Science, Economics and Data Science](https://catalog.mit.edu/interdisciplinary/undergraduate-programs/degrees/computer-science-economics-data-science/)
+
+## Bachelor of Science in Computer Science, Economics, and Data Science
+
+### General Institute Requirements (GIRs)
+
+The General Institute Requirements include a Communication Requirement that is integrated into both the HASS Requirement and the requirements of each major; see details below.
+
+| Summary of Subject Requirements | Subjects |
+| --- | --- |
+| Science Requirement | 6 |
+| Humanities, Arts, and Social Sciences (HASS) Requirement \[between one and three subjects can be from the Departmental Program\]; at least two of these subjects must be designated as communication-intensive (CI-H) to fulfill the Communication Requirement. | 8 |
+| Restricted Electives in Science and Technology (REST) Requirement \[can be satisfied by [6.1200\[J\]](https://catalog.mit.edu/search/?P=6.1200 "6.1200[J]") and [18.06](https://catalog.mit.edu/search/?P=18.06 "18.06") in the Departmental Program\] | 2 |
+| Laboratory Requirement (12 units) \[can be satisfied by [14.32](https://catalog.mit.edu/search/?P=14.32 "14.32") in the Departmental Program\] | 1 |
+| **Total GIR Subjects Required for SB Degree** | **17** |
+
+| Physical Education Requirement |  |
+| --- | --- |
+| Swimming requirement, plus four physical education courses for eight points. |  |
+
+### Departmental Program
+
+Choose at least two subjects in the major that are designated as communication-intensive (CI-M) to fulfill the Communication Requirement.
+
+|     |     |     |
+| --- | --- | --- |
+| Required Subjects | **Units** |
+| _Mathematics_ |  |
+| [18.06](https://catalog.mit.edu/search/?P=18.06 "18.06") | Linear Algebra | 12 |
+| _Computation/Algorithms_ |  |
+| _Select 12-18 units of the following:_ | 12-18 |
+| [6.1000](https://catalog.mit.edu/search/?P=6.1000 "6.1000") | Introduction to Programming and Computer Science |  |
+| [6.100A](https://catalog.mit.edu/search/?P=6.100A "6.100A")<br>& [6.100B](https://catalog.mit.edu/search/?P=6.100B "6.100B") | Introduction to Computer Science Programming in Python<br>and Introduction to Computational Thinking and Data Science |  |
+| [6.100A](https://catalog.mit.edu/search/?P=6.100A "6.100A")<br>& [6.1010](https://catalog.mit.edu/search/?P=6.1010 "6.1010") | Introduction to Computer Science Programming in Python<br>and Fundamentals of Programming |  |
+| [6.1200\[J\]](https://catalog.mit.edu/search/?P=6.1200 "6.1200[J]") | Mathematics for Computer Science | 12 |
+| [6.1210](https://catalog.mit.edu/search/?P=6.1210 "6.1210") | Introduction to Algorithms | 12 |
+| [6.1220\[J\]](https://catalog.mit.edu/search/?P=6.1220 "6.1220[J]") | Design and Analysis of Algorithms | 12 |
+| _Economics_ |  |
+| [14.01](https://catalog.mit.edu/search/?P=14.01 "14.01") | Principles of Microeconomics 2 | 12 |
+| [14.32](https://catalog.mit.edu/search/?P=14.32 "14.32") | Econometric Data Science | 12 |
+| _Introductory Probability and Statistics_ |  |
+| _Select one of the following:_ | 12 |
+| [14.30](https://catalog.mit.edu/search/?P=14.30 "14.30") | Introduction to Statistical Methods in Economics |  |
+| [18.600](https://catalog.mit.edu/search/?P=18.600 "18.600") | Probability and Random Variables |  |
+| [6.3700](https://catalog.mit.edu/search/?P=6.3700 "6.3700") | Introduction to Probability |  |
+| _Data Science_ |  |
+| [6.3900](https://catalog.mit.edu/search/?P=6.3900 "6.3900") | Introduction to Machine Learning | 12 |
+| _Project-based_ |  |
+| _Select one of the following:_ | 9-12 |
+| [6.UAR\[J\]](https://catalog.mit.edu/search/?P=6.UAR "6.UAR[J]") | Seminar in Undergraduate Advanced Research (12 units, CI-M) |  |
+| [6.UAT](https://catalog.mit.edu/search/?P=6.UAT "6.UAT") | Oral Communication (CI-M) |  |
+| [15.276](https://catalog.mit.edu/search/?P=15.276 "15.276") | Communicating with Data (CI-M) |  |
+| _Select one of the following:_ | 12 |
+| [14.05](https://catalog.mit.edu/search/?P=14.05 "14.05") | Intermediate Macroeconomics (CI-M) 2 |  |
+| [14.18](https://catalog.mit.edu/search/?P=14.18 "14.18") | Mathematical Economic Modeling (CI-M) |  |
+| [14.33](https://catalog.mit.edu/search/?P=14.33 "14.33") | Research and Communication in Economics: Topics, Methods, and Implementation (CI-M) |  |
+| [14.35](https://catalog.mit.edu/search/?P=14.35 "14.35") | Why Markets Fail (CI-M) |  |
+| Elective Subjects |  |
+| _Select one of the following computer science electives:_ | 12 |
+| [6.3260\[J\]](https://catalog.mit.edu/search/?P=6.3260 "6.3260[J]") | Networks |  |
+| [6.C571\[J\]](https://catalog.mit.edu/search/?P=6.C571 "6.C571[J]") | Optimization Methods |  |
+| [15.053](https://catalog.mit.edu/search/?P=15.053 "15.053") | Optimization Methods in Business Analytics |  |
+| _Select three economics electives from the list below, including at least one subject from each group_ | 36 |
+| Units in Major | 177-186 |
+| Unrestricted Electives | 48-63 |
+| Units in Major That Also Satisfy the GIRs | (48-60) |
+| Total Units Beyond the GIRs Required for SB Degree | 180-186 |
+
+The units for any subject that counts as one of the 17 GIR subjects cannot also be counted as units required beyond the GIRs.
+
+|     |     |
+| --- | --- |
+| _1_ | _Subject has prerequisites that are outside of the program._ |
+| _2_ | _[14.03](https://catalog.mit.edu/search/?P=14.03 "14.03") Microeconomic Theory and Public Policy is also an acceptable option._ |
+
+### Economics Electives
+
+|     |     |     |
+| --- | --- | --- |
+| _Select three of the following, including at least one subject from each group:_ | 36 |
+| _Data Science_ |  |
+| [14.20](https://catalog.mit.edu/search/?P=14.20 "14.20") | Industrial Organization: Competitive Strategy and Public Policy |  |
+| [14.27](https://catalog.mit.edu/search/?P=14.27 "14.27") | Economics of Digitization |  |
+| [14.36](https://catalog.mit.edu/search/?P=14.36 "14.36") | Advanced Econometrics |  |
+| [14.38](https://catalog.mit.edu/search/?P=14.38 "14.38") | Inference on Causal and Structural Parameters Using ML and AI |  |
+| [14.39](https://catalog.mit.edu/search/?P=14.39 "14.39") | Large-Scale Decision-Making and Inference |  |
+| [14.41](https://catalog.mit.edu/search/?P=14.41 "14.41") | Public Finance and Public Policy |  |
+| [14.42](https://catalog.mit.edu/search/?P=14.42 "14.42") | Environmental Policy and Economics |  |
+| [14.43\[J\]](https://catalog.mit.edu/search/?P=14.43 "14.43[J]") | Economics of Energy, Innovation, and Sustainability |  |
+| [14.44\[J\]](https://catalog.mit.edu/search/?P=14.44 "14.44[J]") | Energy Economics and Policy |  |
+| [14.45\[J\]](https://catalog.mit.edu/search/?P=14.45 "14.45[J]") | Climate and Energy in the Global Economy |  |
+| [14.64](https://catalog.mit.edu/search/?P=14.64 "14.64") | Labor Economics and Public Policy |  |
+| [14.75](https://catalog.mit.edu/search/?P=14.75 "14.75") | Political Economy and Economic Development |  |
+| [14.76](https://catalog.mit.edu/search/?P=14.76 "14.76") | Firms, Markets, Trade and Growth |  |
+| [15.780](https://catalog.mit.edu/search/?P=15.780 "15.780") | Analytics of Operations Management |  |
+| _Theory_ |  |
+| [14.04](https://catalog.mit.edu/search/?P=14.04 "14.04") | Intermediate Microeconomic Theory |  |
+| [14.12](https://catalog.mit.edu/search/?P=14.12 "14.12") | Economic Applications of Game Theory |  |
+| [14.13](https://catalog.mit.edu/search/?P=14.13 "14.13") | Psychology and Economics |  |
+| [14.15\[J\]](https://catalog.mit.edu/search/?P=14.15 "14.15[J]") | Networks |  |
+| [14.16](https://catalog.mit.edu/search/?P=14.16 "14.16") | Strategy and Information |  |
+| [14.19](https://catalog.mit.edu/search/?P=14.19 "14.19") | Market Design |  |
+| [14.26\[J\]](https://catalog.mit.edu/search/?P=14.26 "14.26[J]") | Organizational Economics |  |
+| [14.54](https://catalog.mit.edu/search/?P=14.54 "14.54") | International Trade 1 |  |
+
+|     |     |
+| --- | --- |
+| _1_ | _Subject has prerequisites that are outside of the program._ |
+
+Print Options
+
+
+[Send Page to Printer](https://catalog.mit.edu/degree-charts/computer-science-economics-data-science-course-6-14/#)
+
+_Print this page._
+
+[Download PDF of this Page](https://catalog.mit.edu/degree-charts/computer-science-economics-data-science-course-6-14/computer-science-economics-data-science-course-6-14.pdf)
+
+_The PDF includes all information on this page and its related tabs. Subject (course) information includes any changes approved for the current academic year._
+
+[Download PDF of the Entire Catalog and/or Subject Descriptions](https://catalog.mit.edu/archive/)
+
+[Cancel](https://catalog.mit.edu/degree-charts/computer-science-economics-data-science-course-6-14/#)

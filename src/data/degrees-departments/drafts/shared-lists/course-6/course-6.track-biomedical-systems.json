@@ -1,0 +1,64 @@
+{
+  "sharedListId": "course-6.track-biomedical-systems",
+  "program": "course-6",
+  "title": "Biomedical Systems",
+  "items": [
+    {
+      "type": "subject",
+      "subjectId": "6.4800"
+    },
+    {
+      "type": "subject",
+      "subjectId": "6.4820"
+    },
+    {
+      "type": "subject",
+      "subjectId": "6.4830"
+    },
+    {
+      "type": "subject",
+      "subjectId": "6.4850"
+    },
+    {
+      "type": "subject",
+      "subjectId": "6.4860"
+    },
+    {
+      "type": "subject",
+      "subjectId": "6.C27"
+    },
+    {
+      "type": "subject",
+      "subjectId": "22.54"
+    },
+    {
+      "type": "subject",
+      "subjectId": "2.792"
+    },
+    {
+      "type": "subject",
+      "subjectId": "2.793"
+    },
+    {
+      "type": "subject",
+      "subjectId": "20.330"
+    },
+    {
+      "type": "subject",
+      "subjectId": "20.335"
+    },
+    {
+      "type": "subject",
+      "subjectId": "2.750"
+    },
+    {
+      "type": "subject",
+      "subjectId": "2.C27"
+    },
+    {
+      "type": "subject",
+      "subjectId": "3.C27"
+    }
+  ],
+  "version": "1"
+}

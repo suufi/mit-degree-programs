@@ -1,0 +1,116 @@
+{
+  "sharedListId": "14-2.restricted-electives-in-economics",
+  "program": "14-2",
+  "title": "Restricted Electives in Economics",
+  "items": [
+    {
+      "type": "subject",
+      "subjectId": "14.03"
+    },
+    {
+      "type": "subject",
+      "subjectId": "14.06"
+    },
+    {
+      "type": "subject",
+      "subjectId": "14.11"
+    },
+    {
+      "type": "subject",
+      "subjectId": "14.12"
+    },
+    {
+      "type": "subject",
+      "subjectId": "14.13"
+    },
+    {
+      "type": "subject",
+      "subjectId": "14.15"
+    },
+    {
+      "type": "subject",
+      "subjectId": "14.16"
+    },
+    {
+      "type": "subject",
+      "subjectId": "14.18"
+    },
+    {
+      "type": "subject",
+      "subjectId": "14.19"
+    },
+    {
+      "type": "subject",
+      "subjectId": "14.20"
+    },
+    {
+      "type": "subject",
+      "subjectId": "14.26"
+    },
+    {
+      "type": "subject",
+      "subjectId": "14.27"
+    },
+    {
+      "type": "subject",
+      "subjectId": "14.36"
+    },
+    {
+      "type": "subject",
+      "subjectId": "14.38"
+    },
+    {
+      "type": "subject",
+      "subjectId": "14.39"
+    },
+    {
+      "type": "subject",
+      "subjectId": "14.41"
+    },
+    {
+      "type": "subject",
+      "subjectId": "14.42"
+    },
+    {
+      "type": "subject",
+      "subjectId": "14.43"
+    },
+    {
+      "type": "subject",
+      "subjectId": "14.44"
+    },
+    {
+      "type": "subject",
+      "subjectId": "14.45"
+    },
+    {
+      "type": "subject",
+      "subjectId": "14.54"
+    },
+    {
+      "type": "subject",
+      "subjectId": "14.64"
+    },
+    {
+      "type": "subject",
+      "subjectId": "14.70"
+    },
+    {
+      "type": "subject",
+      "subjectId": "14.73"
+    },
+    {
+      "type": "subject",
+      "subjectId": "14.75"
+    },
+    {
+      "type": "subject",
+      "subjectId": "14.76"
+    },
+    {
+      "type": "subject",
+      "subjectId": "14.78"
+    }
+  ],
+  "version": "1"
+}

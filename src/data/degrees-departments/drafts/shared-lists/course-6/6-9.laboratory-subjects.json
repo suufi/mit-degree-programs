@@ -1,0 +1,44 @@
+{
+  "sharedListId": "6-9.laboratory-subjects",
+  "program": "6-9",
+  "title": "Laboratory Subjects",
+  "items": [
+    {
+      "type": "subject",
+      "subjectId": "6.2040"
+    },
+    {
+      "type": "subject",
+      "subjectId": "6.2050"
+    },
+    {
+      "type": "subject",
+      "subjectId": "6.2060"
+    },
+    {
+      "type": "subject",
+      "subjectId": "6.2370"
+    },
+    {
+      "type": "subject",
+      "subjectId": "6.4200"
+    },
+    {
+      "type": "subject",
+      "subjectId": "6.4880"
+    },
+    {
+      "type": "subject",
+      "subjectId": "9.17"
+    },
+    {
+      "type": "subject",
+      "subjectId": "9.59"
+    },
+    {
+      "type": "subject",
+      "subjectId": "9.60"
+    }
+  ],
+  "version": "1"
+}

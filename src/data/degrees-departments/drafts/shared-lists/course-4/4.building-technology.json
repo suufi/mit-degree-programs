@@ -1,0 +1,20 @@
+{
+  "sharedListId": "4.building-technology",
+  "program": "4",
+  "title": "Building Technology",
+  "items": [
+    {
+      "type": "subject",
+      "subjectId": "4.411"
+    },
+    {
+      "type": "subject",
+      "subjectId": "4.432"
+    },
+    {
+      "type": "subject",
+      "subjectId": "4.451"
+    }
+  ],
+  "version": "1"
+}

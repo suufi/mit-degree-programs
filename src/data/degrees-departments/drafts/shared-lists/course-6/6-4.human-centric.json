@@ -1,0 +1,36 @@
+{
+  "sharedListId": "6-4.human-centric",
+  "program": "6-4",
+  "title": "Human-centric",
+  "items": [
+    {
+      "type": "subject",
+      "subjectId": "6.3260"
+    },
+    {
+      "type": "subject",
+      "subjectId": "6.3950"
+    },
+    {
+      "type": "subject",
+      "subjectId": "6.4120"
+    },
+    {
+      "type": "subject",
+      "subjectId": "6.4590"
+    },
+    {
+      "type": "subject",
+      "subjectId": "6.C35"
+    },
+    {
+      "type": "subject",
+      "subjectId": "6.C395"
+    },
+    {
+      "type": "subject",
+      "subjectId": "9.660"
+    }
+  ],
+  "version": "1"
+}

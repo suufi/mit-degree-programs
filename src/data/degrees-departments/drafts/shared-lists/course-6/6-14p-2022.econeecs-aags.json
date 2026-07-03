@@ -1,0 +1,148 @@
+{
+  "sharedListId": "6-14p-2022.econeecs-aags",
+  "program": "6-14p-2022",
+  "title": "ECONEECS_AAGS",
+  "items": [
+    {
+      "type": "subject",
+      "subjectId": "6.3702"
+    },
+    {
+      "type": "subject",
+      "subjectId": "6.3722"
+    },
+    {
+      "type": "subject",
+      "subjectId": "6.3732"
+    },
+    {
+      "type": "subject",
+      "subjectId": "6.4132"
+    },
+    {
+      "type": "subject",
+      "subjectId": "6.5080"
+    },
+    {
+      "type": "subject",
+      "subjectId": "6.5210"
+    },
+    {
+      "type": "subject",
+      "subjectId": "6.5220"
+    },
+    {
+      "type": "subject",
+      "subjectId": "6.5230"
+    },
+    {
+      "type": "subject",
+      "subjectId": "6.5250"
+    },
+    {
+      "type": "subject",
+      "subjectId": "6.5310"
+    },
+    {
+      "type": "subject",
+      "subjectId": "6.5340"
+    },
+    {
+      "type": "subject",
+      "subjectId": "6.5400"
+    },
+    {
+      "type": "subject",
+      "subjectId": "6.5620"
+    },
+    {
+      "type": "subject",
+      "subjectId": "6.6630"
+    },
+    {
+      "type": "subject",
+      "subjectId": "6.7200"
+    },
+    {
+      "type": "subject",
+      "subjectId": "6.7210"
+    },
+    {
+      "type": "subject",
+      "subjectId": "6.7240"
+    },
+    {
+      "type": "subject",
+      "subjectId": "6.7260"
+    },
+    {
+      "type": "subject",
+      "subjectId": "6.7300"
+    },
+    {
+      "type": "subject",
+      "subjectId": "6.7310"
+    },
+    {
+      "type": "subject",
+      "subjectId": "6.7320"
+    },
+    {
+      "type": "subject",
+      "subjectId": "6.7330"
+    },
+    {
+      "type": "subject",
+      "subjectId": "6.7450"
+    },
+    {
+      "type": "subject",
+      "subjectId": "6.7470"
+    },
+    {
+      "type": "subject",
+      "subjectId": "6.7700"
+    },
+    {
+      "type": "subject",
+      "subjectId": "6.7710"
+    },
+    {
+      "type": "subject",
+      "subjectId": "6.7720"
+    },
+    {
+      "type": "subject",
+      "subjectId": "6.7800"
+    },
+    {
+      "type": "subject",
+      "subjectId": "6.7810"
+    },
+    {
+      "type": "subject",
+      "subjectId": "6.7900"
+    },
+    {
+      "type": "subject",
+      "subjectId": "6.7910"
+    },
+    {
+      "type": "subject",
+      "subjectId": "6.7930"
+    },
+    {
+      "type": "subject",
+      "subjectId": "6.7940"
+    },
+    {
+      "type": "subject",
+      "subjectId": "6.8300"
+    },
+    {
+      "type": "subject",
+      "subjectId": "6.8610"
+    }
+  ],
+  "version": "1"
+}

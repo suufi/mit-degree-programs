@@ -1,0 +1,16 @@
+{
+  "sharedListId": "21.writing",
+  "program": "21",
+  "title": "# Writing",
+  "items": [
+    {
+      "type": "subject",
+      "subjectId": "21W.THT"
+    },
+    {
+      "type": "subject",
+      "subjectId": "21W.THU"
+    }
+  ],
+  "version": "1"
+}

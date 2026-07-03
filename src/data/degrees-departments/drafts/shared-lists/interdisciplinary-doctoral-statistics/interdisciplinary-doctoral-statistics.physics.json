@@ -1,0 +1,72 @@
+{
+  "sharedListId": "interdisciplinary-doctoral-statistics.physics",
+  "program": "interdisciplinary-doctoral-statistics",
+  "title": "# Physics",
+  "items": [
+    {
+      "type": "subject",
+      "subjectId": "6.7810"
+    },
+    {
+      "type": "subject",
+      "subjectId": "6.8610"
+    },
+    {
+      "type": "subject",
+      "subjectId": "6.7900"
+    },
+    {
+      "type": "subject",
+      "subjectId": "6.8710"
+    },
+    {
+      "type": "subject",
+      "subjectId": "9.520"
+    },
+    {
+      "type": "subject",
+      "subjectId": "16.940"
+    },
+    {
+      "type": "subject",
+      "subjectId": "18.337"
+    },
+    {
+      "type": "subject",
+      "subjectId": "6.8300"
+    },
+    {
+      "type": "subject",
+      "subjectId": "8.334"
+    },
+    {
+      "type": "subject",
+      "subjectId": "8.371"
+    },
+    {
+      "type": "subject",
+      "subjectId": "8.591"
+    },
+    {
+      "type": "subject",
+      "subjectId": "8.592"
+    },
+    {
+      "type": "subject",
+      "subjectId": "8.942"
+    },
+    {
+      "type": "subject",
+      "subjectId": "9.583"
+    },
+    {
+      "type": "subject",
+      "subjectId": "16.456"
+    },
+    {
+      "type": "subject",
+      "subjectId": "18.367"
+    }
+  ],
+  "version": "1"
+}

@@ -1,0 +1,56 @@
+{
+  "sharedListId": "phd-social-engineering-systems.statistical-processing-of-data-subjects",
+  "program": "phd-social-engineering-systems",
+  "title": "Statistical Processing of Data Subjects",
+  "items": [
+    {
+      "type": "subject",
+      "subjectId": "6.7810"
+    },
+    {
+      "type": "subject",
+      "subjectId": "6.7900"
+    },
+    {
+      "type": "subject",
+      "subjectId": "9.520"
+    },
+    {
+      "type": "subject",
+      "subjectId": "14.382"
+    },
+    {
+      "type": "subject",
+      "subjectId": "14.383"
+    },
+    {
+      "type": "subject",
+      "subjectId": "15.077"
+    },
+    {
+      "type": "subject",
+      "subjectId": "16.391"
+    },
+    {
+      "type": "subject",
+      "subjectId": "17.802"
+    },
+    {
+      "type": "subject",
+      "subjectId": "17.804"
+    },
+    {
+      "type": "subject",
+      "subjectId": "17.806"
+    },
+    {
+      "type": "subject",
+      "subjectId": "18.6501"
+    },
+    {
+      "type": "subject",
+      "subjectId": "18.655"
+    }
+  ],
+  "version": "1"
+}

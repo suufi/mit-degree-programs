@@ -1,0 +1,60 @@
+{
+  "schemaVersion": "2",
+  "program": "phd-earth-atmospheric-planetary-sciences",
+  "title": "Earth, Atmospheric, and Planetary Sciences Fields (PhD/ScD)",
+  "level": "graduate",
+  "complete": false,
+  "catalogSource": {
+    "url": "https://catalog.mit.edu/degree-charts/phd-earth-atmospheric-planetary-sciences/",
+    "slug": "phd-earth-atmospheric-planetary-sciences",
+    "scrapedAt": "2026-07-03",
+    "contentHash": "2d57127b887e4662b9cca2ced040f55321e62b23d13db06cfa761531c5020132"
+  },
+  "footnotes": [
+    {
+      "id": "1",
+      "text": "Units will vary depending on student's individual plan of study."
+    },
+    {
+      "id": "2",
+      "text": "The research units given here are based on three years from General Examination to thesis defense, but will vary depending on how long the student remains in the program. After passing the general exam, students will register for 36 units of research each fall and spring semester and 24 units for summer semester."
+    }
+  ],
+  "constraints": [],
+  "requirements": [
+    {
+      "groupId": "phd-earth-atmospheric-planetary-sciences-required-subjects",
+      "title": "Required Subjects",
+      "bucket": "departmental",
+      "subcategory": "required_subjects",
+      "flexibility": {
+        "advisorApproval": false,
+        "catalogText": "[12.970, 12.971](https://catalog.mit.edu/search/?P=12.970%2C%2012.971 \"12.970, 12.971\")"
+      },
+      "root": {
+        "type": "group",
+        "ruleType": "all_of",
+        "items": [
+          {
+            "type": "selection",
+            "ruleType": "choose_units",
+            "ruleValue": 24,
+            "itemsSource": "advisor_defined",
+            "note": "[12.970, 12.971](https://catalog.mit.edu/search/?P=12.970%2C%2012.971 \"12.970, 12.971\")",
+            "flexibility": {
+              "catalogText": "[12.970, 12.971](https://catalog.mit.edu/search/?P=12.970%2C%2012.971 \"12.970, 12.971\")"
+            }
+          },
+          {
+            "type": "subject",
+            "subjectId": "12.THG"
+          }
+        ]
+      }
+    }
+  ],
+  "status": "draft",
+  "revisionId": "phd-earth-atmospheric-planetary-sciences-2026-07-03-2d57127b",
+  "catalogYear": "2026",
+  "effectiveTerm": "2026-FA"
+}

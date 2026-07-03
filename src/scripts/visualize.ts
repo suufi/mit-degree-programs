@@ -2,9 +2,9 @@
 import { mkdir, readdir, readFile, writeFile } from "node:fs/promises";
 import path from "node:path";
 import { fileURLToPath } from "node:url";
-import { loadGir, loadProgram, loadSharedLists, type DataKind } from "../index.js";
-import { renderProgramHtml, renderProgramMarkdown } from "../visualize/render.js";
-import { visualizeMdPath, visualizeOutPath } from "../versioning/paths.js";
+import { loadGir, loadProgram, loadSharedLists, type DataKind } from "../index";
+import { renderProgramHtml, renderProgramMarkdown } from "../visualize/render";
+import { visualizeMdPath, visualizeOutPath } from "../versioning/paths";
 
 const __dirname = path.dirname(fileURLToPath(import.meta.url));
 const DATA_ROOT = path.resolve(__dirname, "../data");

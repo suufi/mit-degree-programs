@@ -1,0 +1,163 @@
+{
+  "schemaVersion": "2",
+  "program": "8",
+  "title": "Physics (Course 8) — Focused Option",
+  "level": "undergraduate",
+  "complete": false,
+  "includesGir": "sb",
+  "catalogSource": {
+    "url": "https://catalog.mit.edu/degree-charts/physics-course-8/",
+    "slug": "physics-course-8",
+    "scrapedAt": "2026-07-03",
+    "contentHash": "98208c5eee529087f28b473d1c008d3c85c9b638bd29cc842933f47e3378a23c"
+  },
+  "girCrosswalk": [
+    {
+      "subjectId": "8.03",
+      "satisfies": [
+        "rest"
+      ],
+      "note": "Also satisfies REST via departmental program."
+    },
+    {
+      "subjectId": "8.04",
+      "satisfies": [
+        "rest"
+      ],
+      "note": "Also satisfies REST via departmental program."
+    },
+    {
+      "subjectId": "18.03",
+      "satisfies": [
+        "rest"
+      ],
+      "note": "Also satisfies REST via departmental program."
+    },
+    {
+      "subjectId": "8.13",
+      "satisfies": [
+        "lab"
+      ],
+      "note": "Also satisfies Laboratory Requirement via departmental program."
+    }
+  ],
+  "footnotes": [
+    {
+      "id": "1",
+      "text": "18.032 Differential Equations is also an acceptable option."
+    },
+    {
+      "id": "2",
+      "text": "A thesis of 12 units is required. Not more than 30 units of thesis credit may be included in the minimum units beyond the General Institute Requirements required for the SB degree."
+    },
+    {
+      "id": "3",
+      "text": "Subject descriptions identify subjects that cannot be used for this purpose."
+    }
+  ],
+  "constraints": [],
+  "requirements": [
+    {
+      "groupId": "8-required-subjects",
+      "title": "Required Subjects",
+      "bucket": "departmental",
+      "subcategory": "required_subjects",
+      "root": {
+        "type": "group",
+        "ruleType": "all_of",
+        "items": [
+          {
+            "type": "subject",
+            "subjectId": "18.03"
+          },
+          {
+            "type": "subject",
+            "subjectId": "8.03"
+          },
+          {
+            "type": "subject",
+            "subjectId": "8.033"
+          },
+          {
+            "type": "subject",
+            "subjectId": "8.04"
+          },
+          {
+            "type": "subject",
+            "subjectId": "8.044"
+          },
+          {
+            "type": "subject",
+            "subjectId": "8.05"
+          },
+          {
+            "type": "subject",
+            "subjectId": "8.06"
+          },
+          {
+            "type": "subject",
+            "subjectId": "8.13"
+          },
+          {
+            "type": "subject",
+            "subjectId": "8.14"
+          },
+          {
+            "type": "subject",
+            "subjectId": "8.223"
+          },
+          {
+            "type": "subject",
+            "subjectId": "8.THU"
+          }
+        ]
+      }
+    },
+    {
+      "groupId": "8-restricted-electives",
+      "title": "Restricted Electives",
+      "bucket": "elective",
+      "subcategory": "restricted_electives",
+      "flexibility": {
+        "advisorApproval": false,
+        "catalogText": "Two subjects in the Department of Physics in addition to those listed above, including at least one of the following:3"
+      },
+      "root": {
+        "type": "group",
+        "ruleType": "all_of",
+        "items": [
+          {
+            "type": "subject",
+            "subjectId": "18.03"
+          },
+          {
+            "type": "selection",
+            "ruleType": "choose_units",
+            "ruleValue": 24,
+            "itemsSource": "advisor_defined",
+            "note": "Two subjects in the Department of Physics in addition to those listed above, including at least one of the following:3",
+            "flexibility": {
+              "catalogText": "Two subjects in the Department of Physics in addition to those listed above, including at least one of the following:3"
+            }
+          },
+          {
+            "type": "subject",
+            "subjectId": "8.07"
+          },
+          {
+            "type": "subject",
+            "subjectId": "8.08"
+          },
+          {
+            "type": "subject",
+            "subjectId": "8.09"
+          }
+        ]
+      }
+    }
+  ],
+  "status": "draft",
+  "revisionId": "8-2026-07-03-98208c5e",
+  "catalogYear": "2026",
+  "effectiveTerm": "2026-FA"
+}

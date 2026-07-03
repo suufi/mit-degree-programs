@@ -1,0 +1,52 @@
+{
+  "sharedListId": "17.political-philosophy-social-theory",
+  "program": "17",
+  "title": "# Political Philosophy/Social Theory",
+  "items": [
+    {
+      "type": "subject",
+      "subjectId": "17.007"
+    },
+    {
+      "type": "subject",
+      "subjectId": "17.01"
+    },
+    {
+      "type": "subject",
+      "subjectId": "17.021"
+    },
+    {
+      "type": "subject",
+      "subjectId": "17.03"
+    },
+    {
+      "type": "subject",
+      "subjectId": "17.031"
+    },
+    {
+      "type": "subject",
+      "subjectId": "17.035"
+    },
+    {
+      "type": "subject",
+      "subjectId": "17.04"
+    },
+    {
+      "type": "subject",
+      "subjectId": "17.043"
+    },
+    {
+      "type": "subject",
+      "subjectId": "17.045"
+    },
+    {
+      "type": "subject",
+      "subjectId": "17.05"
+    },
+    {
+      "type": "subject",
+      "subjectId": "17.055"
+    }
+  ],
+  "version": "1"
+}

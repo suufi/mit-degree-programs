@@ -1,0 +1,122 @@
+{
+  "schemaVersion": "2",
+  "program": "science-technology-society-sts",
+  "title": "Science, Technology, and Society/Second Major (STS)",
+  "level": "undergraduate",
+  "complete": false,
+  "includesGir": "sb",
+  "catalogSource": {
+    "url": "https://catalog.mit.edu/degree-charts/science-technology-society-sts/",
+    "slug": "science-technology-society-sts",
+    "scrapedAt": "2026-07-03",
+    "contentHash": "c389bbf8ad4311d29a9d9d53163a7ca9328d503a8ffb5b183bdf2fc4a29719b2"
+  },
+  "girCrosswalk": [],
+  "footnotes": [
+    {
+      "id": "1",
+      "text": "Students who choose 9-unit subjects need to complete enough unrestricted electives to ensure that they have met the required 180 units beyond the GIRs."
+    },
+    {
+      "id": "2",
+      "text": "See list of Tier II subjects in the Bulletin."
+    },
+    {
+      "id": "3",
+      "text": "This chart has been calculated based on an overlap of 36 units (three subjects) between the HASS General Institute Requirement and the departmental requirements. Students who develop a program of study with more overlap will be able to select more unrestricted electives to meet the number of total units beyond the GIRs required for an SB degree."
+    }
+  ],
+  "constraints": [],
+  "requirements": [
+    {
+      "groupId": "science-technology-society-sts-tier-i",
+      "title": "Tier I",
+      "bucket": "departmental",
+      "subcategory": "required_subjects",
+      "flexibility": {
+        "advisorApproval": false,
+        "catalogText": "[STS.004](https://catalog.mit.edu/search/?P=STS.004 \"STS.004\")"
+      },
+      "root": {
+        "type": "selection",
+        "ruleType": "choose_units",
+        "ruleValue": 12,
+        "itemsSource": "advisor_defined",
+        "note": "[STS.004](https://catalog.mit.edu/search/?P=STS.004 \"STS.004\")",
+        "flexibility": {
+          "catalogText": "[STS.004](https://catalog.mit.edu/search/?P=STS.004 \"STS.004\")"
+        }
+      }
+    },
+    {
+      "groupId": "science-technology-society-sts-tier-ii",
+      "title": "Tier II",
+      "bucket": "departmental",
+      "subcategory": "required_subjects",
+      "flexibility": {
+        "advisorApproval": false,
+        "catalogText": "Select one subject from the list of Tier II subjects1, 2"
+      },
+      "root": {
+        "type": "group",
+        "ruleType": "all_of",
+        "items": [
+          {
+            "type": "selection",
+            "ruleType": "choose_units",
+            "ruleValue": 9,
+            "itemsSource": "advisor_defined",
+            "note": "Select one subject from the list of Tier II subjects1, 2",
+            "flexibility": {
+              "catalogText": "Select one subject from the list of Tier II subjects1, 2"
+            }
+          },
+          {
+            "type": "selection",
+            "ruleType": "choose_units",
+            "ruleValue": 6,
+            "itemsSource": "advisor_defined",
+            "note": "[STS.THT](https://catalog.mit.edu/search/?P=STS.THT \"STS.THT\")",
+            "flexibility": {
+              "catalogText": "[STS.THT](https://catalog.mit.edu/search/?P=STS.THT \"STS.THT\")"
+            }
+          },
+          {
+            "type": "selection",
+            "ruleType": "choose_units",
+            "ruleValue": 12,
+            "itemsSource": "advisor_defined",
+            "note": "[STS.THU](https://catalog.mit.edu/search/?P=STS.THU \"STS.THU\")",
+            "flexibility": {
+              "catalogText": "[STS.THU](https://catalog.mit.edu/search/?P=STS.THU \"STS.THU\")"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "groupId": "science-technology-society-sts-restricted-electives",
+      "title": "Restricted Electives",
+      "bucket": "elective",
+      "subcategory": "restricted_electives",
+      "flexibility": {
+        "advisorApproval": false,
+        "catalogText": "Select a coherent group of four elective subjects in STS, plus four subjects related to the historical and social study of science and technology, in consultation with the STS undergraduate officer"
+      },
+      "root": {
+        "type": "selection",
+        "ruleType": "choose_units",
+        "ruleValue": 87,
+        "itemsSource": "advisor_defined",
+        "note": "Select a coherent group of four elective subjects in STS, plus four subjects related to the historical and social study of science and technology, in consultation with the STS undergraduate officer",
+        "flexibility": {
+          "catalogText": "Select a coherent group of four elective subjects in STS, plus four subjects related to the historical and social study of science and technology, in consultation with the STS undergraduate officer"
+        }
+      }
+    }
+  ],
+  "status": "draft",
+  "revisionId": "science-technology-society-sts-2026-07-03-c389bbf8",
+  "catalogYear": "2026",
+  "effectiveTerm": "2026-FA"
+}

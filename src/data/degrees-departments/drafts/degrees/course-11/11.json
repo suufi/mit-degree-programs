@@ -1,0 +1,119 @@
+{
+  "schemaVersion": "2",
+  "program": "11",
+  "title": "Planning (Course 11)",
+  "level": "undergraduate",
+  "complete": false,
+  "includesGir": "sb",
+  "catalogSource": {
+    "url": "https://catalog.mit.edu/degree-charts/planning-course-11/",
+    "slug": "planning-course-11",
+    "scrapedAt": "2026-07-03",
+    "contentHash": "749f30dab18eeee114fe25cf008d2892bc060110293fad045be1d0fe689d9b1b"
+  },
+  "girCrosswalk": [
+    {
+      "subjectId": "11.188",
+      "satisfies": [
+        "lab"
+      ],
+      "note": "Also satisfies Laboratory Requirement via departmental program."
+    }
+  ],
+  "footnotes": [
+    {
+      "id": "1",
+      "text": "Consult the list of Urban Studies & Planning subjects offered by the department. Relevant subjects not offered by Course 11 will be considered on a case-by-case basis."
+    },
+    {
+      "id": "2",
+      "text": "11.027 City to City: Comparing, Researching, and Reflecting on Practice is taught in the spring and includes a trip during spring break. This course may be taken multiple times, as the content differs each year, but may only be counted once as a planned elective."
+    }
+  ],
+  "constraints": [],
+  "requirements": [
+    {
+      "groupId": "11-required-subjects",
+      "title": "Required Subjects",
+      "bucket": "departmental",
+      "subcategory": "required_subjects",
+      "root": {
+        "type": "group",
+        "ruleType": "all_of",
+        "items": [
+          {
+            "type": "subject",
+            "subjectId": "11.001"
+          },
+          {
+            "type": "subject",
+            "subjectId": "11.002"
+          },
+          {
+            "type": "subject",
+            "subjectId": "14.01"
+          },
+          {
+            "type": "subject",
+            "subjectId": "11.188"
+          }
+        ]
+      }
+    },
+    {
+      "groupId": "11-planned-electives",
+      "title": "Planned Electives",
+      "bucket": "elective",
+      "subcategory": "elective_subjects",
+      "flexibility": {
+        "advisorApproval": true,
+        "catalogText": "Select 78-81 units of Planning electives, in consultation with advisor.1"
+      },
+      "root": {
+        "type": "selection",
+        "ruleType": "choose_units",
+        "ruleValue": 78,
+        "itemsSource": "advisor_defined",
+        "note": "Select 78-81 units of Planning electives, in consultation with advisor.1",
+        "flexibility": {
+          "advisorApproval": true,
+          "catalogText": "Select 78-81 units of Planning electives, in consultation with advisor.1"
+        }
+      }
+    },
+    {
+      "groupId": "11-declared-majors-are-encouraged-to-take-the-optional-urban-field-experience-subject",
+      "title": "Declared majors are encouraged to take the optional urban field experience subject.",
+      "bucket": "departmental",
+      "subcategory": "required_subjects",
+      "root": {
+        "type": "subject",
+        "subjectId": "11.027"
+      }
+    },
+    {
+      "groupId": "11-thesis",
+      "title": "Thesis",
+      "bucket": "thesis",
+      "subcategory": "thesis",
+      "root": {
+        "type": "group",
+        "ruleType": "all_of",
+        "items": [
+          {
+            "type": "subject",
+            "subjectId": "11.THT"
+          },
+          {
+            "type": "subject",
+            "subjectId": "11.THU"
+          }
+        ]
+      }
+    }
+  ],
+  "status": "draft",
+  "revisionId": "11-2026-07-03-749f30da",
+  "catalogYear": "2026",
+  "effectiveTerm": "2026-FA"
+}

@@ -1,0 +1,204 @@
+{
+  "schemaVersion": "2",
+  "program": "5-flexible",
+  "title": "Chemistry (Course 5) — Flexible Option",
+  "level": "undergraduate",
+  "complete": false,
+  "includesGir": "sb",
+  "catalogSource": {
+    "url": "https://catalog.mit.edu/degree-charts/chemistry-course-5/",
+    "slug": "chemistry-course-5",
+    "scrapedAt": "2026-07-03",
+    "contentHash": "02a0ae4a759ac74a53f381aaecdce650e67d7f87d8c45f6dd4cbbd93081258da"
+  },
+  "girCrosswalk": [
+    {
+      "subjectId": "5.07",
+      "satisfies": [
+        "rest"
+      ],
+      "note": "Also satisfies REST via departmental program."
+    },
+    {
+      "subjectId": "20.507",
+      "satisfies": [
+        "rest"
+      ],
+      "note": "Also satisfies REST via departmental program."
+    },
+    {
+      "subjectId": "5.12",
+      "satisfies": [
+        "rest"
+      ],
+      "note": "Also satisfies REST via departmental program."
+    }
+  ],
+  "footnotes": [
+    {
+      "id": "1",
+      "text": "With approval by the faculty advisor, subjects outside the Department of Chemistry may be used."
+    },
+    {
+      "id": "2",
+      "text": "Laboratory Restricted Electives cannot be double-counted within the program."
+    },
+    {
+      "id": "3",
+      "text": "Before enrolling in 5.39, students must have completed an approved 12-unit UROP or non-credit research experience."
+    }
+  ],
+  "constraints": [],
+  "requirements": [
+    {
+      "groupId": "5-flexible-required-subjects",
+      "title": "Required Subjects",
+      "bucket": "departmental",
+      "subcategory": "required_subjects",
+      "root": {
+        "type": "group",
+        "ruleType": "all_of",
+        "items": [
+          {
+            "type": "subject",
+            "subjectId": "5.03"
+          },
+          {
+            "type": "subject",
+            "subjectId": "5.07"
+          },
+          {
+            "type": "subject",
+            "subjectId": "5.12"
+          },
+          {
+            "type": "subject",
+            "subjectId": "5.601"
+          },
+          {
+            "type": "subject",
+            "subjectId": "5.611"
+          }
+        ]
+      }
+    },
+    {
+      "groupId": "5-flexible-select-24-units-of-the-following",
+      "title": "Select 24 units of the following:",
+      "bucket": "departmental",
+      "subcategory": "required_subjects",
+      "root": {
+        "type": "group",
+        "ruleType": "all_of",
+        "items": [
+          {
+            "type": "subject",
+            "subjectId": "5.04"
+          },
+          {
+            "type": "subject",
+            "subjectId": "5.08"
+          },
+          {
+            "type": "subject",
+            "subjectId": "5.13"
+          },
+          {
+            "type": "subject",
+            "subjectId": "5.43"
+          },
+          {
+            "type": "subject",
+            "subjectId": "5.602"
+          },
+          {
+            "type": "subject",
+            "subjectId": "5.612"
+          },
+          {
+            "type": "subject",
+            "subjectId": "5.62"
+          }
+        ]
+      }
+    },
+    {
+      "groupId": "5-flexible-elective-focus",
+      "title": "Elective Focus",
+      "bucket": "elective",
+      "subcategory": "elective_subjects",
+      "flexibility": {
+        "advisorApproval": false,
+        "catalogText": "Select a minimum of 36 units of coursework forming an intellectually coherent unit in some area, subject to the approval of the department1"
+      },
+      "root": {
+        "type": "selection",
+        "ruleType": "choose_units",
+        "ruleValue": 36,
+        "itemsSource": "advisor_defined",
+        "note": "Select a minimum of 36 units of coursework forming an intellectually coherent unit in some area, subject to the approval of the department1",
+        "flexibility": {
+          "catalogText": "Select a minimum of 36 units of coursework forming an intellectually coherent unit in some area, subject to the approval of the department1"
+        }
+      }
+    },
+    {
+      "groupId": "5-flexible-departmental-laboratory-requirement",
+      "title": "Departmental Laboratory Requirement",
+      "bucket": "departmental",
+      "subcategory": "laboratory",
+      "root": {
+        "type": "group",
+        "ruleType": "all_of",
+        "items": [
+          {
+            "type": "subject",
+            "subjectId": "5.351"
+          },
+          {
+            "type": "subject",
+            "subjectId": "5.352"
+          },
+          {
+            "type": "subject",
+            "subjectId": "5.353"
+          },
+          {
+            "type": "subject",
+            "subjectId": "5.361"
+          }
+        ]
+      }
+    },
+    {
+      "groupId": "5-flexible-option-2",
+      "title": "Option 2",
+      "bucket": "departmental",
+      "subcategory": "required_subjects",
+      "root": {
+        "type": "subject",
+        "subjectId": "5.39"
+      }
+    },
+    {
+      "groupId": "5-flexible-restricted-electives",
+      "title": "Restricted Electives",
+      "bucket": "elective",
+      "subcategory": "restricted_electives",
+      "flexibility": {
+        "catalogText": "Select a minimum of 36 units of coursework forming an intellectually coherent unit in some area, subject to the approval of the department1"
+      },
+      "root": {
+        "type": "selection",
+        "ruleType": "choose_units",
+        "ruleValue": 36,
+        "itemsSource": "shared_list",
+        "sharedListId": "5-flexible.laboratory-restricted-electives"
+      }
+    }
+  ],
+  "status": "draft",
+  "revisionId": "5-flexible-2026-07-03-02a0ae4a",
+  "catalogYear": "2026",
+  "effectiveTerm": "2026-FA"
+}

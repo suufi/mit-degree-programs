@@ -1,0 +1,16 @@
+{
+  "sharedListId": "6-p.course-6-p-graduate-requirements",
+  "program": "6-p",
+  "title": "Course 6-P Graduate Requirements",
+  "items": [
+    {
+      "type": "subject",
+      "subjectId": "6.THM"
+    },
+    {
+      "type": "subject",
+      "subjectId": "6.9830"
+    }
+  ],
+  "version": "1"
+}

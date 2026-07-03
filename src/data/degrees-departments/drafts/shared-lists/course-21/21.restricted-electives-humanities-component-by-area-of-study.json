@@ -1,0 +1,16 @@
+{
+  "sharedListId": "21.restricted-electives-humanities-component-by-area-of-study",
+  "program": "21",
+  "title": "Restricted Electives: Humanities Component (by area of study)",
+  "items": [
+    {
+      "type": "subject",
+      "subjectId": "21.THT"
+    },
+    {
+      "type": "subject",
+      "subjectId": "21.THU"
+    }
+  ],
+  "version": "1"
+}

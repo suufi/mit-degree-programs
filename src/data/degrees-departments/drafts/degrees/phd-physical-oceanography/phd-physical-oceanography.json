@@ -1,0 +1,337 @@
+{
+  "schemaVersion": "2",
+  "program": "phd-physical-oceanography",
+  "title": "Physical Oceanography (PhD)",
+  "level": "graduate",
+  "complete": false,
+  "catalogSource": {
+    "url": "https://catalog.mit.edu/degree-charts/phd-physical-oceanography/",
+    "slug": "phd-physical-oceanography",
+    "scrapedAt": "2026-07-03",
+    "contentHash": "be5455e3df7dd0c593c9c9f01cec04e7cfee4216b11ae433ffe87e770d6b4289"
+  },
+  "footnotes": [
+    {
+      "id": "1",
+      "text": "Additional units may be taken as electives."
+    },
+    {
+      "id": "2",
+      "text": "See list below."
+    }
+  ],
+  "constraints": [],
+  "requirements": [
+    {
+      "groupId": "phd-physical-oceanography-core-coursework",
+      "title": "Core Coursework",
+      "bucket": "departmental",
+      "subcategory": "required_subjects",
+      "flexibility": {
+        "advisorApproval": false,
+        "catalogText": "Area-Specific Core Coursework"
+      },
+      "root": {
+        "type": "group",
+        "ruleType": "all_of",
+        "items": [
+          {
+            "type": "subject",
+            "subjectId": "12.800"
+          },
+          {
+            "type": "subject",
+            "subjectId": "12.808"
+          },
+          {
+            "type": "selection",
+            "ruleType": "choose_units",
+            "ruleValue": 24,
+            "itemsSource": "advisor_defined",
+            "note": "Area-Specific Core Coursework",
+            "flexibility": {
+              "catalogText": "Area-Specific Core Coursework"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "groupId": "phd-physical-oceanography-general-physical-oceanography",
+      "title": "General Physical Oceanography",
+      "bucket": "departmental",
+      "subcategory": "required_subjects",
+      "root": {
+        "type": "group",
+        "ruleType": "all_of",
+        "items": [
+          {
+            "type": "subject",
+            "subjectId": "12.801"
+          },
+          {
+            "type": "subject",
+            "subjectId": "12.802"
+          }
+        ]
+      }
+    },
+    {
+      "groupId": "phd-physical-oceanography-physical-oceanography-and-climate",
+      "title": "Physical Oceanography and Climate",
+      "bucket": "departmental",
+      "subcategory": "required_subjects",
+      "root": {
+        "type": "group",
+        "ruleType": "all_of",
+        "items": [
+          {
+            "type": "subject",
+            "subjectId": "12.801"
+          },
+          {
+            "type": "subject",
+            "subjectId": "12.812"
+          }
+        ]
+      }
+    },
+    {
+      "groupId": "phd-physical-oceanography-physical-biological-chemical-interactions",
+      "title": "Physical-Biological-Chemical Interactions",
+      "bucket": "departmental",
+      "subcategory": "required_subjects",
+      "root": {
+        "type": "group",
+        "ruleType": "all_of",
+        "items": [
+          {
+            "type": "subject",
+            "subjectId": "7.470"
+          },
+          {
+            "type": "subject",
+            "subjectId": "12.742"
+          }
+        ]
+      }
+    },
+    {
+      "groupId": "phd-physical-oceanography-coastal-nearshore-physical-oceanography-and-engineering",
+      "title": "Coastal/Nearshore Physical Oceanography and Engineering",
+      "bucket": "departmental",
+      "subcategory": "required_subjects",
+      "flexibility": {
+        "advisorApproval": false,
+        "catalogText": "Applied Mathematics and Data Analysis Techniques1"
+      },
+      "root": {
+        "type": "group",
+        "ruleType": "all_of",
+        "items": [
+          {
+            "type": "subject",
+            "subjectId": "1.69"
+          },
+          {
+            "type": "subject",
+            "subjectId": "12.802"
+          },
+          {
+            "type": "subject",
+            "subjectId": "12.862"
+          },
+          {
+            "type": "selection",
+            "ruleType": "choose_units",
+            "ruleValue": 12,
+            "itemsSource": "advisor_defined",
+            "note": "Applied Mathematics and Data Analysis Techniques1",
+            "flexibility": {
+              "catalogText": "Applied Mathematics and Data Analysis Techniques1"
+            }
+          },
+          {
+            "type": "selection",
+            "ruleType": "choose_one",
+            "itemsSource": "explicit",
+            "items": [
+              {
+                "type": "subject",
+                "subjectId": "12.805"
+              },
+              {
+                "type": "subject",
+                "subjectId": "18.075"
+              },
+              {
+                "type": "subject",
+                "subjectId": "18.085"
+              },
+              {
+                "type": "subject",
+                "subjectId": "18.086"
+              },
+              {
+                "type": "subject",
+                "subjectId": "18.305"
+              },
+              {
+                "type": "subject",
+                "subjectId": "18.306"
+              }
+            ]
+          },
+          {
+            "type": "selection",
+            "ruleType": "choose_units",
+            "ruleValue": 48,
+            "itemsSource": "advisor_defined",
+            "note": "Restricted Electives2",
+            "flexibility": {
+              "catalogText": "Restricted Electives2"
+            }
+          },
+          {
+            "type": "selection",
+            "ruleType": "choose_units",
+            "ruleValue": 327,
+            "itemsSource": "advisor_defined",
+            "note": "Thesis",
+            "flexibility": {
+              "catalogText": "Thesis"
+            }
+          },
+          {
+            "type": "subject",
+            "subjectId": "12.THG"
+          }
+        ]
+      }
+    },
+    {
+      "groupId": "phd-physical-oceanography-physical-oceanography-and-climate-1",
+      "title": "_Physical Oceanography and Climate_1",
+      "bucket": "departmental",
+      "subcategory": "required_subjects",
+      "root": {
+        "type": "group",
+        "ruleType": "all_of",
+        "items": [
+          {
+            "type": "subject",
+            "subjectId": "12.707"
+          },
+          {
+            "type": "subject",
+            "subjectId": "12.708"
+          },
+          {
+            "type": "subject",
+            "subjectId": "12.740"
+          },
+          {
+            "type": "subject",
+            "subjectId": "12.802"
+          },
+          {
+            "type": "subject",
+            "subjectId": "12.842"
+          },
+          {
+            "type": "subject",
+            "subjectId": "12.860"
+          },
+          {
+            "type": "subject",
+            "subjectId": "12.885"
+          }
+        ]
+      }
+    },
+    {
+      "groupId": "phd-physical-oceanography-physical-bio-chemical-interactions",
+      "title": "Physical-Bio-Chemical Interactions",
+      "bucket": "departmental",
+      "subcategory": "required_subjects",
+      "root": {
+        "type": "group",
+        "ruleType": "all_of",
+        "items": [
+          {
+            "type": "subject",
+            "subjectId": "1.073"
+          },
+          {
+            "type": "subject",
+            "subjectId": "2.29"
+          },
+          {
+            "type": "subject",
+            "subjectId": "7.410"
+          },
+          {
+            "type": "subject",
+            "subjectId": "7.430"
+          },
+          {
+            "type": "subject",
+            "subjectId": "7.431"
+          },
+          {
+            "type": "subject",
+            "subjectId": "7.434"
+          },
+          {
+            "type": "subject",
+            "subjectId": "7.435"
+          },
+          {
+            "type": "subject",
+            "subjectId": "7.436"
+          },
+          {
+            "type": "subject",
+            "subjectId": "7.437"
+          },
+          {
+            "type": "subject",
+            "subjectId": "7.439"
+          },
+          {
+            "type": "subject",
+            "subjectId": "7.440"
+          },
+          {
+            "type": "subject",
+            "subjectId": "12.702"
+          },
+          {
+            "type": "subject",
+            "subjectId": "12.714"
+          },
+          {
+            "type": "subject",
+            "subjectId": "12.746"
+          },
+          {
+            "type": "subject",
+            "subjectId": "12.802"
+          },
+          {
+            "type": "subject",
+            "subjectId": "12.805"
+          },
+          {
+            "type": "subject",
+            "subjectId": "12.823"
+          }
+        ]
+      }
+    }
+  ],
+  "status": "draft",
+  "revisionId": "phd-physical-oceanography-2026-07-03-be5455e3",
+  "catalogYear": "2026",
+  "effectiveTerm": "2026-FA"
+}

@@ -1,0 +1,120 @@
+Degree Charts
+
+- [Home](https://catalog.mit.edu/) >
+- [Degree Charts](https://catalog.mit.edu/degree-charts/) >
+- Physical Oceanography (PhD/ScD)
+
+# Physical Oceanography
+
+[MIT-WHOI Joint Program in Oceanography/Applied Ocean Science and Engineering](https://catalog.mit.edu/interdisciplinary/graduate-programs/joint-program-woods-hole-oceanographic-institution/)
+
+## Doctor of Philosophy in Physical Oceanography
+
+|     |     |     |
+| --- | --- | --- |
+| Core Coursework |  |
+| [12.800](https://catalog.mit.edu/search/?P=12.800 "12.800") | Fluid Dynamics of the Atmosphere and Ocean | 12 |
+| [12.808](https://catalog.mit.edu/search/?P=12.808 "12.808") | Introduction to Observational Physical Oceanography | 12 |
+| Area-Specific Core Coursework | 24-33 |
+| _Complete one area:_ |  |
+| _General Physical Oceanography_ |  |
+| [12.801](https://catalog.mit.edu/search/?P=12.801 "12.801") | Large-scale Ocean Dynamics |  |
+| [12.802](https://catalog.mit.edu/search/?P=12.802 "12.802") | Waves, Instability and Turbulence at Small Scales |  |
+| _Physical Oceanography and Climate_ |  |
+| [12.801](https://catalog.mit.edu/search/?P=12.801 "12.801") | Large-scale Ocean Dynamics |  |
+| [12.812](https://catalog.mit.edu/search/?P=12.812 "12.812") | The General Circulation of the Atmosphere and Climate Change |  |
+| _Physical-Biological-Chemical Interactions_ |  |
+| [7.470](https://catalog.mit.edu/search/?P=7.470 "7.470") | Biological Oceanography |  |
+| [12.742](https://catalog.mit.edu/search/?P=12.742 "12.742") | Marine Chemistry |  |
+| _Coastal/Nearshore Physical Oceanography and Engineering_ |  |
+| [1.69](https://catalog.mit.edu/search/?P=1.69 "1.69") | Introduction to Coastal Engineering |  |
+| [12.802](https://catalog.mit.edu/search/?P=12.802 "12.802") | Waves, Instability and Turbulence at Small Scales |  |
+| [12.862](https://catalog.mit.edu/search/?P=12.862 "12.862") | Coastal Physical Oceanography |  |
+| Applied Mathematics and Data Analysis Techniques1 | 12 |
+| _Select one of the following:_ |  |
+| [12.805](https://catalog.mit.edu/search/?P=12.805 "12.805") | Data Analysis in Physical Oceanography |  |
+| [18.075](https://catalog.mit.edu/search/?P=18.075 "18.075") | Methods for Scientists and Engineers |  |
+| [18.085](https://catalog.mit.edu/search/?P=18.085 "18.085") | Computational Science and Engineering I |  |
+| [18.086](https://catalog.mit.edu/search/?P=18.086 "18.086") | Computational Science and Engineering II |  |
+| [18.305](https://catalog.mit.edu/search/?P=18.305 "18.305") | Advanced Analytic Methods in Science and Engineering |  |
+| [18.306](https://catalog.mit.edu/search/?P=18.306 "18.306") | Advanced Partial Differential Equations with Applications |  |
+| Restricted Electives2 | 48-84 |
+| Thesis | 327-372 |
+| [12.THG](https://catalog.mit.edu/search/?P=12.THG "12.THG") | Graduate Thesis |  |
+| Total Units | 435-525 |
+
+**Note:** Students in this program can choose to receive the Doctor of Philosophy or the Doctor of Science in Physical Oceanography. Students receiving veterans benefits must select the degree they wish to receive prior to program certification with the Veterans Administration.
+
+|     |     |
+| --- | --- |
+| _1_ | _Additional units may be taken as electives._ |
+| _2_ | _See list below._ |
+
+|     |     |     |
+| --- | --- | --- |
+| Restricted Electives |  |
+| _Select 4–7 subjects in chosen or complementary area of focus:_ |  |
+| _General Physical Oceanography_ |  |
+| [12.701](https://catalog.mit.edu/search/?P=12.701 "12.701") | Classic Papers in Physical Oceanography |  |
+| [12.805](https://catalog.mit.edu/search/?P=12.805 "12.805") | Data Analysis in Physical Oceanography |  |
+| [12.809](https://catalog.mit.edu/search/?P=12.809 "12.809") | Hydraulic Phenomena in Geophysical Fluid Flows |  |
+| [12.820](https://catalog.mit.edu/search/?P=12.820 "12.820") | Turbulence in the Ocean and Atmosphere |  |
+| [12.824](https://catalog.mit.edu/search/?P=12.824 "12.824") | Stability Theory for Oceanic & Atmospheric Flows |  |
+| [12.843](https://catalog.mit.edu/search/?P=12.843 "12.843") | Large-scale Atmosphere and Ocean Dynamics |  |
+| [12.850](https://catalog.mit.edu/search/?P=12.850 "12.850") | Computational Ocean Modeling |  |
+| [12.853](https://catalog.mit.edu/search/?P=12.853 "12.853") | Advanced geophysical fluid dynamics |  |
+| [12.862](https://catalog.mit.edu/search/?P=12.862 "12.862") | Coastal Physical Oceanography |  |
+| [12.870](https://catalog.mit.edu/search/?P=12.870 "12.870") | Air-Sea Interaction: Boundary Layers |  |
+| _Physical Oceanography and Climate_1 |  |
+| [12.707](https://catalog.mit.edu/search/?P=12.707 "12.707") | The History of Earth's Climate |  |
+| [12.708](https://catalog.mit.edu/search/?P=12.708 "12.708") | Topics in Paleoceanography |  |
+| [12.740](https://catalog.mit.edu/search/?P=12.740 "12.740") | Paleoceanography |  |
+| 12.757 |  |  |
+| [12.802](https://catalog.mit.edu/search/?P=12.802 "12.802") | Waves, Instability and Turbulence at Small Scales |  |
+| [12.842](https://catalog.mit.edu/search/?P=12.842 "12.842") | Climate Science |  |
+| [12.860](https://catalog.mit.edu/search/?P=12.860 "12.860") | Climate Variability and Diagnostics |  |
+| [12.885\[J\]](https://catalog.mit.edu/search/?P=12.885 "12.885[J]") | Science, Politics, and Environmental Policy |  |
+| _Physical-Bio-Chemical Interactions_ |  |
+| [1.073](https://catalog.mit.edu/search/?P=1.073 "1.073") | Introduction to Environmental Data Analysis |  |
+| [2.29](https://catalog.mit.edu/search/?P=2.29 "2.29") | Numerical Fluid Mechanics |  |
+| [7.410](https://catalog.mit.edu/search/?P=7.410 "7.410") | Applied Statistics |  |
+| [7.430](https://catalog.mit.edu/search/?P=7.430 "7.430") | Topics in Quantitative Marine Science |  |
+| [7.431](https://catalog.mit.edu/search/?P=7.431 "7.431") | Topics in Marine Ecology |  |
+| [7.434](https://catalog.mit.edu/search/?P=7.434 "7.434") | Topics in Zooplankton Biology |  |
+| [7.435](https://catalog.mit.edu/search/?P=7.435 "7.435") | Topics in Benthic Biology |  |
+| [7.436](https://catalog.mit.edu/search/?P=7.436 "7.436") | Topics in Phytoplankton Biology |  |
+| [7.437](https://catalog.mit.edu/search/?P=7.437 "7.437") | Topics in Molecular Biological Oceanography |  |
+| [7.439](https://catalog.mit.edu/search/?P=7.439 "7.439") | Topics in Marine Microbiology |  |
+| [7.440](https://catalog.mit.edu/search/?P=7.440 "7.440") | An Introduction to Mathematical Ecology |  |
+| [12.702](https://catalog.mit.edu/search/?P=12.702 "12.702") | Elements of Modern Oceanography |  |
+| [12.714](https://catalog.mit.edu/search/?P=12.714 "12.714") | Computational Data Analysis |  |
+| [12.746](https://catalog.mit.edu/search/?P=12.746 "12.746") | Marine Organic Geochemistry |  |
+| [12.802](https://catalog.mit.edu/search/?P=12.802 "12.802") | Waves, Instability and Turbulence at Small Scales |  |
+| [12.805](https://catalog.mit.edu/search/?P=12.805 "12.805") | Data Analysis in Physical Oceanography |  |
+| [12.823](https://catalog.mit.edu/search/?P=12.823 "12.823") | Modeling the Biology and Physics of the Ocean |  |
+| _Coastal/Nearshore Physical Oceanography and Engineering_ |  |
+| [1.72](https://catalog.mit.edu/search/?P=1.72 "1.72") | Groundwater Hydrology |  |
+| [2.29](https://catalog.mit.edu/search/?P=2.29 "2.29") | Numerical Fluid Mechanics |  |
+| 12.754 |  |  |
+| [12.805](https://catalog.mit.edu/search/?P=12.805 "12.805") | Data Analysis in Physical Oceanography |  |
+| [12.820](https://catalog.mit.edu/search/?P=12.820 "12.820") | Turbulence in the Ocean and Atmosphere |  |
+| [12.850](https://catalog.mit.edu/search/?P=12.850 "12.850") | Computational Ocean Modeling |  |
+
+|     |     |
+| --- | --- |
+| _1_ | _Harvard subjects EPS 208 Physics of Climate and EPS 231 Climate Dynamics can also be used to fulfill this area requirement._ |
+
+Print Options
+
+
+[Send Page to Printer](https://catalog.mit.edu/degree-charts/phd-physical-oceanography/#)
+
+_Print this page._
+
+[Download PDF of this Page](https://catalog.mit.edu/degree-charts/phd-physical-oceanography/phd-physical-oceanography.pdf)
+
+_The PDF includes all information on this page and its related tabs. Subject (course) information includes any changes approved for the current academic year._
+
+[Download PDF of the Entire Catalog and/or Subject Descriptions](https://catalog.mit.edu/archive/)
+
+[Cancel](https://catalog.mit.edu/degree-charts/phd-physical-oceanography/#)

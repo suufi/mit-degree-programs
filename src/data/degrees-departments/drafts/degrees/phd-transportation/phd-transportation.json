@@ -1,0 +1,386 @@
+{
+  "schemaVersion": "2",
+  "program": "phd-transportation",
+  "title": "Transportation (PhD)",
+  "level": "graduate",
+  "complete": false,
+  "catalogSource": {
+    "url": "https://catalog.mit.edu/degree-charts/phd-transportation/",
+    "slug": "phd-transportation",
+    "scrapedAt": "2026-07-03",
+    "contentHash": "d37e860cdc8807a448176393ba689f3b253dc9fd1ceda8097c63b1409b174471"
+  },
+  "footnotes": [
+    {
+      "id": "1",
+      "text": "Taken twice for a total of 6 units."
+    },
+    {
+      "id": "2",
+      "text": "The Policy and Planning area also requires a written exam."
+    },
+    {
+      "id": "3",
+      "text": "Students who DO NOT take 1.260 to fulfill the Core requirement, must take either 15.764, or 15.762 and 15.763. Students who DO take 1.260 to fulfill the Core requirement must"
+    },
+    {
+      "id": "4",
+      "text": "Students who do NOT take 1.202 to fulfill the Core requirement must take 1.202, and either 1.205 or 14.382. Students who DO take 1.202 to fulfill the Core requirement must take either 1.205 and 14.382, or 1.205, 14.380, and 14.381."
+    },
+    {
+      "id": "5",
+      "text": "For either 14.380 and 14.381, or for 14.382, students can instead choose one of the following, more advanced subjects: 14.384 Time Series Analysis, 14.385 Nonlinear Econometric Analysis, or 14.386 New Econometric Methods."
+    },
+    {
+      "id": "6",
+      "text": "Students choose subjects in consultation with their advisor."
+    },
+    {
+      "id": "7",
+      "text": "Thesis units are based on the average duration of the doctoral program (five years) but will vary based on how long the student remains in the program."
+    }
+  ],
+  "constraints": [],
+  "requirements": [
+    {
+      "groupId": "phd-transportation-core-subjects",
+      "title": "Core Subjects",
+      "bucket": "departmental",
+      "subcategory": "required_subjects",
+      "flexibility": {
+        "advisorApproval": false,
+        "catalogText": "Computation/Analytics"
+      },
+      "root": {
+        "type": "group",
+        "ruleType": "all_of",
+        "items": [
+          {
+            "type": "subject",
+            "subjectId": "1.200"
+          },
+          {
+            "type": "subject",
+            "subjectId": "11.251"
+          },
+          {
+            "type": "selection",
+            "ruleType": "choose_one",
+            "itemsSource": "explicit",
+            "items": [
+              {
+                "type": "subject",
+                "subjectId": "1.144"
+              },
+              {
+                "type": "subject",
+                "subjectId": "1.202"
+              },
+              {
+                "type": "subject",
+                "subjectId": "1.208"
+              },
+              {
+                "type": "subject",
+                "subjectId": "1.260"
+              },
+              {
+                "type": "subject",
+                "subjectId": "11.478"
+              }
+            ]
+          },
+          {
+            "type": "selection",
+            "ruleType": "choose_units",
+            "ruleValue": 12,
+            "itemsSource": "advisor_defined",
+            "note": "Computation/Analytics",
+            "flexibility": {
+              "catalogText": "Computation/Analytics"
+            }
+          },
+          {
+            "type": "selection",
+            "ruleType": "choose_one",
+            "itemsSource": "explicit",
+            "items": [
+              {
+                "type": "group",
+                "ruleType": "all_of",
+                "items": [
+                  {
+                    "type": "subject",
+                    "subjectId": "1.C51"
+                  },
+                  {
+                    "type": "subject",
+                    "subjectId": "6.C51"
+                  }
+                ]
+              },
+              {
+                "type": "subject",
+                "subjectId": "6.3732"
+              },
+              {
+                "type": "subject",
+                "subjectId": "6.7900"
+              },
+              {
+                "type": "subject",
+                "subjectId": "6.7910"
+              },
+              {
+                "type": "subject",
+                "subjectId": "15.071"
+              },
+              {
+                "type": "subject",
+                "subjectId": "15.072"
+              }
+            ]
+          },
+          {
+            "type": "selection",
+            "ruleType": "choose_units",
+            "ruleValue": 24,
+            "itemsSource": "advisor_defined",
+            "note": "Core Research Area",
+            "flexibility": {
+              "catalogText": "Core Research Area"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "groupId": "phd-transportation-performance-and-optimization",
+      "title": "Performance and Optimization",
+      "bucket": "departmental",
+      "subcategory": "required_subjects",
+      "root": {
+        "type": "group",
+        "ruleType": "all_of",
+        "items": [
+          {
+            "type": "subject",
+            "subjectId": "1.208"
+          },
+          {
+            "type": "subject",
+            "subjectId": "6.7220"
+          },
+          {
+            "type": "subject",
+            "subjectId": "6.7260"
+          },
+          {
+            "type": "subject",
+            "subjectId": "6.7700"
+          },
+          {
+            "type": "subject",
+            "subjectId": "6.7720"
+          },
+          {
+            "type": "subject",
+            "subjectId": "15.081"
+          },
+          {
+            "type": "subject",
+            "subjectId": "15.081"
+          },
+          {
+            "type": "subject",
+            "subjectId": "15.094"
+          }
+        ]
+      }
+    },
+    {
+      "groupId": "phd-transportation-machine-learning-and-statistics",
+      "title": "Machine Learning and Statistics",
+      "bucket": "departmental",
+      "subcategory": "required_subjects",
+      "root": {
+        "type": "group",
+        "ruleType": "all_of",
+        "items": [
+          {
+            "type": "subject",
+            "subjectId": "1.127"
+          },
+          {
+            "type": "group",
+            "ruleType": "all_of",
+            "items": [
+              {
+                "type": "subject",
+                "subjectId": "1.C51"
+              },
+              {
+                "type": "subject",
+                "subjectId": "6.C51"
+              }
+            ]
+          },
+          {
+            "type": "subject",
+            "subjectId": "6.7250"
+          },
+          {
+            "type": "subject",
+            "subjectId": "6.7730"
+          },
+          {
+            "type": "subject",
+            "subjectId": "6.7800"
+          },
+          {
+            "type": "subject",
+            "subjectId": "6.7810"
+          },
+          {
+            "type": "subject",
+            "subjectId": "6.7900"
+          },
+          {
+            "type": "subject",
+            "subjectId": "6.7910"
+          },
+          {
+            "type": "subject",
+            "subjectId": "6.7960"
+          },
+          {
+            "type": "subject",
+            "subjectId": "6.8300"
+          },
+          {
+            "type": "subject",
+            "subjectId": "9.521"
+          },
+          {
+            "type": "subject",
+            "subjectId": "9.522"
+          },
+          {
+            "type": "subject",
+            "subjectId": "15.095"
+          }
+        ]
+      }
+    },
+    {
+      "groupId": "phd-transportation-planning-and-policy-2",
+      "title": "_Planning and Policy_2",
+      "bucket": "departmental",
+      "subcategory": "required_subjects",
+      "root": {
+        "type": "group",
+        "ruleType": "all_of",
+        "items": [
+          {
+            "type": "subject",
+            "subjectId": "11.478"
+          },
+          {
+            "type": "subject",
+            "subjectId": "11.526"
+          },
+          {
+            "type": "subject",
+            "subjectId": "11.540"
+          }
+        ]
+      }
+    },
+    {
+      "groupId": "phd-transportation-logistics-3",
+      "title": "_Logistics_3",
+      "bucket": "departmental",
+      "subcategory": "required_subjects",
+      "root": {
+        "type": "group",
+        "ruleType": "all_of",
+        "items": [
+          {
+            "type": "subject",
+            "subjectId": "1.260"
+          },
+          {
+            "type": "subject",
+            "subjectId": "15.764"
+          },
+          {
+            "type": "group",
+            "ruleType": "all_of",
+            "items": [
+              {
+                "type": "subject",
+                "subjectId": "15.762"
+              },
+              {
+                "type": "subject",
+                "subjectId": "15.763"
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "groupId": "phd-transportation-demand-4",
+      "title": "_Demand_4",
+      "bucket": "departmental",
+      "subcategory": "required_subjects",
+      "root": {
+        "type": "group",
+        "ruleType": "all_of",
+        "items": [
+          {
+            "type": "subject",
+            "subjectId": "1.202"
+          },
+          {
+            "type": "subject",
+            "subjectId": "1.205"
+          },
+          {
+            "type": "group",
+            "ruleType": "all_of",
+            "items": [
+              {
+                "type": "subject",
+                "subjectId": "14.380"
+              },
+              {
+                "type": "subject",
+                "subjectId": "14.381"
+              }
+            ]
+          },
+          {
+            "type": "subject",
+            "subjectId": "14.382"
+          }
+        ]
+      }
+    },
+    {
+      "groupId": "phd-transportation-thesis",
+      "title": "Thesis",
+      "bucket": "thesis",
+      "subcategory": "thesis",
+      "root": {
+        "type": "subject",
+        "subjectId": "1.THG"
+      }
+    }
+  ],
+  "status": "draft",
+  "revisionId": "phd-transportation-2026-07-03-d37e860c",
+  "catalogYear": "2026",
+  "effectiveTerm": "2026-FA"
+}

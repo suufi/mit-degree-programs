@@ -1,0 +1,149 @@
+Degree Charts
+
+- [Home](https://catalog.mit.edu/) >
+- [Degree Charts](https://catalog.mit.edu/degree-charts/) >
+- Artificial Intelligence and Decision Making (SB, Course 6-4)
+
+# Artificial Intelligence and Decision Making (Course 6-4)
+
+[Department of Electrical Engineering and Computer Science](https://catalog.mit.edu/schools/engineering/electrical-engineering-computer-science/#text)
+
+## Bachelor of Science in Artificial Intelligence and Decision Making
+
+### General Institute Requirements (GIRs)
+
+The General Institute Requirements include a Communication Requirement that is integrated into both the HASS Requirement and the requirements of each major; see details below.
+
+| Summary of Subject Requirements | Subjects |
+| --- | --- |
+| Science Requirement | 6 |
+| Humanities, Arts, and Social Sciences (HASS) Requirement; at least two of these subjects must be designated as communication-intensive (CI-H) to fulfill the Communication Requirement. | 8 |
+| Restricted Electives in Science and Technology (REST) Requirement \[satisfied by [6.1200\[J\]](https://catalog.mit.edu/search/?P=6.1200 "6.1200[J]") and [18.C06\[J\]](https://catalog.mit.edu/search/?P=18.C06 "18.C06[J]") in the Departmental Program\] | 2 |
+| Laboratory Requirement (12 units) \[satisfied by [6.1010](https://catalog.mit.edu/search/?P=6.1010 "6.1010") in the Departmental Program\] | 1 |
+| **Total GIR Subjects Required for SB Degree** | **17** |
+
+| Physical Education Requirement |  |
+| --- | --- |
+| Swimming requirement, plus four physical education courses for eight points. |  |
+
+### Departmental Program
+
+Choose at least two subjects in the major that are designated as communication-intensive (CI-M) to fulfill the Communication Requirement.
+
+|     |     |     |
+| --- | --- | --- |
+| Fundamentals | **Units** |
+| _Choose 12 units of the following:_ | 12 |
+| [6.1000](https://catalog.mit.edu/search/?P=6.1000 "6.1000") | Introduction to Programming and Computer Science |  |
+| [6.100A](https://catalog.mit.edu/search/?P=6.100A "6.100A")<br>& [6.100B](https://catalog.mit.edu/search/?P=6.100B "6.100B") | Introduction to Computer Science Programming in Python<br>and Introduction to Computational Thinking and Data Science |  |
+| [6.100A](https://catalog.mit.edu/search/?P=6.100A "6.100A")<br>& [16.C20\[J\]](https://catalog.mit.edu/search/?P=16.C20 "16.C20[J]") | Introduction to Computer Science Programming in Python<br>and Introduction to Computational Science and Engineering |  |
+| [6.1010](https://catalog.mit.edu/search/?P=6.1010 "6.1010") | Fundamentals of Programming | 12 |
+| [6.1200\[J\]](https://catalog.mit.edu/search/?P=6.1200 "6.1200[J]") | Mathematics for Computer Science | 12 |
+| [6.1210](https://catalog.mit.edu/search/?P=6.1210 "6.1210") | Introduction to Algorithms | 12 |
+| [18.C06\[J\]](https://catalog.mit.edu/search/?P=18.C06 "18.C06[J]") | Linear Algebra and Optimization | 12 |
+| or [18.06](https://catalog.mit.edu/search/?P=18.06 "18.06") | Linear Algebra |
+| _Select one of the following:_ | 12 |
+| [6.3700](https://catalog.mit.edu/search/?P=6.3700 "6.3700") | Introduction to Probability |  |
+| [6.3800](https://catalog.mit.edu/search/?P=6.3800 "6.3800") | Introduction to Inference |  |
+| [18.05](https://catalog.mit.edu/search/?P=18.05 "18.05") | Introduction to Probability and Statistics |  |
+| Centers |  |
+| _Select five subjects, including one from each area:_ | 60 |
+| Data-centric |  |
+| [6.3720](https://catalog.mit.edu/search/?P=6.3720 "6.3720") | Introduction to Statistical Data Analysis |  |
+| [6.3900](https://catalog.mit.edu/search/?P=6.3900 "6.3900") | Introduction to Machine Learning |  |
+| [6.C01](https://catalog.mit.edu/search/?P=6.C01 "6.C01")<br>& [C011](https://catalog.mit.edu/search/?P=6.C011 "6.C011") | Modeling with Machine Learning: from Algorithms to Applications<br>and Modeling with Machine Learning for Computer Science |  |
+| Model-centric |  |
+| [6.3000](https://catalog.mit.edu/search/?P=6.3000 "6.3000") | Signal Processing |  |
+| [6.3100](https://catalog.mit.edu/search/?P=6.3100 "6.3100") | Dynamical System Modeling and Control Design |  |
+| [6.4110](https://catalog.mit.edu/search/?P=6.4110 "6.4110") | Representation, Inference, and Reasoning in AI 1 |  |
+| [6.4420\[J\]](https://catalog.mit.edu/search/?P=6.4420 "6.4420[J]") | Computational Design and Fabrication |  |
+| [6.4400](https://catalog.mit.edu/search/?P=6.4400 "6.4400") | Computer Graphics 2 |  |
+| Decision-centric |  |
+| [6.3100](https://catalog.mit.edu/search/?P=6.3100 "6.3100") | Dynamical System Modeling and Control Design |  |
+| [6.4110](https://catalog.mit.edu/search/?P=6.4110 "6.4110") | Representation, Inference, and Reasoning in AI 1 |  |
+| [6.C571\[J\]](https://catalog.mit.edu/search/?P=6.C571 "6.C571[J]") | Optimization Methods 3 |  |
+| Computation-centric |  |
+| [6.1220\[J\]](https://catalog.mit.edu/search/?P=6.1220 "6.1220[J]") | Design and Analysis of Algorithms |  |
+| [6.1400\[J\]](https://catalog.mit.edu/search/?P=6.1400 "6.1400[J]") | Computability and Complexity Theory |  |
+| [6.4400](https://catalog.mit.edu/search/?P=6.4400 "6.4400") | Computer Graphics 2 |  |
+| [6.C571\[J\]](https://catalog.mit.edu/search/?P=6.C571 "6.C571[J]") | Optimization Methods 3 |  |
+| Human-centric |  |
+| [6.3260\[J\]](https://catalog.mit.edu/search/?P=6.3260 "6.3260[J]") | Networks |  |
+| [6.3950](https://catalog.mit.edu/search/?P=6.3950 "6.3950") | AI, Decision Making, and Society |  |
+| [6.4120\[J\]](https://catalog.mit.edu/search/?P=6.4120 "6.4120[J]") | Computational Cognitive Science |  |
+| [6.4590\[J\]](https://catalog.mit.edu/search/?P=6.4590 "6.4590[J]") | Foundations of Information Policy |  |
+| [6.C35\[J\]](https://catalog.mit.edu/search/?P=6.C35 "6.C35[J]") | Interactive Data Visualization and Society |  |
+| Communication-intensive in the Major |  |
+| _Select one of the following Application CI-M subjects:_ | 12-15 |
+| [6.4200\[J\]](https://catalog.mit.edu/search/?P=6.4200 "6.4200[J]") | Robotics: Science and Systems (CI-M) |  |
+| [6.4210](https://catalog.mit.edu/search/?P=6.4210 "6.4210") | Robotic Manipulation (CI-M) |  |
+| [6.8611](https://catalog.mit.edu/search/?P=6.8611 "6.8611") | Quantitative Methods for Natural Language Processing (CI-M) |  |
+| Electives |  |
+| One subject that satisfies a degree requirement in Course 6 or Course 18 | 12-15 |
+| One subject from the list of AI+D Advanced Undergraduate Subjects | 12-15 |
+| _Students must satisfy at least one program requirement or elective with a second CI-M subject (beyond the application CI-M requirement) from the department's CIM2 list._ |  |
+| Social and Ethical Responsibilities of Computing (SERC) |  |
+| _Students must satisfy at least one program requirement or elective with a subject from the SERC-qualified subjects listed below._ |  |
+| Units in Major | 168-177 |
+| Unrestricted Electives | 48 |
+| Units in Major That Also Satisfy the GIRs | (36) |
+| Total Units Beyond the GIRs Required for SB Degree | 180-189 |
+
+The units for any subject that counts as one of the 17 GIR subjects cannot also be counted as units required beyond the GIRs.
+
+|     |     |
+| --- | --- |
+| _1_ | _[6.4110](https://catalog.mit.edu/search/?P=6.4110 "6.4110") Representation, Inference, and Reasoning in AI may count toward models or decision-centric, but not both._ |
+| _2_ | _[6.4400](https://catalog.mit.edu/search/?P=6.4400 "6.4400") Computer Graphics may count toward model-centric or computation-centric, but not both._ |
+| _3_ | _[6.C571\[J\]](https://catalog.mit.edu/search/?P=6.C571 "6.C571[J]") Optimization Methods may count toward decision-centric or computation-centric, but not both._ |
+| _4_ | _Subject has prerequisites that are outside the program._ |
+
+#### AI+D Advanced Undergraduate Subjects
+
+|     |     |     |
+| --- | --- | --- |
+| [6.3020\[J\]](https://catalog.mit.edu/search/?P=6.3020 "6.3020[J]") | Fundamentals of Music Processing | 12 |
+| [6.3730\[J\]](https://catalog.mit.edu/search/?P=6.3730 "6.3730[J]") | Statistics, Computation and Applications | 12 |
+| [6.4210](https://catalog.mit.edu/search/?P=6.4210 "6.4210") | Robotic Manipulation | 15 |
+| [6.4300](https://catalog.mit.edu/search/?P=6.4300 "6.4300") | Introduction to Computer Vision | 12 |
+| [6.5151](https://catalog.mit.edu/search/?P=6.5151 "6.5151") | Large-scale Symbolic Systems | 12 |
+| [6.5831](https://catalog.mit.edu/search/?P=6.5831 "6.5831") | Database Systems | 12 |
+| [6.5931](https://catalog.mit.edu/search/?P=6.5931 "6.5931") | Hardware Architecture for Deep Learning | 12 |
+| [6.7411](https://catalog.mit.edu/search/?P=6.7411 "6.7411") | Principles of Digital Communication | 12 |
+| [6.8371](https://catalog.mit.edu/search/?P=6.8371 "6.8371") | Digital and Computational Photography | 12 |
+| [6.8611](https://catalog.mit.edu/search/?P=6.8611 "6.8611") | Quantitative Methods for Natural Language Processing | 15 |
+| [6.8701\[J\]](https://catalog.mit.edu/search/?P=6.8701 "6.8701[J]") | Computational Biology: Genomes, Networks, Evolution | 12 |
+| [6.8711\[J\]](https://catalog.mit.edu/search/?P=6.8711 "6.8711[J]") | Computational Systems Biology: Deep Learning in the Life Sciences | 12 |
+| [6.8801\[J\]](https://catalog.mit.edu/search/?P=6.8801 "6.8801[J]") | Biomedical Signal and Image Processing | 12 |
+| [18.404](https://catalog.mit.edu/search/?P=18.404 "18.404") | Theory of Computation | 12 |
+
+#### Social and Ethical Responsibilities of Computing (SERC) Subjects
+
+|     |     |     |
+| --- | --- | --- |
+| [6.3900](https://catalog.mit.edu/search/?P=6.3900 "6.3900") | Introduction to Machine Learning | 12 |
+| [6.3950](https://catalog.mit.edu/search/?P=6.3950 "6.3950") | AI, Decision Making, and Society | 12 |
+| [6.4300](https://catalog.mit.edu/search/?P=6.4300 "6.4300") | Introduction to Computer Vision | 12 |
+| [6.4590\[J\]](https://catalog.mit.edu/search/?P=6.4590 "6.4590[J]") | Foundations of Information Policy | 12 |
+| [6.8611](https://catalog.mit.edu/search/?P=6.8611 "6.8611") | Quantitative Methods for Natural Language Processing | 15 |
+| [6.C01](https://catalog.mit.edu/search/?P=6.C01 "6.C01") | Modeling with Machine Learning: from Algorithms to Applications 1 | 6 |
+| [6.C40\[J\]](https://catalog.mit.edu/search/?P=6.C40 "6.C40[J]") | Ethics of Computing | 12 |
+
+|     |     |
+| --- | --- |
+| _1_ | _Credit cannot be awarded without simultaneous completion of a 6-unit disciplinary module. Consult advisor._ |
+
+Print Options
+
+
+[Send Page to Printer](https://catalog.mit.edu/degree-charts/artifical-intelligence-decision-making-course-6-4/#)
+
+_Print this page._
+
+[Download PDF of this Page](https://catalog.mit.edu/degree-charts/artifical-intelligence-decision-making-course-6-4/artifical-intelligence-decision-making-course-6-4.pdf)
+
+_The PDF includes all information on this page and its related tabs. Subject (course) information includes any changes approved for the current academic year._
+
+[Download PDF of the Entire Catalog and/or Subject Descriptions](https://catalog.mit.edu/archive/)
+
+[Cancel](https://catalog.mit.edu/degree-charts/artifical-intelligence-decision-making-course-6-4/#)

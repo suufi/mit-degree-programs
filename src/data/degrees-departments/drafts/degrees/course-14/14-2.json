@@ -1,0 +1,189 @@
+{
+  "schemaVersion": "2",
+  "program": "14-2",
+  "title": "Mathematical Economics (Course 14-2)",
+  "level": "undergraduate",
+  "complete": false,
+  "includesGir": "sb",
+  "catalogSource": {
+    "url": "https://catalog.mit.edu/degree-charts/mathematical-economics-course-14-2/",
+    "slug": "mathematical-economics-course-14-2",
+    "scrapedAt": "2026-07-03",
+    "contentHash": "6b0e1f9e789a460d9826a8014fbe7495c2151f149a2670224dbf3b55fc2e8b12"
+  },
+  "girCrosswalk": [
+    {
+      "subjectId": "14.30",
+      "satisfies": [
+        "rest"
+      ],
+      "note": "Also satisfies REST via departmental program."
+    },
+    {
+      "subjectId": "18.03",
+      "satisfies": [
+        "rest"
+      ],
+      "note": "Also satisfies REST via departmental program."
+    },
+    {
+      "subjectId": "18.06",
+      "satisfies": [
+        "rest"
+      ],
+      "note": "Also satisfies REST via departmental program."
+    },
+    {
+      "subjectId": "14.32",
+      "satisfies": [
+        "lab"
+      ],
+      "note": "Also satisfies Laboratory Requirement via departmental program."
+    }
+  ],
+  "footnotes": [
+    {
+      "id": "1",
+      "text": "Alternative versions of this subject, 18.100B, 18.100P, and 18.100Q, also satisfy this requirement."
+    },
+    {
+      "id": "2",
+      "text": "Subject has prerequisites that are outside of the program."
+    }
+  ],
+  "constraints": [],
+  "requirements": [
+    {
+      "groupId": "14-2-required-subjects",
+      "title": "Required Subjects",
+      "bucket": "departmental",
+      "subcategory": "required_subjects",
+      "root": {
+        "type": "group",
+        "ruleType": "all_of",
+        "items": [
+          {
+            "type": "subject",
+            "subjectId": "14.01"
+          },
+          {
+            "type": "subject",
+            "subjectId": "14.02"
+          },
+          {
+            "type": "subject",
+            "subjectId": "14.30"
+          },
+          {
+            "type": "subject",
+            "subjectId": "14.32"
+          },
+          {
+            "type": "subject",
+            "subjectId": "18.100A"
+          },
+          {
+            "type": "subject",
+            "subjectId": "18.03"
+          },
+          {
+            "type": "selection",
+            "ruleType": "choose_one",
+            "itemsSource": "explicit",
+            "items": [
+              {
+                "type": "subject",
+                "subjectId": "18.06"
+              }
+            ]
+          },
+          {
+            "type": "selection",
+            "ruleType": "choose_one",
+            "itemsSource": "explicit",
+            "items": [
+              {
+                "type": "subject",
+                "subjectId": "14.12"
+              },
+              {
+                "type": "subject",
+                "subjectId": "14.04"
+              },
+              {
+                "type": "subject",
+                "subjectId": "14.15"
+              },
+              {
+                "type": "subject",
+                "subjectId": "14.19"
+              }
+            ]
+          },
+          {
+            "type": "selection",
+            "ruleType": "choose_one",
+            "itemsSource": "explicit",
+            "items": [
+              {
+                "type": "subject",
+                "subjectId": "14.05"
+              },
+              {
+                "type": "subject",
+                "subjectId": "14.18"
+              },
+              {
+                "type": "subject",
+                "subjectId": "14.33"
+              },
+              {
+                "type": "subject",
+                "subjectId": "14.35"
+              }
+            ]
+          },
+          {
+            "type": "selection",
+            "ruleType": "choose_one",
+            "itemsSource": "explicit",
+            "items": [
+              {
+                "type": "subject",
+                "subjectId": "18.104"
+              },
+              {
+                "type": "subject",
+                "subjectId": "18.504"
+              },
+              {
+                "type": "subject",
+                "subjectId": "18.784"
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "groupId": "14-2-restricted-electives",
+      "title": "Restricted Electives",
+      "bucket": "elective",
+      "subcategory": "restricted_electives",
+      "flexibility": {
+        "catalogText": "Select three additional subjects in mathematics and economics, with at least one subject in each discipline."
+      },
+      "root": {
+        "type": "selection",
+        "ruleType": "choose_units",
+        "ruleValue": 36,
+        "itemsSource": "shared_list",
+        "sharedListId": "14-2.restricted-electives-in-economics"
+      }
+    }
+  ],
+  "status": "draft",
+  "revisionId": "14-2-2026-07-03-6b0e1f9e",
+  "catalogYear": "2026",
+  "effectiveTerm": "2026-FA"
+}

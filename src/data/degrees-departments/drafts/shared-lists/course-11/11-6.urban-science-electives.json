@@ -1,0 +1,112 @@
+{
+  "sharedListId": "11-6.urban-science-electives",
+  "program": "11-6",
+  "title": "Urban Science Electives",
+  "items": [
+    {
+      "type": "subject",
+      "subjectId": "2.00A"
+    },
+    {
+      "type": "subject",
+      "subjectId": "4.032"
+    },
+    {
+      "type": "subject",
+      "subjectId": "4.432"
+    },
+    {
+      "type": "subject",
+      "subjectId": "6.4590"
+    },
+    {
+      "type": "subject",
+      "subjectId": "11.007"
+    },
+    {
+      "type": "subject",
+      "subjectId": "11.008"
+    },
+    {
+      "type": "subject",
+      "subjectId": "11.024"
+    },
+    {
+      "type": "subject",
+      "subjectId": "11.029"
+    },
+    {
+      "type": "subject",
+      "subjectId": "11.074"
+    },
+    {
+      "type": "subject",
+      "subjectId": "11.100"
+    },
+    {
+      "type": "subject",
+      "subjectId": "11.111"
+    },
+    {
+      "type": "subject",
+      "subjectId": "11.113"
+    },
+    {
+      "type": "subject",
+      "subjectId": "11.123"
+    },
+    {
+      "type": "subject",
+      "subjectId": "11.137"
+    },
+    {
+      "type": "subject",
+      "subjectId": "11.138"
+    },
+    {
+      "type": "subject",
+      "subjectId": "11.148"
+    },
+    {
+      "type": "subject",
+      "subjectId": "11.149"
+    },
+    {
+      "type": "subject",
+      "subjectId": "11.C35"
+    },
+    {
+      "type": "subject",
+      "subjectId": "11.154"
+    },
+    {
+      "type": "subject",
+      "subjectId": "11.155"
+    },
+    {
+      "type": "subject",
+      "subjectId": "11.156"
+    },
+    {
+      "type": "subject",
+      "subjectId": "11.158"
+    },
+    {
+      "type": "subject",
+      "subjectId": "11.165"
+    },
+    {
+      "type": "subject",
+      "subjectId": "11.169"
+    },
+    {
+      "type": "subject",
+      "subjectId": "12.010"
+    },
+    {
+      "type": "subject",
+      "subjectId": "15.276"
+    }
+  ],
+  "version": "1"
+}

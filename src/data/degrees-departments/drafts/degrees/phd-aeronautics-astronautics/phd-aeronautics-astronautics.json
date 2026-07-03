@@ -1,0 +1,100 @@
+{
+  "schemaVersion": "2",
+  "program": "phd-aeronautics-astronautics",
+  "title": "Aeronautics and Astronautics Fields (PhD/ScD)",
+  "level": "graduate",
+  "complete": false,
+  "catalogSource": {
+    "url": "https://catalog.mit.edu/degree-charts/phd-aeronautics-astronautics/",
+    "slug": "phd-aeronautics-astronautics",
+    "scrapedAt": "2026-07-03",
+    "contentHash": "58f2b0b4df9ae415e6d095fd439e199b8ff8efd302b0ed62e6040f2e5ac0558f"
+  },
+  "footnotes": [
+    {
+      "id": "1",
+      "text": "Students should consult the department's list of subjects that fulfill the math requirement, which is updated annually. The subjects used to fulfill the math requirement can also be part of the major or minor field of study, but must total 24 units."
+    },
+    {
+      "id": "2",
+      "text": "Students must register for thesis units every semester they are in the program as they complete appropriate milestones, including passing the doctoral qualifying process, forming a doctoral committee, writing and successfully defending a thesis proposal, writing and successfully defending the thesis, and submission of a final, approved thesis document. The units listed here represent an average number taken during the 3–4 year duration of the doctoral program."
+    }
+  ],
+  "constraints": [],
+  "requirements": [
+    {
+      "groupId": "phd-aeronautics-astronautics-required-subjects",
+      "title": "Required Subjects",
+      "bucket": "departmental",
+      "subcategory": "required_subjects",
+      "flexibility": {
+        "advisorApproval": false,
+        "catalogText": "Major Field of Study"
+      },
+      "root": {
+        "type": "group",
+        "ruleType": "all_of",
+        "items": [
+          {
+            "type": "subject",
+            "subjectId": "16.987"
+          },
+          {
+            "type": "selection",
+            "ruleType": "choose_units",
+            "ruleValue": 60,
+            "itemsSource": "advisor_defined",
+            "note": "Major Field of Study",
+            "flexibility": {
+              "catalogText": "Major Field of Study"
+            }
+          },
+          {
+            "type": "selection",
+            "ruleType": "choose_units",
+            "ruleValue": 30,
+            "itemsSource": "advisor_defined",
+            "note": "Minor Program of Study",
+            "flexibility": {
+              "catalogText": "Minor Program of Study"
+            }
+          },
+          {
+            "type": "selection",
+            "ruleType": "choose_units",
+            "ruleValue": 24,
+            "itemsSource": "advisor_defined",
+            "note": "Math Requirement",
+            "flexibility": {
+              "catalogText": "Math Requirement"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "groupId": "phd-aeronautics-astronautics-research-and-thesis",
+      "title": "Research and Thesis",
+      "bucket": "thesis",
+      "subcategory": "thesis",
+      "root": {
+        "type": "group",
+        "ruleType": "all_of",
+        "items": [
+          {
+            "type": "subject",
+            "subjectId": "16.995"
+          },
+          {
+            "type": "subject",
+            "subjectId": "16.THG"
+          }
+        ]
+      }
+    }
+  ],
+  "status": "draft",
+  "revisionId": "phd-aeronautics-astronautics-2026-07-03-58f2b0b4",
+  "catalogYear": "2026",
+  "effectiveTerm": "2026-FA"
+}

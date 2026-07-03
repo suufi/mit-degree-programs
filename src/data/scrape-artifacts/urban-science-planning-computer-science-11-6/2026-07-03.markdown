@@ -1,0 +1,184 @@
+Degree Charts
+
+- [Home](https://catalog.mit.edu/) >
+- [Degree Charts](https://catalog.mit.edu/degree-charts/) >
+- Urban Science and Planning with Computer Science (SB, Course 11-6)
+
+# Urban Science and Planning with Computer Science (Course 11-6)
+
+[Department of Urban Studies and Planning](https://catalog.mit.edu/schools/architecture-planning/urban-studies-planning/)
+
+[Department of Electrical Engineering and Computer Science](https://catalog.mit.edu/schools/engineering/electrical-engineering-computer-science/)
+
+## Bachelor of Science in Urban Science and Planning with Computer Science
+
+### General Institute Requirements (GIRs)
+
+The General Institute Requirements include a Communication Requirement that is integrated into both the HASS Requirement and the requirements of each major; see details below.
+
+| Summary of Subject Requirements | Subjects |
+| --- | --- |
+| Science Requirement | 6 |
+| Humanities, Arts, and Social Sciences (HASS) Requirement \[two subjects satisfied by [11.001\[J\]](https://catalog.mit.edu/search/?P=11.001 "11.001[J]") and the required Policy/Ethics subjects (all HASS); additional HASS units may be included in urban science electives\]; at least two of these subjects must be designated as communication-intensive (CI-H) to fulfill the Communication Requirement. | 8 |
+| Restricted Electives in Science and Technology (REST) Requirement \[can be satisfied from among [6.100A](https://catalog.mit.edu/search/?P=6.100A "6.100A") and [6.100B](https://catalog.mit.edu/search/?P=6.100B "6.100B") or [16.C20\[J\]](https://catalog.mit.edu/search/?P=16.C20 "16.C20[J]") and [6.1200\[J\]](https://catalog.mit.edu/search/?P=6.1200 "6.1200[J]") (if taken under joint number [18.062\[J\]](https://catalog.mit.edu/search/?P=18.062 "18.062[J]")) in the Departmental Program\] | 2 |
+| Laboratory Requirement (12 units) \[can be satisfied from among [6.1010](https://catalog.mit.edu/search/?P=6.1010 "6.1010"), [6.3800](https://catalog.mit.edu/search/?P=6.3800 "6.3800"), and [11.188](https://catalog.mit.edu/search/?P=11.188 "11.188") in the Departmental Program\] | 1 |
+| **Total GIR Subjects Required for SB Degree** | **17** |
+
+| Physical Education Requirement |  |
+| --- | --- |
+| Swimming requirement, plus four physical education courses for eight points. |  |
+
+### Departmental Program
+
+Choose at least two subjects in the major that are designated as communication-intensive (CI-M) to fulfill the Communication Requirement.
+
+|     |     |     |
+| --- | --- | --- |
+| Computer Science Requirements | **Units** |
+| [6.100A](https://catalog.mit.edu/search/?P=6.100A "6.100A") | Introduction to Computer Science Programming in Python | 6 |
+| [6.100B](https://catalog.mit.edu/search/?P=6.100B "6.100B") | Introduction to Computational Thinking and Data Science | 6 |
+| or [16.C20\[J\]](https://catalog.mit.edu/search/?P=16.C20 "16.C20[J]") | Introduction to Computational Science and Engineering |
+| [6.1010](https://catalog.mit.edu/search/?P=6.1010 "6.1010") | Fundamentals of Programming | 12 |
+| [6.1200\[J\]](https://catalog.mit.edu/search/?P=6.1200 "6.1200[J]") | Mathematics for Computer Science | 12 |
+| [6.1210](https://catalog.mit.edu/search/?P=6.1210 "6.1210") | Introduction to Algorithms | 12 |
+| _Select one of the following options:_ | 12-24 |
+| Option 1 (12 units) |  |
+| [6.3800](https://catalog.mit.edu/search/?P=6.3800 "6.3800") | Introduction to Inference |  |
+| Option 2 (24 units) |  |
+| [18.06](https://catalog.mit.edu/search/?P=18.06 "18.06") | Linear Algebra |  |
+| or [18.C06\[J\]](https://catalog.mit.edu/search/?P=18.C06 "18.C06[J]") | Linear Algebra and Optimization |
+| [6.3900](https://catalog.mit.edu/search/?P=6.3900 "6.3900") | Introduction to Machine Learning |  |
+| Urban Planning Requirements |  |
+| [11.001\[J\]](https://catalog.mit.edu/search/?P=11.001 "11.001[J]") | Introduction to Urban Design and Development | 12 |
+| [11.188](https://catalog.mit.edu/search/?P=11.188 "11.188") | Introduction to Spatial Analysis and GIS Laboratory (CI-M) | 12 |
+| _Select one of the following options:_ | 12 |
+| [6.4590\[J\]](https://catalog.mit.edu/search/?P=6.4590 "6.4590[J]") | Foundations of Information Policy |  |
+| [11.002\[J\]](https://catalog.mit.edu/search/?P=11.002 "11.002[J]") | Making Public Policy |  |
+| [11.011](https://catalog.mit.edu/search/?P=11.011 "11.011") | The Art and Science of Negotiation |  |
+| [11.165](https://catalog.mit.edu/search/?P=11.165 "11.165") | Urban Energy Systems and Policy 1 |  |
+| Urban Technology Workshop |  |
+| _Select one of the following options:_ | 12 |
+| [11.007](https://catalog.mit.edu/search/?P=11.007 "11.007") | Urban and Environmental Technology Implementation Lab 2 |  |
+| [11.138](https://catalog.mit.edu/search/?P=11.138 "11.138") | Crowd Sourced City: Civic Tech Prototyping 2 |  |
+| [11.154](https://catalog.mit.edu/search/?P=11.154 "11.154") | Big Data, Visualization, and Society 2,3 |  |
+| [11.C35\[J\]](https://catalog.mit.edu/search/?P=11.C35 "11.C35[J]") | Interactive Data Visualization and Society 2,3 |  |
+| Senior Thesis/Project |  |
+| _Majors are required to write a senior thesis or complete a senior project. Select one of the following options:_ | 18 |
+| Option 1 |  |
+| No more than 6 units of any MIT UROP; AND |  |
+| [6.UAR\[J\]](https://catalog.mit.edu/search/?P=6.UAR "6.UAR[J]") | Seminar in Undergraduate Advanced Research (CI-M) |  |
+| or [11.UAR\[J\]](https://catalog.mit.edu/search/?P=11.UAR "11.UAR[J]") | Climate and Sustainability Undergraduate Advanced Research |
+| Option 2 |  |
+| [11.THT\[J\]](https://catalog.mit.edu/search/?P=11.THT "11.THT[J]") | Thesis Research Design Seminar (CI-M) |  |
+| [11.THU](https://catalog.mit.edu/search/?P=11.THU "11.THU") | Undergraduate Thesis |  |
+| Electives |  |
+| Select Computer Science Electives for a minimum of 27 units from the list below | 27 |
+| Select Urban Science Electives for a minimum of 30 units from the list below | 30 |
+| Units in Major | 183-195 |
+| Unrestricted Electives | 48-57 |
+| Units in Major That Also Satisfy the GIRs | (48-60) |
+| Total Units Beyond the GIRs Required for SB Degree | 180-195 |
+
+The units for any subject that counts as one of the 17 GIR subjects cannot also be counted as units required beyond the GIRs.
+
+|     |     |
+| --- | --- |
+| _1_ | _[6.4590\[J\]](https://catalog.mit.edu/search/?P=6.4590 "6.4590[J]") and [11.165](https://catalog.mit.edu/search/?P=11.165) can count towards either the Urban Planning Requirements or the Urban Science Electives, but not both._ |
+| _2_ | _[11.007](https://catalog.mit.edu/search/?P=11.007), [11.138](https://catalog.mit.edu/search/?P=11.0138), [11.154](https://catalog.mit.edu/search/?P=11.154), and [11.C35](https://catalog.mit.edu/search/?P=11.C35) can count towards the Urban Technology Workshop or the Urban Science Electives, but not both._ |
+| _3_ | _If you take both [11.154](https://catalog.mit.edu/search/?P=11.154) and [11.C35](https://catalog.mit.edu/search/?P=11.C35), you may only count one of the classes towards all your major requirements._ |
+
+### Computer Science Electives
+
+|     |     |     |
+| --- | --- | --- |
+| [6.1020](https://catalog.mit.edu/search/?P=6.1020 "6.1020") | Software Construction | 15 |
+| [6.1040](https://catalog.mit.edu/search/?P=6.1040 "6.1040") | Software Design | 18 |
+| [6.1060](https://catalog.mit.edu/search/?P=6.1060 "6.1060") | Software Performance Engineering | 18 |
+| [6.1100](https://catalog.mit.edu/search/?P=6.1100 "6.1100") | Computer Language Engineering | 12 |
+| [6.1120](https://catalog.mit.edu/search/?P=6.1120 "6.1120") | Dynamic Computer Language Engineering | 12 |
+| [6.1220\[J\]](https://catalog.mit.edu/search/?P=6.1220 "6.1220[J]") | Design and Analysis of Algorithms | 12 |
+| [6.1600](https://catalog.mit.edu/search/?P=6.1600 "6.1600") | Foundations of Computer Security | 12 |
+| [6.1800](https://catalog.mit.edu/search/?P=6.1800 "6.1800") | Computer Systems Engineering | 12 |
+| [6.1820\[J\]](https://catalog.mit.edu/search/?P=6.1820 "6.1820[J]") | Mobile and Sensor Computing | 12 |
+| [6.1850](https://catalog.mit.edu/search/?P=6.1850 "6.1850") | Computer Systems and Society | 12 |
+| [6.1910](https://catalog.mit.edu/search/?P=6.1910 "6.1910") | Computation Structures | 12 |
+| [6.1920](https://catalog.mit.edu/search/?P=6.1920 "6.1920") | Constructive Computer Architecture | 12 |
+| [6.3260\[J\]](https://catalog.mit.edu/search/?P=6.3260 "6.3260[J]") | Networks | 12 |
+| [6.3720](https://catalog.mit.edu/search/?P=6.3720 "6.3720") | Introduction to Statistical Data Analysis | 12 |
+| [6.3730\[J\]](https://catalog.mit.edu/search/?P=6.3730 "6.3730[J]") | Statistics, Computation and Applications | 12 |
+| [6.4130\[J\]](https://catalog.mit.edu/search/?P=6.4130 "6.4130[J]") | Principles of Autonomy and Decision Making | 12 |
+| [6.4210](https://catalog.mit.edu/search/?P=6.4210 "6.4210") | Robotic Manipulation | 15 |
+| [6.4400](https://catalog.mit.edu/search/?P=6.4400 "6.4400") | Computer Graphics | 12 |
+| [6.4510](https://catalog.mit.edu/search/?P=6.4510 "6.4510") | Engineering Interactive Technologies | 12 |
+| [6.4530\[J\]](https://catalog.mit.edu/search/?P=6.4530 "6.4530[J]") | Principles and Practice of Assistive Technology | 12 |
+| [6.5081](https://catalog.mit.edu/search/?P=6.5081 "6.5081") | Multicore Programming | 12 |
+| [6.5151](https://catalog.mit.edu/search/?P=6.5151 "6.5151") | Large-scale Symbolic Systems | 12 |
+| [6.5831](https://catalog.mit.edu/search/?P=6.5831 "6.5831") | Database Systems | 12 |
+| [6.5931](https://catalog.mit.edu/search/?P=6.5931 "6.5931") | Hardware Architecture for Deep Learning | 12 |
+| [6.8301](https://catalog.mit.edu/search/?P=6.8301 "6.8301") | Advances in Computer Vision | 15 |
+| [6.8371](https://catalog.mit.edu/search/?P=6.8371 "6.8371") | Digital and Computational Photography | 12 |
+| [6.8611](https://catalog.mit.edu/search/?P=6.8611 "6.8611") | Quantitative Methods for Natural Language Processing | 15 |
+| [6.C01](https://catalog.mit.edu/search/?P=6.C01 "6.C01") | Modeling with Machine Learning: from Algorithms to Applications 1 | 6 |
+| [1.C01](https://catalog.mit.edu/search/?P=1.C01 "1.C01") | Machine Learning for Sustainable Systems 1,2 | 6 |
+| or [2.C01](https://catalog.mit.edu/search/?P=2.C01 "2.C01") | Physical Systems Modeling and Design Using Machine Learning |
+| or [3.C01\[J\]](https://catalog.mit.edu/search/?P=3.C01 "3.C01[J]") | Machine Learning for Molecular Engineering |
+| or [22.C01](https://catalog.mit.edu/search/?P=22.C01 "22.C01") | Modeling with Machine Learning: Nuclear Science and Engineering Applications |
+
+|     |     |
+| --- | --- |
+| _1_ | _Students cannot receive credit without simultaneous completion of a 6-unit Common Ground disciplinary module. See subject description for more information._ |
+| _2_ | _Students cannot receive credit without simultaneous completion of [6.C01](https://catalog.mit.edu/search/?P=6.C01 "6.C01")._ |
+
+### Urban Science Electives
+
+|     |     |     |
+| --- | --- | --- |
+| [2.00A](https://catalog.mit.edu/search/?P=2.00A "2.00A") | Designing for the Future: Earth, Sea, and Space | 9 |
+| [4.032](https://catalog.mit.edu/search/?P=4.032 "4.032") | Design Studio: Information Design and Visualization | 12 |
+| [4.432](https://catalog.mit.edu/search/?P=4.432 "4.432") | Modeling Urban Energy Flows for Sustainable Cities and Neighborhoods | 12 |
+| [6.4590\[J\]](https://catalog.mit.edu/search/?P=6.4590 "6.4590[J]") | Foundations of Information Policy 1 | 12 |
+| [11.007](https://catalog.mit.edu/search/?P=11.007 "11.007") | Urban and Environmental Technology Implementation Lab 2 | 12 |
+| [11.008](https://catalog.mit.edu/search/?P=11.008 "11.008") | Undergraduate Planning Seminar | 6 |
+| [11.024](https://catalog.mit.edu/search/?P=11.024 "11.024") | Modeling Pedestrian Activity in Cities | 12 |
+| [11.029\[J\]](https://catalog.mit.edu/search/?P=11.029 "11.029[J]") | Mobility Ventures: Driving Innovation in Transportation Systems | 12 |
+| [11.074](https://catalog.mit.edu/search/?P=11.074 "11.074") | Cybersecurity Clinic | 12 |
+| [11.100](https://catalog.mit.edu/search/?P=11.100 "11.100") | Introduction to Computational Thinking in Cities | 3 |
+| [11.111\[J\]](https://catalog.mit.edu/search/?P=11.111 "11.111[J]") | Leadership in Negotiation: Advanced Applications | 12 |
+| [11.113](https://catalog.mit.edu/search/?P=11.113 "11.113") | The Economic Approach to Cities and Environmental Sustainability | 12 |
+| [11.123](https://catalog.mit.edu/search/?P=11.123 "11.123") | Big Plans and Mega-Urban Landscapes | 9 |
+| [11.137](https://catalog.mit.edu/search/?P=11.137 "11.137") | Financing Economic Development and Housing | 12 |
+| [11.138](https://catalog.mit.edu/search/?P=11.138 "11.138") | Crowd Sourced City: Civic Tech Prototyping 2 | 12 |
+| [11.148](https://catalog.mit.edu/search/?P=11.148 "11.148") | Environmental Justice: Law and Policy | 12 |
+| [11.149](https://catalog.mit.edu/search/?P=11.149 "11.149") | Decarbonizing Urban Mobility | 12 |
+| [11.C35\[J\]](https://catalog.mit.edu/search/?P=11.C35 "11.C35[J]") | Interactive Data Visualization and Society 2,3 | 12 |
+| [11.154](https://catalog.mit.edu/search/?P=11.154 "11.154") | Big Data, Visualization, and Society 2,3 | 12 |
+| [11.155\[J\]](https://catalog.mit.edu/search/?P=11.155 "11.155[J]") | Data and Society | 12 |
+| [11.156](https://catalog.mit.edu/search/?P=11.156 "11.156") | Healthy Cities: Assessing Health Impacts of Policies and Plans | 12 |
+| [11.158](https://catalog.mit.edu/search/?P=11.158 "11.158") | Behavioral Science, AI, and Urban Mobility | 12 |
+| [11.165](https://catalog.mit.edu/search/?P=11.165 "11.165") | Urban Energy Systems and Policy 1 | 12 |
+| [11.169](https://catalog.mit.edu/search/?P=11.169 "11.169") | Global Climate Policy and Sustainability | 12 |
+| [12.010](https://catalog.mit.edu/search/?P=12.010 "12.010") | Computational Methods of Scientific Programming | 12 |
+| [15.276](https://catalog.mit.edu/search/?P=15.276 "15.276") | Communicating with Data | 12 |
+| [IDS.012\[J\]](https://catalog.mit.edu/search/?P=IDS.012 "IDS.012[J]") | Statistics, Computation and Applications | 12 |
+| [IDS.060\[J\]](https://catalog.mit.edu/search/?P=IDS.060 "IDS.060[J]") | Environmental Law, Policy, and Economics: Pollution Prevention and Control | 12 |
+
+|     |     |
+| --- | --- |
+| _1_ | _[6.4590\[J\]](https://catalog.mit.edu/search/?P=6.4590 "6.4590[J]") or [11.165](https://catalog.mit.edu/search/?P=11.165) can count towards the Urban Planning Requirements or the Urban Science Electives, but not both._ |
+| _2_ | _[11.007](https://catalog.mit.edu/search/?P=11.007), [11.138](https://catalog.mit.edu/search/?P=11.138), [11.154](https://catalog.mit.edu/search/?P=11.154), and [11.C35](https://catalog.mit.edu/search/?P=11.C35) can count towards the Urban Technology Workshop or the Urban Science Electives, but not both._ |
+| _3_ | _If you take both [11.154](https://catalog.mit.edu/search/?P=11.154) and [11.C35](https://catalog.mit.edu/search/?P=11.C35), you may only count one of them towards all your major requirements._ |
+
+Print Options
+
+
+[Send Page to Printer](https://catalog.mit.edu/degree-charts/urban-science-planning-computer-science-11-6/#)
+
+_Print this page._
+
+[Download PDF of this Page](https://catalog.mit.edu/degree-charts/urban-science-planning-computer-science-11-6/urban-science-planning-computer-science-11-6.pdf)
+
+_The PDF includes all information on this page and its related tabs. Subject (course) information includes any changes approved for the current academic year._
+
+[Download PDF of the Entire Catalog and/or Subject Descriptions](https://catalog.mit.edu/archive/)
+
+[Cancel](https://catalog.mit.edu/degree-charts/urban-science-planning-computer-science-11-6/#)

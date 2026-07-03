@@ -1,0 +1,16 @@
+{
+  "sharedListId": "21.women-s-and-gender-studies",
+  "program": "21",
+  "title": "# Women's and Gender Studies",
+  "items": [
+    {
+      "type": "subject",
+      "subjectId": "21.THT"
+    },
+    {
+      "type": "subject",
+      "subjectId": "21.THU"
+    }
+  ],
+  "version": "1"
+}

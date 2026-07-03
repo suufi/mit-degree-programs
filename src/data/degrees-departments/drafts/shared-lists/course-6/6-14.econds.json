@@ -1,0 +1,68 @@
+{
+  "sharedListId": "6-14.econds",
+  "program": "6-14",
+  "title": "ECONDS",
+  "items": [
+    {
+      "type": "subject",
+      "subjectId": "14.20"
+    },
+    {
+      "type": "subject",
+      "subjectId": "14.27"
+    },
+    {
+      "type": "subject",
+      "subjectId": "14.36"
+    },
+    {
+      "type": "subject",
+      "subjectId": "14.38"
+    },
+    {
+      "type": "subject",
+      "subjectId": "14.39"
+    },
+    {
+      "type": "subject",
+      "subjectId": "14.390"
+    },
+    {
+      "type": "subject",
+      "subjectId": "14.41"
+    },
+    {
+      "type": "subject",
+      "subjectId": "14.42"
+    },
+    {
+      "type": "subject",
+      "subjectId": "14.43"
+    },
+    {
+      "type": "subject",
+      "subjectId": "14.44"
+    },
+    {
+      "type": "subject",
+      "subjectId": "14.45"
+    },
+    {
+      "type": "subject",
+      "subjectId": "14.64"
+    },
+    {
+      "type": "subject",
+      "subjectId": "14.75"
+    },
+    {
+      "type": "subject",
+      "subjectId": "14.76"
+    },
+    {
+      "type": "subject",
+      "subjectId": "15.780"
+    }
+  ],
+  "version": "1"
+}

@@ -1,0 +1,115 @@
+Degree Charts
+
+- [Home](https://catalog.mit.edu/) >
+- [Degree Charts](https://catalog.mit.edu/degree-charts/) >
+- Nuclear Science and Engineering (SB, Course 22)
+
+# Nuclear Science and Engineering (Course 22)
+
+[Department of Nuclear Science and Engineering](https://catalog.mit.edu/schools/engineering/nuclear-science-engineering/#undergraduatetext)
+
+## Bachelor of Science in Nuclear Science and Engineering
+
+### General Institute Requirements (GIRs)
+
+The General Institute Requirements include a Communication Requirement that is integrated into both the HASS Requirement and the requirements of each major; see details below.
+
+| Summary of Subject Requirements | Subjects |
+| --- | --- |
+| Science Requirement | 6 |
+| Humanities, Arts, and Social Sciences (HASS) Requirement \[can be satisfied by [22.04\[J\]](https://catalog.mit.edu/search/?P=22.04 "22.04[J]") in the Departmental Program\]; at least two of these subjects must be designated as communication-intensive (CI-H) to fulfill the Communication Requirement. | 8 |
+| Restricted Electives in Science and Technology (REST) Requirement \[can be satisfied from among [1.00](https://catalog.mit.edu/search/?P=1.00 "1.00"), [2.086](https://catalog.mit.edu/search/?P=2.086 "2.086"), [6.100A](https://catalog.mit.edu/search/?P=6.100A "6.100A")/ [6.100B](https://catalog.mit.edu/search/?P=6.100B "6.100B"), [6.3700](https://catalog.mit.edu/search/?P=6.3700 "6.3700"), [8.03](https://catalog.mit.edu/search/?P=8.03 "8.03"), [18.03](https://catalog.mit.edu/search/?P=18.03 "18.03"), [18.05](https://catalog.mit.edu/search/?P=18.05 "18.05"), [18.06](https://catalog.mit.edu/search/?P=18.06 "18.06"), [18.C06\[J\]](https://catalog.mit.edu/search/?P=18.C06 "18.C06[J]"), [18.600](https://catalog.mit.edu/search/?P=18.600 "18.600"), and [22.01](https://catalog.mit.edu/search/?P=22.01 "22.01"), [22.02](https://catalog.mit.edu/search/?P=22.02 "22.02"), or [22.071](https://catalog.mit.edu/search/?P=22.071 "22.071") in the Departmental Program\] | 2 |
+| Laboratory Requirement (12 units) \[can be satisfied by [22.09](https://catalog.mit.edu/search/?P=22.09 "22.09") in the Departmental Program\] | 1 |
+| **Total GIR Subjects Required for SB Degree** | **17** |
+
+| Physical Education Requirement |  |
+| --- | --- |
+| Swimming requirement, plus four physical education courses for eight points. |  |
+
+### Departmental Program
+
+Choose at least two subjects in the major that are designated as communication-intensive (CI-M) to fulfill the Communication Requirement.
+
+|     |     |     |
+| --- | --- | --- |
+| Basic Requirements | **Units** |
+| [2.005](https://catalog.mit.edu/search/?P=2.005 "2.005") | Thermal-Fluids Engineering I | 12 |
+| [18.03](https://catalog.mit.edu/search/?P=18.03 "18.03") | Differential Equations 1 | 12 |
+| [22.01](https://catalog.mit.edu/search/?P=22.01 "22.01") | Introduction to Nuclear Engineering and Ionizing Radiation | 12 |
+| Computation Elective |  |
+| _Select one of the following:_ | 12 |
+| [1.000](https://catalog.mit.edu/search/?P=1.000 "1.000") | Introduction to Computer Programming and Numerical Methods for Engineering Applications |  |
+| [2.086](https://catalog.mit.edu/search/?P=2.086 "2.086") | Numerical Computation for Mechanical Engineers |  |
+| [6.100A](https://catalog.mit.edu/search/?P=6.100A "6.100A")<br>& [6.100B](https://catalog.mit.edu/search/?P=6.100B "6.100B") | Introduction to Computer Science Programming in Python<br>and Introduction to Computational Thinking and Data Science |  |
+| [6.100A](https://catalog.mit.edu/search/?P=6.100A "6.100A")<br>& [CSE.C20\[J\]](https://catalog.mit.edu/search/?P=CSE.C20 "CSE.C20[J]") | Introduction to Computer Science Programming in Python<br>and Introduction to Computational Science and Engineering |  |
+| [12.010](https://catalog.mit.edu/search/?P=12.010 "12.010") | Computational Methods of Scientific Programming |  |
+| [22.C25\[J\]](https://catalog.mit.edu/search/?P=22.C25 "22.C25[J]") | Real World Computation with Julia |  |
+| Required Core Subjects |  |
+| [22.02](https://catalog.mit.edu/search/?P=22.02 "22.02") | Introduction to Applied Nuclear Physics | 12 |
+| [22.033](https://catalog.mit.edu/search/?P=22.033 "22.033") | Nuclear Systems Design Project | 15 |
+| [22.04\[J\]](https://catalog.mit.edu/search/?P=22.04 "22.04[J]") | Social Problems of Nuclear Energy (CI-M) | 12 |
+| [22.05](https://catalog.mit.edu/search/?P=22.05 "22.05") | Neutron Physics and Radiation Transport | 12 |
+| [22.06](https://catalog.mit.edu/search/?P=22.06 "22.06") | Engineering of Nuclear Systems | 12 |
+| [22.061](https://catalog.mit.edu/search/?P=22.061 "22.061") | Fusion Energy | 12 |
+| [22.09](https://catalog.mit.edu/search/?P=22.09 "22.09") | Principles of Nuclear Radiation Measurement and Protection (CI-M) | 15 |
+| Required Thesis2 |  |
+| [22.THT](https://catalog.mit.edu/search/?P=22.THT "22.THT") | Undergraduate Thesis Tutorial | 3 |
+| [22.THU](https://catalog.mit.edu/search/?P=22.THU "22.THU") | Undergraduate Thesis (CI-M) | 9 |
+| Mathematics Elective |  |
+| _Select one of the following:_ | 12 |
+| [6.3700](https://catalog.mit.edu/search/?P=6.3700 "6.3700") | Introduction to Probability |  |
+| [18.04](https://catalog.mit.edu/search/?P=18.04 "18.04") | Complex Variables with Applications |  |
+| [18.05](https://catalog.mit.edu/search/?P=18.05 "18.05") | Introduction to Probability and Statistics |  |
+| [18.06](https://catalog.mit.edu/search/?P=18.06 "18.06") | Linear Algebra |  |
+| [18.C06\[J\]](https://catalog.mit.edu/search/?P=18.C06 "18.C06[J]") | Linear Algebra and Optimization |  |
+| [18.075](https://catalog.mit.edu/search/?P=18.075 "18.075") | Methods for Scientists and Engineers |  |
+| [18.600](https://catalog.mit.edu/search/?P=18.600 "18.600") | Probability and Random Variables |  |
+| Materials Science and Physics Elective |  |
+| _Select one of the following:_ | 12 |
+| [1.050](https://catalog.mit.edu/search/?P=1.050 "1.050") | Solid Mechanics |  |
+| [2.001](https://catalog.mit.edu/search/?P=2.001 "2.001") | Mechanics and Materials I |  |
+| [3.010](https://catalog.mit.edu/search/?P=3.010 "3.010") | Structure of Materials |  |
+| [3.013](https://catalog.mit.edu/search/?P=3.013 "3.013") | Mechanics of Materials |  |
+| [8.03](https://catalog.mit.edu/search/?P=8.03 "8.03") | Physics III |  |
+| Restricted Elective in NSE3 | 12 |
+| _Select one of the following:_ |  |
+| [22.071](https://catalog.mit.edu/search/?P=22.071 "22.071") | Analog Electronics and Analog Instrumentation Design |  |
+| [22.022](https://catalog.mit.edu/search/?P=22.022 "22.022") | Quantum Technology and Devices |  |
+| [22.039](https://catalog.mit.edu/search/?P=22.039 "22.039") | Integration of Reactor Design, Operations, and Safety |  |
+| [22.051](https://catalog.mit.edu/search/?P=22.051 "22.051") | Systems Analysis of the Nuclear Fuel Cycle |  |
+| [22.055](https://catalog.mit.edu/search/?P=22.055 "22.055") | Radiation Biophysics |  |
+| [22.072](https://catalog.mit.edu/search/?P=22.072 "22.072") | Corrosion: The Environmental Degradation of Materials |  |
+| [22.074](https://catalog.mit.edu/search/?P=22.074 "22.074") | Radiation Damage and Effects in Nuclear Materials |  |
+| [22.078\[J\]](https://catalog.mit.edu/search/?P=22.078 "22.078[J]") | Nuclear Energy and the Environment: Waste, Effluents, and Accidents |  |
+| [22.081\[J\]](https://catalog.mit.edu/search/?P=22.081 "22.081[J]") | Introduction to Sustainable Energy |  |
+| [22.03\[J\]](https://catalog.mit.edu/search/?P=22.03 "22.03[J]") | Introduction to Design Thinking and Rapid Prototyping (when paired with another 6 unit subject in NSE) |  |
+| [22.C01](https://catalog.mit.edu/search/?P=22.C01 "22.C01")<br>& [6.C01](https://catalog.mit.edu/search/?P=6.C01 "6.C01") | Modeling with Machine Learning: Nuclear Science and Engineering Applications<br>and Modeling with Machine Learning: from Algorithms to Applications |  |
+| [2.006](https://catalog.mit.edu/search/?P=2.006 "2.006") | Thermal-Fluids Engineering II |  |
+| [3.14](https://catalog.mit.edu/search/?P=3.14 "3.14") | Modern Physical Metallurgy |  |
+| Units in Major | 186 |
+| Unrestricted Electives | 48 |
+| Units in Major That Also Satisfy the GIRs | (48) |
+| Total Units Beyond the GIRs Required for SB Degree | 186 |
+
+The units for any subject that counts as one of the 17 GIR subjects cannot also be counted as units required beyond the GIRs.
+
+|     |     |
+| --- | --- |
+| _1_ | _[18.032](https://catalog.mit.edu/search/?P=18.032 "18.032") Differential Equations is also an acceptable option._ |
+| _2_ | _Unit totals shown are the minimum requirements._ |
+| _3_ | _Consult the NSE Academic Office, Room 24-102, regarding substitutions._ |
+
+Print Options
+
+
+[Send Page to Printer](https://catalog.mit.edu/degree-charts/nuclear-science-engineering-course-22/#)
+
+_Print this page._
+
+[Download PDF of this Page](https://catalog.mit.edu/degree-charts/nuclear-science-engineering-course-22/nuclear-science-engineering-course-22.pdf)
+
+_The PDF includes all information on this page and its related tabs. Subject (course) information includes any changes approved for the current academic year._
+
+[Download PDF of the Entire Catalog and/or Subject Descriptions](https://catalog.mit.edu/archive/)
+
+[Cancel](https://catalog.mit.edu/degree-charts/nuclear-science-engineering-course-22/#)

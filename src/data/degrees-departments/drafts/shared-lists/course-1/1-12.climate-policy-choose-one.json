@@ -1,0 +1,36 @@
+{
+  "sharedListId": "1-12.climate-policy-choose-one",
+  "program": "1-12",
+  "title": "Climate Policy (choose one)",
+  "items": [
+    {
+      "type": "subject",
+      "subjectId": "1.067"
+    },
+    {
+      "type": "subject",
+      "subjectId": "12.385"
+    },
+    {
+      "type": "subject",
+      "subjectId": "11.169"
+    },
+    {
+      "type": "subject",
+      "subjectId": "14.42"
+    },
+    {
+      "type": "subject",
+      "subjectId": "11.165"
+    },
+    {
+      "type": "subject",
+      "subjectId": "14.44"
+    },
+    {
+      "type": "subject",
+      "subjectId": "15.0201"
+    }
+  ],
+  "version": "1"
+}

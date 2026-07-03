@@ -1,0 +1,306 @@
+{
+  "schemaVersion": "2",
+  "program": "4-b",
+  "title": "Art and Design (Course 4-B)",
+  "level": "undergraduate",
+  "complete": false,
+  "includesGir": "sb",
+  "catalogSource": {
+    "url": "https://catalog.mit.edu/degree-charts/architecture-course-4-b/",
+    "slug": "architecture-course-4-b",
+    "scrapedAt": "2026-07-03",
+    "contentHash": "0c8c05359dc33d103130b3ff1437a31a01609f5680207184a922ec5e7dec61b2"
+  },
+  "girCrosswalk": [],
+  "footnotes": [
+    {
+      "id": "1",
+      "text": "Either 4.031 or 4.032 may be used as a restricted elective if not selected as part of the design studio requirement."
+    },
+    {
+      "id": "2",
+      "text": "Subject has prerequisites that are outside of the program."
+    }
+  ],
+  "constraints": [],
+  "requirements": [
+    {
+      "groupId": "4-b-required-subjects",
+      "title": "Required Subjects",
+      "bucket": "departmental",
+      "subcategory": "required_subjects",
+      "root": {
+        "type": "group",
+        "ruleType": "all_of",
+        "items": [
+          {
+            "type": "subject",
+            "subjectId": "4.021"
+          },
+          {
+            "type": "selection",
+            "ruleType": "choose_one",
+            "itemsSource": "explicit",
+            "items": [
+              {
+                "type": "subject",
+                "subjectId": "4.02A"
+              }
+            ]
+          },
+          {
+            "type": "subject",
+            "subjectId": "4.031"
+          },
+          {
+            "type": "selection",
+            "ruleType": "choose_one",
+            "itemsSource": "explicit",
+            "items": [
+              {
+                "type": "subject",
+                "subjectId": "4.032"
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "groupId": "4-b-foundational-subjects",
+      "title": "Foundational Subjects",
+      "bucket": "departmental",
+      "subcategory": "fundamentals",
+      "root": {
+        "type": "group",
+        "ruleType": "all_of",
+        "items": [
+          {
+            "type": "subject",
+            "subjectId": "4.053"
+          },
+          {
+            "type": "subject",
+            "subjectId": "4.110"
+          },
+          {
+            "type": "subject",
+            "subjectId": "4.302"
+          },
+          {
+            "type": "subject",
+            "subjectId": "4.500"
+          },
+          {
+            "type": "subject",
+            "subjectId": "4.657"
+          }
+        ]
+      }
+    },
+    {
+      "groupId": "4-b-thesis-subjects",
+      "title": "Thesis Subjects",
+      "bucket": "thesis",
+      "subcategory": "thesis",
+      "root": {
+        "type": "group",
+        "ruleType": "all_of",
+        "items": [
+          {
+            "type": "subject",
+            "subjectId": "4.THT"
+          },
+          {
+            "type": "subject",
+            "subjectId": "4.THU"
+          }
+        ]
+      }
+    },
+    {
+      "groupId": "4-b-objects",
+      "title": "Objects",
+      "bucket": "departmental",
+      "subcategory": "required_subjects",
+      "root": {
+        "type": "group",
+        "ruleType": "all_of",
+        "items": [
+          {
+            "type": "subject",
+            "subjectId": "2.00A"
+          },
+          {
+            "type": "subject",
+            "subjectId": "2.00B"
+          },
+          {
+            "type": "subject",
+            "subjectId": "2.00"
+          },
+          {
+            "type": "subject",
+            "subjectId": "2.007"
+          },
+          {
+            "type": "subject",
+            "subjectId": "2.008"
+          },
+          {
+            "type": "subject",
+            "subjectId": "2.009"
+          },
+          {
+            "type": "subject",
+            "subjectId": "2.729"
+          },
+          {
+            "type": "subject",
+            "subjectId": "2.750"
+          },
+          {
+            "type": "subject",
+            "subjectId": "4.031"
+          },
+          {
+            "type": "subject",
+            "subjectId": "4.041"
+          },
+          {
+            "type": "subject",
+            "subjectId": "4.043"
+          },
+          {
+            "type": "subject",
+            "subjectId": "4.118"
+          },
+          {
+            "type": "subject",
+            "subjectId": "4.451"
+          },
+          {
+            "type": "subject",
+            "subjectId": "4.501"
+          }
+        ]
+      }
+    },
+    {
+      "groupId": "4-b-information",
+      "title": "Information",
+      "bucket": "departmental",
+      "subcategory": "required_subjects",
+      "root": {
+        "type": "group",
+        "ruleType": "all_of",
+        "items": [
+          {
+            "type": "subject",
+            "subjectId": "4.032"
+          },
+          {
+            "type": "subject",
+            "subjectId": "4.051"
+          },
+          {
+            "type": "subject",
+            "subjectId": "4.502"
+          },
+          {
+            "type": "subject",
+            "subjectId": "4.520"
+          },
+          {
+            "type": "subject",
+            "subjectId": "6.1040"
+          },
+          {
+            "type": "subject",
+            "subjectId": "6.4400"
+          },
+          {
+            "type": "subject",
+            "subjectId": "6.8371"
+          },
+          {
+            "type": "subject",
+            "subjectId": "6.9101"
+          },
+          {
+            "type": "subject",
+            "subjectId": "6.C35"
+          }
+        ]
+      }
+    },
+    {
+      "groupId": "4-b-art-and-experience",
+      "title": "Art and Experience",
+      "bucket": "departmental",
+      "subcategory": "required_subjects",
+      "root": {
+        "type": "group",
+        "ruleType": "all_of",
+        "items": [
+          {
+            "type": "subject",
+            "subjectId": "4.301"
+          },
+          {
+            "type": "subject",
+            "subjectId": "4.307"
+          },
+          {
+            "type": "subject",
+            "subjectId": "4.314"
+          },
+          {
+            "type": "subject",
+            "subjectId": "4.320"
+          },
+          {
+            "type": "subject",
+            "subjectId": "4.322"
+          },
+          {
+            "type": "subject",
+            "subjectId": "4.341"
+          },
+          {
+            "type": "subject",
+            "subjectId": "4.344"
+          },
+          {
+            "type": "subject",
+            "subjectId": "4.354"
+          },
+          {
+            "type": "subject",
+            "subjectId": "4.356"
+          },
+          {
+            "type": "subject",
+            "subjectId": "4.602"
+          },
+          {
+            "type": "subject",
+            "subjectId": "21T.120"
+          },
+          {
+            "type": "subject",
+            "subjectId": "21T.121"
+          },
+          {
+            "type": "subject",
+            "subjectId": "21T.320"
+          }
+        ]
+      }
+    }
+  ],
+  "status": "draft",
+  "revisionId": "4-b-2026-07-03-0c8c0535",
+  "catalogYear": "2026",
+  "effectiveTerm": "2026-FA"
+}

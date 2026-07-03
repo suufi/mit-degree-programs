@@ -1,0 +1,56 @@
+{
+  "schemaVersion": "2",
+  "program": "master-civil-environmental-engineering",
+  "title": "Civil and Environmental Engineering (SM)",
+  "level": "graduate",
+  "complete": false,
+  "catalogSource": {
+    "url": "https://catalog.mit.edu/degree-charts/master-civil-environmental-engineering/",
+    "slug": "master-civil-environmental-engineering",
+    "scrapedAt": "2026-07-03",
+    "contentHash": "d3dec6764b2a9ea29b1591ddc2abba3c581dfde03522c58e4521e287c7cf2fa6"
+  },
+  "footnotes": [
+    {
+      "id": "1",
+      "text": "Students select their CEE subjects in consultation with their academic advisor. Subjects should form a cohesive path of study in support of their interests, thesis research, and future career goals."
+    }
+  ],
+  "constraints": [],
+  "requirements": [
+    {
+      "groupId": "master-civil-environmental-engineering-program-requirements",
+      "title": "Program Requirements",
+      "bucket": "departmental",
+      "subcategory": "required_subjects",
+      "flexibility": {
+        "advisorApproval": false,
+        "catalogText": "Civil and Environmental Engineering subjects1"
+      },
+      "root": {
+        "type": "group",
+        "ruleType": "all_of",
+        "items": [
+          {
+            "type": "selection",
+            "ruleType": "choose_units",
+            "ruleValue": 34,
+            "itemsSource": "advisor_defined",
+            "note": "Civil and Environmental Engineering subjects1",
+            "flexibility": {
+              "catalogText": "Civil and Environmental Engineering subjects1"
+            }
+          },
+          {
+            "type": "subject",
+            "subjectId": "1.THG"
+          }
+        ]
+      }
+    }
+  ],
+  "status": "draft",
+  "revisionId": "master-civil-environmental-engineering-2026-07-03-d3dec676",
+  "catalogYear": "2026",
+  "effectiveTerm": "2026-FA"
+}

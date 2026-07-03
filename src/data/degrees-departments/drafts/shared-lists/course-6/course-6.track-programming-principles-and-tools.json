@@ -1,0 +1,44 @@
+{
+  "sharedListId": "course-6.track-programming-principles-and-tools",
+  "program": "course-6",
+  "title": "Programming Principles and Tools",
+  "items": [
+    {
+      "type": "subject",
+      "subjectId": "6.1040"
+    },
+    {
+      "type": "subject",
+      "subjectId": "6.1060"
+    },
+    {
+      "type": "subject",
+      "subjectId": "6.1100"
+    },
+    {
+      "type": "subject",
+      "subjectId": "6.1120"
+    },
+    {
+      "type": "subject",
+      "subjectId": "6.5060"
+    },
+    {
+      "type": "subject",
+      "subjectId": "6.5080"
+    },
+    {
+      "type": "subject",
+      "subjectId": "6.5081"
+    },
+    {
+      "type": "subject",
+      "subjectId": "6.5110"
+    },
+    {
+      "type": "subject",
+      "subjectId": "6.5120"
+    }
+  ],
+  "version": "1"
+}

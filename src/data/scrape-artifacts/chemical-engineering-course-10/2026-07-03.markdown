@@ -1,0 +1,100 @@
+Degree Charts
+
+- [Home](https://catalog.mit.edu/) >
+- [Degree Charts](https://catalog.mit.edu/degree-charts/) >
+- Chemical Engineering (SB, Course 10)
+
+# Chemical Engineering (Course 10)
+
+[Department of Chemical Engineering](https://catalog.mit.edu/schools/engineering/chemical-engineering/#undergraduatetext)
+
+## Bachelor of Science in Chemical Engineering
+
+### General Institute Requirements (GIRs)
+
+The General Institute Requirements include a Communication Requirement that is integrated into both the HASS Requirement and the requirements of each major; see details below.
+
+| Summary of Subject Requirements | Subjects |
+| --- | --- |
+| Science Requirement | 6 |
+| Humanities, Arts, and Social Sciences (HASS) Requirement; at least two of these subjects must be designated as communication-intensive (CI-H) to fulfill the Communication Requirement. | 8 |
+| Restricted Electives in Science and Technology (REST) Requirement \[can be satisfied from among [5.12](https://catalog.mit.edu/search/?P=5.12 "5.12"), [5.07\[J\]](https://catalog.mit.edu/search/?P=5.07 "5.07[J]") or [7.05](https://catalog.mit.edu/search/?P=7.05 "7.05"), [5.611](https://catalog.mit.edu/search/?P=5.611 "5.611")/ [5.612](https://catalog.mit.edu/search/?P=5.612 "5.612"), [10.301](https://catalog.mit.edu/search/?P=10.301 "10.301"), and [18.03](https://catalog.mit.edu/search/?P=18.03 "18.03") in the Departmental Program\] | 2 |
+| Laboratory Requirement (12 units) \[can be satisfied by [5.310](https://catalog.mit.edu/search/?P=5.310 "5.310")\] | 1 |
+| **Total GIR Subjects Required for SB Degree** | **17** |
+
+| Physical Education Requirement |  |
+| --- | --- |
+| Swimming requirement, plus four physical education courses for eight points. |  |
+
+### Departmental Program
+
+Choose at least two subjects in the major that are designated as communication-intensive (CI-M) to fulfill the Communication Requirement.
+
+|     |     |     |
+| --- | --- | --- |
+| Required Subjects | **Units** |
+| _Foundational Subjects_ |  |
+| [5.12](https://catalog.mit.edu/search/?P=5.12 "5.12") | Organic Chemistry I | 12 |
+| [5.310](https://catalog.mit.edu/search/?P=5.310 "5.310") | Laboratory Chemistry (CI-M) | 12 |
+| [5.601](https://catalog.mit.edu/search/?P=5.601 "5.601") | Thermodynamics I | 6 |
+| [10.10](https://catalog.mit.edu/search/?P=10.10 "10.10") | Introduction to Chemical Engineering | 12 |
+| [18.03](https://catalog.mit.edu/search/?P=18.03 "18.03") | Differential Equations 1 | 12 |
+| _Intermediate Subjects_ |  |
+| [10.213](https://catalog.mit.edu/search/?P=10.213 "10.213") | Chemical and Biological Engineering Thermodynamics | 12 |
+| [10.301](https://catalog.mit.edu/search/?P=10.301 "10.301") | Fluid Mechanics | 12 |
+| [10.302](https://catalog.mit.edu/search/?P=10.302 "10.302") | Transport Processes | 12 |
+| _Select one of the following:_ | 12 |
+| [5.03](https://catalog.mit.edu/search/?P=5.03 "5.03") | Principles of Inorganic Chemistry I |  |
+| [5.07\[J\]](https://catalog.mit.edu/search/?P=5.07 "5.07[J]") | Introduction to Biological Chemistry |  |
+| [5.13](https://catalog.mit.edu/search/?P=5.13 "5.13") | Organic Chemistry II |  |
+| [5.611](https://catalog.mit.edu/search/?P=5.611 "5.611")<br>& [5.612](https://catalog.mit.edu/search/?P=5.612 "5.612") | Introduction to Spectroscopy<br>and Electronic Structure of Molecules |  |
+| [7.05](https://catalog.mit.edu/search/?P=7.05 "7.05") | General Biochemistry |  |
+| _Select one of the following:_ | 15 |
+| [10.26](https://catalog.mit.edu/search/?P=10.26 "10.26") | Chemical Engineering Projects Laboratory (CI-M) |  |
+| [10.27](https://catalog.mit.edu/search/?P=10.27 "10.27") | Energy Engineering Projects Laboratory (CI-M) |  |
+| [10.28](https://catalog.mit.edu/search/?P=10.28 "10.28") | Chemical-Biological Engineering Laboratory (CI-M) |  |
+| [10.29](https://catalog.mit.edu/search/?P=10.29 "10.29") | Biological Engineering Projects Laboratory (CI-M) |  |
+| [10.467](https://catalog.mit.edu/search/?P=10.467 "10.467") | Polymer Science Laboratory (CI-M) |  |
+| _Advanced Subjects_ |  |
+| [10.32](https://catalog.mit.edu/search/?P=10.32 "10.32") | Separation Processes | 9 |
+| [10.37](https://catalog.mit.edu/search/?P=10.37 "10.37") | Chemical Kinetics and Reactor Design | 12 |
+| [10.490](https://catalog.mit.edu/search/?P=10.490 "10.490") | Integrated Chemical Engineering | 9 |
+| _Select one of the following:_2,3 | 6 |
+| [10.492A](https://catalog.mit.edu/search/?P=10.492A "10.492A") | Integrated Chemical Engineering Topics I |  |
+| [10.492B](https://catalog.mit.edu/search/?P=10.492B "10.492B") | Integrated Chemical Engineering Topics I |  |
+| [10.493](https://catalog.mit.edu/search/?P=10.493 "10.493") | Integrated Chemical Engineering Topics II |  |
+| [10.494A](https://catalog.mit.edu/search/?P=10.494A "10.494A") | Integrated Chemical Engineering Topics III |  |
+| [10.494B](https://catalog.mit.edu/search/?P=10.494B "10.494B") | Integrated Chemical Engineering Topics III |  |
+| Restricted Electives |  |
+| _Select 21-30 units of restricted electives, including one from each category below:_ | 21-30 |
+| One subject of at least 6 units in Chemical Engineering2, 3 |  |
+| One subject of at least 9 units in Chemical Engineering3 |  |
+| One engineering laboratory subject of at least 6 units4 |  |
+| Units in Major | 174-183 |
+| Unrestricted Electives | 48 |
+| Units in Major That Also Satisfy the GIRs | (36) |
+| Total Units Beyond the GIRs Required for SB Degree | 186-195 |
+
+The units for any subject that counts as one of the 17 GIR subjects cannot also be counted as units required beyond the GIRs.
+
+|     |     |
+| --- | --- |
+| _1_ | _[18.032](https://catalog.mit.edu/search/?P=18.032 "18.032") Differential Equations is also an acceptable option._ |
+| _2_ | __May be satisfied with a second term of [10.492A](https://catalog.mit.edu/search/?P=10.492A "10.492A"), [10.492B](https://catalog.mit.edu/search/?P=10.492B "10.492B"), [10.493](https://catalog.mit.edu/search/?P=10.493 "10.493"), [10.494A](https://catalog.mit.edu/search/?P=10.494A "10.494A"), [10.494B](https://catalog.mit.edu/search/?P=10.494B "10.494B"), or a second term of_ [_10.490_](http://catalog.mit.edu/search/?P=10.490 "10.490") _Integrated Chemical Engineering (with permission of instructor).__ |
+| _3_ | _Graduate subjects may not be used as restricted electives. In addition, the following undergraduate subjects may not be used as restricted electives: [10.04](https://catalog.mit.edu/search/?P=10.04 "10.04"), [10.792\[J\]](https://catalog.mit.edu/search/?P=10.792 "10.792[J]"), [10.806](https://catalog.mit.edu/search/?P=10.806 "10.806"), [10.910](https://catalog.mit.edu/search/?P=10.910 "10.910") and [10.911](https://catalog.mit.edu/search/?P=10.911 "10.911") Independent Research Problem, [10.UR](https://catalog.mit.edu/search/?P=10.UR "10.UR") and [10.URG](https://catalog.mit.edu/search/?P=10.URG "10.URG") Undergraduate Research, and [10.THU](https://catalog.mit.edu/search/?P=10.THU "10.THU")._ |
+| _4_ | _Consult the Chemical Engineering Student Office for a list of acceptable subjects._ |
+
+Print Options
+
+
+[Send Page to Printer](https://catalog.mit.edu/degree-charts/chemical-engineering-course-10/#)
+
+_Print this page._
+
+[Download PDF of this Page](https://catalog.mit.edu/degree-charts/chemical-engineering-course-10/chemical-engineering-course-10.pdf)
+
+_The PDF includes all information on this page and its related tabs. Subject (course) information includes any changes approved for the current academic year._
+
+[Download PDF of the Entire Catalog and/or Subject Descriptions](https://catalog.mit.edu/archive/)
+
+[Cancel](https://catalog.mit.edu/degree-charts/chemical-engineering-course-10/#)

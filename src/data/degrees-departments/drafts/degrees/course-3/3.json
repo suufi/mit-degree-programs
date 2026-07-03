@@ -1,0 +1,191 @@
+{
+  "schemaVersion": "2",
+  "program": "3",
+  "title": "Materials Science and Engineering (Course 3)",
+  "level": "undergraduate",
+  "complete": false,
+  "includesGir": "sb",
+  "catalogSource": {
+    "url": "https://catalog.mit.edu/degree-charts/materials-science-engineering-course-3/",
+    "slug": "materials-science-engineering-course-3",
+    "scrapedAt": "2026-07-03",
+    "contentHash": "34f707599ee1ffd91816d974ada82f31eb5947aef2a338b0ac2d3cfb66f9cd1b"
+  },
+  "girCrosswalk": [
+    {
+      "subjectId": "18.03",
+      "satisfies": [
+        "rest"
+      ],
+      "note": "Also satisfies REST via departmental program."
+    },
+    {
+      "subjectId": "18.06",
+      "satisfies": [
+        "rest"
+      ],
+      "note": "Also satisfies REST via departmental program."
+    },
+    {
+      "subjectId": "18.C06",
+      "satisfies": [
+        "rest"
+      ],
+      "note": "Also satisfies REST via departmental program."
+    },
+    {
+      "subjectId": "3.020",
+      "satisfies": [
+        "rest"
+      ],
+      "note": "Also satisfies REST via departmental program."
+    },
+    {
+      "subjectId": "3.010",
+      "satisfies": [
+        "lab"
+      ],
+      "note": "Also satisfies Laboratory Requirement via departmental program."
+    }
+  ],
+  "footnotes": [
+    {
+      "id": "1",
+      "text": "18.032 Differential Equations, CC.1803 Differential Equations, and ES.1803 Differential Equations are also acceptable options."
+    },
+    {
+      "id": "2",
+      "text": "Substitution of similar subjects may be permitted by petition."
+    }
+  ],
+  "constraints": [],
+  "requirements": [
+    {
+      "groupId": "3-required-subjects",
+      "title": "Required Subjects",
+      "bucket": "departmental",
+      "subcategory": "required_subjects",
+      "root": {
+        "type": "group",
+        "ruleType": "all_of",
+        "items": [
+          {
+            "type": "subject",
+            "subjectId": "6.100A"
+          },
+          {
+            "type": "selection",
+            "ruleType": "choose_one",
+            "itemsSource": "explicit",
+            "items": [
+              {
+                "type": "subject",
+                "subjectId": "6.100L"
+              }
+            ]
+          },
+          {
+            "type": "subject",
+            "subjectId": "18.03"
+          },
+          {
+            "type": "selection",
+            "ruleType": "choose_one",
+            "itemsSource": "explicit",
+            "items": [
+              {
+                "type": "subject",
+                "subjectId": "18.06"
+              },
+              {
+                "type": "subject",
+                "subjectId": "18.C06"
+              }
+            ]
+          },
+          {
+            "type": "subject",
+            "subjectId": "3.010"
+          },
+          {
+            "type": "subject",
+            "subjectId": "3.013"
+          },
+          {
+            "type": "subject",
+            "subjectId": "3.020"
+          },
+          {
+            "type": "subject",
+            "subjectId": "3.023"
+          },
+          {
+            "type": "subject",
+            "subjectId": "3.029"
+          },
+          {
+            "type": "subject",
+            "subjectId": "3.030"
+          },
+          {
+            "type": "subject",
+            "subjectId": "3.033"
+          },
+          {
+            "type": "subject",
+            "subjectId": "3.042"
+          },
+          {
+            "type": "subject",
+            "subjectId": "3.044"
+          },
+          {
+            "type": "selection",
+            "ruleType": "choose_one",
+            "itemsSource": "explicit",
+            "items": [
+              {
+                "type": "group",
+                "ruleType": "all_of",
+                "items": [
+                  {
+                    "type": "subject",
+                    "subjectId": "3.930"
+                  },
+                  {
+                    "type": "subject",
+                    "subjectId": "3.931"
+                  }
+                ]
+              },
+              {
+                "type": "subject",
+                "subjectId": "3.THU"
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "groupId": "3-restricted-electives",
+      "title": "Restricted Electives",
+      "bucket": "elective",
+      "subcategory": "restricted_electives",
+      "flexibility": {
+        "catalogText": "Select 33-36 units from the list of Restricted Electives2"
+      },
+      "root": {
+        "type": "selection",
+        "ruleType": "choose_units",
+        "ruleValue": 33,
+        "itemsSource": "shared_list",
+        "sharedListId": "3.restricted-electives"
+      }
+    }
+  ],
+  "status": "draft",
+  "revisionId": "3-2026-07-03-34f70759",
+  "catalogYear": "2026",
+  "effectiveTerm": "2026-FA"
+}

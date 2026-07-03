@@ -1,0 +1,124 @@
+{
+  "schemaVersion": "2",
+  "program": "phd-biological-engineering",
+  "title": "Biological Engineering (PhD/ScD)",
+  "level": "graduate",
+  "complete": false,
+  "catalogSource": {
+    "url": "https://catalog.mit.edu/degree-charts/phd-biological-engineering/",
+    "slug": "phd-biological-engineering",
+    "scrapedAt": "2026-07-03",
+    "contentHash": "20229252ef950fd51e847ea1d68b79ee6c4d45c1b2852f661e6f3ae25fe5b8ab"
+  },
+  "footnotes": [
+    {
+      "id": "1",
+      "text": "Core Subjects cannot be used to fulfill the elective requirements."
+    },
+    {
+      "id": "2",
+      "text": "Students must register for thesis units every semester they are in the program as they complete appropriate milestones, including: passing the doctoral qualifying process; forming a doctoral committee; writing and successfully defending a thesis proposal; writing and successfully defending the thesis; and submission of a final, approved thesis document. The units listed here represent an average number taken as a PhD candidate."
+    }
+  ],
+  "constraints": [],
+  "requirements": [
+    {
+      "groupId": "phd-biological-engineering-core-subjects1",
+      "title": "Core Subjects1",
+      "bucket": "departmental",
+      "subcategory": "required_subjects",
+      "flexibility": {
+        "advisorApproval": false,
+        "catalogText": "Biological Engineering Electives"
+      },
+      "root": {
+        "type": "group",
+        "ruleType": "all_of",
+        "items": [
+          {
+            "type": "subject",
+            "subjectId": "20.420"
+          },
+          {
+            "type": "subject",
+            "subjectId": "20.440"
+          },
+          {
+            "type": "selection",
+            "ruleType": "choose_units",
+            "ruleValue": 24,
+            "itemsSource": "advisor_defined",
+            "note": "Biological Engineering Electives",
+            "flexibility": {
+              "catalogText": "Biological Engineering Electives"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "groupId": "phd-biological-engineering-two-subjects-in-biological-engineering",
+      "title": "Two subjects in Biological Engineering",
+      "bucket": "departmental",
+      "subcategory": "required_subjects",
+      "flexibility": {
+        "advisorApproval": false,
+        "catalogText": "Biological Science Elective"
+      },
+      "root": {
+        "type": "selection",
+        "ruleType": "choose_units",
+        "ruleValue": 9,
+        "itemsSource": "advisor_defined",
+        "note": "Biological Science Elective",
+        "flexibility": {
+          "catalogText": "Biological Science Elective"
+        }
+      }
+    },
+    {
+      "groupId": "phd-biological-engineering-one-subject-offered-in-biology",
+      "title": "One subject offered in Biology",
+      "bucket": "departmental",
+      "subcategory": "required_subjects",
+      "flexibility": {
+        "advisorApproval": false,
+        "catalogText": "Engineering/Science Elective"
+      },
+      "root": {
+        "type": "selection",
+        "ruleType": "choose_units",
+        "ruleValue": 9,
+        "itemsSource": "advisor_defined",
+        "note": "Engineering/Science Elective",
+        "flexibility": {
+          "catalogText": "Engineering/Science Elective"
+        }
+      }
+    },
+    {
+      "groupId": "phd-biological-engineering-thesis",
+      "title": "Thesis",
+      "bucket": "thesis",
+      "subcategory": "thesis",
+      "root": {
+        "type": "group",
+        "ruleType": "all_of",
+        "items": [
+          {
+            "type": "subject",
+            "subjectId": "20.951"
+          },
+          {
+            "type": "subject",
+            "subjectId": "20.THG"
+          }
+        ]
+      }
+    }
+  ],
+  "status": "draft",
+  "revisionId": "phd-biological-engineering-2026-07-03-20229252",
+  "catalogYear": "2026",
+  "effectiveTerm": "2026-FA"
+}

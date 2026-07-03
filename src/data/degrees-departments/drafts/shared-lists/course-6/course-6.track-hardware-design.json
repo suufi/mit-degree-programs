@@ -1,0 +1,28 @@
+{
+  "sharedListId": "course-6.track-hardware-design",
+  "program": "course-6",
+  "title": "Hardware Design",
+  "items": [
+    {
+      "type": "subject",
+      "subjectId": "6.1920"
+    },
+    {
+      "type": "subject",
+      "subjectId": "6.2050"
+    },
+    {
+      "type": "subject",
+      "subjectId": "6.2060"
+    },
+    {
+      "type": "subject",
+      "subjectId": "6.6010"
+    },
+    {
+      "type": "subject",
+      "subjectId": "6.6040"
+    }
+  ],
+  "version": "1"
+}

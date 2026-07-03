@@ -1,0 +1,236 @@
+Degree Charts
+
+- [Home](https://catalog.mit.edu/) >
+- [Degree Charts](https://catalog.mit.edu/degree-charts/) >
+- Supply Chain Management (MEng and MASc)
+
+# Master's Degrees in Supply Chain Management
+
+[Supply Chain Management Program](https://catalog.mit.edu/interdisciplinary/graduate-programs/supply-chain-management/)
+
+## Master of Applied Science in Supply Chain Management (Residential Program)
+
+The Master of Applied Science in Supply Chain Management degree is an intensive, 10-month residential program requiring 90 units of graduate subjects. Students complete at least 81 units of required and elective subjects and complete an 11-unit capstone project. The subject requirements for this program are described below.
+
+### Subject Requirements1
+
+|     |     |     |
+| --- | --- | --- |
+| Fall Required Subjects |  |
+| [SCM.250](https://catalog.mit.edu/search/?P=SCM.250 "SCM.250") | Analytical Methods for Supply Chain Management I | 3 |
+| [SCM.259](https://catalog.mit.edu/search/?P=SCM.259 "SCM.259") | Written Communication for Supply Chain Management | 3 |
+| [SCM.260\[J\]](https://catalog.mit.edu/search/?P=SCM.260 "SCM.260[J]") | Logistics Systems 2 | 12 |
+| [SCM.264](https://catalog.mit.edu/search/?P=SCM.264 "SCM.264") | Databases and Data Analysis for Supply Chain Management 3 | 6 |
+| [SCM.275](https://catalog.mit.edu/search/?P=SCM.275 "SCM.275") | Advanced Supply Chain Systems Planning and Network Design | 6 |
+| [SCM.800](https://catalog.mit.edu/search/?P=SCM.800 "SCM.800") | Capstone Project in Supply Chain Management | 5 |
+| IAP Required Subjects |  |
+| [SCM.254](https://catalog.mit.edu/search/?P=SCM.254 "SCM.254") | Analytical Methods for Supply Chain Management II | 3 |
+| [SCM.262](https://catalog.mit.edu/search/?P=SCM.262 "SCM.262") | Leading Global Teams | 3 |
+| Spring Required Subjects |  |
+| [SCM.263](https://catalog.mit.edu/search/?P=SCM.263 "SCM.263") | Advanced Writing Workshop for SCM | 3 |
+| [SCM.281](https://catalog.mit.edu/search/?P=SCM.281 "SCM.281") | Supply Chain Public Speaking Workshop | 1 |
+| [SCM.800](https://catalog.mit.edu/search/?P=SCM.800 "SCM.800") | Capstone Project in Supply Chain Management | 6 |
+| [SCM.256](https://catalog.mit.edu/search/?P=SCM.256 "SCM.256") | Data Science and Machine Learning for Supply Chain Management | 12 |
+| or [SCM.C51](https://catalog.mit.edu/search/?P=SCM.C51 "SCM.C51")<br>& [6.C51](https://catalog.mit.edu/search/?P=6.C51 "6.C51") | Machine Learning Applications for Supply Chain Management<br>and Modeling with Machine Learning: from Algorithms to Applications |
+| Required Electives5 |  |
+| Supply Chain Track | 6 |
+| Select subjects from two of the three following tracks: Analytics; Leadership and Management; and Strategy. | 21-32 |
+| Total Units | 90-101 |
+
+|     |     |
+| --- | --- |
+| _1_ | __Students who have already successfully completed one of the required subjects at a graduate level elsewhere may petition to replace that subject with another elective.__ |
+| _2_ | _With the approval of the instructor, students may substitute [SCM.271](https://catalog.mit.edu/search/?P=SCM.271 "SCM.271") Logistics Systems Topics (3 units) plus 9 additional units of electives._ |
+| _3_ | _With the approval of the instructor, students may substitute [SCM.274](https://catalog.mit.edu/search/?P=SCM.274 "SCM.274") Databases and Data Analysis Topics for Supply Chain Management (3 units) plus 3 additional units of electives._ |
+| _4_ | _With the permission of the program director, students may substitute [SCM.253](https://catalog.mit.edu/search/?P=SCM.253 "SCM.253") Case Studies in Supply Chain Financial Analysis (6 units) plus 3 additional units of electives._ |
+| _5_ | _See [SCM Track Electives](https://catalog.mit.edu/degree-charts/master-supply-chain-management/#electivestext)._ |
+
+[Supply Chain Management Program](https://catalog.mit.edu/interdisciplinary/graduate-programs/supply-chain-management/)
+
+## Master of Engineering in Supply Chain Management (Residential Program)
+
+The Master of Engineering in Supply Chain Management degree is an intensive, 10-month residential program requiring 90 units of graduate subjects. Students complete at least 78 units of required and elective subjects, and complete a 14-unit thesis. The subject requirements for this program are described below.
+
+### Subject Requirements1
+
+|     |     |     |
+| --- | --- | --- |
+| Fall Required Subjects |  |
+| [SCM.250](https://catalog.mit.edu/search/?P=SCM.250 "SCM.250") | Analytical Methods for Supply Chain Management I | 3 |
+| [SCM.259](https://catalog.mit.edu/search/?P=SCM.259 "SCM.259") | Written Communication for Supply Chain Management | 3 |
+| [SCM.260\[J\]](https://catalog.mit.edu/search/?P=SCM.260 "SCM.260[J]") | Logistics Systems 2 | 12 |
+| [SCM.264](https://catalog.mit.edu/search/?P=SCM.264 "SCM.264") | Databases and Data Analysis for Supply Chain Management 3 | 6 |
+| [SCM.275](https://catalog.mit.edu/search/?P=SCM.275 "SCM.275") | Advanced Supply Chain Systems Planning and Network Design | 6 |
+| [SCM.THG](https://catalog.mit.edu/search/?P=SCM.THG "SCM.THG") | Graduate Thesis | 5 |
+| IAP Required Subjects |  |
+| [SCM.254](https://catalog.mit.edu/search/?P=SCM.254 "SCM.254") | Analytical Methods for Supply Chain Management II | 3 |
+| [SCM.262](https://catalog.mit.edu/search/?P=SCM.262 "SCM.262") | Leading Global Teams | 3 |
+| Spring Required Subjects |  |
+| [SCM.263](https://catalog.mit.edu/search/?P=SCM.263 "SCM.263") | Advanced Writing Workshop for SCM | 3 |
+| [SCM.281](https://catalog.mit.edu/search/?P=SCM.281 "SCM.281") | Supply Chain Public Speaking Workshop | 1 |
+| [SCM.C51](https://catalog.mit.edu/search/?P=SCM.C51 "SCM.C51") | Machine Learning Applications for Supply Chain Management | 6 |
+| [6.C51](https://catalog.mit.edu/search/?P=6.C51 "6.C51") | Modeling with Machine Learning: from Algorithms to Applications | 6 |
+| [SCM.THG](https://catalog.mit.edu/search/?P=SCM.THG "SCM.THG") | Graduate Thesis | 9 |
+| Required Electives5 |  |
+| Supply Chain Track | 6 |
+| Select subjects from two of these three tracks: Analytics; Leadership and Management; and Strategy. | 18-38 |
+| Total Units | 90-110 |
+
+|     |     |
+| --- | --- |
+| _1_ | __Students who have already successfully completed one of the required subjects at a graduate level elsewhere may petition to replace that subject with another elective.__ |
+| _2_ | _With the approval of the instructor, students may substitute [SCM.271](https://catalog.mit.edu/search/?P=SCM.271 "SCM.271") Logistics Systems Topics (3 units) plus 9 additional units of electives._ |
+| _3_ | _With the approval of the instructor, students may substitute [SCM.274](https://catalog.mit.edu/search/?P=SCM.274 "SCM.274") Databases and Data Analysis Topics for Supply Chain Management  (3 units) plus 3 additional units of electives._ |
+| _4_ | _With the permission of the program director, students may substitute [SCM.253](https://catalog.mit.edu/search/?P=SCM.253 "SCM.253") Case Studies in Supply Chain Financial Analysis (6 units) plus 3 additional units of electives._ |
+| _5_ | _See [SCM Track Electives](https://catalog.mit.edu/degree-charts/master-supply-chain-management/#electivestext)._ |
+
+[Supply Chain Management Program](https://catalog.mit.edu/interdisciplinary/graduate-programs/supply-chain-management/)
+
+## Master of Applied Science in Supply Chain Management (Blended Program)
+
+The Master of Applied Science in Supply Chain Management degree is an intensive, five-month blended program requiring 90 units of graduate subjects. The MASc degree is only available to students who have successfully completed the MITx MicroMasters credential in Supply Chain Management. Students receive 42 units of advance standing credit for completion of the MicroMasters Credential, complete at least 39 units of required and elective subjects, and complete a 9-unit capstone project (a report, presentation, and executive summary of the project). The subject requirements for this program are described below.
+
+### Subject Requirements
+
+|     |     |     |
+| --- | --- | --- |
+| Students receive advanced standing credit for completion of the MicroMasters Credential, which constitutes the first semester of the program. |  |
+| [SCM.500](https://catalog.mit.edu/search/?P=SCM.500 "SCM.500") | Studies in Supply Chain Management | 42 |
+| Students complete the following subjects in residence, constituting the second semester of the program. |  |
+| IAP Required Subjects |  |
+| [SCM.258](https://catalog.mit.edu/search/?P=SCM.258 "SCM.258") | Written Communication Topics for Supply Chain Management | 1 |
+| [SCM.262](https://catalog.mit.edu/search/?P=SCM.262 "SCM.262") | Leading Global Teams | 3 |
+| [SCM.254](https://catalog.mit.edu/search/?P=SCM.254 "SCM.254") | Analytical Methods for Supply Chain Management II | 3 |
+| Spring Required Subjects |  |
+| [SCM.263](https://catalog.mit.edu/search/?P=SCM.263 "SCM.263") | Advanced Writing Workshop for SCM | 3 |
+| [SCM.281](https://catalog.mit.edu/search/?P=SCM.281 "SCM.281") | Supply Chain Public Speaking Workshop | 1 |
+| [SCM.256](https://catalog.mit.edu/search/?P=SCM.256 "SCM.256") | Data Science and Machine Learning for Supply Chain Management | 12 |
+| or [SCM.C51](https://catalog.mit.edu/search/?P=SCM.C51 "SCM.C51")<br>& [6.C51](https://catalog.mit.edu/search/?P=6.C51 "6.C51") | Machine Learning Applications for Supply Chain Management<br>and Modeling with Machine Learning: from Algorithms to Applications |
+| Required Electives1 |  |
+| Supply Chain Track | 6 |
+| Select subjects from two of the following three tracks: Analytics; Leadership and Management; and Strategy. | 10-30 |
+| Capstone Requirement |  |
+| [SCM.800](https://catalog.mit.edu/search/?P=SCM.800 "SCM.800") | Capstone Project in Supply Chain Management | 9 |
+| Total Units | 90-110 |
+
+|     |     |
+| --- | --- |
+| _1_ | _See [SCM Track Electives](https://catalog.mit.edu/degree-charts/master-supply-chain-management/#electivestext)._ |
+
+[Supply Chain Management Program](https://catalog.mit.edu/interdisciplinary/graduate-programs/supply-chain-management/)
+
+## Master of Engineering in Supply Chain Management (Blended Program)
+
+The Master of Engineering in Supply Chain Management degree is an intensive, five-month blended program requiring 90 units of graduate subjects. The MEng degree is only available to students who have successfully completed the MITx MicroMasters credential in Supply Chain Management. Students receive 42 units of advance standing credit for completion of the MicroMasters Credential, complete at least 36 units of required and elective subjects, and complete a 12-unit thesis. The subject requirements for this program are described below.
+
+### Subject Requirements
+
+|     |     |     |
+| --- | --- | --- |
+| Students receive advanced standing credit for completion of the MicroMasters Credential, which constitutes the first semester of the program. |  |
+| [SCM.500](https://catalog.mit.edu/search/?P=SCM.500 "SCM.500") | Studies in Supply Chain Management | 42 |
+| Students complete the following subjects in residence, constituting the second semester of the program. |  |
+| IAP Required Subjects |  |
+| [SCM.254](https://catalog.mit.edu/search/?P=SCM.254 "SCM.254") | Analytical Methods for Supply Chain Management II | 3 |
+| [SCM.258](https://catalog.mit.edu/search/?P=SCM.258 "SCM.258") | Written Communication Topics for Supply Chain Management | 1 |
+| [SCM.262](https://catalog.mit.edu/search/?P=SCM.262 "SCM.262") | Leading Global Teams | 3 |
+| Spring Required Subjects |  |
+| [SCM.263](https://catalog.mit.edu/search/?P=SCM.263 "SCM.263") | Advanced Writing Workshop for SCM | 3 |
+| [SCM.281](https://catalog.mit.edu/search/?P=SCM.281 "SCM.281") | Supply Chain Public Speaking Workshop | 1 |
+| [SCM.C51](https://catalog.mit.edu/search/?P=SCM.C51 "SCM.C51") | Machine Learning Applications for Supply Chain Management | 6 |
+| [6.C51](https://catalog.mit.edu/search/?P=6.C51 "6.C51") | Modeling with Machine Learning: from Algorithms to Applications | 6 |
+| Required Electives1 |  |
+| Supply Chain Track | 6 |
+| Select subjects from two of the following three tracks: Analytics; Leadership and Management; and Strategy. | 7-27 |
+| Thesis Requirement |  |
+| _A master's thesis, presentation, and executive summary of the thesis are required._ |  |
+| [SCM.THG](https://catalog.mit.edu/search/?P=SCM.THG "SCM.THG") | Graduate Thesis | 12 |
+| Total Units | 90-110 |
+
+|     |     |
+| --- | --- |
+| _1_ | _See [SCM Track Electives](https://catalog.mit.edu/degree-charts/master-supply-chain-management/#electivestext)._ |
+
+## Track Electives
+
+### Electives
+
+|     |     |     |
+| --- | --- | --- |
+| The subjects listed below are recommended. Students may select other subjects with the approval of the advisor. |  |
+| Strategy Track |  |
+| [SCM.251](https://catalog.mit.edu/search/?P=SCM.251 "SCM.251") | Supply Chain Financial Analysis | 9 |
+| [SCM.253](https://catalog.mit.edu/search/?P=SCM.253 "SCM.253") | Case Studies in Supply Chain Financial Analysis | 6 |
+| [15.025](https://catalog.mit.edu/search/?P=15.025 "15.025") | Game Theory for Strategic Advantage | 9 |
+| [15.011](https://catalog.mit.edu/search/?P=15.011 "15.011") | Economic Analysis for Business Decisions | 9 |
+| [15.401](https://catalog.mit.edu/search/?P=15.401 "15.401") | Managerial Finance | 9 |
+| [15.521](https://catalog.mit.edu/search/?P=15.521 "15.521") | Accounting Information for Decision Makers | 6 |
+| [15.535](https://catalog.mit.edu/search/?P=15.535 "15.535") | Business Analysis Using Financial Statements | 9 |
+| [15.900](https://catalog.mit.edu/search/?P=15.900 "15.900") | Competitive Strategy | 9 |
+| [15.904](https://catalog.mit.edu/search/?P=15.904 "15.904") | Strategy and the CEO | 6 |
+| Supply Chain Track |  |
+| [SCM.261\[J\]](https://catalog.mit.edu/search/?P=SCM.261 "SCM.261[J]") | Case Studies in Logistics and Supply Chain Management | 6 |
+| [SCM.266](https://catalog.mit.edu/search/?P=SCM.266 "SCM.266") | Freight Transportation | 6 |
+| [SCM.270](https://catalog.mit.edu/search/?P=SCM.270 "SCM.270") | Current Challenges in Supply Chain Management | 2 |
+| [SCM.283](https://catalog.mit.edu/search/?P=SCM.283 "SCM.283") | Humanitarian Logistics | 6 |
+| [SCM.284](https://catalog.mit.edu/search/?P=SCM.284 "SCM.284") | Humanitarian Logistics Project | 6 |
+| [SCM.289](https://catalog.mit.edu/search/?P=SCM.289 "SCM.289") | E-Commerce and Omnichannel Fulfillment Strategies | 6 |
+| [SCM.290](https://catalog.mit.edu/search/?P=SCM.290 "SCM.290") | Sustainable Supply Chain Management | 6 |
+| [SCM.291](https://catalog.mit.edu/search/?P=SCM.291 "SCM.291") | Procurement Fundamentals | 6 |
+| [SCM.293\[J\]](https://catalog.mit.edu/search/?P=SCM.293 "SCM.293[J]") | Urban Last-Mile Logistics | 6 |
+| [SCM.294](https://catalog.mit.edu/search/?P=SCM.294 "SCM.294") | Digital Supply Chain Transformation | 6 |
+| [SCM.295](https://catalog.mit.edu/search/?P=SCM.295 "SCM.295") | Supply Chain Study Trek | 1 |
+| [SCM.301](https://catalog.mit.edu/search/?P=SCM.301 "SCM.301") | Independent Study: Supply Chain Management |  |
+| [SCM.302](https://catalog.mit.edu/search/?P=SCM.302 "SCM.302") | Independent Study: Supply Chain Management |  |
+| [15.762\[J\]](https://catalog.mit.edu/search/?P=15.762 "15.762[J]") | Supply Chain Analytics | 12 |
+| [15.763\[J\]](https://catalog.mit.edu/search/?P=15.763 "15.763[J]") | Supply Chain: Capacity Analytics | 6 |
+| [1.266](https://catalog.mit.edu/search/?P=1.266 "1.266") | Supply Chain and Demand Analytics | 6 |
+| [15.769](https://catalog.mit.edu/search/?P=15.769 "15.769") | Operations Strategy | 9 |
+| Analytics Track |  |
+| [1.200\[J\]](https://catalog.mit.edu/search/?P=1.200 "1.200[J]") | Transportation: Foundations and Methods | 12 |
+| [15.071](https://catalog.mit.edu/search/?P=15.071 "15.071") | The Analytics Edge | 12 |
+| [15.774](https://catalog.mit.edu/search/?P=15.774 "15.774") | The Analytics of Operations Management | 12 |
+| [15.871](https://catalog.mit.edu/search/?P=15.871 "15.871") | Introduction to System Dynamics | 6 |
+| [15.872](https://catalog.mit.edu/search/?P=15.872 "15.872") | System Dynamics II | 6 |
+| [15.873](https://catalog.mit.edu/search/?P=15.873 "15.873") | System Dynamics for Business and Policy | 9 |
+| [15.C57\[J\]](https://catalog.mit.edu/search/?P=15.C57 "15.C57[J]") | Optimization Methods | 12 |
+| [IDS.145\[J\]](https://catalog.mit.edu/search/?P=IDS.145 "IDS.145[J]") | Data Mining: Finding the Models and Predictions that Create Value | 6 |
+| [IDS.147\[J\]](https://catalog.mit.edu/search/?P=IDS.147 "IDS.147[J]") | Statistical Machine Learning and Data Science | 12 |
+| [IDS.305\[J\]](https://catalog.mit.edu/search/?P=IDS.305 "IDS.305[J]") | Business and Operations Analytics | 6 |
+| [IDS.333\[J\]](https://catalog.mit.edu/search/?P=IDS.333 "IDS.333[J]") | System Design and Management for a Changing World: Tools | 6 |
+| [IDS.334\[J\]](https://catalog.mit.edu/search/?P=IDS.334 "IDS.334[J]") | System Design and Management for a Changing World: Projects | 6 |
+| [IDS.338\[J\]](https://catalog.mit.edu/search/?P=IDS.338 "IDS.338[J]") | Multidisciplinary Design Optimization | 12 |
+| Leadership & Management Track |  |
+| [SCM.287\[J\]](https://catalog.mit.edu/search/?P=SCM.287 "SCM.287[J]") | Global Aging & the Built Environment | 12 |
+| [15.286](https://catalog.mit.edu/search/?P=15.286 "15.286") | Communicating with Data | 6 |
+| [15.386](https://catalog.mit.edu/search/?P=15.386 "15.386") | Leading in Ambiguity: Steering Through Strategic Inflection Points | 6 |
+| [15.390](https://catalog.mit.edu/search/?P=15.390 "15.390") | Entrepreneurship 101: Systematic Approach to New Venture Creation | 12 |
+| [15.768](https://catalog.mit.edu/search/?P=15.768 "15.768") | Management of Services: Creating Value for Customers, Employees, and Investors | 9 |
+| [15.777](https://catalog.mit.edu/search/?P=15.777 "15.777") | Healthcare Lab: Introduction to Healthcare Delivery in the United States | 15 |
+| [15.784](https://catalog.mit.edu/search/?P=15.784 "15.784") | Operations Laboratory | 9 |
+| [15.915](https://catalog.mit.edu/search/?P=15.915 "15.915") | Business Strategies for a Sustainable Future | 9 |
+
+Print Options
+
+
+[Send Page to Printer](https://catalog.mit.edu/degree-charts/master-supply-chain-management/#)
+
+_Print this page._
+
+[Download PDF of this Page](https://catalog.mit.edu/degree-charts/master-supply-chain-management/master-supply-chain-management.pdf)
+
+_The PDF includes all information on this page and its related tabs. Subject (course) information includes any changes approved for the current academic year._
+
+[MASc Residential Program tab PDF](https://catalog.mit.edu/degree-charts/master-supply-chain-management/master-supply-chain-management_newitemtext.pdf)
+
+[MEng Residential Program tab PDF](https://catalog.mit.edu/degree-charts/master-supply-chain-management/master-supply-chain-management_residentialprogramtext.pdf)
+
+[MASc Blended Program tab PDF](https://catalog.mit.edu/degree-charts/master-supply-chain-management/master-supply-chain-management_blendedprogramtext.pdf)
+
+[MEng Blended Program tab PDF](https://catalog.mit.edu/degree-charts/master-supply-chain-management/master-supply-chain-management_mengblendedprogramtext.pdf)
+
+[Electives tab PDF](https://catalog.mit.edu/degree-charts/master-supply-chain-management/master-supply-chain-management_electivestext.pdf)
+
+[Download PDF of the Entire Catalog and/or Subject Descriptions](https://catalog.mit.edu/archive/)
+
+[Cancel](https://catalog.mit.edu/degree-charts/master-supply-chain-management/#)

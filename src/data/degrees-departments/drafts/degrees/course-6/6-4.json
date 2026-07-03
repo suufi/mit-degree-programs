@@ -1,0 +1,291 @@
+{
+  "schemaVersion": "2",
+  "program": "6-4",
+  "title": "Artificial Intelligence and Decision Making (6-4)",
+  "level": "undergraduate",
+  "complete": false,
+  "catalogYear": "2025",
+  "effectiveTerm": "2025-FA",
+  "includesGir": "sb",
+  "eecsSource": {
+    "url": "https://eecsis.mit.edu/degree_requirements.pcgi?program=6-4",
+    "programKey": "6-4_2025",
+    "enterYear": 2025,
+    "level": "SB",
+    "scrapedAt": "2026-07-03",
+    "contentHash": "0986a8c0639a81ebba9657db4f315237c2c7332e06b26a272a6318538b1f0d85"
+  },
+  "footnotes": [
+    {
+      "id": "1",
+      "text": "You must follow these requirements if you entered MIT in Fall 2025 or later."
+    },
+    {
+      "id": "2",
+      "text": "Includes subjects as of Fall 2026"
+    },
+    {
+      "id": "3",
+      "text": "Each completed subject can only be used to satisfy at most one _required_ subject but can be used to satisfy multiple _additional constraints_."
+    },
+    {
+      "id": "4",
+      "text": "![](https://eecsis.mit.edu/images/fall.gif): only offered fall term ![](https://eecsis.mit.edu/images/spring.gif): only offered spring term grey: not offered this academic year."
+    },
+    {
+      "id": "5",
+      "text": "If you choose a Math requirement as an elective, it must not have [essentially similar content](https://math.mit.edu/academics/undergrad/major/#similar) to the other subjects satisfying your 6-4 degree requirements."
+    },
+    {
+      "id": "6",
+      "text": "At least _two_ of your completed subjects must be on the [CIM2](https://eecsis.mit.edu/degree_requirements.pcgi?program=6-4#CIM2) list"
+    },
+    {
+      "id": "7",
+      "text": "At least _one_ of your completed subjects must be on the [AI+D\\_SERC](https://eecsis.mit.edu/degree_requirements.pcgi?program=6-4#AI+D_SERC) list"
+    },
+    {
+      "id": "8",
+      "text": "At least _one_ of your completed subjects must be on the [Data-centric](https://eecsis.mit.edu/degree_requirements.pcgi?program=6-4#Data-centric) list"
+    },
+    {
+      "id": "9",
+      "text": "At least _one_ of your completed subjects must be on the [Model-centric](https://eecsis.mit.edu/degree_requirements.pcgi?program=6-4#Model-centric) list"
+    },
+    {
+      "id": "10",
+      "text": "At least _one_ of your completed subjects must be on the [Decision-centric](https://eecsis.mit.edu/degree_requirements.pcgi?program=6-4#Decision-centric) list"
+    },
+    {
+      "id": "11",
+      "text": "At least _one_ of your completed subjects must be on the [Computation-centric](https://eecsis.mit.edu/degree_requirements.pcgi?program=6-4#Computation-centric) list"
+    },
+    {
+      "id": "12",
+      "text": "At least _one_ of your completed subjects must be on the [Human-centric](https://eecsis.mit.edu/degree_requirements.pcgi?program=6-4#Human-centric) list"
+    }
+  ],
+  "constraints": [],
+  "requirements": [
+    {
+      "groupId": "6-4-required-subjects",
+      "title": "Required Subjects",
+      "bucket": "departmental",
+      "subcategory": "required_subjects",
+      "root": {
+        "type": "group",
+        "ruleType": "all_of",
+        "items": [
+          {
+            "type": "selection",
+            "ruleType": "choose_one",
+            "items": [
+              {
+                "type": "subject",
+                "subjectId": "6.1000"
+              },
+              {
+                "type": "subject",
+                "subjectId": "6.100A"
+              },
+              {
+                "type": "subject",
+                "subjectId": "16.C20"
+              },
+              {
+                "type": "subject",
+                "subjectId": "18.C20"
+              },
+              {
+                "type": "subject",
+                "subjectId": "6.100B"
+              },
+              {
+                "type": "subject",
+                "subjectId": "9.C20"
+              }
+            ],
+            "itemsSource": "explicit"
+          },
+          {
+            "type": "group",
+            "ruleType": "all_of",
+            "items": [
+              {
+                "type": "subject",
+                "subjectId": "6.1200"
+              },
+              {
+                "type": "subject",
+                "subjectId": "18.062"
+              },
+              {
+                "type": "subject",
+                "subjectId": "6.1200"
+              },
+              {
+                "type": "subject",
+                "subjectId": "18.06"
+              },
+              {
+                "type": "subject",
+                "subjectId": "18.06"
+              },
+              {
+                "type": "subject",
+                "subjectId": "18.06"
+              },
+              {
+                "type": "subject",
+                "subjectId": "18.C06"
+              },
+              {
+                "type": "subject",
+                "subjectId": "6.C06"
+              },
+              {
+                "type": "subject",
+                "subjectId": "18.C06"
+              },
+              {
+                "type": "subject",
+                "subjectId": "6.C06"
+              },
+              {
+                "type": "subject",
+                "subjectId": "18.C06"
+              },
+              {
+                "type": "subject",
+                "subjectId": "6.C06"
+              },
+              {
+                "type": "subject",
+                "subjectId": "18.05"
+              },
+              {
+                "type": "subject",
+                "subjectId": "18.05"
+              },
+              {
+                "type": "subject",
+                "subjectId": "18.05"
+              },
+              {
+                "type": "subject",
+                "subjectId": "6.3700"
+              },
+              {
+                "type": "subject",
+                "subjectId": "6.3700"
+              },
+              {
+                "type": "subject",
+                "subjectId": "6.3800"
+              },
+              {
+                "type": "subject",
+                "subjectId": "6.3800"
+              }
+            ],
+            "note": "Three math subjects"
+          },
+          {
+            "type": "group",
+            "ruleType": "all_of",
+            "items": [
+              {
+                "type": "subject",
+                "subjectId": "6.1010"
+              },
+              {
+                "type": "subject",
+                "subjectId": "6.1210"
+              }
+            ],
+            "note": "Two foundation subjects"
+          },
+          {
+            "type": "selection",
+            "ruleType": "choose_n",
+            "ruleValue": 5,
+            "itemsSource": "shared_list",
+            "sharedListId": "6-4.center-subjects",
+            "note": "Five Center subjects"
+          }
+        ]
+      }
+    },
+    {
+      "groupId": "6-4-elective-subjects",
+      "title": "Elective Subjects",
+      "bucket": "elective",
+      "subcategory": "elective_subjects",
+      "root": {
+        "type": "group",
+        "ruleType": "all_of",
+        "items": [
+          {
+            "type": "selection",
+            "ruleType": "choose_n",
+            "ruleValue": 1,
+            "itemsSource": "shared_list_union",
+            "sharedListIds": [
+              "course-6.application-cim"
+            ],
+            "note": "One from the [Application\\_CIM](https://eecsis.mit.edu/degree_requirements.pcgi?program=6-4#Application_CIM) list"
+          },
+          {
+            "type": "selection",
+            "ruleType": "choose_n",
+            "ruleValue": 1,
+            "itemsSource": "shared_list_union",
+            "sharedListIds": [
+              "course-6.ai-d-aus",
+              "course-6.grad-aid-aus"
+            ],
+            "note": "One from the [AI+D\\_AUS](https://eecsis.mit.edu/degree_requirements.pcgi?program=6-4#AI+D_AUS) or [grad\\_AI+D\\_AUS](https://eecsis.mit.edu/degree_requirements.pcgi?program=6-4#grad_AI+D_AUS) list"
+          },
+          {
+            "type": "selection",
+            "ruleType": "choose_n",
+            "ruleValue": 1,
+            "itemsSource": "shared_list_union",
+            "sharedListIds": [
+              "course-6.eecs",
+              "course-6.grad-aid-aus",
+              "course-6.grad-aus2",
+              "course-6.grad-ii"
+            ],
+            "note": "One from the [EECS](https://eecsis.mit.edu/degree_requirements.pcgi?program=6-4#EECS), [grad\\_AI+D\\_AUS](https://eecsis.mit.edu/degree_requirements.pcgi?program=6-4#grad_AI+D_AUS), [grad\\_AUS2](https://eecsis.mit.edu/degree_requirements.pcgi?program=6-4#grad_AUS2), [grad\\_II](https://eecsis.mit.edu/degree_requirements.pcgi?program=6-4#grad_II), or [MATH](https://eecsis.mit.edu/degree_requirements.pcgi?program=6-4#MATH) list"
+          }
+        ]
+      }
+    }
+  ],
+  "girCrosswalk": [
+    {
+      "subjectId": "6.1200",
+      "satisfies": [
+        "rest"
+      ],
+      "note": "Also satisfies REST via departmental program."
+    },
+    {
+      "subjectId": "18.C06",
+      "satisfies": [
+        "rest"
+      ],
+      "note": "Also satisfies REST via departmental program."
+    },
+    {
+      "subjectId": "6.1010",
+      "satisfies": [
+        "lab"
+      ],
+      "note": "Also satisfies Laboratory Requirement via departmental program."
+    }
+  ],
+  "status": "draft",
+  "revisionId": "6-4-2026-07-03-d3a9c648"
+}

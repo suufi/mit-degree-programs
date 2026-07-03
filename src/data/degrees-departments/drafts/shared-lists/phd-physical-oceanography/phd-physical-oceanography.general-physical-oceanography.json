@@ -1,0 +1,80 @@
+{
+  "sharedListId": "phd-physical-oceanography.general-physical-oceanography",
+  "program": "phd-physical-oceanography",
+  "title": "General Physical Oceanography",
+  "items": [
+    {
+      "type": "subject",
+      "subjectId": "12.801"
+    },
+    {
+      "type": "subject",
+      "subjectId": "12.802"
+    },
+    {
+      "type": "subject",
+      "subjectId": "12.701"
+    },
+    {
+      "type": "subject",
+      "subjectId": "12.805"
+    },
+    {
+      "type": "subject",
+      "subjectId": "12.809"
+    },
+    {
+      "type": "subject",
+      "subjectId": "12.820"
+    },
+    {
+      "type": "subject",
+      "subjectId": "12.824"
+    },
+    {
+      "type": "subject",
+      "subjectId": "12.843"
+    },
+    {
+      "type": "subject",
+      "subjectId": "12.850"
+    },
+    {
+      "type": "subject",
+      "subjectId": "12.853"
+    },
+    {
+      "type": "subject",
+      "subjectId": "12.862"
+    },
+    {
+      "type": "subject",
+      "subjectId": "12.870"
+    },
+    {
+      "type": "subject",
+      "subjectId": "12.707"
+    },
+    {
+      "type": "subject",
+      "subjectId": "12.708"
+    },
+    {
+      "type": "subject",
+      "subjectId": "12.740"
+    },
+    {
+      "type": "subject",
+      "subjectId": "12.842"
+    },
+    {
+      "type": "subject",
+      "subjectId": "12.860"
+    },
+    {
+      "type": "subject",
+      "subjectId": "12.885"
+    }
+  ],
+  "version": "1"
+}

@@ -1,0 +1,543 @@
+{
+  "schemaVersion": "2",
+  "program": "6-7p",
+  "title": "Computer Science and Molecular Biology (MEng, Course 6-7P)",
+  "level": "graduate",
+  "complete": false,
+  "catalogYear": "2024",
+  "effectiveTerm": "2024-FA",
+  "eecsSource": {
+    "url": "https://eecsis.mit.edu/degree_requirements.pcgi?program=6-P7",
+    "programKey": "6-P7_2024",
+    "enterYear": 2024,
+    "level": "MNG",
+    "scrapedAt": "2026-07-03",
+    "contentHash": "cf75be1a1b330270606821a70490d75dbadf36613503f90f152e3e5cf954855f"
+  },
+  "footnotes": [
+    {
+      "id": "1",
+      "text": "You must follow these requirements if you entered MIT in Fall 2024 or later."
+    },
+    {
+      "id": "2",
+      "text": "Includes subjects as of Fall 2026"
+    },
+    {
+      "id": "3",
+      "text": "Each completed subject can only be used to satisfy at most one _required_ subject but can be used to satisfy multiple _additional constraints_."
+    },
+    {
+      "id": "4",
+      "text": "![](https://eecsis.mit.edu/images/fall.gif): only offered fall term ![](https://eecsis.mit.edu/images/spring.gif): only offered spring term grey: not offered this academic year."
+    },
+    {
+      "id": "5",
+      "text": "The prerequisites for 6.1210 can be satisfied in two different ways:"
+    },
+    {
+      "id": "6",
+      "text": "take 6.100A (6 units) and 6.1200 (12 units), or"
+    },
+    {
+      "id": "7",
+      "text": "take 6.100A (6 units) and 6.120A (6 units) and one of the following probability courses: 6.3700, 6.3800, 18.05, or 18.600 (all 12 units). You can petition to use the required probability course as one of the two restricted electives, provided that the second restricted elective is from Course 7."
+    }
+  ],
+  "constraints": [],
+  "requirements": [
+    {
+      "groupId": "6-7p-required-subjects",
+      "title": "Required Subjects",
+      "bucket": "departmental",
+      "subcategory": "required_subjects",
+      "root": {
+        "type": "group",
+        "ruleType": "all_of",
+        "items": [
+          {
+            "type": "group",
+            "ruleType": "all_of",
+            "items": [
+              {
+                "type": "subject",
+                "subjectId": "6.1000"
+              },
+              {
+                "type": "subject",
+                "subjectId": "6.1000"
+              },
+              {
+                "type": "subject",
+                "subjectId": "6.1000"
+              },
+              {
+                "type": "subject",
+                "subjectId": "6.100A"
+              },
+              {
+                "type": "subject",
+                "subjectId": "6.100A"
+              },
+              {
+                "type": "subject",
+                "subjectId": "6.1020"
+              },
+              {
+                "type": "subject",
+                "subjectId": "6.1010"
+              },
+              {
+                "type": "subject",
+                "subjectId": "6.1020"
+              },
+              {
+                "type": "subject",
+                "subjectId": "6.1200"
+              },
+              {
+                "type": "subject",
+                "subjectId": "18.062"
+              },
+              {
+                "type": "subject",
+                "subjectId": "6.1200"
+              },
+              {
+                "type": "subject",
+                "subjectId": "6.120A"
+              },
+              {
+                "type": "subject",
+                "subjectId": "6.120A"
+              },
+              {
+                "type": "subject",
+                "subjectId": "18.06"
+              },
+              {
+                "type": "subject",
+                "subjectId": "18.06"
+              },
+              {
+                "type": "subject",
+                "subjectId": "18.06"
+              },
+              {
+                "type": "subject",
+                "subjectId": "18.C06"
+              },
+              {
+                "type": "subject",
+                "subjectId": "6.C06"
+              },
+              {
+                "type": "subject",
+                "subjectId": "18.C06"
+              },
+              {
+                "type": "subject",
+                "subjectId": "6.C06"
+              },
+              {
+                "type": "subject",
+                "subjectId": "18.C06"
+              },
+              {
+                "type": "subject",
+                "subjectId": "6.C06"
+              }
+            ],
+            "note": "Three Mathematics and Introductory subjects"
+          },
+          {
+            "type": "group",
+            "ruleType": "all_of",
+            "items": [
+              {
+                "type": "subject",
+                "subjectId": "5.12"
+              },
+              {
+                "type": "subject",
+                "subjectId": "5.12"
+              },
+              {
+                "type": "subject",
+                "subjectId": "5.12"
+              },
+              {
+                "type": "subject",
+                "subjectId": "CC.512"
+              },
+              {
+                "type": "subject",
+                "subjectId": "CC.010"
+              },
+              {
+                "type": "subject",
+                "subjectId": "CC.011"
+              },
+              {
+                "type": "subject",
+                "subjectId": "CC.A10"
+              },
+              {
+                "type": "subject",
+                "subjectId": "CC.512"
+              },
+              {
+                "type": "subject",
+                "subjectId": "5.601"
+              },
+              {
+                "type": "subject",
+                "subjectId": "5.601"
+              },
+              {
+                "type": "subject",
+                "subjectId": "5.601"
+              }
+            ],
+            "note": "Two Chemistry subjects"
+          },
+          {
+            "type": "selection",
+            "ruleType": "choose_one",
+            "items": [
+              {
+                "type": "subject",
+                "subjectId": "20.109"
+              },
+              {
+                "type": "subject",
+                "subjectId": "7.002"
+              },
+              {
+                "type": "subject",
+                "subjectId": "7.003"
+              },
+              {
+                "type": "subject",
+                "subjectId": "10.7003"
+              }
+            ],
+            "itemsSource": "explicit"
+          },
+          {
+            "type": "group",
+            "ruleType": "all_of",
+            "items": [
+              {
+                "type": "subject",
+                "subjectId": "6.1010"
+              },
+              {
+                "type": "subject",
+                "subjectId": "6.1000"
+              },
+              {
+                "type": "subject",
+                "subjectId": "6.100A"
+              },
+              {
+                "type": "subject",
+                "subjectId": "6.100B"
+              },
+              {
+                "type": "subject",
+                "subjectId": "16.C20"
+              },
+              {
+                "type": "subject",
+                "subjectId": "6.1010"
+              },
+              {
+                "type": "subject",
+                "subjectId": "6.1210"
+              },
+              {
+                "type": "subject",
+                "subjectId": "6.100A"
+              },
+              {
+                "type": "subject",
+                "subjectId": "6.1200"
+              },
+              {
+                "type": "subject",
+                "subjectId": "6.120A"
+              },
+              {
+                "type": "subject",
+                "subjectId": "6.3700"
+              },
+              {
+                "type": "subject",
+                "subjectId": "6.3800"
+              },
+              {
+                "type": "subject",
+                "subjectId": "18.05"
+              },
+              {
+                "type": "subject",
+                "subjectId": "18.600"
+              },
+              {
+                "type": "subject",
+                "subjectId": "6.1210"
+              },
+              {
+                "type": "subject",
+                "subjectId": "6.3900"
+              },
+              {
+                "type": "subject",
+                "subjectId": "6.1000"
+              },
+              {
+                "type": "subject",
+                "subjectId": "6.1210"
+              },
+              {
+                "type": "subject",
+                "subjectId": "18.03"
+              },
+              {
+                "type": "subject",
+                "subjectId": "18.06"
+              },
+              {
+                "type": "subject",
+                "subjectId": "6.3900"
+              },
+              {
+                "type": "subject",
+                "subjectId": "6.C01"
+              },
+              {
+                "type": "subject",
+                "subjectId": "6.100A"
+              },
+              {
+                "type": "subject",
+                "subjectId": "1.C01"
+              },
+              {
+                "type": "subject",
+                "subjectId": "2.C01"
+              },
+              {
+                "type": "subject",
+                "subjectId": "3.C01"
+              },
+              {
+                "type": "subject",
+                "subjectId": "6.C011"
+              },
+              {
+                "type": "subject",
+                "subjectId": "7.C01"
+              },
+              {
+                "type": "subject",
+                "subjectId": "15.C01"
+              },
+              {
+                "type": "subject",
+                "subjectId": "22.C01"
+              },
+              {
+                "type": "subject",
+                "subjectId": "6.C01"
+              }
+            ],
+            "note": "Three Computer Science Foundation subjects"
+          },
+          {
+            "type": "group",
+            "ruleType": "all_of",
+            "items": [
+              {
+                "type": "subject",
+                "subjectId": "7.03"
+              },
+              {
+                "type": "subject",
+                "subjectId": "7.03"
+              },
+              {
+                "type": "subject",
+                "subjectId": "7.03"
+              },
+              {
+                "type": "subject",
+                "subjectId": "5.07"
+              },
+              {
+                "type": "subject",
+                "subjectId": "5.07"
+              },
+              {
+                "type": "subject",
+                "subjectId": "20.507"
+              },
+              {
+                "type": "subject",
+                "subjectId": "5.12"
+              },
+              {
+                "type": "subject",
+                "subjectId": "5.07"
+              },
+              {
+                "type": "subject",
+                "subjectId": "7.05"
+              },
+              {
+                "type": "subject",
+                "subjectId": "5.12"
+              },
+              {
+                "type": "subject",
+                "subjectId": "7.05"
+              },
+              {
+                "type": "subject",
+                "subjectId": "7.06"
+              },
+              {
+                "type": "subject",
+                "subjectId": "7.06"
+              },
+              {
+                "type": "subject",
+                "subjectId": "7.03"
+              },
+              {
+                "type": "subject",
+                "subjectId": "7.05"
+              },
+              {
+                "type": "subject",
+                "subjectId": "7.06"
+              }
+            ],
+            "note": "Three Biological Science Fundation subjects"
+          },
+          {
+            "type": "selection",
+            "ruleType": "choose_one",
+            "items": [
+              {
+                "type": "subject",
+                "subjectId": "6.UAR"
+              },
+              {
+                "type": "subject",
+                "subjectId": "6.UAT"
+              },
+              {
+                "type": "subject",
+                "subjectId": "7.19"
+              },
+              {
+                "type": "subject",
+                "subjectId": "9.12"
+              },
+              {
+                "type": "subject",
+                "subjectId": "2.UAR"
+              }
+            ],
+            "itemsSource": "explicit"
+          },
+          {
+            "type": "selection",
+            "ruleType": "choose_one",
+            "items": [
+              {
+                "type": "subject",
+                "subjectId": "6.9830"
+              },
+              {
+                "type": "subject",
+                "subjectId": "6.9870"
+              },
+              {
+                "type": "subject",
+                "subjectId": "6.9880"
+              }
+            ],
+            "itemsSource": "explicit"
+          },
+          {
+            "type": "selection",
+            "ruleType": "choose_one",
+            "items": [
+              {
+                "type": "subject",
+                "subjectId": "6.THM"
+              }
+            ],
+            "itemsSource": "explicit"
+          }
+        ]
+      }
+    },
+    {
+      "groupId": "6-7p-computational-biology-elective",
+      "title": "Computational Biology Elective",
+      "bucket": "elective",
+      "subcategory": "elective_subjects",
+      "root": {
+        "type": "selection",
+        "ruleType": "choose_n",
+        "ruleValue": 1,
+        "itemsSource": "shared_list_union",
+        "sharedListIds": [
+          "6-7p.compbio"
+        ],
+        "note": "One from the [COMPBIOv2](https://eecsis.mit.edu/degree_requirements.pcgi?program=6-P7#COMPBIOv2) list"
+      }
+    },
+    {
+      "groupId": "6-7p-restricted-elective",
+      "title": "Restricted Elective",
+      "bucket": "elective",
+      "subcategory": "elective_subjects",
+      "root": {
+        "type": "selection",
+        "ruleType": "choose_n",
+        "ruleValue": 2,
+        "itemsSource": "shared_list_union",
+        "sharedListIds": [
+          "6-7p.biore",
+          "course-6.ai-d-aus",
+          "course-6.grad-aid-aus",
+          "6-7p.compbio"
+        ],
+        "note": "Two from the [BIOREv2](https://eecsis.mit.edu/degree_requirements.pcgi?program=6-P7#BIOREv2), [AI+D\\_AUS](https://eecsis.mit.edu/degree_requirements.pcgi?program=6-P7#AI+D_AUS), [grad\\_AI+D\\_AUS](https://eecsis.mit.edu/degree_requirements.pcgi?program=6-P7#grad_AI+D_AUS), or [COMPBIOv2](https://eecsis.mit.edu/degree_requirements.pcgi?program=6-P7#COMPBIOv2) list"
+      }
+    },
+    {
+      "groupId": "6-7p-math-restricted-elective",
+      "title": "Math Restricted Elective",
+      "bucket": "elective",
+      "subcategory": "elective_subjects",
+      "root": {
+        "type": "selection",
+        "ruleType": "choose_n",
+        "ruleValue": 2,
+        "itemsSource": "shared_list_union",
+        "sharedListIds": [
+          "6-7p.meng-restricted-electives"
+        ],
+        "note": "Two from the [MEng Restricted Electives](https://eecsis.mit.edu/degree_requirements.pcgi?program=6-P7#MEng%20Restricted%20Electives) list"
+      }
+    }
+  ],
+  "status": "draft",
+  "revisionId": "6-7p-2026-07-03-30d16699"
+}

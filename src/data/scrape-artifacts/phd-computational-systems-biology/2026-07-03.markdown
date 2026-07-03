@@ -1,0 +1,189 @@
+Degree Charts
+
+- [Home](https://catalog.mit.edu/) >
+- [Degree Charts](https://catalog.mit.edu/degree-charts/) >
+- Computational and Systems Biology (PhD)
+
+# Doctor of Philosopy in Computational and Systems Biology
+
+[Computational and Systems Biology Program](https://catalog.mit.edu/interdisciplinary/graduate-programs/computational-systems-biology/)
+
+## Program Requirements
+
+|     |     |     |
+| --- | --- | --- |
+| Core Curriculum |  |
+| [CSB.100\[J\]](https://catalog.mit.edu/search/?P=CSB.100 "CSB.100[J]") | Topics in Computational and Systems Biology | 12 |
+| _Biology Requirement_ | 12 |
+| _Select one of the following:_ |  |
+| [7.51](https://catalog.mit.edu/search/?P=7.51 "7.51") | Principles of Biochemical Analysis |  |
+| [7.52](https://catalog.mit.edu/search/?P=7.52 "7.52") | Genetics for Graduate Students |  |
+| [7.58](https://catalog.mit.edu/search/?P=7.58 "7.58") | Molecular Biology |  |
+| [7.61\[J\]](https://catalog.mit.edu/search/?P=7.61 "7.61[J]") | Eukaryotic Cell Biology: Principles and Practice |  |
+| [7.63\[J\]](https://catalog.mit.edu/search/?P=7.63 "7.63[J]") | Immunology |  |
+| [7.68\[J\]](https://catalog.mit.edu/search/?P=7.68 "7.68[J]") | Molecular and Cellular Neuroscience Core II |  |
+| _Computational Biology Requirement_ | 12 |
+| _Select one of the following:_ |  |
+| [6.C51](https://catalog.mit.edu/search/?P=6.C51 "6.C51")<br>& [20.C51\[J\]](https://catalog.mit.edu/search/?P=20.C51 "20.C51[J]") | Modeling with Machine Learning: from Algorithms to Applications<br>and Machine Learning for Molecular Engineering1 |  |
+| [6.8700\[J\]](https://catalog.mit.edu/search/?P=6.8700 "6.8700[J]") | Advanced Computational Biology: Genomes, Networks, Evolution |  |
+| [7.81\[J\]](https://catalog.mit.edu/search/?P=7.81 "7.81[J]") | Systems Biology |  |
+| [20.490](https://catalog.mit.edu/search/?P=20.490 "20.490") | Computational Systems Biology: Deep Learning in the Life Sciences |  |
+| Research Rotations |  |
+| [CSB.110](https://catalog.mit.edu/search/?P=CSB.110 "CSB.110") | Research Rotations in Computational and Systems Biology | 24 |
+| Restricted Electives |  |
+| Four subjects from the list below, including two subjects in the student's research area or department that are topically related, one engineering subject, and one biology subject2 | 48 |
+| Teaching Experience |  |
+| [CSB.199](https://catalog.mit.edu/search/?P=CSB.199 "CSB.199") | Teaching Experience in Computational Systems Biology | 12 |
+| Professional Development |  |
+| Select one of the following:3 | 2 |
+| [CSB.195](https://catalog.mit.edu/search/?P=CSB.195 "CSB.195") | Professional Development in Computational and Systems Biology |  |
+| [7.930\[J\]](https://catalog.mit.edu/search/?P=7.930 "7.930[J]") | Research Experience in Biopharma |  |
+| [8.396\[J\]](https://catalog.mit.edu/search/?P=8.396 "8.396[J]") | Leadership and Professional Strategies & Skills Training (LEAPS), Part I: Advancing Your Professional Strategies and Skills |  |
+| [8.397\[J\]](https://catalog.mit.edu/search/?P=8.397 "8.397[J]") | Leadership and Professional Strategies & Skills Training (LEAPS), Part II: Developing Your Leadership Competencies |  |
+| Thesis |  |
+| [CSB.THG](https://catalog.mit.edu/search/?P=CSB.THG "CSB.THG") | Graduate Thesis 4 | 252 |
+| Total Units | 374 |
+
+|     |     |
+| --- | --- |
+| _1_ | _[6.C51](https://catalog.mit.edu/search/?P=6.C51 "6.C51") and [20.C51\[J\]](https://catalog.mit.edu/search/?P=20.C51 "20.C51[J]") must be taken concurrently for credit for a letter grade._ |
+| _2_ | _Other subjects may be approved on a case-by-case basis by the program directors._ |
+| _3_ | _With permission of their advisor, students may substitute another MIT subject of at least 2 units that supports career exploration or professional development._ |
+| _4_ | _The units listed here represent an average number taken during the doctoral program._ |
+
+|     |     |     |
+| --- | --- | --- |
+| Restricted Electives1 |  |
+| _Civil and Environmental Engineering_ |  |
+| [1.545\[J\]](https://catalog.mit.edu/search/?P=1.545 "1.545[J]") | Atomistic Modeling and Simulation of Materials and Structures | 12 |
+| [1.685\[J\]](https://catalog.mit.edu/search/?P=1.685 "1.685[J]") | Nonlinear Dynamics and Waves | 12 |
+| [1.89](https://catalog.mit.edu/search/?P=1.89 "1.89") | Environmental Microbial Biogeochemistry | 12 |
+| [1.873](https://catalog.mit.edu/search/?P=1.873 "1.873") | Mathematical Modeling of Ecological Systems | 12 |
+| [1.881\[J\]](https://catalog.mit.edu/search/?P=1.881 "1.881[J]") | Genomics and Evolution of Infectious Disease | 12 |
+| _Mechanical Engineering_ |  |
+| [2.18](https://catalog.mit.edu/search/?P=2.18 "2.18") | Biomolecular Feedback Systems | 12 |
+| [2.717](https://catalog.mit.edu/search/?P=2.717 "2.717") | Optical Engineering | 12 |
+| _Chemistry_ |  |
+| [5.64\[J\]](https://catalog.mit.edu/search/?P=5.64 "5.64[J]") | Advances in Interdisciplinary Science in Human Health and Disease | 12 |
+| [5.70\[J\]](https://catalog.mit.edu/search/?P=5.70 "5.70[J]") | Statistical Thermodynamics | 12 |
+| _Electrical Engineering and Computer Science_ |  |
+| [6.C51](https://catalog.mit.edu/search/?P=6.C51 "6.C51")<br>& [20.C51\[J\]](https://catalog.mit.edu/search/?P=20.C51 "20.C51[J]") | Modeling with Machine Learning: from Algorithms to Applications<br>and Machine Learning for Molecular Engineering2 | 12 |
+| [6.3702](https://catalog.mit.edu/search/?P=6.3702 "6.3702") | Introduction to Probability | 12 |
+| [6.3722](https://catalog.mit.edu/search/?P=6.3722 "6.3722") | Introduction to Statistical Data Analysis | 12 |
+| [6.5060](https://catalog.mit.edu/search/?P=6.5060 "6.5060") | Algorithm Engineering | 12 |
+| [6.5150](https://catalog.mit.edu/search/?P=6.5150 "6.5150") | Large-scale Symbolic Systems | 12 |
+| [6.5210\[J\]](https://catalog.mit.edu/search/?P=6.5210 "6.5210[J]") | Advanced Algorithms | 15 |
+| [6.5420](https://catalog.mit.edu/search/?P=6.5420 "6.5420") | Randomness and Computation | 12 |
+| [6.6220](https://catalog.mit.edu/search/?P=6.6220 "6.6220") | Power Electronics | 12 |
+| [6.6500\[J\]](https://catalog.mit.edu/search/?P=6.6500 "6.6500[J]") | Integrated Microelectronic Devices | 12 |
+| [6.7100\[J\]](https://catalog.mit.edu/search/?P=6.7100 "6.7100[J]") | Dynamic Systems and Control | 12 |
+| [6.7300\[J\]](https://catalog.mit.edu/search/?P=6.7300 "6.7300[J]") | Introduction to Modeling and Simulation | 12 |
+| [6.7310\[J\]](https://catalog.mit.edu/search/?P=6.7310 "6.7310[J]") | Introduction to Numerical Methods | 12 |
+| [6.7330\[J\]](https://catalog.mit.edu/search/?P=6.7330 "6.7330[J]") | Numerical Methods for Partial Differential Equations | 12 |
+| [6.7700\[J\]](https://catalog.mit.edu/search/?P=6.7700 "6.7700[J]") | Fundamentals of Probability | 12 |
+| [6.7710](https://catalog.mit.edu/search/?P=6.7710 "6.7710") | Discrete Stochastic Processes | 12 |
+| [6.7720\[J\]](https://catalog.mit.edu/search/?P=6.7720 "6.7720[J]") | Discrete Probability and Stochastic Processes | 12 |
+| [6.7800](https://catalog.mit.edu/search/?P=6.7800 "6.7800") | Inference and Information | 12 |
+| [6.7810](https://catalog.mit.edu/search/?P=6.7810 "6.7810") | Algorithms for Inference | 12 |
+| [6.7830](https://catalog.mit.edu/search/?P=6.7830 "6.7830") | Bayesian Modeling and Inference | 12 |
+| [6.7900](https://catalog.mit.edu/search/?P=6.7900 "6.7900") | Machine Learning | 12 |
+| [6.7920\[J\]](https://catalog.mit.edu/search/?P=6.7920 "6.7920[J]") | Reinforcement Learning: Foundations and Methods | 12 |
+| [6.7930\[J\]](https://catalog.mit.edu/search/?P=6.7930 "6.7930[J]") | Machine Learning for Healthcare | 12 |
+| [6.7960](https://catalog.mit.edu/search/?P=6.7960 "6.7960") | Deep Learning | 12 |
+| [6.8610](https://catalog.mit.edu/search/?P=6.8610 "6.8610") | Quantitative Methods for Natural Language Processing | 12 |
+| [6.8700\[J\]](https://catalog.mit.edu/search/?P=6.8700 "6.8700[J]") | Advanced Computational Biology: Genomes, Networks, Evolution 3 | 12 |
+| [6.8710\[J\]](https://catalog.mit.edu/search/?P=6.8710 "6.8710[J]") | Computational Systems Biology: Deep Learning in the Life Sciences | 12 |
+| [6.S982](https://catalog.mit.edu/search/?P=6.S982 "6.S982") | Special Subject in Electrical Engineering and Computer Science | 12 |
+| _Biology_ |  |
+| [7.493\[J\]](https://catalog.mit.edu/search/?P=7.493 "7.493[J]") | Microbial Genetics and Evolution | 12 |
+| [7.51](https://catalog.mit.edu/search/?P=7.51 "7.51") | Principles of Biochemical Analysis 3 | 12 |
+| [7.52](https://catalog.mit.edu/search/?P=7.52 "7.52") | Genetics for Graduate Students 4 | 12 |
+| [7.58](https://catalog.mit.edu/search/?P=7.58 "7.58") | Molecular Biology 4 | 12 |
+| [7.60](https://catalog.mit.edu/search/?P=7.60 "7.60") | Cell Biology: Structure and Functions of the Nucleus | 12 |
+| [7.61\[J\]](https://catalog.mit.edu/search/?P=7.61 "7.61[J]") | Eukaryotic Cell Biology: Principles and Practice 4 | 12 |
+| [7.63\[J\]](https://catalog.mit.edu/search/?P=7.63 "7.63[J]") | Immunology | 12 |
+| [7.64](https://catalog.mit.edu/search/?P=7.64 "7.64") | Molecular Mechanisms, Pathology and Therapy of Human Neuromuscular Disorders | 12 |
+| [7.66](https://catalog.mit.edu/search/?P=7.66 "7.66") | Molecular Basis of Infectious Disease | 12 |
+| [7.69\[J\]](https://catalog.mit.edu/search/?P=7.69 "7.69[J]") | Developmental Neurobiology | 12 |
+| [7.70](https://catalog.mit.edu/search/?P=7.70 "7.70") | Regulation of Gene Expression | 12 |
+| [7.71](https://catalog.mit.edu/search/?P=7.71 "7.71") | Biophysical Technique | 12 |
+| [7.72](https://catalog.mit.edu/search/?P=7.72 "7.72") | Stem Cells, Regeneration, and Development | 12 |
+| [7.75](https://catalog.mit.edu/search/?P=7.75 "7.75") | Human Genetics and Genomics | 12 |
+| [7.77](https://catalog.mit.edu/search/?P=7.77 "7.77") | Nucleic Acids, Structure, Function, Evolution, and Their Interactions with Proteins | 12 |
+| [7.83](https://catalog.mit.edu/search/?P=7.83 "7.83") | Design Principles of Biological Systems | 12 |
+| [7.84](https://catalog.mit.edu/search/?P=7.84 "7.84") | Advanced Concepts in Immunology | 12 |
+| [7.85](https://catalog.mit.edu/search/?P=7.85 "7.85") | The Hallmarks of Cancer | 12 |
+| [7.86](https://catalog.mit.edu/search/?P=7.86 "7.86") | Building with Cells | 12 |
+| [7.91](https://catalog.mit.edu/search/?P=7.91 "7.91") | The CRISPR Revolution: Engineering the Genome for Basic Science and Clinical Medicine | 12 |
+| [7.95](https://catalog.mit.edu/search/?P=7.95 "7.95") | Cancer Biology | 12 |
+| _Physics_ |  |
+| [8.333](https://catalog.mit.edu/search/?P=8.333 "8.333") | Statistical Mechanics I | 12 |
+| [8.334](https://catalog.mit.edu/search/?P=8.334 "8.334") | Statistical Mechanics II | 12 |
+| [8.431\[J\]](https://catalog.mit.edu/search/?P=8.431 "8.431[J]") | Nonlinear Optics | 12 |
+| [8.591\[J\]](https://catalog.mit.edu/search/?P=8.591 "8.591[J]") | Systems Biology 3 | 12 |
+| [8.592\[J\]](https://catalog.mit.edu/search/?P=8.592 "8.592[J]") | Statistical Physics in Biology | 12 |
+| [8.593\[J\]](https://catalog.mit.edu/search/?P=8.593 "8.593[J]") | Biological Physics | 12 |
+| _Brain and Cognitive Sciences_ |  |
+| [9.013\[J\]](https://catalog.mit.edu/search/?P=9.013 "9.013[J]") | Molecular and Cellular Neuroscience Core II 4 | 12 |
+| [9.015\[J\]](https://catalog.mit.edu/search/?P=9.015 "9.015[J]") | Molecular and Cellular Neuroscience Core I | 12 |
+| [9.520\[J\]](https://catalog.mit.edu/search/?P=9.520 "9.520[J]") | Statistical Learning Theory and Applications | 12 |
+| _Chemical Engineering_ |  |
+| [10.544](https://catalog.mit.edu/search/?P=10.544 "10.544") | Metabolic and Cell Engineering | 12 |
+| [10.555\[J\]](https://catalog.mit.edu/search/?P=10.555 "10.555[J]") | Bioinformatics: Principles, Methods and Applications | 12 |
+| [10.557](https://catalog.mit.edu/search/?P=10.557 "10.557") | Mixed-integer and Nonconvex Optimization | 12 |
+| [10.637\[J\]](https://catalog.mit.edu/search/?P=10.637 "10.637[J]") | Computational Chemistry | 12 |
+| _Aeronautics and Astronautics_ |  |
+| [16.391](https://catalog.mit.edu/search/?P=16.391 "16.391") | Statistics for Engineers and Scientists | 12 |
+| [16.940](https://catalog.mit.edu/search/?P=16.940 "16.940") | Numerical Methods for Stochastic Modeling and Inference | 12 |
+| _Mathematics_ |  |
+| [18.0651](https://catalog.mit.edu/search/?P=18.0651 "18.0651") | Matrix Methods in Data Analysis, Signal Processing, and Machine Learning | 12 |
+| [18.0751](https://catalog.mit.edu/search/?P=18.0751 "18.0751") | Methods for Scientists and Engineers | 12 |
+| [18.0851](https://catalog.mit.edu/search/?P=18.0851 "18.0851") | Computational Science and Engineering I | 12 |
+| [18.0861](https://catalog.mit.edu/search/?P=18.0861 "18.0861") | Computational Science and Engineering II | 12 |
+| [18.408](https://catalog.mit.edu/search/?P=18.408 "18.408") | Topics in Theoretical Computer Science | 12 |
+| [18.417](https://catalog.mit.edu/search/?P=18.417 "18.417") | Introduction to Computational Molecular Biology | 12 |
+| [18.418\[J\]](https://catalog.mit.edu/search/?P=18.418 "18.418[J]") | Topics in Computational Molecular Biology | 12 |
+| [18.4531](https://catalog.mit.edu/search/?P=18.4531 "18.4531") | Combinatorial Optimization | 12 |
+| [18.455](https://catalog.mit.edu/search/?P=18.455 "18.455") | Advanced Combinatorial Optimization | 12 |
+| [18.6501](https://catalog.mit.edu/search/?P=18.6501 "18.6501") | Fundamentals of Statistics | 12 |
+| [18.677](https://catalog.mit.edu/search/?P=18.677 "18.677") | Topics in Stochastic Processes | 12 |
+| _Biological Engineering_ |  |
+| [20.201](https://catalog.mit.edu/search/?P=20.201 "20.201") | Fundamentals of Drug Development | 12 |
+| [20.405\[J\]](https://catalog.mit.edu/search/?P=20.405 "20.405[J]") | Principles of Synthetic Biology | 12 |
+| [20.409](https://catalog.mit.edu/search/?P=20.409 "20.409") | Instrumentation and Measurement for Biological Systems | 12 |
+| [20.410\[J\]](https://catalog.mit.edu/search/?P=20.410 "20.410[J]") | Molecular, Cellular, and Tissue Biomechanics | 12 |
+| [20.415](https://catalog.mit.edu/search/?P=20.415 "20.415") | Physical Biology | 12 |
+| [20.420\[J\]](https://catalog.mit.edu/search/?P=20.420 "20.420[J]") | Principles of Molecular Bioengineering | 12 |
+| [20.430\[J\]](https://catalog.mit.edu/search/?P=20.430 "20.430[J]") | Fields, Forces, and Flows in Biological Systems | 12 |
+| [20.440](https://catalog.mit.edu/search/?P=20.440 "20.440") | Analysis of Biological Networks | 15 |
+| [20.463\[J\]](https://catalog.mit.edu/search/?P=20.463 "20.463[J]") | Biomaterials Science and Engineering | 12 |
+| [20.490](https://catalog.mit.edu/search/?P=20.490 "20.490") | Computational Systems Biology: Deep Learning in the Life Sciences 3 | 12 |
+| [20.535\[J\]](https://catalog.mit.edu/search/?P=20.535 "20.535[J]") | Protein Engineering | 12 |
+| _Data, Systems, and Society_ |  |
+| [IDS.136\[J\]](https://catalog.mit.edu/search/?P=IDS.136 "IDS.136[J]") | Graphical Models: A Geometric, Algebraic, and Combinatorial Perspective | 12 |
+| [IDS.147\[J\]](https://catalog.mit.edu/search/?P=IDS.147 "IDS.147[J]") | Statistical Machine Learning and Data Science | 12 |
+| _Health Sciences and Technology_ |  |
+| [HST.176](https://catalog.mit.edu/search/?P=HST.176 "HST.176") | Cellular and Molecular Immunology | 12 |
+| [HST.508\[J\]](https://catalog.mit.edu/search/?P=HST.508 "HST.508[J]") | Evolutionary and Quantitative Genomics | 12 |
+
+|     |     |
+| --- | --- |
+| _1_ | _Other subjects may be approved on a case-by-case basis by the program directors._ |
+| _2_ | _[6.C51](https://catalog.mit.edu/search/?P=6.C51 "6.C51") and [20.C51\[J\]](https://catalog.mit.edu/search/?P=20.C51 "20.C51[J]") must be taken concurrently for credit and a letter grade._ |
+| _3_ | _Can also fulfill the Computational Biology Requirement._ |
+| _4_ | _Can also fulfill the Biology Requirement._ |
+
+Print Options
+
+
+[Send Page to Printer](https://catalog.mit.edu/degree-charts/phd-computational-systems-biology/#)
+
+_Print this page._
+
+[Download PDF of this Page](https://catalog.mit.edu/degree-charts/phd-computational-systems-biology/phd-computational-systems-biology.pdf)
+
+_The PDF includes all information on this page and its related tabs. Subject (course) information includes any changes approved for the current academic year._
+
+[Download PDF of the Entire Catalog and/or Subject Descriptions](https://catalog.mit.edu/archive/)
+
+[Cancel](https://catalog.mit.edu/degree-charts/phd-computational-systems-biology/#)

@@ -1,0 +1,20 @@
+{
+  "sharedListId": "4.architecture-design-and-studies",
+  "program": "4",
+  "title": "Architecture Design and Studies",
+  "items": [
+    {
+      "type": "subject",
+      "subjectId": "4.041"
+    },
+    {
+      "type": "subject",
+      "subjectId": "4.053"
+    },
+    {
+      "type": "subject",
+      "subjectId": "4.250"
+    }
+  ],
+  "version": "1"
+}

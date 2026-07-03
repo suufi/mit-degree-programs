@@ -1,0 +1,32 @@
+{
+  "sharedListId": "phd-computational-systems-biology.physics",
+  "program": "phd-computational-systems-biology",
+  "title": "Physics",
+  "items": [
+    {
+      "type": "subject",
+      "subjectId": "8.333"
+    },
+    {
+      "type": "subject",
+      "subjectId": "8.334"
+    },
+    {
+      "type": "subject",
+      "subjectId": "8.431"
+    },
+    {
+      "type": "subject",
+      "subjectId": "8.591"
+    },
+    {
+      "type": "subject",
+      "subjectId": "8.592"
+    },
+    {
+      "type": "subject",
+      "subjectId": "8.593"
+    }
+  ],
+  "version": "1"
+}

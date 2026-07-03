@@ -1,0 +1,100 @@
+{
+  "sharedListId": "course-6.track-application-cim-or-ai-d-aus",
+  "program": "course-6",
+  "title": "Application_CIM or AI+D_AUS",
+  "items": [
+    {
+      "type": "subject",
+      "subjectId": "18.404"
+    },
+    {
+      "type": "subject",
+      "subjectId": "6.3020"
+    },
+    {
+      "type": "subject",
+      "subjectId": "6.3730"
+    },
+    {
+      "type": "subject",
+      "subjectId": "6.3930"
+    },
+    {
+      "type": "subject",
+      "subjectId": "6.4200"
+    },
+    {
+      "type": "subject",
+      "subjectId": "6.4210"
+    },
+    {
+      "type": "subject",
+      "subjectId": "6.4300"
+    },
+    {
+      "type": "subject",
+      "subjectId": "6.4610"
+    },
+    {
+      "type": "subject",
+      "subjectId": "6.5151"
+    },
+    {
+      "type": "subject",
+      "subjectId": "6.5831"
+    },
+    {
+      "type": "subject",
+      "subjectId": "6.5931"
+    },
+    {
+      "type": "subject",
+      "subjectId": "6.7411"
+    },
+    {
+      "type": "subject",
+      "subjectId": "6.8371"
+    },
+    {
+      "type": "subject",
+      "subjectId": "6.8611"
+    },
+    {
+      "type": "subject",
+      "subjectId": "6.8701"
+    },
+    {
+      "type": "subject",
+      "subjectId": "6.8711"
+    },
+    {
+      "type": "subject",
+      "subjectId": "6.8801"
+    },
+    {
+      "type": "subject",
+      "subjectId": "21M.387"
+    },
+    {
+      "type": "subject",
+      "subjectId": "2.092"
+    },
+    {
+      "type": "subject",
+      "subjectId": "2.124"
+    },
+    {
+      "type": "subject",
+      "subjectId": "16.405"
+    },
+    {
+      "type": "subject",
+      "subjectId": "20.387"
+    },
+    {
+      "type": "subject",
+      "subjectId": "20.390"
+    }
+  ],
+  "version": "1"
+}

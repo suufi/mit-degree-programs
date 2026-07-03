@@ -1,0 +1,16 @@
+{
+  "sharedListId": "phd-physical-oceanography.physical-biological-chemical-interactions",
+  "program": "phd-physical-oceanography",
+  "title": "Physical-Biological-Chemical Interactions",
+  "items": [
+    {
+      "type": "subject",
+      "subjectId": "7.470"
+    },
+    {
+      "type": "subject",
+      "subjectId": "12.742"
+    }
+  ],
+  "version": "1"
+}

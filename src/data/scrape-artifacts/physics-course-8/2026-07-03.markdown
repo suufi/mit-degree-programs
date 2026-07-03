@@ -1,0 +1,153 @@
+Degree Charts
+
+- [Home](https://catalog.mit.edu/) >
+- [Degree Charts](https://catalog.mit.edu/degree-charts/) >
+- Physics (SB, Course 8)
+
+# Physics (Course 8)
+
+[Department of Physics](https://catalog.mit.edu/schools/science/physics/#undergraduatetext)
+
+## Bachelor of Science in Physics (Focused Option)
+
+### General Institute Requirements (GIRs)
+
+The General Institute Requirements include a Communication Requirement that is integrated into both the HASS Requirement and the requirements of each major; see details below.
+
+| Summary of Subject Requirements | Subjects |
+| --- | --- |
+| Science Requirement | 6 |
+| Humanities, Arts, and Social Sciences (HASS) Requirement; at least two of these subjects must be designated as communication-intensive (CI-H) to fulfill the Communication Requirement. | 8 |
+| Restricted Electives in Science and Technology (REST) Requirement \[can be satisfied by [8.03](https://catalog.mit.edu/search/?P=8.03 "8.03") or [8.04](https://catalog.mit.edu/search/?P=8.04 "8.04"), and [18.03](https://catalog.mit.edu/search/?P=18.03 "18.03") in the Departmental Program\] | 2 |
+| Laboratory Requirement (12 units) \[satisfied by [8.13](https://catalog.mit.edu/search/?P=8.13 "8.13") or equivalent in the Departmental Program\] | 1 |
+| **Total GIR Subjects Required for SB Degree** | **17** |
+
+| Physical Education Requirement |  |
+| --- | --- |
+| Swimming requirement, plus four physical education courses for eight points. |  |
+
+### Departmental Program
+
+Choose at least two subjects in the major that are designated as communication-intensive (CI-M) to fulfill the Communication Requirement.
+
+|     |     |     |
+| --- | --- | --- |
+| Required Subjects | **Units** |
+| [18.03](https://catalog.mit.edu/search/?P=18.03 "18.03") | Differential Equations 1 | 12 |
+| [8.03](https://catalog.mit.edu/search/?P=8.03 "8.03") | Physics III | 12 |
+| [8.033](https://catalog.mit.edu/search/?P=8.033 "8.033") | Relativity | 12 |
+| [8.04](https://catalog.mit.edu/search/?P=8.04 "8.04") | Quantum Physics I | 12 |
+| [8.044](https://catalog.mit.edu/search/?P=8.044 "8.044") | Statistical Physics I | 12 |
+| [8.05](https://catalog.mit.edu/search/?P=8.05 "8.05") | Quantum Physics II | 12 |
+| [8.06](https://catalog.mit.edu/search/?P=8.06 "8.06") | Quantum Physics III (CI-M) | 12 |
+| [8.13](https://catalog.mit.edu/search/?P=8.13 "8.13") | Experimental Physics I (CI-M) | 18 |
+| [8.14](https://catalog.mit.edu/search/?P=8.14 "8.14") | Experimental Physics II | 18 |
+| [8.223](https://catalog.mit.edu/search/?P=8.223 "8.223") | Classical Mechanics II | 6 |
+| [8.THU](https://catalog.mit.edu/search/?P=8.THU "8.THU") | Undergraduate Physics Thesis 2 | 12 |
+| Restricted Electives |  |
+| One subject in the Department of Mathematics beyond [18.03](https://catalog.mit.edu/search/?P=18.03 "18.03") | 12 |
+| Two subjects in the Department of Physics in addition to those listed above, including at least one of the following:3 | 24 |
+| [8.07](https://catalog.mit.edu/search/?P=8.07 "8.07") | Electromagnetism II |  |
+| [8.08](https://catalog.mit.edu/search/?P=8.08 "8.08") | Statistical Physics II |  |
+| [8.09](https://catalog.mit.edu/search/?P=8.09 "8.09") | Classical Mechanics III |  |
+| Units in Major | 174 |
+| Unrestricted Electives | 48 |
+| Units in Major That Also Satisfy the GIRs | (36) |
+| Total Units Beyond the GIRs Required for SB Degree | 186 |
+
+The units for any subject that counts as one of the 17 GIR subjects cannot also be counted as units required beyond the GIRs.
+
+|     |     |
+| --- | --- |
+| _1_ | _[18.032](https://catalog.mit.edu/search/?P=18.032 "18.032") Differential Equations is also an acceptable option._ |
+| _2_ | _A thesis of 12 units is required. Not more than 30 units of thesis credit may be included in the minimum units beyond the General Institute Requirements required for the SB degree._ |
+| _3_ | _Subject descriptions identify subjects that cannot be used for this purpose._ |
+
+[Department of Physics](https://catalog.mit.edu/schools/science/physics/#undergraduatetext)
+
+## Bachelor of Science in Physics (Flexible Option)
+
+### General Institute Requirements (GIRs)
+
+The General Institute Requirements include a Communication Requirement that is integrated into both the HASS Requirement and the requirements of each major; see details below.
+
+| Summary of Subject Requirements | Subjects |
+| --- | --- |
+| Science Requirement | 6 |
+| Humanities, Arts, and Social Sciences (HASS) Requirement; at least two of these subjects must be designated as communication-intensive (CI-H) to fulfill the Communication Requirement. | 8 |
+| Restricted Electives in Science and Technology (REST) Requirement \[can be satisfied by [8.03](https://catalog.mit.edu/search/?P=8.03 "8.03") or [8.04](https://catalog.mit.edu/search/?P=8.04 "8.04"), and [18.03](https://catalog.mit.edu/search/?P=18.03 "18.03") in the Departmental Program\] | 2 |
+| Laboratory Requirement (12 units) \[satisfied by [8.13](https://catalog.mit.edu/search/?P=8.13 "8.13") or equivalent in the Departmental Program\] | 1 |
+| **Total GIR Subjects Required for SB Degree** | **17** |
+
+| Physical Education Requirement |  |
+| --- | --- |
+| Swimming requirement, plus four physical education courses for eight points. |  |
+
+### Departmental Program
+
+Choose at least two subjects in the major that are designated as communication-intensive (CI-M) to fulfill the Communication Requirement.
+
+|     |     |     |
+| --- | --- | --- |
+| Required Subjects | **Units** |
+| [18.03](https://catalog.mit.edu/search/?P=18.03 "18.03") | Differential Equations 1 | 12 |
+| [8.03](https://catalog.mit.edu/search/?P=8.03 "8.03") | Physics III | 12 |
+| [8.04](https://catalog.mit.edu/search/?P=8.04 "8.04") | Quantum Physics I | 12 |
+| [8.044](https://catalog.mit.edu/search/?P=8.044 "8.044") | Statistical Physics I | 12 |
+| [8.21](https://catalog.mit.edu/search/?P=8.21 "8.21") | Physics of Energy | 6-12 |
+| or [8.223](https://catalog.mit.edu/search/?P=8.223 "8.223") | Classical Mechanics II |
+| _Select one of the following:_ | 9-12 |
+| [8.05](https://catalog.mit.edu/search/?P=8.05 "8.05") | Quantum Physics II |  |
+| [8.20](https://catalog.mit.edu/search/?P=8.20 "8.20") | Introduction to Special Relativity |  |
+| [8.033](https://catalog.mit.edu/search/?P=8.033 "8.033") | Relativity |  |
+| _Select one of the following experimental experiences, subject to the approval of the department:_ | 18 |
+| [8.13](https://catalog.mit.edu/search/?P=8.13 "8.13") | Experimental Physics I (CI-M) |  |
+| A laboratory subject of similar intensity in another department |  |
+| An experimental research project or senior thesis2 |  |
+| An experimentally oriented summer externship |  |
+| Restricted Electives |  |
+| At least one subject in the Department of Physics in addition to those listed above3 | 12 |
+| Three subjects forming one intellectually coherent unit in some area, not necessarily physics, subject to the approval of the department | 36 |
+| Units in Major | 129-138 |
+| Unrestricted Electives | 66-87 |
+| Units in Major That Also Satisfy the GIRs | (24-36) |
+| Total Units Beyond the GIRs Required for SB Degree | 180 |
+
+The units for any subject that counts as one of the 17 GIR subjects cannot also be counted as units required beyond the GIRs.
+
+|     |     |
+| --- | --- |
+| _1_ | _[18.032](https://catalog.mit.edu/search/?P=18.032 "18.032") Differential Equations is also an acceptable option._ |
+| _2_ | _Not more than 30 units of thesis credit may be included in the minimum units beyond the General Institute Requirements required for the SB degree._ |
+| _3_ | _Subject descriptions identify subjects that cannot be used for this purpose._ |
+
+### Communication-Intensive Subjects in the Major
+
+|     |     |     |
+| --- | --- | --- |
+| To satisfy the requirement that students take two CI-M subjects, students must select two of the following: |  |
+| [8.06](https://catalog.mit.edu/search/?P=8.06 "8.06") | Quantum Physics III | 12 |
+| [8.13](https://catalog.mit.edu/search/?P=8.13 "8.13") | Experimental Physics I | 18 |
+| [8.14](https://catalog.mit.edu/search/?P=8.14 "8.14") | Experimental Physics II | 18 |
+| [8.226](https://catalog.mit.edu/search/?P=8.226 "8.226") | Forty-three Orders of Magnitude | 12 |
+| [12.410\[J\]](https://catalog.mit.edu/search/?P=12.410 "12.410[J]") | Observational Techniques of Optical Astronomy | 15 |
+| [STS.042\[J\]](https://catalog.mit.edu/search/?P=STS.042 "STS.042[J]") | Einstein, Oppenheimer, Feynman: Physics in the 20th Century | 12 |
+
+Print Options
+
+
+[Send Page to Printer](https://catalog.mit.edu/degree-charts/physics-course-8/#)
+
+_Print this page._
+
+[Download PDF of this Page](https://catalog.mit.edu/degree-charts/physics-course-8/physics-course-8.pdf)
+
+_The PDF includes all information on this page and its related tabs. Subject (course) information includes any changes approved for the current academic year._
+
+[Focused Option tab PDF](https://catalog.mit.edu/degree-charts/physics-course-8/physics-course-8_focusedoptiontext.pdf)
+
+[Flexible Option tab PDF](https://catalog.mit.edu/degree-charts/physics-course-8/physics-course-8_flexibleoptiontext.pdf)
+
+[Download PDF of the Entire Catalog and/or Subject Descriptions](https://catalog.mit.edu/archive/)
+
+[Cancel](https://catalog.mit.edu/degree-charts/physics-course-8/#)

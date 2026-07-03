@@ -1,0 +1,56 @@
+{
+  "sharedListId": "course-6.track-quantum-systems-engineering",
+  "program": "course-6",
+  "title": "Quantum Systems Engineering",
+  "items": [
+    {
+      "type": "subject",
+      "subjectId": "6.2400"
+    },
+    {
+      "type": "subject",
+      "subjectId": "6.2410"
+    },
+    {
+      "type": "subject",
+      "subjectId": "6.6400"
+    },
+    {
+      "type": "subject",
+      "subjectId": "6.6410"
+    },
+    {
+      "type": "subject",
+      "subjectId": "6.6420"
+    },
+    {
+      "type": "subject",
+      "subjectId": "6.6450"
+    },
+    {
+      "type": "subject",
+      "subjectId": "2.111"
+    },
+    {
+      "type": "subject",
+      "subjectId": "8.370"
+    },
+    {
+      "type": "subject",
+      "subjectId": "18.435"
+    },
+    {
+      "type": "subject",
+      "subjectId": "8.371"
+    },
+    {
+      "type": "subject",
+      "subjectId": "18.436"
+    },
+    {
+      "type": "subject",
+      "subjectId": "8.375"
+    }
+  ],
+  "version": "1"
+}

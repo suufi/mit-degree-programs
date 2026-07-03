@@ -1,0 +1,44 @@
+{
+  "sharedListId": "master-music-technology-computation.select-two-of-the-following-subjects",
+  "program": "master-music-technology-computation",
+  "title": "Select two of the following subjects:",
+  "items": [
+    {
+      "type": "subject",
+      "subjectId": "21M.569"
+    },
+    {
+      "type": "subject",
+      "subjectId": "21M.583"
+    },
+    {
+      "type": "subject",
+      "subjectId": "21M.585"
+    },
+    {
+      "type": "subject",
+      "subjectId": "21M.586"
+    },
+    {
+      "type": "subject",
+      "subjectId": "21M.587"
+    },
+    {
+      "type": "subject",
+      "subjectId": "21M.589"
+    },
+    {
+      "type": "subject",
+      "subjectId": "21M.517"
+    },
+    {
+      "type": "subject",
+      "subjectId": "21M.590"
+    },
+    {
+      "type": "subject",
+      "subjectId": "21M.591"
+    }
+  ],
+  "version": "1"
+}

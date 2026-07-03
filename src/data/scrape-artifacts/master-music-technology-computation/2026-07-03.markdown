@@ -1,0 +1,122 @@
+Degree Charts
+
+- [Home](https://catalog.mit.edu/) >
+- [Degree Charts](https://catalog.mit.edu/degree-charts/) >
+- Music Technology and Computation (SM and MASc)
+
+# Music Technology and Computation
+
+[Master's Programs in Music Technology and Computation](https://catalog.mit.edu/interdisciplinary/graduate-programs/music-technology-computation/)
+
+## Master of Science in Music Technology and Computation
+
+### Subject Requirements
+
+The Master of Science in Music Technology and Computation requires a minimum of 68 units of subject credit and the completion of a thesis acceptable to the Music and Theater Arts Section.
+
+|     |     |     |
+| --- | --- | --- |
+| Core Requirements |  |
+| _Select two of the following subjects:_ | 24 |
+| [21M.569](https://catalog.mit.edu/search/?P=21M.569 "21M.569") | Studies in Music Technology |  |
+| [21M.583](https://catalog.mit.edu/search/?P=21M.583 "21M.583") | Computational Music Theory and Analysis |  |
+| [21M.585](https://catalog.mit.edu/search/?P=21M.585 "21M.585") | Interactive Music Systems |  |
+| [21M.586](https://catalog.mit.edu/search/?P=21M.586 "21M.586") | Algorithms and Interactions for Human-AI Music Making |  |
+| [21M.587](https://catalog.mit.edu/search/?P=21M.587 "21M.587") | Fundamentals of Music Processing |  |
+| Restricted Electives1 | 36 |
+| _Select 36 units:_ |  |
+| [21M.517](https://catalog.mit.edu/search/?P=21M.517 "21M.517") | MIT Laptop Ensemble |  |
+| [21M.540](https://catalog.mit.edu/search/?P=21M.540 "21M.540") | Critically Thinking in Music |  |
+| [21M.560](https://catalog.mit.edu/search/?P=21M.560 "21M.560") | Introduction to Music Technology |  |
+| [21M.561](https://catalog.mit.edu/search/?P=21M.561 "21M.561") | Electronic Music Composition I |  |
+| [21M.562](https://catalog.mit.edu/search/?P=21M.562 "21M.562") | Electronic Music Composition II |  |
+| [21M.569](https://catalog.mit.edu/search/?P=21M.569 "21M.569") | Studies in Music Technology 2 |  |
+| [21M.570](https://catalog.mit.edu/search/?P=21M.570 "21M.570") | Digital Instrument Design |  |
+| [21M.580\[J\]](https://catalog.mit.edu/search/?P=21M.580 "21M.580[J]") | Musical Aesthetics and Media Technology |  |
+| [21M.583](https://catalog.mit.edu/search/?P=21M.583 "21M.583") | Computational Music Theory and Analysis 2 |  |
+| [21M.585](https://catalog.mit.edu/search/?P=21M.585 "21M.585") | Interactive Music Systems 2 |  |
+| [21M.586](https://catalog.mit.edu/search/?P=21M.586 "21M.586") | Algorithms and Interactions for Human-AI Music Making 2 |  |
+| [21M.587](https://catalog.mit.edu/search/?P=21M.587 "21M.587") | Fundamentals of Music Processing 2 |  |
+| [21M.589](https://catalog.mit.edu/search/?P=21M.589 "21M.589") | Studies in Advanced Music Technology and Music Computation |  |
+| [21T.523](https://catalog.mit.edu/search/?P=21T.523 "21T.523") | Sound Design |  |
+| [MAS.837](https://catalog.mit.edu/search/?P=MAS.837 "MAS.837") | Principles of Electronic Music Interfaces |  |
+| Colloquium |  |
+| [21M.590](https://catalog.mit.edu/search/?P=21M.590 "21M.590") | Colloquium in Music Technology 3 | 2 |
+| Research Seminar |  |
+| [21M.595](https://catalog.mit.edu/search/?P=21M.595 "21M.595") | Music Technology And Computation Research Seminar 3 | 6 |
+| Thesis |  |
+| [21M.THG](https://catalog.mit.edu/search/?P=21M.THG "21M.THG") | Graduate Thesis | 24 |
+| Total Units | 92 |
+
+|     |     |
+| --- | --- |
+| _1_ | _With permission of advisor, other subjects in music, computation, engineering, or technology can be used to satisfy up to 24 units of restricted electives._ |
+| _2_ | _Subject can fulfill either the core requirement or the elective requirement, but not both._ |
+| _3_ | _Subject is taken twice._ |
+
+## Master of Applied Science in Music Technology and Computation
+
+### Subject Requirements
+
+The Master of Applied Science in Music Technology and Computation requires a minimum of 92 units of subject credit.
+
+|     |     |     |
+| --- | --- | --- |
+| Foundation Subjects |  |
+| [21M.540](https://catalog.mit.edu/search/?P=21M.540 "21M.540") | Critically Thinking in Music | 12 |
+| _One of the following, selected by the advisor at the time of admission:_ | 12 |
+| [21M.541](https://catalog.mit.edu/search/?P=21M.541 "21M.541") | Harmony and Counterpoint I with Computational Applications |  |
+| [21M.565](https://catalog.mit.edu/search/?P=21M.565 "21M.565") | Programming for Music |  |
+| A 12-unit Restricted Elective or Advanced Subject |  |
+| Overviews |  |
+| _Select three of the following subjects in conjunction with the advisor:_ | 12 |
+| [21M.572](https://catalog.mit.edu/search/?P=21M.572 "21M.572") | Overview of Music Perception and Cognition |  |
+| [21M.573](https://catalog.mit.edu/search/?P=21M.573 "21M.573") | Overview of Acoustics and the Physics of Sound |  |
+| [21M.574](https://catalog.mit.edu/search/?P=21M.574 "21M.574") | Overview of Musical Software and Formats |  |
+| [21M.576](https://catalog.mit.edu/search/?P=21M.576 "21M.576") | Overview of Mathematics for Music Applications |  |
+| [21M.577](https://catalog.mit.edu/search/?P=21M.577 "21M.577") | Overview of the Principles of Signals |  |
+| Restricted Elective |  |
+| _Select one of the following subjects:_ | 12 |
+| [21M.560](https://catalog.mit.edu/search/?P=21M.560 "21M.560") | Introduction to Music Technology |  |
+| [21M.561](https://catalog.mit.edu/search/?P=21M.561 "21M.561") | Electronic Music Composition I |  |
+| [21M.562](https://catalog.mit.edu/search/?P=21M.562 "21M.562") | Electronic Music Composition II |  |
+| [21M.569](https://catalog.mit.edu/search/?P=21M.569 "21M.569") | Studies in Music Technology |  |
+| [21M.570](https://catalog.mit.edu/search/?P=21M.570 "21M.570") | Digital Instrument Design |  |
+| [21M.580\[J\]](https://catalog.mit.edu/search/?P=21M.580 "21M.580[J]") | Musical Aesthetics and Media Technology |  |
+| [MAS.837](https://catalog.mit.edu/search/?P=MAS.837 "MAS.837") | Principles of Electronic Music Interfaces |  |
+| Advanced Subjects |  |
+| _Select two of the following subjects:_ | 24 |
+| [21M.583](https://catalog.mit.edu/search/?P=21M.583 "21M.583") | Computational Music Theory and Analysis |  |
+| [21M.585](https://catalog.mit.edu/search/?P=21M.585 "21M.585") | Interactive Music Systems |  |
+| [21M.587](https://catalog.mit.edu/search/?P=21M.587 "21M.587") | Fundamentals of Music Processing |  |
+| [21M.589](https://catalog.mit.edu/search/?P=21M.589 "21M.589") | Studies in Advanced Music Technology and Music Computation |  |
+| Elective | 12 |
+| Select 12 units from Restricted Electives, Overviews, or Advanced Subjects; [21M.517](https://catalog.mit.edu/search/?P=21M.517 "21M.517"); or with permission of advisor, any other subjects in music, computation, or technology. |  |
+| Colloquium |  |
+| [21M.590](https://catalog.mit.edu/search/?P=21M.590 "21M.590") | Colloquium in Music Technology (taken twice) | 2 |
+| Capstone |  |
+| [21M.591](https://catalog.mit.edu/search/?P=21M.591 "21M.591") | Capstone Project in Music Technology | 6 |
+| Total Units | 92 |
+
+### Note:
+
+Some required subjects may be exempted for students on the basis of successful performance on a diagnostic examination. In these cases, the units shall be substituted by an equal number of units from the Elective requirement.
+
+Print Options
+
+
+[Send Page to Printer](https://catalog.mit.edu/degree-charts/master-music-technology-computation/#)
+
+_Print this page._
+
+[Download PDF of this Page](https://catalog.mit.edu/degree-charts/master-music-technology-computation/master-music-technology-computation.pdf)
+
+_The PDF includes all information on this page and its related tabs. Subject (course) information includes any changes approved for the current academic year._
+
+[SM tab PDF](https://catalog.mit.edu/degree-charts/master-music-technology-computation/master-music-technology-computation_smtext.pdf)
+
+[MASc tab PDF](https://catalog.mit.edu/degree-charts/master-music-technology-computation/master-music-technology-computation_masctext.pdf)
+
+[Download PDF of the Entire Catalog and/or Subject Descriptions](https://catalog.mit.edu/archive/)
+
+[Cancel](https://catalog.mit.edu/degree-charts/master-music-technology-computation/#)

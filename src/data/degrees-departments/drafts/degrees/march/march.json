@@ -1,0 +1,246 @@
+{
+  "schemaVersion": "2",
+  "program": "march",
+  "title": "Architecture (MArch)",
+  "level": "graduate",
+  "complete": false,
+  "catalogSource": {
+    "url": "https://catalog.mit.edu/degree-charts/master-architecture/",
+    "slug": "master-architecture",
+    "scrapedAt": "2026-07-03",
+    "contentHash": "0f4536ed81faf118c5c7037c2db3c9778c8b3d54c1f8b7b31dbcc705b35b9404"
+  },
+  "footnotes": [
+    {
+      "id": "1",
+      "text": "Students take this three times for a total of 63 units."
+    },
+    {
+      "id": "2",
+      "text": "Students must choose graduate-level subjects."
+    },
+    {
+      "id": "3",
+      "text": "Subjects used to fulfill other program requirements cannot count toward the Elective Subjects requirement."
+    }
+  ],
+  "constraints": [],
+  "requirements": [
+    {
+      "groupId": "march-required-subjects",
+      "title": "Required Subjects",
+      "bucket": "departmental",
+      "subcategory": "required_subjects",
+      "root": {
+        "type": "group",
+        "ruleType": "all_of",
+        "items": [
+          {
+            "type": "subject",
+            "subjectId": "4.105"
+          },
+          {
+            "type": "subject",
+            "subjectId": "4.123"
+          },
+          {
+            "type": "subject",
+            "subjectId": "4.151"
+          },
+          {
+            "type": "subject",
+            "subjectId": "4.152"
+          },
+          {
+            "type": "subject",
+            "subjectId": "4.153"
+          },
+          {
+            "type": "subject",
+            "subjectId": "4.154"
+          },
+          {
+            "type": "subject",
+            "subjectId": "4.210"
+          },
+          {
+            "type": "subject",
+            "subjectId": "4.222"
+          },
+          {
+            "type": "subject",
+            "subjectId": "4.462"
+          },
+          {
+            "type": "subject",
+            "subjectId": "4.463"
+          },
+          {
+            "type": "subject",
+            "subjectId": "4.464"
+          },
+          {
+            "type": "subject",
+            "subjectId": "4.645"
+          }
+        ]
+      }
+    },
+    {
+      "groupId": "march-restricted-electives",
+      "title": "Restricted Electives",
+      "bucket": "elective",
+      "subcategory": "restricted_electives",
+      "root": {
+        "type": "group",
+        "ruleType": "all_of",
+        "items": [
+          {
+            "type": "selection",
+            "ruleType": "choose_one",
+            "itemsSource": "explicit",
+            "items": [
+              {
+                "type": "subject",
+                "subjectId": "4.117"
+              },
+              {
+                "type": "subject",
+                "subjectId": "4.511"
+              },
+              {
+                "type": "subject",
+                "subjectId": "4.521"
+              },
+              {
+                "type": "subject",
+                "subjectId": "4.567"
+              }
+            ]
+          },
+          {
+            "type": "selection",
+            "ruleType": "choose_one",
+            "itemsSource": "explicit",
+            "items": [
+              {
+                "type": "subject",
+                "subjectId": "4.241"
+              },
+              {
+                "type": "subject",
+                "subjectId": "4.607"
+              },
+              {
+                "type": "subject",
+                "subjectId": "4.612"
+              },
+              {
+                "type": "subject",
+                "subjectId": "4.621"
+              },
+              {
+                "type": "subject",
+                "subjectId": "4.647"
+              },
+              {
+                "type": "subject",
+                "subjectId": "4.652"
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "groupId": "march-program-area-electives2",
+      "title": "Program Area Electives2",
+      "bucket": "elective",
+      "subcategory": "elective_subjects",
+      "flexibility": {
+        "advisorApproval": false,
+        "catalogText": "One Art, Culture, and Technology subject"
+      },
+      "root": {
+        "type": "group",
+        "ruleType": "all_of",
+        "items": [
+          {
+            "type": "selection",
+            "ruleType": "choose_units",
+            "ruleValue": 9,
+            "itemsSource": "advisor_defined",
+            "note": "One Art, Culture, and Technology subject",
+            "flexibility": {
+              "catalogText": "One Art, Culture, and Technology subject"
+            }
+          },
+          {
+            "type": "selection",
+            "ruleType": "choose_units",
+            "ruleValue": 9,
+            "itemsSource": "advisor_defined",
+            "note": "One Computation subject",
+            "flexibility": {
+              "catalogText": "One Computation subject"
+            }
+          },
+          {
+            "type": "selection",
+            "ruleType": "choose_units",
+            "ruleValue": 9,
+            "itemsSource": "advisor_defined",
+            "note": "One History, Theory, and Criticism subject",
+            "flexibility": {
+              "catalogText": "One History, Theory, and Criticism subject"
+            }
+          },
+          {
+            "type": "selection",
+            "ruleType": "choose_units",
+            "ruleValue": 9,
+            "itemsSource": "advisor_defined",
+            "note": "One Urbanism subject",
+            "flexibility": {
+              "catalogText": "One Urbanism subject"
+            }
+          },
+          {
+            "type": "selection",
+            "ruleType": "choose_units",
+            "ruleValue": 24,
+            "itemsSource": "advisor_defined",
+            "note": "Elective Subjects",
+            "flexibility": {
+              "catalogText": "Elective Subjects"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "groupId": "march-thesis",
+      "title": "Thesis",
+      "bucket": "thesis",
+      "subcategory": "thesis",
+      "root": {
+        "type": "group",
+        "ruleType": "all_of",
+        "items": [
+          {
+            "type": "subject",
+            "subjectId": "4.189"
+          },
+          {
+            "type": "subject",
+            "subjectId": "4.THG"
+          }
+        ]
+      }
+    }
+  ],
+  "status": "draft",
+  "revisionId": "march-2026-07-03-0f4536ed",
+  "catalogYear": "2026",
+  "effectiveTerm": "2026-FA"
+}

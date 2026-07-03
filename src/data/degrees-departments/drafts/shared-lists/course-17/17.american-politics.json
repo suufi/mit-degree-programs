@@ -1,0 +1,44 @@
+{
+  "sharedListId": "17.american-politics",
+  "program": "17",
+  "title": "# American Politics",
+  "items": [
+    {
+      "type": "subject",
+      "subjectId": "17.20"
+    },
+    {
+      "type": "subject",
+      "subjectId": "17.251"
+    },
+    {
+      "type": "subject",
+      "subjectId": "17.263"
+    },
+    {
+      "type": "subject",
+      "subjectId": "17.265"
+    },
+    {
+      "type": "subject",
+      "subjectId": "17.269"
+    },
+    {
+      "type": "subject",
+      "subjectId": "17.271"
+    },
+    {
+      "type": "subject",
+      "subjectId": "17.275"
+    },
+    {
+      "type": "subject",
+      "subjectId": "17.279"
+    },
+    {
+      "type": "subject",
+      "subjectId": "17.28"
+    }
+  ],
+  "version": "1"
+}

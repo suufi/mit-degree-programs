@@ -1,0 +1,86 @@
+{
+  "schemaVersion": "2",
+  "program": "6-p",
+  "title": "Electrical Engineering and Computer Science (MEng, Course 6-P)",
+  "level": "graduate",
+  "complete": false,
+  "catalogSource": {
+    "url": "https://catalog.mit.edu/degree-charts/master-electrical-engineering-computer-science-course-6-p/",
+    "slug": "master-electrical-engineering-computer-science-course-6-p",
+    "scrapedAt": "2026-07-03",
+    "contentHash": "243f26502a3f5ab9aef39e782c342d8977875dffa077d56287c48163e4ee21f5"
+  },
+  "footnotes": [
+    {
+      "id": "1",
+      "text": "6-PA Program requires performance of thesis at company location."
+    },
+    {
+      "id": "2",
+      "text": "The 42 units must be chosen so that among these four subjects and the two Advanced Undergraduate Subjects used for the SB degree there are three subjects that satisfy one of the department's concentration fields."
+    }
+  ],
+  "constraints": [],
+  "requirements": [
+    {
+      "groupId": "6-p-required-subjects",
+      "title": "Required Subjects",
+      "bucket": "departmental",
+      "subcategory": "required_subjects",
+      "root": {
+        "type": "group",
+        "ruleType": "all_of",
+        "items": [
+          {
+            "type": "subject",
+            "subjectId": "6.THM"
+          },
+          {
+            "type": "subject",
+            "subjectId": "6.9830"
+          }
+        ]
+      }
+    },
+    {
+      "groupId": "6-p-restricted-electives",
+      "title": "Restricted Electives",
+      "bucket": "elective",
+      "subcategory": "restricted_electives",
+      "flexibility": {
+        "advisorApproval": false,
+        "catalogText": "Four graduate subjects totaling at least 42 units from a list specified by EECS.2"
+      },
+      "root": {
+        "type": "group",
+        "ruleType": "all_of",
+        "items": [
+          {
+            "type": "selection",
+            "ruleType": "choose_units",
+            "ruleValue": 42,
+            "itemsSource": "advisor_defined",
+            "note": "Four graduate subjects totaling at least 42 units from a list specified by EECS.2",
+            "flexibility": {
+              "catalogText": "Four graduate subjects totaling at least 42 units from a list specified by EECS.2"
+            }
+          },
+          {
+            "type": "selection",
+            "ruleType": "choose_units",
+            "ruleValue": 24,
+            "itemsSource": "advisor_defined",
+            "note": "Subjects from a restricted departmental list including 6.998 and subjects from mathematics, science, and engineering electives totaling at least 24 units.",
+            "flexibility": {
+              "catalogText": "Subjects from a restricted departmental list including 6.998 and subjects from mathematics, science, and engineering electives totaling at least 24 units."
+            }
+          }
+        ]
+      }
+    }
+  ],
+  "status": "draft",
+  "revisionId": "6-p-2026-07-03-243f2650",
+  "catalogYear": "2026",
+  "effectiveTerm": "2026-FA"
+}

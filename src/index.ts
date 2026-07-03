@@ -1,17 +1,17 @@
 import { readFile } from "node:fs/promises";
 import path from "node:path";
 import { fileURLToPath } from "node:url";
-import type { DegreeProgram, GirTemplate, SharedListDocument } from "./schemas/types.js";
+import type { DegreeProgram, GirTemplate, SharedListDocument } from "./schemas/types";
 import {
   validateDegreeProgram,
   validateGirTemplate,
   validateSharedList,
-} from "./validators/index.js";
-import { courseDirForProgram } from "./versioning/paths.js";
+} from "./validators/index";
+import { courseDirForProgram } from "./versioning/paths";
 import {
   COURSE_6_SHARED_SCOPE,
   isCourse6Program,
-} from "./schemas/course6-shared-lists.js";
+} from "./schemas/course6-shared-lists";
 
 const __dirname = path.dirname(fileURLToPath(import.meta.url));
 const DATA_ROOT = path.join(__dirname, "data");
@@ -137,7 +137,7 @@ export {
   latestAllowedYearForNextCi,
   academicYearForTerm,
   describeConstraint,
-} from "./evaluate/index.js";
+} from "./evaluate/index";
 
 export type {
   DegreeProgram,
@@ -146,7 +146,7 @@ export type {
   RequirementNode,
   RequirementGroup,
   RequirementConstraint,
-} from "./schemas/types.js";
+} from "./schemas/types";
 
 export type {
   ScheduledSubject,
@@ -154,4 +154,4 @@ export type {
   ConstraintCheckResult,
   ChooseNCountResult,
   CommunicationEvaluation,
-} from "./evaluate/index.js";
+} from "./evaluate/index";

@@ -1,0 +1,232 @@
+{
+  "sharedListId": "phd-computational-science-engineering.computational-concentration-subjects",
+  "program": "phd-computational-science-engineering",
+  "title": "Computational Concentration Subjects",
+  "items": [
+    {
+      "type": "subject",
+      "subjectId": "1.125"
+    },
+    {
+      "type": "subject",
+      "subjectId": "1.545"
+    },
+    {
+      "type": "subject",
+      "subjectId": "1.583"
+    },
+    {
+      "type": "subject",
+      "subjectId": "1.723"
+    },
+    {
+      "type": "subject",
+      "subjectId": "2.098"
+    },
+    {
+      "type": "subject",
+      "subjectId": "2.156"
+    },
+    {
+      "type": "subject",
+      "subjectId": "2.168"
+    },
+    {
+      "type": "subject",
+      "subjectId": "2.29"
+    },
+    {
+      "type": "subject",
+      "subjectId": "3.320"
+    },
+    {
+      "type": "subject",
+      "subjectId": "4.450"
+    },
+    {
+      "type": "subject",
+      "subjectId": "6.7210"
+    },
+    {
+      "type": "subject",
+      "subjectId": "6.7220"
+    },
+    {
+      "type": "subject",
+      "subjectId": "6.7230"
+    },
+    {
+      "type": "subject",
+      "subjectId": "6.7300"
+    },
+    {
+      "type": "subject",
+      "subjectId": "6.7810"
+    },
+    {
+      "type": "subject",
+      "subjectId": "6.7830"
+    },
+    {
+      "type": "subject",
+      "subjectId": "6.7900"
+    },
+    {
+      "type": "subject",
+      "subjectId": "6.7940"
+    },
+    {
+      "type": "subject",
+      "subjectId": "6.8300"
+    },
+    {
+      "type": "subject",
+      "subjectId": "6.8410"
+    },
+    {
+      "type": "subject",
+      "subjectId": "6.C51"
+    },
+    {
+      "type": "subject",
+      "subjectId": "9.520"
+    },
+    {
+      "type": "subject",
+      "subjectId": "9.660"
+    },
+    {
+      "type": "subject",
+      "subjectId": "10.551"
+    },
+    {
+      "type": "subject",
+      "subjectId": "10.552"
+    },
+    {
+      "type": "subject",
+      "subjectId": "10.554"
+    },
+    {
+      "type": "subject",
+      "subjectId": "10.557"
+    },
+    {
+      "type": "subject",
+      "subjectId": "10.637"
+    },
+    {
+      "type": "subject",
+      "subjectId": "12.515"
+    },
+    {
+      "type": "subject",
+      "subjectId": "12.521"
+    },
+    {
+      "type": "subject",
+      "subjectId": "12.620"
+    },
+    {
+      "type": "subject",
+      "subjectId": "12.714"
+    },
+    {
+      "type": "subject",
+      "subjectId": "12.805"
+    },
+    {
+      "type": "subject",
+      "subjectId": "12.850"
+    },
+    {
+      "type": "subject",
+      "subjectId": "15.070"
+    },
+    {
+      "type": "subject",
+      "subjectId": "15.077"
+    },
+    {
+      "type": "subject",
+      "subjectId": "15.083"
+    },
+    {
+      "type": "subject",
+      "subjectId": "15.764"
+    },
+    {
+      "type": "subject",
+      "subjectId": "15.C57"
+    },
+    {
+      "type": "subject",
+      "subjectId": "16.110"
+    },
+    {
+      "type": "subject",
+      "subjectId": "16.225"
+    },
+    {
+      "type": "subject",
+      "subjectId": "16.413"
+    },
+    {
+      "type": "subject",
+      "subjectId": "16.888"
+    },
+    {
+      "type": "subject",
+      "subjectId": "16.920"
+    },
+    {
+      "type": "subject",
+      "subjectId": "16.930"
+    },
+    {
+      "type": "subject",
+      "subjectId": "16.940"
+    },
+    {
+      "type": "subject",
+      "subjectId": "18.335"
+    },
+    {
+      "type": "subject",
+      "subjectId": "18.336"
+    },
+    {
+      "type": "subject",
+      "subjectId": "18.337"
+    },
+    {
+      "type": "subject",
+      "subjectId": "18.338"
+    },
+    {
+      "type": "subject",
+      "subjectId": "18.369"
+    },
+    {
+      "type": "subject",
+      "subjectId": "18.435"
+    },
+    {
+      "type": "subject",
+      "subjectId": "22.15"
+    },
+    {
+      "type": "subject",
+      "subjectId": "22.212"
+    },
+    {
+      "type": "subject",
+      "subjectId": "22.213"
+    },
+    {
+      "type": "subject",
+      "subjectId": "22.315"
+    }
+  ],
+  "version": "1"
+}

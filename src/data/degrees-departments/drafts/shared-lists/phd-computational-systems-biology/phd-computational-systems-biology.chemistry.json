@@ -1,0 +1,16 @@
+{
+  "sharedListId": "phd-computational-systems-biology.chemistry",
+  "program": "phd-computational-systems-biology",
+  "title": "Chemistry",
+  "items": [
+    {
+      "type": "subject",
+      "subjectId": "5.64"
+    },
+    {
+      "type": "subject",
+      "subjectId": "5.70"
+    }
+  ],
+  "version": "1"
+}

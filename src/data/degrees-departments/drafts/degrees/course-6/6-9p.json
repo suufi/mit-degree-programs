@@ -1,0 +1,57 @@
+{
+  "schemaVersion": "2",
+  "program": "6-9p",
+  "title": "Computation and Cognition (MEng, Course 6-9P)",
+  "level": "graduate",
+  "complete": false,
+  "catalogSource": {
+    "url": "https://catalog.mit.edu/degree-charts/master-computation-cognition-course-6-9p/",
+    "slug": "master-computation-cognition-course-6-9p",
+    "scrapedAt": "2026-07-03",
+    "contentHash": "94d5da1b016e9b3a7b2e426889bf435f88539baca9c335d0b3aeb5fc8fc8201d"
+  },
+  "footnotes": [
+    {
+      "id": "1",
+      "text": "6-PA Program requires performance of thesis at company location."
+    },
+    {
+      "id": "2",
+      "text": "Cannot count as EECS Advanced Subject if undergraduate version is taken as part of the Course 6-9 SB degree."
+    },
+    {
+      "id": "3",
+      "text": "Subject can count as BCS Advanced Subject or Mathematics Restricted Elective, but not both.",
+      "appliesTo": [
+        "6-9p.bcs-advanced-subjects",
+        "6-9p.mathematics-restricted-electives"
+      ]
+    }
+  ],
+  "constraints": [
+    {
+      "type": "exclusive_pools",
+      "pools": [
+        "6-9p.bcs-advanced-subjects",
+        "6-9p.mathematics-restricted-electives"
+      ],
+      "note": "Subject can count as BCS Advanced Subject or Mathematics Restricted Elective, but not both."
+    }
+  ],
+  "requirements": [
+    {
+      "groupId": "6-9p-restricted-electives",
+      "title": "Restricted Electives",
+      "bucket": "elective",
+      "subcategory": "restricted_electives",
+      "root": {
+        "type": "subject",
+        "subjectId": "9.THM"
+      }
+    }
+  ],
+  "status": "draft",
+  "revisionId": "6-9p-2026-07-03-94d5da1b",
+  "catalogYear": "2026",
+  "effectiveTerm": "2026-FA"
+}

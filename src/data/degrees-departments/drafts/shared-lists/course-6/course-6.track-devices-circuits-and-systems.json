@@ -1,0 +1,56 @@
+{
+  "sharedListId": "course-6.track-devices-circuits-and-systems",
+  "program": "course-6",
+  "title": "Devices, Circuits, and Systems",
+  "items": [
+    {
+      "type": "subject",
+      "subjectId": "6.2040"
+    },
+    {
+      "type": "subject",
+      "subjectId": "6.2080"
+    },
+    {
+      "type": "subject",
+      "subjectId": "6.2090"
+    },
+    {
+      "type": "subject",
+      "subjectId": "6.2050"
+    },
+    {
+      "type": "subject",
+      "subjectId": "6.2060"
+    },
+    {
+      "type": "subject",
+      "subjectId": "6.2220"
+    },
+    {
+      "type": "subject",
+      "subjectId": "6.2221"
+    },
+    {
+      "type": "subject",
+      "subjectId": "6.2300"
+    },
+    {
+      "type": "subject",
+      "subjectId": "6.2320"
+    },
+    {
+      "type": "subject",
+      "subjectId": "6.2500"
+    },
+    {
+      "type": "subject",
+      "subjectId": "6.6040"
+    },
+    {
+      "type": "subject",
+      "subjectId": "3.158"
+    }
+  ],
+  "version": "1"
+}

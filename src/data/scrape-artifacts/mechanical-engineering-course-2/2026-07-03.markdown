@@ -1,0 +1,107 @@
+Degree Charts
+
+- [Home](https://catalog.mit.edu/) >
+- [Degree Charts](https://catalog.mit.edu/degree-charts/) >
+- Mechanical Engineering (SB, Course 2)
+
+# Mechanical Engineering (Course 2)
+
+[Department of Mechanical Engineering](https://catalog.mit.edu/schools/engineering/mechanical-engineering/#undergraduatetext)
+
+## Bachelor of Science in Mechanical Engineering
+
+### General Institute Requirements (GIRs)
+
+The General Institute Requirements include a Communication Requirement that is integrated into both the HASS Requirement and the requirements of each major; see details below.
+
+| Summary of Subject Requirements | Subjects |
+| --- | --- |
+| Science Requirement | 6 |
+| Humanities, Arts, and Social Sciences (HASS) Requirement; at least two of these subjects must be designated as communication-intensive (CI-H) to fulfill the Communication Requirement. | 8 |
+| Restricted Electives in Science and Technology (REST) Requirement \[can be satisfied by [2.001](https://catalog.mit.edu/search/?P=2.001 "2.001") and [18.03](https://catalog.mit.edu/search/?P=18.03 "18.03") in the Departmental Program\] | 2 |
+| Laboratory Requirement (12 units) \[can be satisfied by [2.671](https://catalog.mit.edu/search/?P=2.671 "2.671") in the Departmental Program\] | 1 |
+| **Total GIR Subjects Required for SB Degree** | **17** |
+
+| Physical Education Requirement |  |
+| --- | --- |
+| Swimming requirement, plus four physical education courses for eight points. |  |
+
+### Departmental Program
+
+Choose at least two subjects in the major that are designated as communication-intensive (CI-M) to fulfill the Communication Requirement.
+
+|     |     |     |
+| --- | --- | --- |
+| Required Core Subjects | **Units** |
+| [2.001](https://catalog.mit.edu/search/?P=2.001 "2.001") | Mechanics and Materials I | 12 |
+| [2.002](https://catalog.mit.edu/search/?P=2.002 "2.002") | Mechanics and Materials II | 12 |
+| [2.003\[J\]](https://catalog.mit.edu/search/?P=2.003 "2.003[J]") | Dynamics and Control I | 12 |
+| [2.004](https://catalog.mit.edu/search/?P=2.004 "2.004") | Dynamics and Control II | 12 |
+| [2.005](https://catalog.mit.edu/search/?P=2.005 "2.005") | Thermal-Fluids Engineering I | 12 |
+| [2.006](https://catalog.mit.edu/search/?P=2.006 "2.006") | Thermal-Fluids Engineering II | 12 |
+| [2.007](https://catalog.mit.edu/search/?P=2.007 "2.007") | Design and Manufacturing I | 12 |
+| or [2.017\[J\]](https://catalog.mit.edu/search/?P=2.017 "2.017[J]") | Design of Electromechanical Robotic Systems |
+| [2.008](https://catalog.mit.edu/search/?P=2.008 "2.008") | Design and Manufacturing II | 12 |
+| [2.086](https://catalog.mit.edu/search/?P=2.086 "2.086") | Numerical Computation for Mechanical Engineers | 12 |
+| [2.670](https://catalog.mit.edu/search/?P=2.670 "2.670") | Mechanical Engineering Tools 1 | 3 |
+| [2.671](https://catalog.mit.edu/search/?P=2.671 "2.671") | Measurement and Instrumentation (CI-M) | 12 |
+| [2.THU](https://catalog.mit.edu/search/?P=2.THU "2.THU") | Undergraduate Thesis 2 | 6 |
+| [18.03](https://catalog.mit.edu/search/?P=18.03 "18.03") | Differential Equations | 12 |
+| _Select one of the following:_ | 12-15 |
+| [2.009](https://catalog.mit.edu/search/?P=2.009 "2.009") | The Product Engineering Process (CI-M) |  |
+| [2.013](https://catalog.mit.edu/search/?P=2.013 "2.013") | Engineering Systems Design (CI-M) |  |
+| [2.750\[J\]](https://catalog.mit.edu/search/?P=2.750 "2.750[J]") | Medical Device Design (CI-M) |  |
+| [2.760](https://catalog.mit.edu/search/?P=2.760 "2.760") | Global Engineering: Green Machines (CI-M) |  |
+| Restricted Electives |  |
+| _Select two of the following:_1 | 24 |
+| [2.014](https://catalog.mit.edu/search/?P=2.014 "2.014") | Engineering Systems Development |  |
+| [2.016](https://catalog.mit.edu/search/?P=2.016 "2.016") | Hydrodynamics |  |
+| [2.017\[J\]](https://catalog.mit.edu/search/?P=2.017 "2.017[J]") | Design of Electromechanical Robotic Systems |  |
+| [2.019](https://catalog.mit.edu/search/?P=2.019 "2.019") | Design of Ocean Systems (CI-M) |  |
+| [2.050\[J\]](https://catalog.mit.edu/search/?P=2.050 "2.050[J]") | Nonlinear Dynamics: Chaos |  |
+| [2.12](https://catalog.mit.edu/search/?P=2.12 "2.12") | Introduction to Robotics |  |
+| [2.132](https://catalog.mit.edu/search/?P=2.132 "2.132") | Instrumentation and Measurement: MICA Projects |  |
+| [2.14](https://catalog.mit.edu/search/?P=2.14 "2.14") | Analysis and Design of Feedback Control Systems |  |
+| [2.184](https://catalog.mit.edu/search/?P=2.184 "2.184") | Biomechanics and Neural Control of Movement |  |
+| [2.370](https://catalog.mit.edu/search/?P=2.370 "2.370") | Fundamentals of Nanoengineering |  |
+| [2.51](https://catalog.mit.edu/search/?P=2.51 "2.51") | Intermediate Heat and Mass Transfer |  |
+| [2.60\[J\]](https://catalog.mit.edu/search/?P=2.60 "2.60[J]") | Fundamentals of Advanced Energy Conversion |  |
+| [2.650\[J\]](https://catalog.mit.edu/search/?P=2.650 "2.650[J]") | Introduction to Sustainable Energy |  |
+| [2.71](https://catalog.mit.edu/search/?P=2.71 "2.71") | Optics |  |
+| [2.72](https://catalog.mit.edu/search/?P=2.72 "2.72") | Elements of Mechanical Design |  |
+| [2.744](https://catalog.mit.edu/search/?P=2.744 "2.744") | Product Design |  |
+| [2.777](https://catalog.mit.edu/search/?P=2.777 "2.777") | Large and Complex Systems Design and Concept Development |  |
+| [2.782\[J\]](https://catalog.mit.edu/search/?P=2.782 "2.782[J]") | Design of Medical Devices and Implants |  |
+| [2.797\[J\]](https://catalog.mit.edu/search/?P=2.797 "2.797[J]") | Molecular, Cellular, and Tissue Biomechanics |  |
+| [2.813](https://catalog.mit.edu/search/?P=2.813 "2.813") | Energy, Materials, and Manufacturing |  |
+| [2.853](https://catalog.mit.edu/search/?P=2.853 "2.853") | Introduction to Manufacturing Systems |  |
+| [2.96](https://catalog.mit.edu/search/?P=2.96 "2.96") | Management in Engineering |  |
+| [2.C01](https://catalog.mit.edu/search/?P=2.C01 "2.C01")<br>& [6.C01](https://catalog.mit.edu/search/?P=6.C01 "6.C01") | Physical Systems Modeling and Design Using Machine Learning<br>and Modeling with Machine Learning: from Algorithms to Applications |  |
+| [2.C27\[J\]](https://catalog.mit.edu/search/?P=2.C27 "2.C27[J]") | Computational Imaging: Physics and Algorithms |  |
+| Units in Major | 177-180 |
+| Unrestricted Electives3 | 48 |
+| Units in Major That Also Satisfy the GIRs | (36) |
+| Total Units Beyond the GIRs Required for SB Degree | 189-192 |
+
+The units for any subject that counts as one of the 17 GIR subjects cannot also be counted as units required beyond the GIRs.
+
+|     |     |
+| --- | --- |
+| _1_ | _Consult the MechE Undergraduate Office, Room 1-110, regarding substitutions._ |
+| _2_ | _To encourage more substantial research, design, or independent study, the department permits up to 15 units of [2.THU](https://catalog.mit.edu/search/?P=2.THU "2.THU") credit, subject to approval of the student’s thesis advisor._ |
+| _3_ | _The department suggests that students select a basic electronics subject (e.g., [2.678](https://catalog.mit.edu/search/?P=2.678 "2.678"), [6.2000](https://catalog.mit.edu/search/?P=6.2000 "6.2000"), or [22.071](https://catalog.mit.edu/search/?P=22.071 "22.071")) as early as possible in their program._ |
+
+Print Options
+
+
+[Send Page to Printer](https://catalog.mit.edu/degree-charts/mechanical-engineering-course-2/#)
+
+_Print this page._
+
+[Download PDF of this Page](https://catalog.mit.edu/degree-charts/mechanical-engineering-course-2/mechanical-engineering-course-2.pdf)
+
+_The PDF includes all information on this page and its related tabs. Subject (course) information includes any changes approved for the current academic year._
+
+[Download PDF of the Entire Catalog and/or Subject Descriptions](https://catalog.mit.edu/archive/)
+
+[Cancel](https://catalog.mit.edu/degree-charts/mechanical-engineering-course-2/#)

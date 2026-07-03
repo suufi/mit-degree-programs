@@ -1,0 +1,174 @@
+{
+  "schemaVersion": "2",
+  "program": "10-c",
+  "title": "Chemical Engineering as Recommended by the Department of Chemical Engineering (Course 10-C)",
+  "level": "undergraduate",
+  "complete": false,
+  "includesGir": "sb",
+  "catalogSource": {
+    "url": "https://catalog.mit.edu/degree-charts/chemical-engineering-course-10-c/",
+    "slug": "chemical-engineering-course-10-c",
+    "scrapedAt": "2026-07-03",
+    "contentHash": "20c43425c702aeee0f7520dece53ef47d3f884396955d5713c383105555462e6"
+  },
+  "girCrosswalk": [
+    {
+      "subjectId": "18.03",
+      "satisfies": [
+        "rest"
+      ],
+      "note": "Also satisfies REST via departmental program."
+    },
+    {
+      "subjectId": "3.010",
+      "satisfies": [
+        "lab"
+      ],
+      "note": "Also satisfies Laboratory Requirement via departmental program."
+    },
+    {
+      "subjectId": "3.020",
+      "satisfies": [
+        "lab"
+      ],
+      "note": "Also satisfies Laboratory Requirement via departmental program."
+    },
+    {
+      "subjectId": "6.2050",
+      "satisfies": [
+        "lab"
+      ],
+      "note": "Also satisfies Laboratory Requirement via departmental program."
+    },
+    {
+      "subjectId": "7.002",
+      "satisfies": [
+        "lab"
+      ],
+      "note": "Also satisfies Laboratory Requirement via departmental program."
+    },
+    {
+      "subjectId": "7.003",
+      "satisfies": [
+        "lab"
+      ],
+      "note": "Also satisfies Laboratory Requirement via departmental program."
+    },
+    {
+      "subjectId": "15.301",
+      "satisfies": [
+        "lab"
+      ],
+      "note": "Also satisfies Laboratory Requirement via departmental program."
+    }
+  ],
+  "footnotes": [
+    {
+      "id": "1",
+      "text": "18.032 Differential Equations is also an acceptable option."
+    },
+    {
+      "id": "2",
+      "text": "If the student chooses to include a subject from the second list of Restricted Electives (6.1800-15.301), the subject must fit logically within the plan of study."
+    }
+  ],
+  "constraints": [],
+  "requirements": [
+    {
+      "groupId": "10-c-required-subjects",
+      "title": "Required Subjects",
+      "bucket": "departmental",
+      "subcategory": "required_subjects",
+      "root": {
+        "type": "group",
+        "ruleType": "all_of",
+        "items": [
+          {
+            "type": "subject",
+            "subjectId": "5.601"
+          },
+          {
+            "type": "subject",
+            "subjectId": "10.10"
+          },
+          {
+            "type": "subject",
+            "subjectId": "10.213"
+          },
+          {
+            "type": "subject",
+            "subjectId": "10.301"
+          },
+          {
+            "type": "subject",
+            "subjectId": "10.302"
+          },
+          {
+            "type": "subject",
+            "subjectId": "18.03"
+          }
+        ]
+      }
+    },
+    {
+      "groupId": "10-c-select-one-additional-subject-from-the-above-list-or-the-following",
+      "title": "Select one additional subject from the above list or the following:",
+      "bucket": "departmental",
+      "subcategory": "required_subjects",
+      "root": {
+        "type": "group",
+        "ruleType": "all_of",
+        "items": [
+          {
+            "type": "subject",
+            "subjectId": "6.1800"
+          },
+          {
+            "type": "subject",
+            "subjectId": "6.2050"
+          },
+          {
+            "type": "subject",
+            "subjectId": "6.4590"
+          },
+          {
+            "type": "subject",
+            "subjectId": "6.4810"
+          },
+          {
+            "type": "subject",
+            "subjectId": "14.05"
+          },
+          {
+            "type": "subject",
+            "subjectId": "15.279"
+          },
+          {
+            "type": "subject",
+            "subjectId": "15.301"
+          }
+        ]
+      }
+    },
+    {
+      "groupId": "10-c-restricted-electives",
+      "title": "Restricted Electives",
+      "bucket": "elective",
+      "subcategory": "restricted_electives",
+      "flexibility": {
+        "catalogText": "Students must choose electives that form a coherent plan of study. Students must include two restricted electives selected according to the following lists.2"
+      },
+      "root": {
+        "type": "selection",
+        "ruleType": "choose_units",
+        "ruleValue": 102,
+        "itemsSource": "shared_list",
+        "sharedListId": "10-c.select-one-additional-subject-from-the-above-list-or-the-following"
+      }
+    }
+  ],
+  "status": "draft",
+  "revisionId": "10-c-2026-07-03-20c43425",
+  "catalogYear": "2026",
+  "effectiveTerm": "2026-FA"
+}

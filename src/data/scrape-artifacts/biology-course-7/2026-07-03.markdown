@@ -1,0 +1,113 @@
+Degree Charts
+
+- [Home](https://catalog.mit.edu/) >
+- [Degree Charts](https://catalog.mit.edu/degree-charts/) >
+- Biology (SB, Course 7)
+
+# Biology (Course 7)
+
+[Department of Biology](https://catalog.mit.edu/schools/science/biology/#undergraduatetext)
+
+## Bachelor of Science in Biology
+
+### General Institute Requirements (GIRs)
+
+The General Institute Requirements include a Communication Requirement that is integrated into both the HASS Requirement and the requirements of each major; see details below.
+
+| Summary of Subject Requirements | Subjects |
+| --- | --- |
+| Science Requirement | 6 |
+| Humanities, Arts, and Social Sciences (HASS) Requirement; at least two of these subjects must be designated as communication-intensive (CI-H) to fulfill the Communication Requirement. | 8 |
+| Restricted Electives in Science and Technology (REST) Requirement \[can be satisfied from among [5.12](https://catalog.mit.edu/search/?P=5.12 "5.12") or [5.601](https://catalog.mit.edu/search/?P=5.601 "5.601")/ [5.602](https://catalog.mit.edu/search/?P=5.602 "5.602"), and [7.03](https://catalog.mit.edu/search/?P=7.03 "7.03") or [7.05](https://catalog.mit.edu/search/?P=7.05 "7.05") in the Departmental Program\] | 2 |
+| Laboratory Requirement (12 units) \[can be satisfied by [7.002](https://catalog.mit.edu/search/?P=7.002 "7.002") and [7.003\[J\]](https://catalog.mit.edu/search/?P=7.003 "7.003[J]") in the Departmental Program\] | 1 |
+| **Total GIR Subjects Required for SB Degree** | **17** |
+
+| Physical Education Requirement |  |
+| --- | --- |
+| Swimming requirement, plus four physical education courses for eight points. |  |
+
+### Departmental Program
+
+Choose at least two subjects in the major that are designated as communication-intensive (CI-M) to fulfill the Communication Requirement.
+
+|     |     |     |
+| --- | --- | --- |
+| Required Subjects | **Units** |
+| [7.002](https://catalog.mit.edu/search/?P=7.002 "7.002") | Fundamentals of Experimental Molecular Biology | 6 |
+| [7.003\[J\]](https://catalog.mit.edu/search/?P=7.003 "7.003[J]") | Applied Molecular Biology Laboratory (CI-M) | 12 |
+| [7.03](https://catalog.mit.edu/search/?P=7.03 "7.03") | Genetics | 12 |
+| [5.12](https://catalog.mit.edu/search/?P=5.12 "5.12") | Organic Chemistry I | 12 |
+| [7.05](https://catalog.mit.edu/search/?P=7.05 "7.05") | General Biochemistry | 12 |
+| or [5.07\[J\]](https://catalog.mit.edu/search/?P=5.07 "5.07[J]") | Introduction to Biological Chemistry |
+| [7.06](https://catalog.mit.edu/search/?P=7.06 "7.06") | Cell Biology | 12 |
+| [5.601](https://catalog.mit.edu/search/?P=5.601 "5.601")<br>& [5.602](https://catalog.mit.edu/search/?P=5.602 "5.602") | Thermodynamics I<br>and Thermodynamics II and Kinetics1 | 12 |
+| or [20.110\[J\]](https://catalog.mit.edu/search/?P=20.110 "20.110[J]") | Thermodynamics of Biomolecular Systems |
+| Biology Capstone Subject |  |
+| [7.19](https://catalog.mit.edu/search/?P=7.19 "7.19") | Communication in Experimental Biology (CI-M) | 12 |
+| Restricted Electives |  |
+| Select three undergraduate-level 12-unit subjects from the list of restricted electives below.2 | 36 |
+| Units in Major | 126 |
+| Unrestricted Electives | 90 |
+| Units in Major That Also Satisfy the GIRs | (36) |
+| Total Units Beyond the GIRs Required for SB Degree | 180 |
+
+The units for any subject that counts as one of the 17 GIR subjects cannot also be counted as units required beyond the GIRs.
+
+|     |     |
+| --- | --- |
+| _1_ | _The department recommends the combination of [5.601](https://catalog.mit.edu/search/?P=5.601 "5.601") Thermodynamics I and [5.602](https://catalog.mit.edu/search/?P=5.602 "5.602") Thermodynamics II and Kinetics or [20.110\[J\]](https://catalog.mit.edu/search/?P=20.110 "20.110[J]") to fulfill this component of the program, but it will also accept [2.005](https://catalog.mit.edu/search/?P=2.005 "2.005") Thermal-Fluids Engineering I, [8.044](https://catalog.mit.edu/search/?P=8.044 "8.044") Statistical Physics I, or [10.213](https://catalog.mit.edu/search/?P=10.213 "10.213") Chemical and Biological Engineering Thermodynamics._ |
+| _2_ | _Graduate-level subjects may not be used as restricted electives._ |
+
+### Restricted Electives
+
+|     |     |     |
+| --- | --- | --- |
+| [7.08\[J\]](https://catalog.mit.edu/search/?P=7.08 "7.08[J]") | Fundamentals of Chemical Biology | 12 |
+| [7.093](https://catalog.mit.edu/search/?P=7.093 "7.093")<br>& [7.094](https://catalog.mit.edu/search/?P=7.094 "7.094") | Modern Biostatistics<br>and Modern Computational Biology | 12 |
+| [7.20\[J\]](https://catalog.mit.edu/search/?P=7.20 "7.20[J]") | Human Physiology | 12 |
+| [7.21](https://catalog.mit.edu/search/?P=7.21 "7.21") | Microbial Physiology | 12 |
+| [7.23\[J\]](https://catalog.mit.edu/search/?P=7.23 "7.23[J]") | Immunology | 12 |
+| [7.24](https://catalog.mit.edu/search/?P=7.24 "7.24") | Advanced Concepts in Immunology | 12 |
+| [7.26](https://catalog.mit.edu/search/?P=7.26 "7.26") | Molecular Basis of Infectious Disease | 12 |
+| [7.27](https://catalog.mit.edu/search/?P=7.27 "7.27") | Principles of Human Disease and Aging | 12 |
+| [7.28](https://catalog.mit.edu/search/?P=7.28 "7.28") | Molecular Biology | 12 |
+| [7.29\[J\]](https://catalog.mit.edu/search/?P=7.29 "7.29[J]") | Cellular and Molecular Neurobiology | 12 |
+| [7.30\[J\]](https://catalog.mit.edu/search/?P=7.30 "7.30[J]") | Fundamentals of Ecology | 12 |
+| [7.31](https://catalog.mit.edu/search/?P=7.31 "7.31") | Current Topics in Mammalian Biology: Medical Implications | 12 |
+| [7.32](https://catalog.mit.edu/search/?P=7.32 "7.32") | Systems Biology | 12 |
+| [7.33\[J\]](https://catalog.mit.edu/search/?P=7.33 "7.33[J]") | Evolutionary Biology: Concepts, Models and Computation | 12 |
+| [7.35](https://catalog.mit.edu/search/?P=7.35 "7.35") | Human Genetics and Genomics | 12 |
+| [7.371\[J\]](https://catalog.mit.edu/search/?P=7.371 "7.371[J]") | Biological and Engineering Principles Underlying Novel Biotherapeutics | 12 |
+| [7.45](https://catalog.mit.edu/search/?P=7.45 "7.45") | The Hallmarks of Cancer | 12 |
+| [7.46](https://catalog.mit.edu/search/?P=7.46 "7.46") | Building with Cells | 12 |
+| [7.49\[J\]](https://catalog.mit.edu/search/?P=7.49 "7.49[J]") | Developmental Neurobiology | 12 |
+| [9.17](https://catalog.mit.edu/search/?P=9.17 "9.17") | Systems Neuroscience Laboratory (CI-M) 1 | 12 |
+| [9.26\[J\]](https://catalog.mit.edu/search/?P=9.26 "9.26[J]") | Principles and Applications of Genetic Engineering for Biotechnology and Neuroscience | 12 |
+| [6.C01](https://catalog.mit.edu/search/?P=6.C01 "6.C01")<br>& [7.C01](https://catalog.mit.edu/search/?P=7.C01 "7.C01") | Modeling with Machine Learning: from Algorithms to Applications<br>and Machine Learning in Molecular and Cellular Biology2 | 12 |
+
+|     |     |
+| --- | --- |
+| _1_ | _Subject has prerequisites that are outside of the program._ |
+| _2_ | _Students must complete 6.C01 & 7.C01 simultaneously in order to receive credit._ |
+
+### Communication-Intensive Subjects in the Major
+
+|     |     |     |
+| --- | --- | --- |
+| [7.003\[J\]](https://catalog.mit.edu/search/?P=7.003 "7.003[J]") | Applied Molecular Biology Laboratory (CI-M) | 12 |
+| [7.19](https://catalog.mit.edu/search/?P=7.19 "7.19") | Communication in Experimental Biology (CI-M) | 12 |
+
+Print Options
+
+
+[Send Page to Printer](https://catalog.mit.edu/degree-charts/biology-course-7/#)
+
+_Print this page._
+
+[Download PDF of this Page](https://catalog.mit.edu/degree-charts/biology-course-7/biology-course-7.pdf)
+
+_The PDF includes all information on this page and its related tabs. Subject (course) information includes any changes approved for the current academic year._
+
+[Download PDF of the Entire Catalog and/or Subject Descriptions](https://catalog.mit.edu/archive/)
+
+[Cancel](https://catalog.mit.edu/degree-charts/biology-course-7/#)

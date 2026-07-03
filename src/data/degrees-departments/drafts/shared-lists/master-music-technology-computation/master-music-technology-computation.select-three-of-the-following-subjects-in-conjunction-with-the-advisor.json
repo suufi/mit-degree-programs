@@ -1,0 +1,52 @@
+{
+  "sharedListId": "master-music-technology-computation.select-three-of-the-following-subjects-in-conjunction-with-the-advisor",
+  "program": "master-music-technology-computation",
+  "title": "Select three of the following subjects in conjunction with the advisor:",
+  "items": [
+    {
+      "type": "subject",
+      "subjectId": "21M.572"
+    },
+    {
+      "type": "subject",
+      "subjectId": "21M.573"
+    },
+    {
+      "type": "subject",
+      "subjectId": "21M.574"
+    },
+    {
+      "type": "subject",
+      "subjectId": "21M.576"
+    },
+    {
+      "type": "subject",
+      "subjectId": "21M.577"
+    },
+    {
+      "type": "subject",
+      "subjectId": "21M.560"
+    },
+    {
+      "type": "subject",
+      "subjectId": "21M.561"
+    },
+    {
+      "type": "subject",
+      "subjectId": "21M.562"
+    },
+    {
+      "type": "subject",
+      "subjectId": "21M.569"
+    },
+    {
+      "type": "subject",
+      "subjectId": "21M.570"
+    },
+    {
+      "type": "subject",
+      "subjectId": "21M.580"
+    }
+  ],
+  "version": "1"
+}

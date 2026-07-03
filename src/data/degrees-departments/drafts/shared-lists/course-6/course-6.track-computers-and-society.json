@@ -1,0 +1,52 @@
+{
+  "sharedListId": "course-6.track-computers-and-society",
+  "program": "course-6",
+  "title": "Computers and Society",
+  "items": [
+    {
+      "type": "subject",
+      "subjectId": "6.1850"
+    },
+    {
+      "type": "subject",
+      "subjectId": "6.1852"
+    },
+    {
+      "type": "subject",
+      "subjectId": "6.3950"
+    },
+    {
+      "type": "subject",
+      "subjectId": "6.4590"
+    },
+    {
+      "type": "subject",
+      "subjectId": "6.8530"
+    },
+    {
+      "type": "subject",
+      "subjectId": "6.C35"
+    },
+    {
+      "type": "subject",
+      "subjectId": "6.C395"
+    },
+    {
+      "type": "subject",
+      "subjectId": "6.C85"
+    },
+    {
+      "type": "subject",
+      "subjectId": "11.C35"
+    },
+    {
+      "type": "subject",
+      "subjectId": "14.C395"
+    },
+    {
+      "type": "subject",
+      "subjectId": "11.C85"
+    }
+  ],
+  "version": "1"
+}

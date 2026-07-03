@@ -1,0 +1,20 @@
+{
+  "sharedListId": "9.tier-iii",
+  "program": "9",
+  "title": "Tier III",
+  "items": [
+    {
+      "type": "subject",
+      "subjectId": "9.24"
+    },
+    {
+      "type": "subject",
+      "subjectId": "9.42"
+    },
+    {
+      "type": "subject",
+      "subjectId": "9.67"
+    }
+  ],
+  "version": "1"
+}

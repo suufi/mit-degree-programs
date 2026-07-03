@@ -1,0 +1,60 @@
+{
+  "sharedListId": "course-6.track-human-computer-interaction",
+  "program": "course-6",
+  "title": "Human Computer Interaction",
+  "items": [
+    {
+      "type": "subject",
+      "subjectId": "6.1040"
+    },
+    {
+      "type": "subject",
+      "subjectId": "6.4500"
+    },
+    {
+      "type": "subject",
+      "subjectId": "6.4510"
+    },
+    {
+      "type": "subject",
+      "subjectId": "6.4530"
+    },
+    {
+      "type": "subject",
+      "subjectId": "6.4550"
+    },
+    {
+      "type": "subject",
+      "subjectId": "6.8510"
+    },
+    {
+      "type": "subject",
+      "subjectId": "6.8530"
+    },
+    {
+      "type": "subject",
+      "subjectId": "6.C35"
+    },
+    {
+      "type": "subject",
+      "subjectId": "6.C85"
+    },
+    {
+      "type": "subject",
+      "subjectId": "2.78"
+    },
+    {
+      "type": "subject",
+      "subjectId": "21M.385"
+    },
+    {
+      "type": "subject",
+      "subjectId": "11.C35"
+    },
+    {
+      "type": "subject",
+      "subjectId": "11.C85"
+    }
+  ],
+  "version": "1"
+}

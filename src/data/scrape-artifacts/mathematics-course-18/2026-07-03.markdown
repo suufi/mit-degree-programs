@@ -1,0 +1,263 @@
+Degree Charts
+
+- [Home](https://catalog.mit.edu/) >
+- [Degree Charts](https://catalog.mit.edu/degree-charts/) >
+- Mathematics (SB, Course 18)
+
+# Mathematics (Course 18)
+
+[Department of Mathematics](https://catalog.mit.edu/schools/science/mathematics/#undergraduatetext)
+
+## Bachelor of Science in Mathematics   (General Mathematics Option)
+
+### General Institute Requirements (GIRs)
+
+The General Institute Requirements include a Communication Requirement that is integrated into both the HASS Requirement and the requirements of each major; see details below.
+
+| Summary of Subject Requirements | Subjects |
+| --- | --- |
+| Science Requirement | 6 |
+| Humanities, Arts, and Social Sciences (HASS) Requirement; at least two of these subjects must be designated as communication-intensive (CI-H) to fulfill the Communication Requirement. | 8 |
+| Restricted Electives in Science and Technology (REST) Requirement \[one subject can be satisfied by [18.03](https://catalog.mit.edu/search/?P=18.03 "18.03") in the Departmental Program\] | 2 |
+| Laboratory Requirement (12 units) | 1 |
+| **Total GIR Subjects Required for SB Degree** | **17** |
+
+| Physical Education Requirement |  |
+| --- | --- |
+| Swimming requirement, plus four physical education courses for eight points. |  |
+
+### Departmental Program
+
+Choose at least two subjects in the major that are designated as communication-intensive (CI-M) to fulfill the Communication Requirement.
+
+|     |     |     |
+| --- | --- | --- |
+| Required Subjects | **Units** |
+| [18.03](https://catalog.mit.edu/search/?P=18.03 "18.03") | Differential Equations 1 | 12 |
+| Restricted Electives |  |
+| Select eight 12-unit subjects of essentially different content, including at least six advanced subjects (first decimal digit one or higher) that are distributed over at least three distinct areas (at least three distinct first decimal digits). One of these eight subjects must be one of the following: | 96 |
+| [18.06](https://catalog.mit.edu/search/?P=18.06 "18.06") | Linear Algebra |  |
+| [18.C06\[J\]](https://catalog.mit.edu/search/?P=18.C06 "18.C06[J]") | Linear Algebra and Optimization |  |
+| [18.700](https://catalog.mit.edu/search/?P=18.700 "18.700") | Linear Algebra |  |
+| [18.701](https://catalog.mit.edu/search/?P=18.701 "18.701") | Algebra I |  |
+| Units in Major | 108 |
+| Unrestricted Electives | 84 |
+| Units in Major That Also Satisfy the GIRs | (12) |
+| Total Units Beyond the GIRs Required for SB Degree | 180 |
+
+The units for any subject that counts as one of the 17 GIR subjects cannot also be counted as units required beyond the GIRs.
+
+|     |     |
+| --- | --- |
+| _1_ | _Students may also fulfill this requirement by completing [18.032](https://catalog.mit.edu/search/?P=18.032 "18.032") Differential Equations (which places more emphasis on theory),   [18.152](https://catalog.mit.edu/search/?P=18.152 "18.152") Introduction to Partial Differential Equations, or [18.303](https://catalog.mit.edu/search/?P=18.303 "18.303") Linear Partial Differential Equations: Analysis and Numerics. Any subject substituted for 18.03 cannot also count towards the eight-subject Restricted Elective requirement._ |
+
+### Communication-Intensive Subjects in the Major
+
+|     |     |     |
+| --- | --- | --- |
+| To satisfy the requirement that students take two CI-M subjects, students must select one of the following options: |  |
+| Option A |  |
+| _Select two of the following:_ |  |
+| [18.104](https://catalog.mit.edu/search/?P=18.104 "18.104") | Seminar in Analysis |  |
+| [18.204](https://catalog.mit.edu/search/?P=18.204 "18.204") | Undergraduate Seminar in Discrete Mathematics |  |
+| [18.384](https://catalog.mit.edu/search/?P=18.384 "18.384") | Undergraduate Seminar in Physical Mathematics |  |
+| [18.424](https://catalog.mit.edu/search/?P=18.424 "18.424") | Seminar in Information Theory |  |
+| [18.434](https://catalog.mit.edu/search/?P=18.434 "18.434") | Seminar in Theoretical Computer Science |  |
+| [18.504](https://catalog.mit.edu/search/?P=18.504 "18.504") | Seminar in Logic |  |
+| [18.704](https://catalog.mit.edu/search/?P=18.704 "18.704") | Seminar in Algebra |  |
+| [18.784](https://catalog.mit.edu/search/?P=18.784 "18.784") | Seminar in Number Theory |  |
+| [18.821](https://catalog.mit.edu/search/?P=18.821 "18.821") | Project Laboratory in Mathematics |  |
+| [18.904](https://catalog.mit.edu/search/?P=18.904 "18.904") | Seminar in Topology |  |
+| [18.994](https://catalog.mit.edu/search/?P=18.994 "18.994") | Seminar in Geometry |  |
+| Option B |  |
+| _Select one subject from Option A and one of the following:_ |  |
+| [8.06](https://catalog.mit.edu/search/?P=8.06 "8.06") | Quantum Physics III |  |
+| [14.18](https://catalog.mit.edu/search/?P=14.18 "14.18") | Mathematical Economic Modeling |  |
+| [14.33](https://catalog.mit.edu/search/?P=14.33 "14.33") | Research and Communication in Economics: Topics, Methods, and Implementation |  |
+| [18.100P](https://catalog.mit.edu/search/?P=18.100P "18.100P") | Real Analysis |  |
+| [18.100Q](https://catalog.mit.edu/search/?P=18.100Q "18.100Q") | Real Analysis |  |
+| [18.200](https://catalog.mit.edu/search/?P=18.200 "18.200") | Principles of Discrete Applied Mathematics |  |
+
+[Department of Mathematics](https://catalog.mit.edu/schools/science/mathematics/#undergraduatetext)
+
+## Bachelor of Science in Mathematics   (Applied Mathematics Option)
+
+### General Institute Requirements (GIRs)
+
+The General Institute Requirements include a Communication Requirement that is integrated into both the HASS Requirement and the requirements of each major; see details below.
+
+| Summary of Subject Requirements | Subjects |
+| --- | --- |
+| Science Requirement | 6 |
+| Humanities, Arts, and Social Sciences (HASS) Requirement; at least two of these subjects must be designated as communication-intensive (CI-H) to fulfill the Communication Requirement. | 8 |
+| Restricted Electives in Science and Technology (REST) Requirement \[one subject can be satisfied by [18.03](https://catalog.mit.edu/search/?P=18.03 "18.03") in the Departmental Program\] | 2 |
+| Laboratory Requirement (12 units) | 1 |
+| **Total GIR Subjects Required for SB Degree** | **17** |
+
+| Physical Education Requirement |  |
+| --- | --- |
+| Swimming requirement, plus four physical education courses for eight points. |  |
+
+### Departmental Program
+
+Choose at least two subjects in the major that are designated as communication-intensive (CI-M) to fulfill the Communication Requirement.
+
+|     |     |     |
+| --- | --- | --- |
+| Required Subjects | **Units** |
+| [18.03](https://catalog.mit.edu/search/?P=18.03 "18.03") | Differential Equations 1 | 12 |
+| [18.04](https://catalog.mit.edu/search/?P=18.04 "18.04") | Complex Variables with Applications | 12 |
+| or [18.112](https://catalog.mit.edu/search/?P=18.112 "18.112") | Functions of a Complex Variable |
+| [18.06](https://catalog.mit.edu/search/?P=18.06 "18.06") | Linear Algebra 2 | 12 |
+| [18.300](https://catalog.mit.edu/search/?P=18.300 "18.300") | Principles of Continuum Applied Mathematics | 12 |
+| _Select one of the following:_ | 12-15 |
+| [18.200](https://catalog.mit.edu/search/?P=18.200 "18.200") | Principles of Discrete Applied Mathematics (15 units, CI-M) |  |
+| [18.200A](https://catalog.mit.edu/search/?P=18.200A "18.200A") | Principles of Discrete Applied Mathematics (12 units) |  |
+| Restricted Electives |  |
+| Select four additional 12-unit Course 18 subjects from the following two groups with at least one subject from each group:3 | 48 |
+| Group I—Probability and statistics, combinatorics, computer science |  |
+| Group II—Numerical analysis, physical mathematics, nonlinear dynamics |  |
+| Units in Major | 108-111 |
+| Unrestricted Electives | 81-84 |
+| Units in Major That Also Satisfy the GIRs | (12) |
+| Total Units Beyond the GIRs Required for SB Degree | 180 |
+
+The units for any subject that counts as one of the 17 GIR subjects cannot also be counted as units required beyond the GIRs.
+
+|     |     |
+| --- | --- |
+| _1_ | _Students may substitute one of the more advanced subjects [18.152](https://catalog.mit.edu/search/?P=18.152 "18.152") Introduction to Partial Differential Equations or [18.303](https://catalog.mit.edu/search/?P=18.303 "18.303") Linear Partial Differential Equations: Analysis and Numerics for [18.03](https://catalog.mit.edu/search/?P=18.03 "18.03"). [18.032](https://catalog.mit.edu/search/?P=18.032 "18.032") Differential Equations, which places more emphasis on theory, is also an acceptable option._ |
+| _2_ | _Students may substitute [18.C06\[J\]](https://catalog.mit.edu/search/?P=18.C06 "18.C06[J]") Linear Algebra and Optimization, [18.700](https://catalog.mit.edu/search/?P=18.700 "18.700") Linear Algebra (which places more emphasis on theory and proofs), or the more advanced subject, [18.701](https://catalog.mit.edu/search/?P=18.701 "18.701") Algebra I._ |
+| _3_ | _A [list of acceptable subjects](https://math.mit.edu/academics/undergrad/major/course18/applied.php) is available from Math Academic Services and on the department's website._ |
+
+### Communication-Intensive Subjects in the Major
+
+|     |     |     |
+| --- | --- | --- |
+| To satisfy the requirement that students take two CI-M subjects, students must select one of the following options: |  |
+| Option A |  |
+| _Select two of the following:_ |  |
+| [18.104](https://catalog.mit.edu/search/?P=18.104 "18.104") | Seminar in Analysis |  |
+| [18.204](https://catalog.mit.edu/search/?P=18.204 "18.204") | Undergraduate Seminar in Discrete Mathematics |  |
+| [18.384](https://catalog.mit.edu/search/?P=18.384 "18.384") | Undergraduate Seminar in Physical Mathematics |  |
+| [18.424](https://catalog.mit.edu/search/?P=18.424 "18.424") | Seminar in Information Theory |  |
+| [18.434](https://catalog.mit.edu/search/?P=18.434 "18.434") | Seminar in Theoretical Computer Science |  |
+| [18.504](https://catalog.mit.edu/search/?P=18.504 "18.504") | Seminar in Logic |  |
+| [18.704](https://catalog.mit.edu/search/?P=18.704 "18.704") | Seminar in Algebra |  |
+| [18.784](https://catalog.mit.edu/search/?P=18.784 "18.784") | Seminar in Number Theory |  |
+| [18.821](https://catalog.mit.edu/search/?P=18.821 "18.821") | Project Laboratory in Mathematics |  |
+| [18.904](https://catalog.mit.edu/search/?P=18.904 "18.904") | Seminar in Topology |  |
+| [18.994](https://catalog.mit.edu/search/?P=18.994 "18.994") | Seminar in Geometry |  |
+| Option B |  |
+| _Select one subject from Option A and one of the following:_ |  |
+| [8.06](https://catalog.mit.edu/search/?P=8.06 "8.06") | Quantum Physics III |  |
+| [14.18](https://catalog.mit.edu/search/?P=14.18 "14.18") | Mathematical Economic Modeling |  |
+| [14.33](https://catalog.mit.edu/search/?P=14.33 "14.33") | Research and Communication in Economics: Topics, Methods, and Implementation |  |
+| [18.100P](https://catalog.mit.edu/search/?P=18.100P "18.100P") | Real Analysis |  |
+| [18.100Q](https://catalog.mit.edu/search/?P=18.100Q "18.100Q") | Real Analysis |  |
+| [18.200](https://catalog.mit.edu/search/?P=18.200 "18.200") | Principles of Discrete Applied Mathematics |  |
+
+[Department of Mathematics](https://catalog.mit.edu/schools/science/mathematics/#undergraduatetext)
+
+## Bachelor of Science in Mathematics   (Pure Mathematics Option)
+
+### General Institute Requirements (GIRs)
+
+The General Institute Requirements include a Communication Requirement that is integrated into both the HASS Requirement and the requirements of each major; see details below.
+
+| Summary of Subject Requirements | Subjects |
+| --- | --- |
+| Science Requirement | 6 |
+| Humanities, Arts, and Social Sciences (HASS) Requirement; at least two of these subjects must be designated as communication-intensive (CI-H) to fulfill the Communication Requirement. | 8 |
+| Restricted Electives in Science and Technology (REST) Requirement \[one subject can be satisfied by [18.03](https://catalog.mit.edu/search/?P=18.03 "18.03") in the Departmental Program\] | 2 |
+| Laboratory Requirement (12 units) | 1 |
+| **Total GIR Subjects Required for SB Degree** | **17** |
+
+| Physical Education Requirement |  |
+| --- | --- |
+| Swimming requirement, plus four physical education courses for eight points. |  |
+
+### Departmental Program
+
+Choose at least two subjects in the major that are designated as communication-intensive (CI-M) to fulfill the Communication Requirement.
+
+|     |     |     |
+| --- | --- | --- |
+| Required Subjects | **Units** |
+| [18.03](https://catalog.mit.edu/search/?P=18.03 "18.03") | Differential Equations 1 | 12 |
+| [18.100B](https://catalog.mit.edu/search/?P=18.100B "18.100B") | Real Analysis 2 | 12 |
+| [18.701](https://catalog.mit.edu/search/?P=18.701 "18.701") | Algebra I | 12 |
+| [18.702](https://catalog.mit.edu/search/?P=18.702 "18.702") | Algebra II | 12 |
+| [18.901](https://catalog.mit.edu/search/?P=18.901 "18.901") | Introduction to Topology | 12 |
+| Restricted Electives |  |
+| _Select one of the following:_ | 12 |
+| [18.101](https://catalog.mit.edu/search/?P=18.101 "18.101") | Analysis and Manifolds |  |
+| [18.102](https://catalog.mit.edu/search/?P=18.102 "18.102") | Introduction to Functional Analysis |  |
+| [18.103](https://catalog.mit.edu/search/?P=18.103 "18.103") | Fourier Analysis: Theory and Applications |  |
+| _Select one undergraduate seminar from the following:_ | 12 |
+| [18.104](https://catalog.mit.edu/search/?P=18.104 "18.104") | Seminar in Analysis (CI-M) |  |
+| [18.504](https://catalog.mit.edu/search/?P=18.504 "18.504") | Seminar in Logic (CI-M) |  |
+| [18.704](https://catalog.mit.edu/search/?P=18.704 "18.704") | Seminar in Algebra (CI-M) |  |
+| [18.784](https://catalog.mit.edu/search/?P=18.784 "18.784") | Seminar in Number Theory (CI-M) |  |
+| [18.904](https://catalog.mit.edu/search/?P=18.904 "18.904") | Seminar in Topology (CI-M) |  |
+| [18.994](https://catalog.mit.edu/search/?P=18.994 "18.994") | Seminar in Geometry (CI-M) |  |
+| Select two additional 12-unit Course 18 subjects of essentially different content, with the first decimal digit one or higher | 24 |
+| Units in Major | 108 |
+| Unrestricted Electives | 84 |
+| Units in Major That Also Satisfy the GIRs | (12) |
+| Total Units Beyond the GIRs Required for SB Degree | 180 |
+
+The units for any subject that counts as one of the 17 GIR subjects cannot also be counted as units required beyond the GIRs.
+
+|     |     |
+| --- | --- |
+| _1_ | _Students may substitute one of the more advanced subjects [18.152](https://catalog.mit.edu/search/?P=18.152 "18.152") Introduction to Partial Differential Equations or [18.303](https://catalog.mit.edu/search/?P=18.303 "18.303") Linear Partial Differential Equations: Analysis and Numerics for [18.03](https://catalog.mit.edu/search/?P=18.03 "18.03"). [18.032](https://catalog.mit.edu/search/?P=18.032 "18.032") Differential Equations, which places more emphasis on theory, is also an acceptable option._ |
+| _2_ | _Alternate versions of this subject, [18.100A](https://catalog.mit.edu/search/?P=18.100A "18.100A"), [18.100P](https://catalog.mit.edu/search/?P=18.100P "18.100P") and [18.100Q](https://catalog.mit.edu/search/?P=18.100Q "18.100Q"), also satisfy this requirement._ |
+
+### Communication-Intensive Subjects in the Major
+
+|     |     |     |
+| --- | --- | --- |
+| To satisfy the requirement that students take two CI-M subjects, students must select one of the following options: |  |
+| Option A |  |
+| _Select two of the following:_ |  |
+| [18.104](https://catalog.mit.edu/search/?P=18.104 "18.104") | Seminar in Analysis |  |
+| [18.204](https://catalog.mit.edu/search/?P=18.204 "18.204") | Undergraduate Seminar in Discrete Mathematics |  |
+| [18.384](https://catalog.mit.edu/search/?P=18.384 "18.384") | Undergraduate Seminar in Physical Mathematics |  |
+| [18.424](https://catalog.mit.edu/search/?P=18.424 "18.424") | Seminar in Information Theory |  |
+| [18.434](https://catalog.mit.edu/search/?P=18.434 "18.434") | Seminar in Theoretical Computer Science |  |
+| [18.504](https://catalog.mit.edu/search/?P=18.504 "18.504") | Seminar in Logic |  |
+| [18.704](https://catalog.mit.edu/search/?P=18.704 "18.704") | Seminar in Algebra |  |
+| [18.784](https://catalog.mit.edu/search/?P=18.784 "18.784") | Seminar in Number Theory |  |
+| [18.821](https://catalog.mit.edu/search/?P=18.821 "18.821") | Project Laboratory in Mathematics |  |
+| [18.904](https://catalog.mit.edu/search/?P=18.904 "18.904") | Seminar in Topology |  |
+| [18.994](https://catalog.mit.edu/search/?P=18.994 "18.994") | Seminar in Geometry |  |
+| Option B |  |
+| _Select one subject from Option A and one of the following:_ |  |
+| [8.06](https://catalog.mit.edu/search/?P=8.06 "8.06") | Quantum Physics III |  |
+| [14.18](https://catalog.mit.edu/search/?P=14.18 "14.18") | Mathematical Economic Modeling |  |
+| [14.33](https://catalog.mit.edu/search/?P=14.33 "14.33") | Research and Communication in Economics: Topics, Methods, and Implementation |  |
+| [18.100P](https://catalog.mit.edu/search/?P=18.100P "18.100P") | Real Analysis |  |
+| [18.100Q](https://catalog.mit.edu/search/?P=18.100Q "18.100Q") | Real Analysis |  |
+| [18.200](https://catalog.mit.edu/search/?P=18.200 "18.200") | Principles of Discrete Applied Mathematics |  |
+
+Print Options
+
+
+[Send Page to Printer](https://catalog.mit.edu/degree-charts/mathematics-course-18/#)
+
+_Print this page._
+
+[Download PDF of this Page](https://catalog.mit.edu/degree-charts/mathematics-course-18/mathematics-course-18.pdf)
+
+_The PDF includes all information on this page and its related tabs. Subject (course) information includes any changes approved for the current academic year._
+
+[General Mathematics tab PDF](https://catalog.mit.edu/degree-charts/mathematics-course-18/mathematics-course-18_generalmathematicstext.pdf)
+
+[Applied Mathematics tab PDF](https://catalog.mit.edu/degree-charts/mathematics-course-18/mathematics-course-18_appliedmathematicstext.pdf)
+
+[Pure Mathematics tab PDF](https://catalog.mit.edu/degree-charts/mathematics-course-18/mathematics-course-18_theoreticalmathematicstext.pdf)
+
+[Download PDF of the Entire Catalog and/or Subject Descriptions](https://catalog.mit.edu/archive/)
+
+[Cancel](https://catalog.mit.edu/degree-charts/mathematics-course-18/#)

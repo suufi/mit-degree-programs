@@ -1,0 +1,181 @@
+{
+  "schemaVersion": "2",
+  "program": "14-1",
+  "title": "Economics (Course 14-1)",
+  "level": "undergraduate",
+  "complete": false,
+  "includesGir": "sb",
+  "catalogSource": {
+    "url": "https://catalog.mit.edu/degree-charts/economics-course-14/",
+    "slug": "economics-course-14",
+    "scrapedAt": "2026-07-03",
+    "contentHash": "8ec26bdc8e6eab5391b6925ef0e3e6550f48295fb49bf4f85312ac0659540908"
+  },
+  "girCrosswalk": [
+    {
+      "subjectId": "14.30",
+      "satisfies": [
+        "rest"
+      ],
+      "note": "Also satisfies REST via departmental program."
+    },
+    {
+      "subjectId": "14.32",
+      "satisfies": [
+        "lab"
+      ],
+      "note": "Also satisfies Laboratory Requirement via departmental program."
+    }
+  ],
+  "footnotes": [
+    {
+      "id": "1",
+      "text": "Students with a score of 5 on the Economics AP exam may substitute 14.03 Microeconomic Theory and Public Policy."
+    },
+    {
+      "id": "2",
+      "text": "Or an approved alternative in statistics (consult department)."
+    },
+    {
+      "id": "3",
+      "text": "May be replaced by an additional elective subject in economics."
+    },
+    {
+      "id": "4",
+      "text": "This chart has been calculated based on an overlap of 36 units (three subjects) between the HASS General Institute Requirement and the departmental requirements. Students who develop a program of study with more overlap will be able to select more unrestricted electives to meet the number of total units beyond the GIRs required for an SB degree."
+    }
+  ],
+  "constraints": [],
+  "requirements": [
+    {
+      "groupId": "14-1-required-subjects",
+      "title": "Required Subjects",
+      "bucket": "departmental",
+      "subcategory": "required_subjects",
+      "root": {
+        "type": "group",
+        "ruleType": "all_of",
+        "items": [
+          {
+            "type": "subject",
+            "subjectId": "14.01"
+          },
+          {
+            "type": "selection",
+            "ruleType": "choose_one",
+            "itemsSource": "explicit",
+            "items": [
+              {
+                "type": "subject",
+                "subjectId": "14.03"
+              }
+            ]
+          },
+          {
+            "type": "subject",
+            "subjectId": "14.02"
+          },
+          {
+            "type": "subject",
+            "subjectId": "14.30"
+          },
+          {
+            "type": "subject",
+            "subjectId": "14.32"
+          },
+          {
+            "type": "subject",
+            "subjectId": "14.THU"
+          }
+        ]
+      }
+    },
+    {
+      "groupId": "14-1-macroeconomics",
+      "title": "Macroeconomics",
+      "bucket": "departmental",
+      "subcategory": "required_subjects",
+      "root": {
+        "type": "group",
+        "ruleType": "all_of",
+        "items": [
+          {
+            "type": "subject",
+            "subjectId": "14.05"
+          },
+          {
+            "type": "subject",
+            "subjectId": "14.06"
+          },
+          {
+            "type": "subject",
+            "subjectId": "14.05"
+          },
+          {
+            "type": "subject",
+            "subjectId": "14.18"
+          },
+          {
+            "type": "subject",
+            "subjectId": "14.33"
+          },
+          {
+            "type": "subject",
+            "subjectId": "14.35"
+          },
+          {
+            "type": "selection",
+            "ruleType": "choose_one",
+            "itemsSource": "explicit",
+            "items": [
+              {
+                "type": "subject",
+                "subjectId": "14.04"
+              },
+              {
+                "type": "subject",
+                "subjectId": "14.12"
+              },
+              {
+                "type": "subject",
+                "subjectId": "14.15"
+              },
+              {
+                "type": "subject",
+                "subjectId": "14.16"
+              },
+              {
+                "type": "subject",
+                "subjectId": "14.19"
+              },
+              {
+                "type": "subject",
+                "subjectId": "14.26"
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "groupId": "14-1-restricted-electives",
+      "title": "Restricted Electives",
+      "bucket": "elective",
+      "subcategory": "restricted_electives",
+      "flexibility": {
+        "catalogText": "Select four elective subjects in economics"
+      },
+      "root": {
+        "type": "selection",
+        "ruleType": "choose_units",
+        "ruleValue": 48,
+        "itemsSource": "shared_list",
+        "sharedListId": "14-1.restricted-electives"
+      }
+    }
+  ],
+  "status": "draft",
+  "revisionId": "14-1-2026-07-03-8ec26bdc",
+  "catalogYear": "2026",
+  "effectiveTerm": "2026-FA"
+}

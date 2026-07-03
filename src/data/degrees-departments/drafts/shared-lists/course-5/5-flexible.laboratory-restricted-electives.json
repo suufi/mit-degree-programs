@@ -1,0 +1,40 @@
+{
+  "sharedListId": "5-flexible.laboratory-restricted-electives",
+  "program": "5-flexible",
+  "title": "Laboratory Restricted Electives",
+  "items": [
+    {
+      "type": "subject",
+      "subjectId": "5.362"
+    },
+    {
+      "type": "subject",
+      "subjectId": "5.363"
+    },
+    {
+      "type": "subject",
+      "subjectId": "5.371"
+    },
+    {
+      "type": "subject",
+      "subjectId": "5.372"
+    },
+    {
+      "type": "subject",
+      "subjectId": "5.373"
+    },
+    {
+      "type": "subject",
+      "subjectId": "5.381"
+    },
+    {
+      "type": "subject",
+      "subjectId": "5.382"
+    },
+    {
+      "type": "subject",
+      "subjectId": "5.383"
+    }
+  ],
+  "version": "1"
+}

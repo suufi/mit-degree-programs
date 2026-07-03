@@ -1,0 +1,88 @@
+{
+  "sharedListId": "master-music-technology-computation.one-of-the-following-selected-by-the-advisor-at-the-time-of-admission",
+  "program": "master-music-technology-computation",
+  "title": "One of the following, selected by the advisor at the time of admission:",
+  "items": [
+    {
+      "type": "subject",
+      "subjectId": "21M.541"
+    },
+    {
+      "type": "subject",
+      "subjectId": "21M.565"
+    },
+    {
+      "type": "subject",
+      "subjectId": "21M.572"
+    },
+    {
+      "type": "subject",
+      "subjectId": "21M.573"
+    },
+    {
+      "type": "subject",
+      "subjectId": "21M.574"
+    },
+    {
+      "type": "subject",
+      "subjectId": "21M.576"
+    },
+    {
+      "type": "subject",
+      "subjectId": "21M.577"
+    },
+    {
+      "type": "subject",
+      "subjectId": "21M.560"
+    },
+    {
+      "type": "subject",
+      "subjectId": "21M.561"
+    },
+    {
+      "type": "subject",
+      "subjectId": "21M.562"
+    },
+    {
+      "type": "subject",
+      "subjectId": "21M.569"
+    },
+    {
+      "type": "subject",
+      "subjectId": "21M.570"
+    },
+    {
+      "type": "subject",
+      "subjectId": "21M.580"
+    },
+    {
+      "type": "subject",
+      "subjectId": "21M.583"
+    },
+    {
+      "type": "subject",
+      "subjectId": "21M.585"
+    },
+    {
+      "type": "subject",
+      "subjectId": "21M.587"
+    },
+    {
+      "type": "subject",
+      "subjectId": "21M.589"
+    },
+    {
+      "type": "subject",
+      "subjectId": "21M.517"
+    },
+    {
+      "type": "subject",
+      "subjectId": "21M.590"
+    },
+    {
+      "type": "subject",
+      "subjectId": "21M.591"
+    }
+  ],
+  "version": "1"
+}

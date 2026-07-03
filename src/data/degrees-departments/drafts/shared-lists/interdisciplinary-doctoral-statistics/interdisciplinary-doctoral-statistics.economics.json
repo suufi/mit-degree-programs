@@ -1,0 +1,28 @@
+{
+  "sharedListId": "interdisciplinary-doctoral-statistics.economics",
+  "program": "interdisciplinary-doctoral-statistics",
+  "title": "# Economics",
+  "items": [
+    {
+      "type": "subject",
+      "subjectId": "9.520"
+    },
+    {
+      "type": "subject",
+      "subjectId": "6.7900"
+    },
+    {
+      "type": "subject",
+      "subjectId": "14.192"
+    },
+    {
+      "type": "subject",
+      "subjectId": "14.386"
+    },
+    {
+      "type": "subject",
+      "subjectId": "14.387"
+    }
+  ],
+  "version": "1"
+}

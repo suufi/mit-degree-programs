@@ -1,0 +1,44 @@
+{
+  "sharedListId": "4.art-culture-and-technology",
+  "program": "4",
+  "title": "Art, Culture, and Technology",
+  "items": [
+    {
+      "type": "subject",
+      "subjectId": "4.307"
+    },
+    {
+      "type": "subject",
+      "subjectId": "4.314"
+    },
+    {
+      "type": "subject",
+      "subjectId": "4.322"
+    },
+    {
+      "type": "subject",
+      "subjectId": "4.341"
+    },
+    {
+      "type": "subject",
+      "subjectId": "4.344"
+    },
+    {
+      "type": "subject",
+      "subjectId": "4.354"
+    },
+    {
+      "type": "subject",
+      "subjectId": "4.356"
+    },
+    {
+      "type": "subject",
+      "subjectId": "4.368"
+    },
+    {
+      "type": "subject",
+      "subjectId": "4.373"
+    }
+  ],
+  "version": "1"
+}

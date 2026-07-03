@@ -1,0 +1,36 @@
+{
+  "sharedListId": "4.computation",
+  "program": "4",
+  "title": "Computation",
+  "items": [
+    {
+      "type": "subject",
+      "subjectId": "4.501"
+    },
+    {
+      "type": "subject",
+      "subjectId": "4.502"
+    },
+    {
+      "type": "subject",
+      "subjectId": "4.507"
+    },
+    {
+      "type": "subject",
+      "subjectId": "4.520"
+    },
+    {
+      "type": "subject",
+      "subjectId": "6.1040"
+    },
+    {
+      "type": "subject",
+      "subjectId": "6.4400"
+    },
+    {
+      "type": "subject",
+      "subjectId": "6.8371"
+    }
+  ],
+  "version": "1"
+}

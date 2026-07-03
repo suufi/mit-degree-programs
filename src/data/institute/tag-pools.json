@@ -1,0 +1,82 @@
+{
+  "schemaVersion": "1",
+  "description": "Canonical tagPool → MITOpenGrades Class model mapping. Source: models/Class.ts (communicationRequirement, hassAttribute, girAttribute).",
+  "pools": {
+    "gir:science": {
+      "label": "Science Requirement (all core slots)",
+      "openGradesTag": { "field": "girAttribute", "values": ["CHEM", "BIOL", "PHY1", "PHY2", "CAL1", "CAL2"] }
+    },
+    "gir:chem": {
+      "label": "Chemistry (GIR)",
+      "openGradesTag": { "field": "girAttribute", "values": ["CHEM"] }
+    },
+    "gir:biol": {
+      "label": "Biology (GIR)",
+      "openGradesTag": { "field": "girAttribute", "values": ["BIOL"] }
+    },
+    "gir:phy1": {
+      "label": "Physics I (GIR)",
+      "openGradesTag": { "field": "girAttribute", "values": ["PHY1"] }
+    },
+    "gir:phy2": {
+      "label": "Physics II (GIR)",
+      "openGradesTag": { "field": "girAttribute", "values": ["PHY2"] }
+    },
+    "gir:cal1": {
+      "label": "Calculus I (GIR)",
+      "openGradesTag": { "field": "girAttribute", "values": ["CAL1"] }
+    },
+    "gir:cal2": {
+      "label": "Calculus II (GIR)",
+      "openGradesTag": { "field": "girAttribute", "values": ["CAL2"] }
+    },
+    "gir:hass": {
+      "label": "HASS (any)",
+      "openGradesTag": { "field": "hassAttribute", "values": ["HASS-A", "HASS-E", "HASS-H", "HASS-S"] }
+    },
+    "gir:hass-h": {
+      "label": "HASS — Humanities",
+      "openGradesTag": { "field": "hassAttribute", "values": ["HASS-H"] }
+    },
+    "gir:hass-a": {
+      "label": "HASS — Arts",
+      "openGradesTag": { "field": "hassAttribute", "values": ["HASS-A"] }
+    },
+    "gir:hass-s": {
+      "label": "HASS — Social Sciences",
+      "openGradesTag": { "field": "hassAttribute", "values": ["HASS-S"] }
+    },
+    "gir:hass-e": {
+      "label": "HASS — Electives",
+      "openGradesTag": { "field": "hassAttribute", "values": ["HASS-E"] }
+    },
+    "gir:rest": {
+      "label": "REST",
+      "openGradesTag": { "field": "girAttribute", "values": ["REST"] }
+    },
+    "gir:lab": {
+      "label": "Laboratory",
+      "openGradesTag": { "field": "girAttribute", "values": ["LAB", "PLAB"] }
+    },
+    "gir:communication": {
+      "label": "Communication Requirement (CI overall)",
+      "openGradesTag": null
+    },
+    "gir:ci-h": {
+      "label": "Communication — HASS portion (CI-H/HW)",
+      "openGradesTag": { "field": "communicationRequirement", "values": ["CI-H", "CI-HW"] }
+    },
+    "gir:ci-m": {
+      "label": "Communication — major portion (CI-M)",
+      "openGradesTag": { "field": "classTags", "values": ["CI-M"] }
+    },
+    "gir:pe": {
+      "label": "Physical Education courses",
+      "openGradesTag": null
+    },
+    "gir:pe-swim": {
+      "label": "PE swimming requirement",
+      "openGradesTag": null
+    }
+  }
+}

@@ -1,0 +1,328 @@
+{
+  "schemaVersion": "2",
+  "program": "6-14-2017",
+  "title": "Computer Science, Economics, and Data Science (Course 6-14)",
+  "level": "undergraduate",
+  "complete": false,
+  "catalogYear": "2017",
+  "effectiveTerm": "2017-FA",
+  "includesGir": "sb",
+  "eecsSource": {
+    "url": "https://eecsis.mit.edu/degree_requirements.pcgi?program=6-14",
+    "programKey": "6-14_2017",
+    "enterYear": 2017,
+    "level": "SB",
+    "scrapedAt": "2026-07-03",
+    "contentHash": "a97e5db47923a03637e19b40ae9db067502e556594e82f6efbed0b3d38cef180"
+  },
+  "footnotes": [
+    {
+      "id": "1",
+      "text": "You must follow these requirements"
+    },
+    {
+      "id": "2",
+      "text": "Includes subjects as of Fall 2026"
+    },
+    {
+      "id": "3",
+      "text": "Each completed subject can only be used to satisfy at most one _required_ subject but can be used to satisfy multiple _additional constraints_."
+    },
+    {
+      "id": "4",
+      "text": ": only offered fall term : only offered spring term grey: not offered this academic year."
+    },
+    {
+      "id": "5",
+      "text": "If your primary major is 6-14, at most three of your economics subjects may count toward the eight-subject HASS requirement."
+    },
+    {
+      "id": "6",
+      "text": "16.0002/18.0002/CSE.01 are acceptable alternatives to 6.0002"
+    }
+  ],
+  "constraints": [],
+  "requirements": [
+    {
+      "groupId": "6-14-2017-required-subjects",
+      "title": "Required Subjects",
+      "bucket": "departmental",
+      "subcategory": "required_subjects",
+      "root": {
+        "type": "group",
+        "ruleType": "all_of",
+        "items": [
+          {
+            "type": "group",
+            "ruleType": "all_of",
+            "items": [
+              {
+                "type": "selection",
+                "ruleType": "choose_one",
+                "items": [
+                  {
+                    "type": "subject",
+                    "subjectId": "18.06"
+                  },
+                  {
+                    "type": "subject",
+                    "subjectId": "18.C06"
+                  },
+                  {
+                    "type": "subject",
+                    "subjectId": "6.C06"
+                  }
+                ],
+                "itemsSource": "explicit"
+              },
+              {
+                "type": "selection",
+                "ruleType": "choose_one",
+                "items": [
+                  {
+                    "type": "subject",
+                    "subjectId": "14.30"
+                  },
+                  {
+                    "type": "subject",
+                    "subjectId": "18.600"
+                  },
+                  {
+                    "type": "subject",
+                    "subjectId": "6.3700"
+                  }
+                ],
+                "itemsSource": "explicit"
+              },
+              {
+                "type": "subject",
+                "subjectId": "6.1200"
+              },
+              {
+                "type": "subject",
+                "subjectId": "18.062"
+              }
+            ],
+            "note": "Three math subjects"
+          },
+          {
+            "type": "group",
+            "ruleType": "all_of",
+            "items": [
+              {
+                "type": "selection",
+                "ruleType": "choose_one",
+                "items": [
+                  {
+                    "type": "subject",
+                    "subjectId": "6.1000"
+                  },
+                  {
+                    "type": "subject",
+                    "subjectId": "6.100A"
+                  }
+                ],
+                "itemsSource": "explicit"
+              },
+              {
+                "type": "selection",
+                "ruleType": "choose_one",
+                "items": [
+                  {
+                    "type": "subject",
+                    "subjectId": "6.100B"
+                  }
+                ],
+                "itemsSource": "explicit"
+              },
+              {
+                "type": "subject",
+                "subjectId": "6.1210"
+              },
+              {
+                "type": "subject",
+                "subjectId": "6.1220"
+              },
+              {
+                "type": "subject",
+                "subjectId": "18.410"
+              },
+              {
+                "type": "selection",
+                "ruleType": "choose_one",
+                "items": [
+                  {
+                    "type": "subject",
+                    "subjectId": "6.3900"
+                  },
+                  {
+                    "type": "subject",
+                    "subjectId": "6.C01"
+                  },
+                  {
+                    "type": "subject",
+                    "subjectId": "6.C011"
+                  }
+                ],
+                "itemsSource": "explicit"
+              }
+            ],
+            "note": "Five computation and algorithms subjects"
+          },
+          {
+            "type": "group",
+            "ruleType": "all_of",
+            "items": [
+              {
+                "type": "selection",
+                "ruleType": "choose_one",
+                "items": [
+                  {
+                    "type": "subject",
+                    "subjectId": "14.01"
+                  },
+                  {
+                    "type": "subject",
+                    "subjectId": "14.03"
+                  }
+                ],
+                "itemsSource": "explicit"
+              },
+              {
+                "type": "subject",
+                "subjectId": "14.32"
+              },
+              {
+                "type": "selection",
+                "ruleType": "choose_one",
+                "items": [
+                  {
+                    "type": "subject",
+                    "subjectId": "14.05"
+                  },
+                  {
+                    "type": "subject",
+                    "subjectId": "14.18"
+                  },
+                  {
+                    "type": "subject",
+                    "subjectId": "14.33"
+                  },
+                  {
+                    "type": "subject",
+                    "subjectId": "14.35"
+                  }
+                ],
+                "itemsSource": "explicit"
+              }
+            ],
+            "note": "Three economics subjects"
+          },
+          {
+            "type": "selection",
+            "ruleType": "choose_one",
+            "items": [
+              {
+                "type": "subject",
+                "subjectId": "15.276"
+              },
+              {
+                "type": "subject",
+                "subjectId": "6.UAR"
+              },
+              {
+                "type": "subject",
+                "subjectId": "6.UAT"
+              },
+              {
+                "type": "subject",
+                "subjectId": "2.UAR"
+              }
+            ],
+            "itemsSource": "explicit"
+          }
+        ]
+      }
+    },
+    {
+      "groupId": "6-14-2017-computer-science-elective",
+      "title": "computer science elective",
+      "bucket": "elective",
+      "subcategory": "elective_subjects",
+      "root": {
+        "type": "selection",
+        "ruleType": "choose_n",
+        "ruleValue": 1,
+        "items": [
+          {
+            "type": "subject",
+            "subjectId": "15.053"
+          },
+          {
+            "type": "subject",
+            "subjectId": "6.3260"
+          },
+          {
+            "type": "subject",
+            "subjectId": "6.7201"
+          },
+          {
+            "type": "subject",
+            "subjectId": "6.C395"
+          },
+          {
+            "type": "subject",
+            "subjectId": "6.C571"
+          }
+        ],
+        "itemsSource": "explicit",
+        "note": "One **computer science elective** subject:"
+      }
+    },
+    {
+      "groupId": "6-14-2017-economics-elective",
+      "title": "economics elective",
+      "bucket": "elective",
+      "subcategory": "elective_subjects",
+      "root": {
+        "type": "group",
+        "ruleType": "all_of",
+        "items": [
+          {
+            "type": "selection",
+            "ruleType": "choose_n",
+            "ruleValue": 1,
+            "itemsSource": "shared_list_union",
+            "sharedListIds": [
+              "6-14-2017.econds"
+            ],
+            "note": "One from the ECONDS list"
+          },
+          {
+            "type": "selection",
+            "ruleType": "choose_n",
+            "ruleValue": 1,
+            "itemsSource": "shared_list_union",
+            "sharedListIds": [
+              "6-14-2017.econth"
+            ],
+            "note": "One from the ECONTH list"
+          },
+          {
+            "type": "selection",
+            "ruleType": "choose_n",
+            "ruleValue": 1,
+            "itemsSource": "shared_list_union",
+            "sharedListIds": [
+              "6-14-2017.econds",
+              "6-14-2017.econth"
+            ],
+            "note": "One from the ECONDS or ECONTH list"
+          }
+        ]
+      }
+    }
+  ],
+  "status": "draft",
+  "revisionId": "6-14-2017-2026-07-03-7cbf7d03"
+}

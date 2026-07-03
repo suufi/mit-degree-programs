@@ -1,0 +1,48 @@
+{
+  "sharedListId": "2-oe.restricted-electives",
+  "program": "2-oe",
+  "title": "# Restricted Electives",
+  "items": [
+    {
+      "type": "subject",
+      "subjectId": "2.006"
+    },
+    {
+      "type": "subject",
+      "subjectId": "2.008"
+    },
+    {
+      "type": "subject",
+      "subjectId": "2.013"
+    },
+    {
+      "type": "subject",
+      "subjectId": "2.014"
+    },
+    {
+      "type": "subject",
+      "subjectId": "2.019"
+    },
+    {
+      "type": "subject",
+      "subjectId": "2.12"
+    },
+    {
+      "type": "subject",
+      "subjectId": "2.14"
+    },
+    {
+      "type": "subject",
+      "subjectId": "2.700"
+    },
+    {
+      "type": "subject",
+      "subjectId": "2.96"
+    },
+    {
+      "type": "subject",
+      "subjectId": "2.THU"
+    }
+  ],
+  "version": "1"
+}

@@ -1,0 +1,36 @@
+{
+  "sharedListId": "interdisciplinary-doctoral-statistics.political-science",
+  "program": "interdisciplinary-doctoral-statistics",
+  "title": "# Political Science",
+  "items": [
+    {
+      "type": "subject",
+      "subjectId": "6.7900"
+    },
+    {
+      "type": "subject",
+      "subjectId": "9.520"
+    },
+    {
+      "type": "subject",
+      "subjectId": "14.380"
+    },
+    {
+      "type": "subject",
+      "subjectId": "14.381"
+    },
+    {
+      "type": "subject",
+      "subjectId": "17.802"
+    },
+    {
+      "type": "subject",
+      "subjectId": "17.804"
+    },
+    {
+      "type": "subject",
+      "subjectId": "17.806"
+    }
+  ],
+  "version": "1"
+}

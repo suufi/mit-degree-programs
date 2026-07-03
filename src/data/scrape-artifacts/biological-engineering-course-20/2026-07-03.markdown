@@ -1,0 +1,78 @@
+Degree Charts
+
+- [Home](https://catalog.mit.edu/) >
+- [Degree Charts](https://catalog.mit.edu/degree-charts/) >
+- Biological Engineering (SB, Course 20)
+
+# Biological Engineering (Course 20)
+
+[Department of Biological Engineering](https://catalog.mit.edu/schools/engineering/biological-engineering/#undergraduatetext)
+
+## Bachelor of Science in Biological Engineering
+
+### General Institute Requirements (GIRs)
+
+The General Institute Requirements include a Communication Requirement that is integrated into both the HASS Requirement and the requirements of each major; see details below.
+
+| Summary of Subject Requirements | Subjects |
+| --- | --- |
+| Science Requirement | 6 |
+| Humanities, Arts, and Social Sciences (HASS) Requirement; at least two of these subjects must be designated as communication-intensive (CI-H) to fulfill the Communication Requirement. | 8 |
+| Restricted Electives in Science and Technology (REST) Requirement \[can be satisfied by [5.12](https://catalog.mit.edu/search/?P=5.12 "5.12") and [18.03](https://catalog.mit.edu/search/?P=18.03 "18.03") in the Departmental Program\] | 2 |
+| Laboratory Requirement (12 units) \[can be satisfied by [20.109](https://catalog.mit.edu/search/?P=20.109 "20.109")\] | 1 |
+| **Total GIR Subjects Required for SB Degree** | **17** |
+
+| Physical Education Requirement |  |
+| --- | --- |
+| Swimming requirement, plus four physical education courses for eight points. |  |
+
+### Departmental Program
+
+Choose at least two subjects in the major that are designated as communication-intensive (CI-M) to fulfill the Communication Requirement.
+
+|     |     |     |
+| --- | --- | --- |
+| Required Core Subjects | **Units** |
+| Tier I |  |
+| [5.12](https://catalog.mit.edu/search/?P=5.12 "5.12") | Organic Chemistry I | 12 |
+| [6.100A](https://catalog.mit.edu/search/?P=6.100A "6.100A") | Introduction to Computer Science Programming in Python | 6 |
+| [6.100B](https://catalog.mit.edu/search/?P=6.100B "6.100B") | Introduction to Computational Thinking and Data Science 1 | 6 |
+| [7.03](https://catalog.mit.edu/search/?P=7.03 "7.03") | Genetics | 12 |
+| [18.03](https://catalog.mit.edu/search/?P=18.03 "18.03") | Differential Equations | 12 |
+| [20.110\[J\]](https://catalog.mit.edu/search/?P=20.110 "20.110[J]") | Thermodynamics of Biomolecular Systems | 12 |
+| Tier II |  |
+| [5.07\[J\]](https://catalog.mit.edu/search/?P=5.07 "5.07[J]") | Introduction to Biological Chemistry | 12 |
+| or [7.05](https://catalog.mit.edu/search/?P=7.05 "7.05") | General Biochemistry |
+| [7.06](https://catalog.mit.edu/search/?P=7.06 "7.06") | Cell Biology | 12 |
+| [20.109](https://catalog.mit.edu/search/?P=20.109 "20.109") | Laboratory Fundamentals in Biological Engineering (CI-M) | 15 |
+| [20.309\[J\]](https://catalog.mit.edu/search/?P=20.309 "20.309[J]") | Instrumentation and Measurement for Biological Systems | 12 |
+| [20.320](https://catalog.mit.edu/search/?P=20.320 "20.320") | Analysis of Biomolecular and Cellular Systems | 12 |
+| Tier III |  |
+| [20.330\[J\]](https://catalog.mit.edu/search/?P=20.330 "20.330[J]") | Fields, Forces and Flows in Biological Systems | 12 |
+| [20.380](https://catalog.mit.edu/search/?P=20.380 "20.380") | Biological Engineering Design (CI-M) | 12 |
+| Restricted Electives | 33-36 |
+| Units in Major | 180-183 |
+| Unrestricted Electives | 48 |
+| Units in Major That Also Satisfy the GIRs | (36) |
+| Total Units Beyond the GIRs Required for SB Degree | 192-195 |
+
+The units for any subject that counts as one of the 17 GIR subjects cannot also be counted as units required beyond the GIRs.
+
+|     |     |
+| --- | --- |
+| _1_ | _Combination of [6.100A](https://catalog.mit.edu/search/?P=6.100A "6.100A") Introduction to Computer Science Programming in Python and [6.100B](https://catalog.mit.edu/search/?P=6.100B "6.100B") Introduction to Computational Thinking and Data Science counts as a REST._ |
+
+Print Options
+
+
+[Send Page to Printer](https://catalog.mit.edu/degree-charts/biological-engineering-course-20/#)
+
+_Print this page._
+
+[Download PDF of this Page](https://catalog.mit.edu/degree-charts/biological-engineering-course-20/biological-engineering-course-20.pdf)
+
+_The PDF includes all information on this page and its related tabs. Subject (course) information includes any changes approved for the current academic year._
+
+[Download PDF of the Entire Catalog and/or Subject Descriptions](https://catalog.mit.edu/archive/)
+
+[Cancel](https://catalog.mit.edu/degree-charts/biological-engineering-course-20/#)

@@ -1,0 +1,92 @@
+{
+  "sharedListId": "phd-computational-systems-biology.biology",
+  "program": "phd-computational-systems-biology",
+  "title": "Biology",
+  "items": [
+    {
+      "type": "subject",
+      "subjectId": "7.493"
+    },
+    {
+      "type": "subject",
+      "subjectId": "7.51"
+    },
+    {
+      "type": "subject",
+      "subjectId": "7.52"
+    },
+    {
+      "type": "subject",
+      "subjectId": "7.58"
+    },
+    {
+      "type": "subject",
+      "subjectId": "7.60"
+    },
+    {
+      "type": "subject",
+      "subjectId": "7.61"
+    },
+    {
+      "type": "subject",
+      "subjectId": "7.63"
+    },
+    {
+      "type": "subject",
+      "subjectId": "7.64"
+    },
+    {
+      "type": "subject",
+      "subjectId": "7.66"
+    },
+    {
+      "type": "subject",
+      "subjectId": "7.69"
+    },
+    {
+      "type": "subject",
+      "subjectId": "7.70"
+    },
+    {
+      "type": "subject",
+      "subjectId": "7.71"
+    },
+    {
+      "type": "subject",
+      "subjectId": "7.72"
+    },
+    {
+      "type": "subject",
+      "subjectId": "7.75"
+    },
+    {
+      "type": "subject",
+      "subjectId": "7.77"
+    },
+    {
+      "type": "subject",
+      "subjectId": "7.83"
+    },
+    {
+      "type": "subject",
+      "subjectId": "7.84"
+    },
+    {
+      "type": "subject",
+      "subjectId": "7.85"
+    },
+    {
+      "type": "subject",
+      "subjectId": "7.86"
+    },
+    {
+      "type": "subject",
+      "subjectId": "7.91"
+    },
+    {
+      "type": "subject",
+      "subjectId": "7.95"
+    }
+  ],
+  "version": "1"
+}

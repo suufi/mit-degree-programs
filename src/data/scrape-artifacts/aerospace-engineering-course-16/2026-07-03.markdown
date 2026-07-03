@@ -1,0 +1,104 @@
+Degree Charts
+
+- [Home](https://catalog.mit.edu/) >
+- [Degree Charts](https://catalog.mit.edu/degree-charts/) >
+- Aerospace Engineering (SB, Course 16)
+
+# Aerospace Engineering (Course 16)
+
+[Department of Aeronautics and Astronautics](https://catalog.mit.edu/schools/engineering/aeronautics-astronautics/#undergraduatetext)
+
+## Bachelor of Science in Aerospace Engineering
+
+### General Institute Requirements (GIRs)
+
+The General Institute Requirements include a Communication Requirement that is integrated into both the HASS Requirement and the requirements of each major; see details below.
+
+| Summary of Subject Requirements | Subjects |
+| --- | --- |
+| Science Requirement | 6 |
+| Humanities, Arts, and Social Sciences (HASS) Requirement; at least two of these subjects must be designated as communication-intensive (CI-H) to fulfill the Communication Requirement. | 8 |
+| Restricted Electives in Science and Technology (REST) Requirement \[can be satisfied from among [6.100A](https://catalog.mit.edu/search/?P=6.100A "6.100A")/ [16.C20\[J\]](https://catalog.mit.edu/search/?P=16.C20 "16.C20[J]") or [6.100B](https://catalog.mit.edu/search/?P=6.100B "6.100B"), [6.3700](https://catalog.mit.edu/search/?P=6.3700 "6.3700"), [16.001](https://catalog.mit.edu/search/?P=16.001 "16.001"), and [18.03](https://catalog.mit.edu/search/?P=18.03 "18.03") in the Departmental Program\] | 2 |
+| Laboratory Requirement (12 units) \[can be satisfied by [16.405\[J\]](https://catalog.mit.edu/search/?P=16.405J "16.405[J]"), [16.811](https://catalog.mit.edu/search/?P=16.811 "16.811"), [16.821](https://catalog.mit.edu/search/?P=16.821 "16.821"), or [16.831\[J\]](https://catalog.mit.edu/search/?P=16.831 "16.831[J]") in the Departmental Program\] | 1 |
+| **Total GIR Subjects Required for SB Degree** | **17** |
+
+| Physical Education Requirement |  |
+| --- | --- |
+| Swimming requirement, plus four physical education courses for eight points. |  |
+
+### Departmental Program
+
+Choose at least two subjects in the major that are designated as communication-intensive (CI-M) to fulfill the Communication Requirement.
+
+|     |     |     |
+| --- | --- | --- |
+| Departmental Core | **Units** |
+| [6.100A](https://catalog.mit.edu/search/?P=6.100A "6.100A") | Introduction to Computer Science Programming in Python | 6 |
+| [16.C20\[J\]](https://catalog.mit.edu/search/?P=16.C20 "16.C20[J]") | Introduction to Computational Science and Engineering | 6 |
+| or [6.100B](https://catalog.mit.edu/search/?P=6.100B "6.100B") | Introduction to Computational Thinking and Data Science |
+| [16.001](https://catalog.mit.edu/search/?P=16.001 "16.001") | Unified Engineering: Materials and Structures | 12 |
+| [16.002](https://catalog.mit.edu/search/?P=16.002 "16.002") | Unified Engineering: Signals and Systems | 12 |
+| [16.003](https://catalog.mit.edu/search/?P=16.003 "16.003") | Unified Engineering: Fluid Dynamics | 12 |
+| [16.004](https://catalog.mit.edu/search/?P=16.004 "16.004") | Unified Engineering: Thermodynamics and Propulsion | 12 |
+| [16.06](https://catalog.mit.edu/search/?P=16.06 "16.06") | Principles of Automatic Control | 12 |
+| [16.07](https://catalog.mit.edu/search/?P=16.07 "16.07") | Dynamics | 12 |
+| [16.09](https://catalog.mit.edu/search/?P=16.09 "16.09") | Statistics and Probability | 12 |
+| or [6.3700](https://catalog.mit.edu/search/?P=6.3700 "6.3700") | Introduction to Probability |
+| [18.03](https://catalog.mit.edu/search/?P=18.03 "18.03") | Differential Equations 1 | 12 |
+| Professional Area Subjects |  |
+| _Select four subjects from at least three professional areas._2 | 48 |
+| Fluid Mechanics |  |
+| [16.100](https://catalog.mit.edu/search/?P=16.100 "16.100") | Aerodynamics |  |
+| Materials and Structures |  |
+| [16.20](https://catalog.mit.edu/search/?P=16.20 "16.20") | Structural Mechanics |  |
+| Propulsion |  |
+| [16.50](https://catalog.mit.edu/search/?P=16.50 "16.50") | Aerospace Propulsion |  |
+| Computational Tools |  |
+| [16.90](https://catalog.mit.edu/search/?P=16.90 "16.90") | Computational Modeling and Data Analysis in Aerospace Engineering |  |
+| Estimation and Control |  |
+| [16.30](https://catalog.mit.edu/search/?P=16.30 "16.30") | Feedback Control Systems |  |
+| Computer Systems |  |
+| [6.2050](https://catalog.mit.edu/search/?P=6.2050 "6.2050") | Digital Systems Laboratory |  |
+| [16.35](https://catalog.mit.edu/search/?P=16.35 "16.35") | Real-Time Systems and Software |  |
+| Communications Systems |  |
+| [16.36](https://catalog.mit.edu/search/?P=16.36 "16.36") | Communication Systems and Networks |  |
+| Humans and Automation |  |
+| [16.400](https://catalog.mit.edu/search/?P=16.400 "16.400") | Human Systems Engineering |  |
+| [16.410\[J\]](https://catalog.mit.edu/search/?P=16.410 "16.410[J]") | Principles of Autonomy and Decision Making |  |
+| Laboratory and Capstone Subjects |  |
+| _Select one of the following:_ | 12 |
+| [16.82](https://catalog.mit.edu/search/?P=16.82 "16.82") | Flight Vehicle Engineering (CI-M) |  |
+| [16.83\[J\]](https://catalog.mit.edu/search/?P=16.83 "16.83[J]") | Space Systems Engineering (CI-M) |  |
+| [16.85](https://catalog.mit.edu/search/?P=16.85 "16.85") | Design and Testing of Autonomous Vehicles (CI-M) |  |
+| _Select one of the following:_ | 12 |
+| [16.405\[J\]](https://catalog.mit.edu/search/?P=16.405 "16.405[J]") | Robotics: Science and Systems (CI-M) |  |
+| [16.811](https://catalog.mit.edu/search/?P=16.811 "16.811") | Propulsion System Prototyping and Testing for Aerospace Engineers (CI-M) |  |
+| [16.821](https://catalog.mit.edu/search/?P=16.821 "16.821") | Flight Vehicle Development (CI-M) |  |
+| [16.831\[J\]](https://catalog.mit.edu/search/?P=16.831 "16.831[J]") | Space Systems Development (CI-M) |  |
+| Units in Major | 180-186 |
+| Unrestricted Electives | 48 |
+| Units in Major That Also Satisfy the GIRs | (36) |
+| Total Units Beyond the GIRs Required for SB Degree | 192 |
+
+The units for any subject that counts as one of the 17 GIR subjects cannot also be counted as units required beyond the GIRs.
+
+|     |     |
+| --- | --- |
+| _1_ | __Combination of [6.100A](https://catalog.mit.edu/search/?P=6.100A "6.100A") Introduction to Computer Science Programming in Python and [16.C20 Introduction to Computational Science and Engineering or 6.100B](https://catalog.mit.edu/search/?P=6.100B "6.100B") Introduction to Computational Thinking and Data Science counts as a REST.__ |
+| _2_ | _[18.032](https://catalog.mit.edu/search/?P=18.032 "18.032") Differential Equations is also an acceptable option._ |
+| _3_ | _For students who wish to complete an option in aerospace information technology, 36 of the 48 units must come from subjects other than [16.100](https://catalog.mit.edu/search/?P=16.100 "16.100"), [16.20](https://catalog.mit.edu/search/?P=16.20 "16.20"), [16.50](https://catalog.mit.edu/search/?P=16.50 "16.50"), or [16.90](https://catalog.mit.edu/search/?P=16.90 "16.90")._ |
+
+Print Options
+
+
+[Send Page to Printer](https://catalog.mit.edu/degree-charts/aerospace-engineering-course-16/#)
+
+_Print this page._
+
+[Download PDF of this Page](https://catalog.mit.edu/degree-charts/aerospace-engineering-course-16/aerospace-engineering-course-16.pdf)
+
+_The PDF includes all information on this page and its related tabs. Subject (course) information includes any changes approved for the current academic year._
+
+[Download PDF of the Entire Catalog and/or Subject Descriptions](https://catalog.mit.edu/archive/)
+
+[Cancel](https://catalog.mit.edu/degree-charts/aerospace-engineering-course-16/#)

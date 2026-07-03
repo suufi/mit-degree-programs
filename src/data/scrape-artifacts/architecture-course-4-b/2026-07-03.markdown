@@ -1,0 +1,120 @@
+Degree Charts
+
+- [Home](https://catalog.mit.edu/) >
+- [Degree Charts](https://catalog.mit.edu/degree-charts/) >
+- Art and Design (SB, Course 4-B)
+
+# Art and Design (Course 4-B)
+
+[Department of Architecture](https://catalog.mit.edu/schools/architecture-planning/architecture/#undergraduatetext)
+
+## Bachelor of Science in Art and Design
+
+### General Institute Requirements (GIRs)
+
+The General Institute Requirements include a Communication Requirement that is integrated into both the HASS Requirement and the requirements of each major; see details below.
+
+| Summary of Subject Requirements | Subjects |
+| --- | --- |
+| Science Requirement | 6 |
+| Humanities, Arts, and Social Sciences (HASS) Requirement \[three subjects can be satisfied by subjects in the Departmental Program\]; at least two of these subjects must be designated as communication-intensive (CI-H) to fulfill the Communication Requirement. | 8 |
+| Restricted Electives in Science and Technology (REST) Requirement | 2 |
+| Laboratory Requirement (12 units) | 1 |
+| **Total GIR Subjects Required for SB Degree** | **17** |
+
+| Physical Education Requirement |  |
+| --- | --- |
+| Swimming requirement, plus four physical education courses for eight points. |  |
+
+### Departmental Program
+
+Choose at least two subjects in the major that are designated as communication-intensive (CI-M) to fulfill the Communication Requirement.
+
+|     |     |     |
+| --- | --- | --- |
+| Design Studios | **Units** |
+| [4.021](https://catalog.mit.edu/search/?P=4.021 "4.021") | Design Studio: How to Design | 9-12 |
+| or [4.02A](https://catalog.mit.edu/search/?P=4.02A "4.02A") | Design Studio: How to Design Intensive |
+| [4.031](https://catalog.mit.edu/search/?P=4.031 "4.031") | Design Studio: Objects and Interaction 1 | 12 |
+| or [4.032](https://catalog.mit.edu/search/?P=4.032 "4.032") | Design Studio: Information Design and Visualization |
+| Foundational Subjects |  |
+| [4.053](https://catalog.mit.edu/search/?P=4.053 "4.053") | Visual Communication Fundamentals | 12 |
+| [4.110](https://catalog.mit.edu/search/?P=4.110 "4.110") | Design Across Scales and Disciplines | 12 |
+| [4.302](https://catalog.mit.edu/search/?P=4.302 "4.302") | Foundations in Art, Design, and Spatial Practices (CI-M) | 12 |
+| [4.500](https://catalog.mit.edu/search/?P=4.500 "4.500") | Design Computation: Art, Objects, and Space | 12 |
+| [4.657](https://catalog.mit.edu/search/?P=4.657 "4.657") | Design: The History of Making Things | 12 |
+| Thesis Subjects |  |
+| [4.THT\[J\]](https://catalog.mit.edu/search/?P=4.THT "4.THT[J]") | Thesis Research Design Seminar (CI-M) | 12 |
+| [4.THU](https://catalog.mit.edu/search/?P=4.THU "4.THU") | Undergraduate Thesis | 12 |
+| Restricted Electives |  |
+| _Select up to 48 units from among any of the three categories below:_ | 45-48 |
+| _Objects_ |  |
+| [2.00A](https://catalog.mit.edu/search/?P=2.00A "2.00A") | Designing for the Future: Earth, Sea, and Space |  |
+| [2.00B](https://catalog.mit.edu/search/?P=2.00B "2.00B") | Toy Product Design |  |
+| [2.00](https://catalog.mit.edu/search/?P=2.00 "2.00") | Introduction to Design |  |
+| [2.007](https://catalog.mit.edu/search/?P=2.007 "2.007") | Design and Manufacturing I 2 |  |
+| [2.008](https://catalog.mit.edu/search/?P=2.008 "2.008") | Design and Manufacturing II |  |
+| [2.009](https://catalog.mit.edu/search/?P=2.009 "2.009") | The Product Engineering Process 2 |  |
+| [2.729\[J\]](https://catalog.mit.edu/search/?P=2.729 "2.729[J]") | D-Lab: Design for Scale |  |
+| [2.750\[J\]](https://catalog.mit.edu/search/?P=2.750 "2.750[J]") | Medical Device Design |  |
+| [4.031](https://catalog.mit.edu/search/?P=4.031 "4.031") | Design Studio: Objects and Interaction 1 |  |
+| [4.041](https://catalog.mit.edu/search/?P=4.041 "4.041") | Design Studio: Advanced Product Design |  |
+| [4.043](https://catalog.mit.edu/search/?P=4.043 "4.043") | Design Studio: Interaction Intelligence |  |
+| [4.118](https://catalog.mit.edu/search/?P=4.118 "4.118") | Creative Computation |  |
+| [4.451](https://catalog.mit.edu/search/?P=4.451 "4.451") | Computational Structural Design and Optimization 2 |  |
+| [4.501](https://catalog.mit.edu/search/?P=4.501 "4.501") | Tiny Fab: Advancements in Rapid Design and Fabrication of Small Homes |  |
+| [EC.720\[J\]](https://catalog.mit.edu/search/?P=EC.720 "EC.720[J]") | D-Lab: Design 2 |  |
+| _Information_ |  |
+| [4.032](https://catalog.mit.edu/search/?P=4.032 "4.032") | Design Studio: Information Design and Visualization 1 |  |
+| [4.051](https://catalog.mit.edu/search/?P=4.051 "4.051") | The Human Factor in Innovation and Design Strategy |  |
+| [4.502](https://catalog.mit.edu/search/?P=4.502 "4.502") | Advanced Visualization: Architecture in Motion Graphics |  |
+| [4.520](https://catalog.mit.edu/search/?P=4.520 "4.520") | Visual Computing |  |
+| [6.1040](https://catalog.mit.edu/search/?P=6.1040 "6.1040") | Software Design |  |
+| [6.4400](https://catalog.mit.edu/search/?P=6.4400 "6.4400") | Computer Graphics |  |
+| [6.8371](https://catalog.mit.edu/search/?P=6.8371 "6.8371") | Digital and Computational Photography |  |
+| [6.9101\[J\]](https://catalog.mit.edu/search/?P=6.9101 "6.9101[J]") | Introduction to Design Thinking and Innovation in Engineering |  |
+| [6.C35\[J\]](https://catalog.mit.edu/search/?P=6.C35 "6.C35[J]") | Interactive Data Visualization and Society |  |
+| [CMS.405](https://catalog.mit.edu/search/?P=CMS.405 "CMS.405") | Visual Design 2 |  |
+| [CMS.631](https://catalog.mit.edu/search/?P=CMS.631 "CMS.631") | Data Storytelling Studio |  |
+| [CMS.633](https://catalog.mit.edu/search/?P=CMS.633 "CMS.633") | Digital Humanities: Topics, Techniques, and Technologies |  |
+| _Art and Experience_ |  |
+| [4.301](https://catalog.mit.edu/search/?P=4.301 "4.301") | Introduction to Artistic Experimentation |  |
+| [4.307](https://catalog.mit.edu/search/?P=4.307 "4.307") | Art, Architecture, and Urbanism in Dialogue |  |
+| [4.314](https://catalog.mit.edu/search/?P=4.314 "4.314") | Advanced Workshop in Artistic Practice and Transdisciplinary Research |  |
+| [4.320](https://catalog.mit.edu/search/?P=4.320 "4.320") | Introduction to Sound Creations |  |
+| [4.322](https://catalog.mit.edu/search/?P=4.322 "4.322") | Introduction to Three-Dimensional Art Work |  |
+| [4.341](https://catalog.mit.edu/search/?P=4.341 "4.341") | Introduction to Photography and Related Media |  |
+| [4.344](https://catalog.mit.edu/search/?P=4.344 "4.344") | Advanced Photography and Related Media |  |
+| [4.354](https://catalog.mit.edu/search/?P=4.354 "4.354") | Introduction to Video and Related Media |  |
+| [4.356](https://catalog.mit.edu/search/?P=4.356 "4.356") | Cinematic Migrations |  |
+| [4.602](https://catalog.mit.edu/search/?P=4.602 "4.602") | Modern Art and Mass Culture |  |
+| [21T.120](https://catalog.mit.edu/search/?P=21T.120 "21T.120") | Fundamentals of Theater Design |  |
+| [21T.121](https://catalog.mit.edu/search/?P=21T.121 "21T.121") | Drawing for Designers |  |
+| [21T.320](https://catalog.mit.edu/search/?P=21T.320 "21T.320") | Interactive Design and Projection for Live Performance |  |
+| [CMS.362](https://catalog.mit.edu/search/?P=CMS.362 "CMS.362") | Civic Media Collaborative Design Studio |  |
+| Units in Major | 153-156 |
+| Unrestricted Electives | 63-66 |
+| Units in Major That Also Satisfy the GIRs | (36) |
+| Total Units Beyond the GIRs Required for SB Degree | 180-183 |
+
+The units for any subject that counts as one of the 17 GIR subjects cannot also be counted as units required beyond the GIRs.
+
+|     |     |
+| --- | --- |
+| _1_ | _Either [4.031](https://catalog.mit.edu/search/?P=4.031 "4.031") or [4.032](https://catalog.mit.edu/search/?P=4.032 "4.032") may be used as a restricted elective if not selected as part of the design studio requirement._ |
+| _2_ | _Subject has prerequisites that are outside of the program._ |
+
+Print Options
+
+
+[Send Page to Printer](https://catalog.mit.edu/degree-charts/architecture-course-4-b/#)
+
+_Print this page._
+
+[Download PDF of this Page](https://catalog.mit.edu/degree-charts/architecture-course-4-b/architecture-course-4-b.pdf)
+
+_The PDF includes all information on this page and its related tabs. Subject (course) information includes any changes approved for the current academic year._
+
+[Download PDF of the Entire Catalog and/or Subject Descriptions](https://catalog.mit.edu/archive/)
+
+[Cancel](https://catalog.mit.edu/degree-charts/architecture-course-4-b/#)

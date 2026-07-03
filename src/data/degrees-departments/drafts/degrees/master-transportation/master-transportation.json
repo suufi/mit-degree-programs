@@ -1,0 +1,332 @@
+{
+  "schemaVersion": "2",
+  "program": "master-transportation",
+  "title": "Transportation (SM)",
+  "level": "graduate",
+  "complete": false,
+  "catalogSource": {
+    "url": "https://catalog.mit.edu/degree-charts/master-transportation/",
+    "slug": "master-transportation",
+    "scrapedAt": "2026-07-03",
+    "contentHash": "2e91e3aa4b97e153de41c02374915a99d1de0efb782aa352ec56ced33ab2a085"
+  },
+  "footnotes": [
+    {
+      "id": "1",
+      "text": "Credit cannot be earned unless 6.C51 and 1.C51 are completed at the same time."
+    },
+    {
+      "id": "2",
+      "text": "Special subjects offered by the Department of Urban Studies and Planning (Course 11) may satisfy this requirement if content satisfies MST criteria. Contact program office for available offerings."
+    },
+    {
+      "id": "3",
+      "text": "Requests to waive this requirement based on prior coursework must be submitted in writing to the Transportation Education Committee (TEC) executive director."
+    }
+  ],
+  "constraints": [],
+  "requirements": [
+    {
+      "groupId": "master-transportation-core-subjects",
+      "title": "Core Subjects",
+      "bucket": "departmental",
+      "subcategory": "required_subjects",
+      "root": {
+        "type": "group",
+        "ruleType": "all_of",
+        "items": [
+          {
+            "type": "subject",
+            "subjectId": "1.200"
+          },
+          {
+            "type": "subject",
+            "subjectId": "11.251"
+          },
+          {
+            "type": "selection",
+            "ruleType": "choose_one",
+            "itemsSource": "explicit",
+            "items": [
+              {
+                "type": "subject",
+                "subjectId": "1.202"
+              },
+              {
+                "type": "subject",
+                "subjectId": "1.208"
+              },
+              {
+                "type": "subject",
+                "subjectId": "1.260"
+              },
+              {
+                "type": "subject",
+                "subjectId": "11.478"
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "groupId": "master-transportation-computation-analytics",
+      "title": "Computation/Analytics",
+      "bucket": "departmental",
+      "subcategory": "computation",
+      "root": {
+        "type": "selection",
+        "ruleType": "choose_one",
+        "itemsSource": "explicit",
+        "items": [
+          {
+            "type": "subject",
+            "subjectId": "6.3732"
+          },
+          {
+            "type": "subject",
+            "subjectId": "6.7900"
+          },
+          {
+            "type": "subject",
+            "subjectId": "6.7910"
+          },
+          {
+            "type": "subject",
+            "subjectId": "6.C51"
+          },
+          {
+            "type": "subject",
+            "subjectId": "15.071"
+          },
+          {
+            "type": "subject",
+            "subjectId": "15.072"
+          }
+        ]
+      }
+    },
+    {
+      "groupId": "master-transportation-students-must-complete-a-research-based-thesis-on-a-topic-of-their-choice-that-has-been-approved-by-the-thesis-advisor",
+      "title": "Students must complete a research-based thesis on a topic of their choice that has been approved by the thesis advisor.",
+      "bucket": "thesis",
+      "subcategory": "thesis",
+      "flexibility": {
+        "advisorApproval": false,
+        "catalogText": "[MAS.552\\[J\\]](https://catalog.mit.edu/search/?P=MAS.552 \"MAS.552[J]\")"
+      },
+      "root": {
+        "type": "group",
+        "ruleType": "all_of",
+        "items": [
+          {
+            "type": "subject",
+            "subjectId": "1.THG"
+          },
+          {
+            "type": "subject",
+            "subjectId": "2.65"
+          },
+          {
+            "type": "subject",
+            "subjectId": "2.810"
+          },
+          {
+            "type": "subject",
+            "subjectId": "6.7260"
+          },
+          {
+            "type": "subject",
+            "subjectId": "10.805"
+          },
+          {
+            "type": "subject",
+            "subjectId": "11.255"
+          },
+          {
+            "type": "subject",
+            "subjectId": "11.478"
+          },
+          {
+            "type": "subject",
+            "subjectId": "11.526"
+          },
+          {
+            "type": "subject",
+            "subjectId": "11.540"
+          },
+          {
+            "type": "subject",
+            "subjectId": "15.020"
+          },
+          {
+            "type": "subject",
+            "subjectId": "15.038"
+          },
+          {
+            "type": "subject",
+            "subjectId": "15.230"
+          },
+          {
+            "type": "subject",
+            "subjectId": "15.655"
+          },
+          {
+            "type": "subject",
+            "subjectId": "16.422"
+          },
+          {
+            "type": "subject",
+            "subjectId": "16.453"
+          },
+          {
+            "type": "subject",
+            "subjectId": "16.71"
+          },
+          {
+            "type": "subject",
+            "subjectId": "16.72"
+          },
+          {
+            "type": "subject",
+            "subjectId": "16.89"
+          },
+          {
+            "type": "selection",
+            "ruleType": "choose_units",
+            "ruleValue": 12,
+            "itemsSource": "advisor_defined",
+            "note": "[MAS.552\\[J\\]](https://catalog.mit.edu/search/?P=MAS.552 \"MAS.552[J]\")",
+            "flexibility": {
+              "catalogText": "[MAS.552\\[J\\]](https://catalog.mit.edu/search/?P=MAS.552 \"MAS.552[J]\")"
+            }
+          },
+          {
+            "type": "selection",
+            "ruleType": "choose_units",
+            "ruleValue": 9,
+            "itemsSource": "advisor_defined",
+            "note": "[MAS.750](https://catalog.mit.edu/search/?P=MAS.750 \"MAS.750\")",
+            "flexibility": {
+              "catalogText": "[MAS.750](https://catalog.mit.edu/search/?P=MAS.750 \"MAS.750\")"
+            }
+          },
+          {
+            "type": "selection",
+            "ruleType": "choose_units",
+            "ruleValue": 12,
+            "itemsSource": "advisor_defined",
+            "note": "[MAS.836](https://catalog.mit.edu/search/?P=MAS.836 \"MAS.836\")",
+            "flexibility": {
+              "catalogText": "[MAS.836](https://catalog.mit.edu/search/?P=MAS.836 \"MAS.836\")"
+            }
+          },
+          {
+            "type": "selection",
+            "ruleType": "choose_units",
+            "ruleValue": 6,
+            "itemsSource": "advisor_defined",
+            "note": "[MAS.859\\[J\\]](https://catalog.mit.edu/search/?P=MAS.859 \"MAS.859[J]\")",
+            "flexibility": {
+              "catalogText": "[MAS.859\\[J\\]](https://catalog.mit.edu/search/?P=MAS.859 \"MAS.859[J]\")"
+            }
+          },
+          {
+            "type": "selection",
+            "ruleType": "choose_units",
+            "ruleValue": 6,
+            "itemsSource": "advisor_defined",
+            "note": "[IDS.333\\[J\\]](https://catalog.mit.edu/search/?P=IDS.333 \"IDS.333[J]\")",
+            "flexibility": {
+              "catalogText": "[IDS.333\\[J\\]](https://catalog.mit.edu/search/?P=IDS.333 \"IDS.333[J]\")"
+            }
+          },
+          {
+            "type": "selection",
+            "ruleType": "choose_units",
+            "ruleValue": 9,
+            "itemsSource": "advisor_defined",
+            "note": "[IDS.410](https://catalog.mit.edu/search/?P=IDS.410 \"IDS.410\")",
+            "flexibility": {
+              "catalogText": "[IDS.410](https://catalog.mit.edu/search/?P=IDS.410 \"IDS.410\")"
+            }
+          },
+          {
+            "type": "selection",
+            "ruleType": "choose_units",
+            "ruleValue": 9,
+            "itemsSource": "advisor_defined",
+            "note": "[IDS.411](https://catalog.mit.edu/search/?P=IDS.411 \"IDS.411\")",
+            "flexibility": {
+              "catalogText": "[IDS.411](https://catalog.mit.edu/search/?P=IDS.411 \"IDS.411\")"
+            }
+          },
+          {
+            "type": "selection",
+            "ruleType": "choose_units",
+            "ruleValue": 12,
+            "itemsSource": "advisor_defined",
+            "note": "[IDS.412\\[J\\]](https://catalog.mit.edu/search/?P=IDS.412 \"IDS.412[J]\")",
+            "flexibility": {
+              "catalogText": "[IDS.412\\[J\\]](https://catalog.mit.edu/search/?P=IDS.412 \"IDS.412[J]\")"
+            }
+          },
+          {
+            "type": "selection",
+            "ruleType": "choose_units",
+            "ruleValue": 12,
+            "itemsSource": "advisor_defined",
+            "note": "[IDS.521\\[J\\]](https://catalog.mit.edu/search/?P=IDS.521 \"IDS.521[J]\")",
+            "flexibility": {
+              "catalogText": "[IDS.521\\[J\\]](https://catalog.mit.edu/search/?P=IDS.521 \"IDS.521[J]\")"
+            }
+          },
+          {
+            "type": "selection",
+            "ruleType": "choose_units",
+            "ruleValue": 12,
+            "itemsSource": "advisor_defined",
+            "note": "[IDS.522](https://catalog.mit.edu/search/?P=IDS.522 \"IDS.522\")",
+            "flexibility": {
+              "catalogText": "[IDS.522](https://catalog.mit.edu/search/?P=IDS.522 \"IDS.522\")"
+            }
+          },
+          {
+            "type": "selection",
+            "ruleType": "choose_units",
+            "ruleValue": 9,
+            "itemsSource": "advisor_defined",
+            "note": "[IDS.526\\[J\\]](https://catalog.mit.edu/search/?P=IDS.526 \"IDS.526[J]\")",
+            "flexibility": {
+              "catalogText": "[IDS.526\\[J\\]](https://catalog.mit.edu/search/?P=IDS.526 \"IDS.526[J]\")"
+            }
+          },
+          {
+            "type": "selection",
+            "ruleType": "choose_units",
+            "ruleValue": 12,
+            "itemsSource": "advisor_defined",
+            "note": "[STS.477\\[J\\]](https://catalog.mit.edu/search/?P=STS.477 \"STS.477[J]\")",
+            "flexibility": {
+              "catalogText": "[STS.477\\[J\\]](https://catalog.mit.edu/search/?P=STS.477 \"STS.477[J]\")"
+            }
+          },
+          {
+            "type": "selection",
+            "ruleType": "choose_units",
+            "ruleValue": 12,
+            "itemsSource": "advisor_defined",
+            "note": "[STS.487](https://catalog.mit.edu/search/?P=STS.487 \"STS.487\")",
+            "flexibility": {
+              "catalogText": "[STS.487](https://catalog.mit.edu/search/?P=STS.487 \"STS.487\")"
+            }
+          }
+        ]
+      }
+    }
+  ],
+  "status": "draft",
+  "revisionId": "master-transportation-2026-07-03-2e91e3aa",
+  "catalogYear": "2026",
+  "effectiveTerm": "2026-FA"
+}

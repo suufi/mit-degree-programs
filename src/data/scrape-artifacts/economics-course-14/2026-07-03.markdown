@@ -1,0 +1,119 @@
+Degree Charts
+
+- [Home](https://catalog.mit.edu/) >
+- [Degree Charts](https://catalog.mit.edu/degree-charts/) >
+- Economics (SB, Course 14-1)
+
+# Economics (Course 14-1)
+
+[Department of Economics](https://catalog.mit.edu/schools/humanities-arts-social-sciences/economics/#undergraduatetext)
+
+## Bachelor of Science in Economics
+
+### General Institute Requirements (GIRs)
+
+The General Institute Requirements include a Communication Requirement that is integrated into both the HASS Requirement and the requirements of each major; see details below.
+
+| Summary of Subject Requirements | Subjects |
+| --- | --- |
+| Science Requirement | 6 |
+| Humanities, Arts, and Social Sciences (HASS) Requirement \[between one and three subjects can be from the Departmental Program\]; at least two of these subjects must be designated as communication-intensive (CI-H) to fulfill the Communication Requirement. | 8 |
+| Restricted Electives in Science and Technology (REST) Requirement \[one subject can be satisfied by [14.30](https://catalog.mit.edu/search/?P=14.30 "14.30") in the Departmental Program\] | 2 |
+| Laboratory Requirement (12 units) \[can be satisfied by [14.32](https://catalog.mit.edu/search/?P=14.32 "14.32") in the Departmental Program\] | 1 |
+| **Total GIR Subjects Required for SB Degree** | **17** |
+
+| Physical Education Requirement |  |
+| --- | --- |
+| Swimming requirement, plus four physical education courses for eight points. |  |
+
+### Departmental Program
+
+Choose at least two subjects in the major that are designated as communication-intensive (CI-M) to fulfill the Communication Requirement.
+
+|     |     |     |
+| --- | --- | --- |
+| Required Subjects | **Units** |
+| [14.01](https://catalog.mit.edu/search/?P=14.01 "14.01") | Principles of Microeconomics 1 | 12 |
+| or [14.03](https://catalog.mit.edu/search/?P=14.03 "14.03") | Microeconomic Theory and Public Policy |
+| [14.02](https://catalog.mit.edu/search/?P=14.02 "14.02") | Principles of Macroeconomics | 12 |
+| [14.30](https://catalog.mit.edu/search/?P=14.30 "14.30") | Introduction to Statistical Methods in Economics 2 | 12 |
+| [14.32](https://catalog.mit.edu/search/?P=14.32 "14.32") | Econometric Data Science | 12 |
+| [14.THU](https://catalog.mit.edu/search/?P=14.THU "14.THU") | Thesis 3 | 15 |
+| _Select two to three of the following, including one subject from the Macroeconomics list and two subjects designated as CI-M:_ | 24-36 |
+| Macroeconomics |  |
+| [14.05](https://catalog.mit.edu/search/?P=14.05 "14.05") | Intermediate Macroeconomics (CI-M) |  |
+| [14.06](https://catalog.mit.edu/search/?P=14.06 "14.06") | Advanced Macroeconomics |  |
+| Communication-Intensive in the Major |  |
+| [14.05](https://catalog.mit.edu/search/?P=14.05 "14.05") | Intermediate Macroeconomics (CI-M) |  |
+| [14.18](https://catalog.mit.edu/search/?P=14.18 "14.18") | Mathematical Economic Modeling (CI-M) |  |
+| [14.33](https://catalog.mit.edu/search/?P=14.33 "14.33") | Research and Communication in Economics: Topics, Methods, and Implementation (CI-M) |  |
+| [14.35](https://catalog.mit.edu/search/?P=14.35 "14.35") | Why Markets Fail (CI-M) |  |
+| _Select one of the following:_ | 12 |
+| [14.04](https://catalog.mit.edu/search/?P=14.04 "14.04") | Intermediate Microeconomic Theory |  |
+| [14.12](https://catalog.mit.edu/search/?P=14.12 "14.12") | Economic Applications of Game Theory |  |
+| [14.15\[J\]](https://catalog.mit.edu/search/?P=14.15 "14.15[J]") | Networks |  |
+| [14.16](https://catalog.mit.edu/search/?P=14.16 "14.16") | Strategy and Information |  |
+| [14.19](https://catalog.mit.edu/search/?P=14.19 "14.19") | Market Design |  |
+| [14.26\[J\]](https://catalog.mit.edu/search/?P=14.26 "14.26[J]") | Organizational Economics |  |
+| Restricted Electives |  |
+| Select four elective subjects in economics | 48 |
+| Units in Major | 147-159 |
+| Unrestricted Electives4 | 57-93 |
+| Units in Major That Also Satisfy the GIRs | (36-60) |
+| Total Units Beyond the GIRs Required for SB Degree | 180 |
+
+The units for any subject that counts as one of the 17 GIR subjects cannot also be counted as units required beyond the GIRs.
+
+|     |     |
+| --- | --- |
+| _1_ | _Students with a score of 5 on the Economics AP exam may substitute [14.03](https://catalog.mit.edu/search/?P=14.03 "14.03") Microeconomic Theory and Public Policy._ |
+| _2_ | _Or an approved alternative in statistics (consult department)._ |
+| _3_ | _May be replaced by an additional elective subject in economics._ |
+| _4_ | _This chart has been calculated based on an overlap of 36 units (three subjects) between the HASS General Institute Requirement and the departmental requirements. Students who develop a program of study with more overlap will be able to select more unrestricted electives to meet the number of total units beyond the GIRs required for an SB degree._ |
+
+### Restricted Electives
+
+|     |     |     |
+| --- | --- | --- |
+| [14.03](https://catalog.mit.edu/search/?P=14.03 "14.03") | Microeconomic Theory and Public Policy | 12 |
+| [14.06](https://catalog.mit.edu/search/?P=14.06 "14.06") | Advanced Macroeconomics | 12 |
+| [14.11](https://catalog.mit.edu/search/?P=14.11 "14.11") | Topics in Economics | 12 |
+| [14.12](https://catalog.mit.edu/search/?P=14.12 "14.12") | Economic Applications of Game Theory | 12 |
+| [14.13](https://catalog.mit.edu/search/?P=14.13 "14.13") | Psychology and Economics | 12 |
+| [14.15\[J\]](https://catalog.mit.edu/search/?P=14.15 "14.15[J]") | Networks | 12 |
+| [14.16](https://catalog.mit.edu/search/?P=14.16 "14.16") | Strategy and Information | 12 |
+| [14.18](https://catalog.mit.edu/search/?P=14.18 "14.18") | Mathematical Economic Modeling | 12 |
+| [14.19](https://catalog.mit.edu/search/?P=14.19 "14.19") | Market Design | 12 |
+| [14.20](https://catalog.mit.edu/search/?P=14.20 "14.20") | Industrial Organization: Competitive Strategy and Public Policy | 12 |
+| [14.26\[J\]](https://catalog.mit.edu/search/?P=14.26 "14.26[J]") | Organizational Economics | 12 |
+| [14.27](https://catalog.mit.edu/search/?P=14.27 "14.27") | Economics of Digitization | 12 |
+| [14.36](https://catalog.mit.edu/search/?P=14.36 "14.36") | Advanced Econometrics | 12 |
+| [14.38](https://catalog.mit.edu/search/?P=14.38 "14.38") | Inference on Causal and Structural Parameters Using ML and AI | 12 |
+| [14.39](https://catalog.mit.edu/search/?P=14.39 "14.39") | Large-Scale Decision-Making and Inference | 12 |
+| [14.41](https://catalog.mit.edu/search/?P=14.41 "14.41") | Public Finance and Public Policy | 12 |
+| [14.42](https://catalog.mit.edu/search/?P=14.42 "14.42") | Environmental Policy and Economics | 12 |
+| [14.43\[J\]](https://catalog.mit.edu/search/?P=14.43 "14.43[J]") | Economics of Energy, Innovation, and Sustainability | 12 |
+| [14.44\[J\]](https://catalog.mit.edu/search/?P=14.44 "14.44[J]") | Energy Economics and Policy | 12 |
+| [14.45\[J\]](https://catalog.mit.edu/search/?P=14.45 "14.45[J]") | Climate and Energy in the Global Economy | 12 |
+| [14.54](https://catalog.mit.edu/search/?P=14.54 "14.54") | International Trade | 12 |
+| [14.64](https://catalog.mit.edu/search/?P=14.64 "14.64") | Labor Economics and Public Policy | 12 |
+| [14.70\[J\]](https://catalog.mit.edu/search/?P=14.70 "14.70[J]") | Medieval Economic History in Comparative Perspective | 12 |
+| [14.73](https://catalog.mit.edu/search/?P=14.73 "14.73") | The Challenge of World Poverty | 12 |
+| [14.75](https://catalog.mit.edu/search/?P=14.75 "14.75") | Political Economy and Economic Development | 12 |
+| [14.76](https://catalog.mit.edu/search/?P=14.76 "14.76") | Firms, Markets, Trade and Growth | 12 |
+| [14.78\[J\]](https://catalog.mit.edu/search/?P=14.78 "14.78[J]") | Shaping the Future of Technology: From Early Agriculture to Artificial Intelligence | 12 |
+
+Print Options
+
+
+[Send Page to Printer](https://catalog.mit.edu/degree-charts/economics-course-14/#)
+
+_Print this page._
+
+[Download PDF of this Page](https://catalog.mit.edu/degree-charts/economics-course-14/economics-course-14.pdf)
+
+_The PDF includes all information on this page and its related tabs. Subject (course) information includes any changes approved for the current academic year._
+
+[Download PDF of the Entire Catalog and/or Subject Descriptions](https://catalog.mit.edu/archive/)
+
+[Cancel](https://catalog.mit.edu/degree-charts/economics-course-14/#)

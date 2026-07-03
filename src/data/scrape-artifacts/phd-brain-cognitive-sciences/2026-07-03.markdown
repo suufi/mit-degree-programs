@@ -1,0 +1,79 @@
+Degree Charts
+
+- [Home](https://catalog.mit.edu/) >
+- [Degree Charts](https://catalog.mit.edu/degree-charts/) >
+- Brain and Cognitive Sciences (PhD)
+
+# Doctor of Philosophy in Brain and Cognitive Sciences Fields
+
+[Department of Brain and Cognitive Sciences](https://catalog.mit.edu/schools/science/brain-cognitive-sciences/#graduatetext)
+
+## Program Requirements
+
+|     |     |     |
+| --- | --- | --- |
+| Required Subjects |  |
+| [9.401](https://catalog.mit.edu/search/?P=9.401 "9.401") | Tools for Robust Science | 12 |
+| [9.901](https://catalog.mit.edu/search/?P=9.901 "9.901") | Responsible Conduct in Science | 2 |
+| Core 11 | 12-18 |
+| _Must complete one of the subjects listed below with a grade of B or higher:_ |  |
+| [9.011](https://catalog.mit.edu/search/?P=9.011 "9.011") | Systems Neuroscience Core I |  |
+| [9.012](https://catalog.mit.edu/search/?P=9.012 "9.012") | Cognitive Science |  |
+| [9.014](https://catalog.mit.edu/search/?P=9.014 "9.014") | Quantitative Methods and Computational Models in Neurosciences 2 |  |
+| [9.015\[J\]](https://catalog.mit.edu/search/?P=9.015 "9.015[J]") | Molecular and Cellular Neuroscience Core I |  |
+| Core 21, 3 | 12-18 |
+| _Must complete one of the subjects listed below with a grade of B or higher:_ |  |
+| [9.011](https://catalog.mit.edu/search/?P=9.011 "9.011") | Systems Neuroscience Core I |  |
+| [9.012](https://catalog.mit.edu/search/?P=9.012 "9.012") | Cognitive Science |  |
+| [9.013\[J\]](https://catalog.mit.edu/search/?P=9.013 "9.013[J]") | Molecular and Cellular Neuroscience Core II 2 |  |
+| [9.014](https://catalog.mit.edu/search/?P=9.014 "9.014") | Quantitative Methods and Computational Models in Neurosciences |  |
+| [9.015\[J\]](https://catalog.mit.edu/search/?P=9.015 "9.015[J]") | Molecular and Cellular Neuroscience Core I |  |
+| [9.360](https://catalog.mit.edu/search/?P=9.360 "9.360") | Neurobiology of Self 4 |  |
+| Statistics1, 5 | 12 |
+| _Must complete one 12-unit subject with a grade of B or higher:_ |  |
+| [9.014](https://catalog.mit.edu/search/?P=9.014 "9.014") | Quantitative Methods and Computational Models in Neurosciences |  |
+| [9.073\[J\]](https://catalog.mit.edu/search/?P=9.073 "9.073[J]") | Statistics for Neuroscience Research |  |
+| [9.272\[J\]](https://catalog.mit.edu/search/?P=9.272 "9.272[J]") | Topics in Neural Signal Processing |  |
+| [9.520\[J\]](https://catalog.mit.edu/search/?P=9.520 "9.520[J]") | Statistical Learning Theory and Applications |  |
+| [9.521\[J\]](https://catalog.mit.edu/search/?P=9.521 "9.521[J]") | Mathematical Statistics: a Non-Asymptotic Approach |  |
+| [12.444](https://catalog.mit.edu/search/?P=12.444 "12.444") | MatLab, Statistics, Regression, Signal Processing |  |
+| [16.391](https://catalog.mit.edu/search/?P=16.391 "16.391") | Statistics for Engineers and Scientists |  |
+| Electives6 | 24 |
+| _Select at least two 12-unit graduate-level subjects relevant to student's research._ |  |
+| Qualifying Exam |  |
+| [9.300](https://catalog.mit.edu/search/?P=9.300 "9.300") | BCS PhD Qualifying Exam | 6 |
+| Professional Development7 |  |
+| [9.990](https://catalog.mit.edu/search/?P=9.990 "9.990") | Professional Development | 1 |
+| Teaching and Research |  |
+| [9.919](https://catalog.mit.edu/search/?P=9.919 "9.919") | Teaching Brain and Cognitive Sciences | 24 |
+| [9.921](https://catalog.mit.edu/search/?P=9.921 "9.921") | Research in Brain and Cognitive Sciences 8 | 282 |
+| Thesis |  |
+| [9.941](https://catalog.mit.edu/search/?P=9.941 "9.941") | Graduate Thesis Proposal | 6 |
+| [9.THG](https://catalog.mit.edu/search/?P=9.THG "9.THG") | Graduate Thesis 8 | 36-216 |
+| Total Units | 429-621 |
+
+|     |     |
+| --- | --- |
+| _1_ | _Each subject may only fulfill one requirement._ |
+| _2_ | _[9.013\[J\]](https://catalog.mit.edu/search/?P=9.013 "9.013[J]") Molecular and Cellular Neuroscience Core II may satisfy the Core 2 requirement if [9.015\[J\]](https://catalog.mit.edu/search/?P=9.015 "9.015[J]") Molecular and Cellular Neuroscience Core I has been taken._ |
+| _3_ | _Harvard subjects PSY2170, PSY2020 or MCB231 may satisfy Core 2 requirement if [9.012](https://catalog.mit.edu/search/?P=9.012 "9.012") Cognitive Science has been taken._ |
+| _4_ | _[9.360](https://catalog.mit.edu/search/?P=9.360 "9.360") Neurobiology of Self may satisfy Core 2 requirement if [9.011](https://catalog.mit.edu/search/?P=9.011 "9.011") Systems Neuroscience Core I has been taken._ |
+| _5_ | _Harvard subject PSY 1950 Intermediate Statistical Analysis in Psychology can also be used to fulfill this requirement. Students can petition for a different subject to fulfill this requirement by contacting the BCS graduate officer._ |
+| _6_ | _Students are encouraged to ask for advice from their advisor. All 12-unit [BCS graduate subjects](https://catalog.mit.edu/subjects/9/) (excluding the Core Subjects) are approved electives. In some cases, students may wish to replace a 12-unit subject with two 6-unit subjects; take a subject in [any other MIT department](https://catalog.mit.edu/subjects/); or enroll in a subject outside MIT (e.g., Harvard, BU, etc); these exceptions require advance approval of the BCS graduate officer. An additional statistics subject, beyond that used to fulfill the Statistics requirement, can be used to meet one Elective subject requirement._ |
+| _7_ | _Students must participate in two department-approved professional development activities, registering for [9.990](https://catalog.mit.edu/search/?P=9.990 "9.990") during each term of participation. One credit unit will be awarded only upon completion of two activities. A list of pre-approved professional development activities is available on the BCS website. Students may also petition other professional development activities._ |
+| _8_ | _Students will register for [9.921](https://catalog.mit.edu/search/?P=9.921 "9.921") Research in Brain and Cognitive Sciences during each semester of the program, including during summer, until they pass [9.941](https://catalog.mit.edu/search/?P=9.941 "9.941") Graduate Thesis Proposal in the spring term of their fourth year. Thereafter, they will register for [9.THG](https://catalog.mit.edu/search/?P=9.THG "9.THG") Graduate Thesis. Students must be registered for [9.THG](https://catalog.mit.edu/search/?P=9.THG "9.THG") Graduate Thesis during the semester in which they will graduate._ |
+
+Print Options
+
+
+[Send Page to Printer](https://catalog.mit.edu/degree-charts/phd-brain-cognitive-sciences/#)
+
+_Print this page._
+
+[Download PDF of this Page](https://catalog.mit.edu/degree-charts/phd-brain-cognitive-sciences/phd-brain-cognitive-sciences.pdf)
+
+_The PDF includes all information on this page and its related tabs. Subject (course) information includes any changes approved for the current academic year._
+
+[Download PDF of the Entire Catalog and/or Subject Descriptions](https://catalog.mit.edu/archive/)
+
+[Cancel](https://catalog.mit.edu/degree-charts/phd-brain-cognitive-sciences/#)

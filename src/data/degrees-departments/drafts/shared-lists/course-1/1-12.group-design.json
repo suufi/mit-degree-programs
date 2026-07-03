@@ -1,0 +1,36 @@
+{
+  "sharedListId": "1-12.group-design",
+  "program": "1-12",
+  "title": "Group Design",
+  "items": [
+    {
+      "type": "subject",
+      "subjectId": "1.108"
+    },
+    {
+      "type": "subject",
+      "subjectId": "12.307"
+    },
+    {
+      "type": "subject",
+      "subjectId": "12.335"
+    },
+    {
+      "type": "subject",
+      "subjectId": "1.101"
+    },
+    {
+      "type": "subject",
+      "subjectId": "1.102"
+    },
+    {
+      "type": "subject",
+      "subjectId": "1.106"
+    },
+    {
+      "type": "subject",
+      "subjectId": "1.107"
+    }
+  ],
+  "version": "1"
+}

@@ -1,0 +1,20 @@
+{
+  "sharedListId": "phd-computational-systems-biology.brain-and-cognitive-sciences",
+  "program": "phd-computational-systems-biology",
+  "title": "Brain and Cognitive Sciences",
+  "items": [
+    {
+      "type": "subject",
+      "subjectId": "9.013"
+    },
+    {
+      "type": "subject",
+      "subjectId": "9.015"
+    },
+    {
+      "type": "subject",
+      "subjectId": "9.520"
+    }
+  ],
+  "version": "1"
+}

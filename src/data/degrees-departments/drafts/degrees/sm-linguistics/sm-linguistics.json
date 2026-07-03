@@ -1,0 +1,84 @@
+{
+  "schemaVersion": "2",
+  "program": "sm-linguistics",
+  "title": "Linguistics (SM)",
+  "level": "graduate",
+  "complete": false,
+  "catalogSource": {
+    "url": "https://catalog.mit.edu/degree-charts/sm-linguistics/",
+    "slug": "sm-linguistics",
+    "scrapedAt": "2026-07-03",
+    "contentHash": "0f4e25d4f6919b0227e710454f4a62cd92b15c5b97c6f991d9374705ee8a696e"
+  },
+  "footnotes": [
+    {
+      "id": "1",
+      "text": "If the student has already completed equivalent coursework in this area, a more advanced class in the same area is taken instead."
+    },
+    {
+      "id": "2",
+      "text": "Students register for a minimum of 24 units of 24.921 Independent Study: Linguistics, focused on their own language. Students can register for additional terms of 24.921."
+    },
+    {
+      "id": "3",
+      "text": "Students register for 36 units of Thesis Research each term during the second year of the program."
+    }
+  ],
+  "constraints": [],
+  "requirements": [
+    {
+      "groupId": "sm-linguistics-required-subjects",
+      "title": "Required Subjects",
+      "bucket": "departmental",
+      "subcategory": "required_subjects",
+      "flexibility": {
+        "advisorApproval": false,
+        "catalogText": "At least one of the following subjects:"
+      },
+      "root": {
+        "type": "group",
+        "ruleType": "all_of",
+        "items": [
+          {
+            "type": "subject",
+            "subjectId": "24.900"
+          },
+          {
+            "type": "selection",
+            "ruleType": "choose_units",
+            "ruleValue": 12,
+            "itemsSource": "advisor_defined",
+            "note": "At least one of the following subjects:",
+            "flexibility": {
+              "catalogText": "At least one of the following subjects:"
+            }
+          },
+          {
+            "type": "subject",
+            "subjectId": "24.931"
+          },
+          {
+            "type": "subject",
+            "subjectId": "24.932"
+          },
+          {
+            "type": "subject",
+            "subjectId": "24.933"
+          },
+          {
+            "type": "subject",
+            "subjectId": "24.921"
+          },
+          {
+            "type": "subject",
+            "subjectId": "24.THG"
+          }
+        ]
+      }
+    }
+  ],
+  "status": "draft",
+  "revisionId": "sm-linguistics-2026-07-03-0f4e25d4",
+  "catalogYear": "2026",
+  "effectiveTerm": "2026-FA"
+}

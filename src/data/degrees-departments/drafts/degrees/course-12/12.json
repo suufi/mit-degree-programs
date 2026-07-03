@@ -1,0 +1,240 @@
+{
+  "schemaVersion": "2",
+  "program": "12",
+  "title": "Earth, Atmospheric, and Planetary Sciences (Course 12)",
+  "level": "undergraduate",
+  "complete": false,
+  "includesGir": "sb",
+  "catalogSource": {
+    "url": "https://catalog.mit.edu/degree-charts/earth-atmospheric-planetary-sciences-course-12/",
+    "slug": "earth-atmospheric-planetary-sciences-course-12",
+    "scrapedAt": "2026-07-03",
+    "contentHash": "880f1a245039a76050e2d1dce57e2b4349706933f95d2f566c8d8c98c7ad25ea"
+  },
+  "girCrosswalk": [
+    {
+      "subjectId": "12.001",
+      "satisfies": [
+        "rest"
+      ],
+      "note": "Also satisfies REST via departmental program."
+    },
+    {
+      "subjectId": "12.002",
+      "satisfies": [
+        "rest"
+      ],
+      "note": "Also satisfies REST via departmental program."
+    },
+    {
+      "subjectId": "12.003",
+      "satisfies": [
+        "rest"
+      ],
+      "note": "Also satisfies REST via departmental program."
+    },
+    {
+      "subjectId": "12.004",
+      "satisfies": [
+        "rest"
+      ],
+      "note": "Also satisfies REST via departmental program."
+    },
+    {
+      "subjectId": "18.03",
+      "satisfies": [
+        "rest"
+      ],
+      "note": "Also satisfies REST via departmental program."
+    }
+  ],
+  "footnotes": [
+    {
+      "id": "1",
+      "text": "_With approval of the advisor, one introductory subject may be replaced by one concentration subject that is not being used to fulfill the concentration requirement._"
+    },
+    {
+      "id": "2",
+      "text": "Recommended for concentration area 1. May also be applicable to areas 3 and 4."
+    },
+    {
+      "id": "3",
+      "text": "Recommended for concentration areas 2 and 4."
+    },
+    {
+      "id": "4",
+      "text": "Recommended for concentration area 3."
+    },
+    {
+      "id": "5",
+      "text": "Recommended supporting subjects: 5.12, 6.8711, 8.03, 18.03, or 18.06."
+    }
+  ],
+  "constraints": [],
+  "requirements": [
+    {
+      "groupId": "12-introductory-subjects",
+      "title": "Introductory Subjects",
+      "bucket": "departmental",
+      "subcategory": "fundamentals",
+      "root": {
+        "type": "selection",
+        "ruleType": "choose_n",
+        "ruleValue": 3,
+        "itemsSource": "explicit",
+        "items": [
+          {
+            "type": "subject",
+            "subjectId": "12.001"
+          },
+          {
+            "type": "subject",
+            "subjectId": "12.002"
+          },
+          {
+            "type": "subject",
+            "subjectId": "12.003"
+          },
+          {
+            "type": "subject",
+            "subjectId": "12.004"
+          },
+          {
+            "type": "subject",
+            "subjectId": "12.TIP"
+          },
+          {
+            "type": "subject",
+            "subjectId": "12.THU"
+          }
+        ]
+      }
+    },
+    {
+      "groupId": "12-laboratory-field-subjects",
+      "title": "Laboratory/Field Subjects",
+      "bucket": "departmental",
+      "subcategory": "laboratory",
+      "root": {
+        "type": "selection",
+        "ruleType": "choose_one",
+        "itemsSource": "explicit",
+        "items": [
+          {
+            "type": "group",
+            "ruleType": "all_of",
+            "items": [
+              {
+                "type": "subject",
+                "subjectId": "12.115"
+              },
+              {
+                "type": "subject",
+                "subjectId": "12.116"
+              }
+            ]
+          },
+          {
+            "type": "subject",
+            "subjectId": "12.307"
+          },
+          {
+            "type": "subject",
+            "subjectId": "12.335"
+          },
+          {
+            "type": "subject",
+            "subjectId": "12.410"
+          }
+        ]
+      }
+    },
+    {
+      "groupId": "12-computational-science-subjects",
+      "title": "Computational Science Subjects",
+      "bucket": "departmental",
+      "subcategory": "computation",
+      "flexibility": {
+        "advisorApproval": false,
+        "catalogText": "Concentration Subjects"
+      },
+      "root": {
+        "type": "group",
+        "ruleType": "all_of",
+        "items": [
+          {
+            "type": "selection",
+            "ruleType": "choose_one",
+            "itemsSource": "explicit",
+            "items": [
+              {
+                "type": "subject",
+                "subjectId": "12.010"
+              },
+              {
+                "type": "subject",
+                "subjectId": "12.012"
+              },
+              {
+                "type": "subject",
+                "subjectId": "12.C25"
+              },
+              {
+                "type": "group",
+                "ruleType": "all_of",
+                "items": [
+                  {
+                    "type": "subject",
+                    "subjectId": "6.100A"
+                  },
+                  {
+                    "type": "subject",
+                    "subjectId": "6.100B"
+                  }
+                ]
+              },
+              {
+                "type": "group",
+                "ruleType": "all_of",
+                "items": [
+                  {
+                    "type": "subject",
+                    "subjectId": "6.100A"
+                  },
+                  {
+                    "type": "subject",
+                    "subjectId": "16.C20"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "selection",
+            "ruleType": "choose_units",
+            "ruleValue": 36,
+            "itemsSource": "advisor_defined",
+            "note": "Concentration Subjects",
+            "flexibility": {
+              "catalogText": "Concentration Subjects"
+            }
+          },
+          {
+            "type": "selection",
+            "ruleType": "choose_units",
+            "ruleValue": 36,
+            "itemsSource": "advisor_defined",
+            "note": "Supporting Subjects",
+            "flexibility": {
+              "catalogText": "Supporting Subjects"
+            }
+          }
+        ]
+      }
+    }
+  ],
+  "status": "draft",
+  "revisionId": "12-2026-07-03-880f1a24",
+  "catalogYear": "2026",
+  "effectiveTerm": "2026-FA"
+}

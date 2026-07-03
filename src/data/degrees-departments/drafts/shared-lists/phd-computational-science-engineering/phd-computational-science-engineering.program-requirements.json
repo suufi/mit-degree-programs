@@ -1,0 +1,264 @@
+{
+  "sharedListId": "phd-computational-science-engineering.program-requirements",
+  "program": "phd-computational-science-engineering",
+  "title": "Program Requirements",
+  "items": [
+    {
+      "type": "subject",
+      "subjectId": "18.335"
+    },
+    {
+      "type": "subject",
+      "subjectId": "1.545"
+    },
+    {
+      "type": "subject",
+      "subjectId": "1.723"
+    },
+    {
+      "type": "subject",
+      "subjectId": "2.29"
+    },
+    {
+      "type": "subject",
+      "subjectId": "3.320"
+    },
+    {
+      "type": "subject",
+      "subjectId": "4.450"
+    },
+    {
+      "type": "subject",
+      "subjectId": "9.660"
+    },
+    {
+      "type": "subject",
+      "subjectId": "10.637"
+    },
+    {
+      "type": "subject",
+      "subjectId": "12.521"
+    },
+    {
+      "type": "subject",
+      "subjectId": "12.850"
+    },
+    {
+      "type": "subject",
+      "subjectId": "16.225"
+    },
+    {
+      "type": "subject",
+      "subjectId": "18.369"
+    },
+    {
+      "type": "subject",
+      "subjectId": "18.417"
+    },
+    {
+      "type": "subject",
+      "subjectId": "22.315"
+    },
+    {
+      "type": "subject",
+      "subjectId": "2.098"
+    },
+    {
+      "type": "subject",
+      "subjectId": "6.7300"
+    },
+    {
+      "type": "subject",
+      "subjectId": "6.8410"
+    },
+    {
+      "type": "subject",
+      "subjectId": "16.920"
+    },
+    {
+      "type": "subject",
+      "subjectId": "16.930"
+    },
+    {
+      "type": "subject",
+      "subjectId": "18.336"
+    },
+    {
+      "type": "subject",
+      "subjectId": "22.15"
+    },
+    {
+      "type": "subject",
+      "subjectId": "6.5060"
+    },
+    {
+      "type": "subject",
+      "subjectId": "6.5210"
+    },
+    {
+      "type": "subject",
+      "subjectId": "6.5220"
+    },
+    {
+      "type": "subject",
+      "subjectId": "6.5250"
+    },
+    {
+      "type": "subject",
+      "subjectId": "6.5320"
+    },
+    {
+      "type": "subject",
+      "subjectId": "18.337"
+    },
+    {
+      "type": "subject",
+      "subjectId": "18.435"
+    },
+    {
+      "type": "subject",
+      "subjectId": "2.156"
+    },
+    {
+      "type": "subject",
+      "subjectId": "6.7800"
+    },
+    {
+      "type": "subject",
+      "subjectId": "6.7810"
+    },
+    {
+      "type": "subject",
+      "subjectId": "6.7830"
+    },
+    {
+      "type": "subject",
+      "subjectId": "6.7900"
+    },
+    {
+      "type": "subject",
+      "subjectId": "6.C51"
+    },
+    {
+      "type": "subject",
+      "subjectId": "1.C51"
+    },
+    {
+      "type": "subject",
+      "subjectId": "2.C51"
+    },
+    {
+      "type": "subject",
+      "subjectId": "3.C51"
+    },
+    {
+      "type": "subject",
+      "subjectId": "6.C511"
+    },
+    {
+      "type": "subject",
+      "subjectId": "7.C51"
+    },
+    {
+      "type": "subject",
+      "subjectId": "22.C51"
+    },
+    {
+      "type": "subject",
+      "subjectId": "9.520"
+    },
+    {
+      "type": "subject",
+      "subjectId": "10.554"
+    },
+    {
+      "type": "subject",
+      "subjectId": "16.940"
+    },
+    {
+      "type": "subject",
+      "subjectId": "6.7700"
+    },
+    {
+      "type": "subject",
+      "subjectId": "18.1002"
+    },
+    {
+      "type": "subject",
+      "subjectId": "18.1011"
+    },
+    {
+      "type": "subject",
+      "subjectId": "18.1021"
+    },
+    {
+      "type": "subject",
+      "subjectId": "18.1031"
+    },
+    {
+      "type": "subject",
+      "subjectId": "18.125"
+    },
+    {
+      "type": "subject",
+      "subjectId": "18.1521"
+    },
+    {
+      "type": "subject",
+      "subjectId": "18.3541"
+    },
+    {
+      "type": "subject",
+      "subjectId": "18.4041"
+    },
+    {
+      "type": "subject",
+      "subjectId": "18.655"
+    },
+    {
+      "type": "subject",
+      "subjectId": "18.675"
+    },
+    {
+      "type": "subject",
+      "subjectId": "1.583"
+    },
+    {
+      "type": "subject",
+      "subjectId": "6.7210"
+    },
+    {
+      "type": "subject",
+      "subjectId": "6.7220"
+    },
+    {
+      "type": "subject",
+      "subjectId": "6.7230"
+    },
+    {
+      "type": "subject",
+      "subjectId": "6.7940"
+    },
+    {
+      "type": "subject",
+      "subjectId": "6.C57"
+    },
+    {
+      "type": "subject",
+      "subjectId": "10.557"
+    },
+    {
+      "type": "subject",
+      "subjectId": "15.083"
+    },
+    {
+      "type": "subject",
+      "subjectId": "15.C57"
+    },
+    {
+      "type": "subject",
+      "subjectId": "16.888"
+    }
+  ],
+  "version": "1"
+}

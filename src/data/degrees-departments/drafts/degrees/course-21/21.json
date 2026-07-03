@@ -1,0 +1,111 @@
+{
+  "schemaVersion": "2",
+  "program": "21",
+  "title": "Writing (Course 21W)",
+  "level": "undergraduate",
+  "complete": false,
+  "includesGir": "sb",
+  "catalogSource": {
+    "url": "https://catalog.mit.edu/degree-charts/writing-course-21w/",
+    "slug": "writing-course-21w",
+    "scrapedAt": "2026-07-03",
+    "contentHash": "5085dc5b225051cf65db736e8b66efb59212de3fdf350714db4d17f643bb2c5a"
+  },
+  "girCrosswalk": [],
+  "footnotes": [
+    {
+      "id": "1",
+      "text": "_This chart has been calculated based on an overlap of 36 units (three subjects) between the HASS General Institute Requirement and the departmental requirements. Students who develop a program of study with more overlap will be able to select more unrestricted electives to meet the number of total units beyond the GIRs required for an SB degree._"
+    }
+  ],
+  "constraints": [],
+  "requirements": [
+    {
+      "groupId": "21-required-subjects",
+      "title": "Required Subjects",
+      "bucket": "departmental",
+      "subcategory": "required_subjects",
+      "root": {
+        "type": "group",
+        "ruleType": "all_of",
+        "items": [
+          {
+            "type": "subject",
+            "subjectId": "21W.THT"
+          },
+          {
+            "type": "subject",
+            "subjectId": "21W.THU"
+          },
+          {
+            "type": "selection",
+            "ruleType": "choose_one",
+            "itemsSource": "explicit",
+            "items": [
+              {
+                "type": "subject",
+                "subjectId": "21W.757"
+              },
+              {
+                "type": "subject",
+                "subjectId": "21W.758"
+              },
+              {
+                "type": "subject",
+                "subjectId": "21W.759"
+              },
+              {
+                "type": "subject",
+                "subjectId": "21W.762"
+              },
+              {
+                "type": "subject",
+                "subjectId": "21W.765"
+              },
+              {
+                "type": "subject",
+                "subjectId": "21W.770"
+              },
+              {
+                "type": "subject",
+                "subjectId": "21W.771"
+              },
+              {
+                "type": "subject",
+                "subjectId": "21W.777"
+              },
+              {
+                "type": "subject",
+                "subjectId": "21W.786"
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "groupId": "21-restricted-electives",
+      "title": "Restricted Electives",
+      "bucket": "elective",
+      "subcategory": "restricted_electives",
+      "flexibility": {
+        "advisorApproval": false,
+        "catalogText": "Select nine subjects, of which one is normally introductory, that form a cohesive unit"
+      },
+      "root": {
+        "type": "selection",
+        "ruleType": "choose_units",
+        "ruleValue": 99,
+        "itemsSource": "advisor_defined",
+        "note": "Select nine subjects, of which one is normally introductory, that form a cohesive unit",
+        "flexibility": {
+          "catalogText": "Select nine subjects, of which one is normally introductory, that form a cohesive unit"
+        }
+      }
+    }
+  ],
+  "status": "draft",
+  "revisionId": "21-2026-07-03-5085dc5b",
+  "catalogYear": "2026",
+  "effectiveTerm": "2026-FA"
+}

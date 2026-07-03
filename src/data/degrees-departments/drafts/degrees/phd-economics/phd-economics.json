@@ -1,0 +1,180 @@
+{
+  "schemaVersion": "2",
+  "program": "phd-economics",
+  "title": "Economics (PhD)",
+  "level": "graduate",
+  "complete": false,
+  "catalogSource": {
+    "url": "https://catalog.mit.edu/degree-charts/phd-economics/",
+    "slug": "phd-economics",
+    "scrapedAt": "2026-07-03",
+    "contentHash": "26d4b56b7c061b69a601caa37849412343e4f75dbf40b848b4c9cb0cb6136ad4"
+  },
+  "footnotes": [
+    {
+      "id": "1",
+      "text": "This requirement must be satisfied in the first year of the program. The requirements for each subject can be met by earning a grade of B or better in the subject or by passing a waiver exam."
+    },
+    {
+      "id": "2",
+      "text": "Students must complete 14.192, plus a minimum of 13 full-term subjects. 14.192 must be completed in the fall, IAP, and spring terms of the second year of the program as part of the general examination requirement. Subjects that count toward this requirement include those offered by the Department of Economics, those that count for any major or minor field or interdisciplinary requirement, and subjects approved by department's Graduate Officer. Waived subjects do not count toward this requirement."
+    },
+    {
+      "id": "3",
+      "text": "Students must select two major fields comprised of two or three full-term subjects offered by the Department of Economics and receive grades of B or better. Fields are behavioral economics, development, econometrics, finance, industrial organization, international, labor, macroeconomics, organizational, political economy, public finance, and theory."
+    },
+    {
+      "id": "4",
+      "text": "Students must select two minor fields, each comprised of two full-term subjects offered by the Department of Economics and receive grades of B or better. Fields are behavioral economics, development, econometrics, finance, industrial organization, international, labor, macroeconomics, organizational, political economy, public finance, theory, and computation and statistics. Students in the business economics track will take only one minor field from the Department of Economics and will take as their second minor field the equivalent of two full-term subjects from among the business economics courses offered by the Applied Economics group in the Sloan School of Management."
+    },
+    {
+      "id": "5",
+      "text": "The research units given here are based on three years from the general examination requirement to completion of the thesis but will vary depending on how long the student remains in the program. After completing the general examination requirement, students will register for 36 units of thesis research each fall and spring term. They may also register in the summer term but are not required to."
+    },
+    {
+      "id": "6",
+      "text": "14.TAC must be taken at least once after the second year of the program and before the end of the fifth year. It does not count toward the 13-subject minimum requirement."
+    }
+  ],
+  "constraints": [],
+  "requirements": [
+    {
+      "groupId": "phd-economics-required-subjects",
+      "title": "Required Subjects",
+      "bucket": "departmental",
+      "subcategory": "required_subjects",
+      "flexibility": {
+        "advisorApproval": false,
+        "catalogText": "Core Subjects"
+      },
+      "root": {
+        "type": "group",
+        "ruleType": "all_of",
+        "items": [
+          {
+            "type": "selection",
+            "ruleType": "choose_units",
+            "ruleValue": 60,
+            "itemsSource": "advisor_defined",
+            "note": "Core Subjects",
+            "flexibility": {
+              "catalogText": "Core Subjects"
+            }
+          },
+          {
+            "type": "subject",
+            "subjectId": "14.121"
+          },
+          {
+            "type": "subject",
+            "subjectId": "14.122"
+          },
+          {
+            "type": "subject",
+            "subjectId": "14.123"
+          },
+          {
+            "type": "subject",
+            "subjectId": "14.124"
+          },
+          {
+            "type": "subject",
+            "subjectId": "14.380"
+          },
+          {
+            "type": "subject",
+            "subjectId": "14.381"
+          },
+          {
+            "type": "subject",
+            "subjectId": "14.382"
+          },
+          {
+            "type": "subject",
+            "subjectId": "14.383"
+          },
+          {
+            "type": "subject",
+            "subjectId": "14.451"
+          },
+          {
+            "type": "subject",
+            "subjectId": "14.452"
+          },
+          {
+            "type": "subject",
+            "subjectId": "14.453"
+          },
+          {
+            "type": "subject",
+            "subjectId": "14.454"
+          }
+        ]
+      }
+    },
+    {
+      "groupId": "phd-economics-research-paper",
+      "title": "Research Paper",
+      "bucket": "departmental",
+      "subcategory": "required_subjects",
+      "flexibility": {
+        "advisorApproval": false,
+        "catalogText": "Major Fields3"
+      },
+      "root": {
+        "type": "group",
+        "ruleType": "all_of",
+        "items": [
+          {
+            "type": "subject",
+            "subjectId": "14.192"
+          },
+          {
+            "type": "selection",
+            "ruleType": "choose_units",
+            "ruleValue": 48,
+            "itemsSource": "advisor_defined",
+            "note": "Major Fields3",
+            "flexibility": {
+              "catalogText": "Major Fields3"
+            }
+          },
+          {
+            "type": "selection",
+            "ruleType": "choose_units",
+            "ruleValue": 48,
+            "itemsSource": "advisor_defined",
+            "note": "Minor Fields4",
+            "flexibility": {
+              "catalogText": "Minor Fields4"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "groupId": "phd-economics-teaching-requirement",
+      "title": "Teaching Requirement",
+      "bucket": "departmental",
+      "subcategory": "required_subjects",
+      "root": {
+        "type": "subject",
+        "subjectId": "14.TAC"
+      }
+    },
+    {
+      "groupId": "phd-economics-thesis",
+      "title": "Thesis",
+      "bucket": "thesis",
+      "subcategory": "thesis",
+      "root": {
+        "type": "subject",
+        "subjectId": "14.THG"
+      }
+    }
+  ],
+  "status": "draft",
+  "revisionId": "phd-economics-2026-07-03-26d4b56b",
+  "catalogYear": "2026",
+  "effectiveTerm": "2026-FA"
+}

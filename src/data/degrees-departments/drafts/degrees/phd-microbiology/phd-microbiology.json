@@ -1,0 +1,243 @@
+{
+  "schemaVersion": "2",
+  "program": "phd-microbiology",
+  "title": "Microbiology (PhD)",
+  "level": "graduate",
+  "complete": false,
+  "catalogSource": {
+    "url": "https://catalog.mit.edu/degree-charts/phd-microbiology/",
+    "slug": "phd-microbiology",
+    "scrapedAt": "2026-07-03",
+    "contentHash": "cdbafd5e9d697d139bf9f99c219384ea07843569e95f25312245c71b2ef5f46c"
+  },
+  "footnotes": [
+    {
+      "id": "1",
+      "text": "Students with a particularly strong background in any of these areas may have the option of placing out of the related course. Approval of the Graduate Education Committee is required."
+    },
+    {
+      "id": "2",
+      "text": "Subjects from some other areas may also fulfill the requirement, with the approval of the Graduate Education committee."
+    },
+    {
+      "id": "3",
+      "text": "_The units listed here represent an average number taken during the doctoral program._"
+    }
+  ],
+  "constraints": [],
+  "requirements": [
+    {
+      "groupId": "phd-microbiology-required-coursework1",
+      "title": "Required Coursework1",
+      "bucket": "departmental",
+      "subcategory": "required_subjects",
+      "root": {
+        "type": "group",
+        "ruleType": "all_of",
+        "items": [
+          {
+            "type": "subject",
+            "subjectId": "7.492"
+          },
+          {
+            "type": "subject",
+            "subjectId": "7.493"
+          },
+          {
+            "type": "group",
+            "ruleType": "all_of",
+            "items": [
+              {
+                "type": "subject",
+                "subjectId": "7.571"
+              },
+              {
+                "type": "subject",
+                "subjectId": "7.572"
+              }
+            ]
+          },
+          {
+            "type": "subject",
+            "subjectId": "7.51"
+          },
+          {
+            "type": "selection",
+            "ruleType": "choose_one",
+            "itemsSource": "explicit",
+            "items": [
+              {
+                "type": "subject",
+                "subjectId": "7.80"
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "groupId": "phd-microbiology-research-rotations",
+      "title": "Research Rotations",
+      "bucket": "departmental",
+      "subcategory": "required_subjects",
+      "flexibility": {
+        "advisorApproval": false,
+        "catalogText": "Restricted Electives2"
+      },
+      "root": {
+        "type": "group",
+        "ruleType": "all_of",
+        "items": [
+          {
+            "type": "subject",
+            "subjectId": "7.499"
+          },
+          {
+            "type": "selection",
+            "ruleType": "choose_units",
+            "ruleValue": 36,
+            "itemsSource": "advisor_defined",
+            "note": "Restricted Electives2",
+            "flexibility": {
+              "catalogText": "Restricted Electives2"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "groupId": "phd-microbiology-select-at-least-three-subjects-from-the-following-list",
+      "title": "Select at least three subjects from the following list:",
+      "bucket": "departmental",
+      "subcategory": "required_subjects",
+      "root": {
+        "type": "group",
+        "ruleType": "all_of",
+        "items": [
+          {
+            "type": "subject",
+            "subjectId": "1.881"
+          },
+          {
+            "type": "subject",
+            "subjectId": "1.89"
+          },
+          {
+            "type": "subject",
+            "subjectId": "5.062"
+          },
+          {
+            "type": "subject",
+            "subjectId": "5.52"
+          },
+          {
+            "type": "subject",
+            "subjectId": "5.54"
+          },
+          {
+            "type": "subject",
+            "subjectId": "5.64"
+          },
+          {
+            "type": "subject",
+            "subjectId": "5.78"
+          },
+          {
+            "type": "subject",
+            "subjectId": "7.58"
+          },
+          {
+            "type": "subject",
+            "subjectId": "7.62"
+          },
+          {
+            "type": "subject",
+            "subjectId": "7.63"
+          },
+          {
+            "type": "subject",
+            "subjectId": "7.66"
+          },
+          {
+            "type": "subject",
+            "subjectId": "7.70"
+          },
+          {
+            "type": "subject",
+            "subjectId": "7.71"
+          },
+          {
+            "type": "subject",
+            "subjectId": "7.77"
+          },
+          {
+            "type": "subject",
+            "subjectId": "8.591"
+          },
+          {
+            "type": "subject",
+            "subjectId": "10.542"
+          },
+          {
+            "type": "subject",
+            "subjectId": "10.544"
+          },
+          {
+            "type": "subject",
+            "subjectId": "10.546"
+          },
+          {
+            "type": "subject",
+            "subjectId": "20.420"
+          },
+          {
+            "type": "subject",
+            "subjectId": "20.440"
+          },
+          {
+            "type": "subject",
+            "subjectId": "20.450"
+          },
+          {
+            "type": "subject",
+            "subjectId": "20.490"
+          }
+        ]
+      }
+    },
+    {
+      "groupId": "phd-microbiology-teaching-requirement",
+      "title": "Teaching Requirement",
+      "bucket": "departmental",
+      "subcategory": "required_subjects",
+      "root": {
+        "type": "subject",
+        "subjectId": "7.498"
+      }
+    },
+    {
+      "groupId": "phd-microbiology-research-and-thesis",
+      "title": "Research and Thesis",
+      "bucket": "thesis",
+      "subcategory": "thesis",
+      "root": {
+        "type": "group",
+        "ruleType": "all_of",
+        "items": [
+          {
+            "type": "subject",
+            "subjectId": "7.494"
+          },
+          {
+            "type": "subject",
+            "subjectId": "7.MTHG"
+          }
+        ]
+      }
+    }
+  ],
+  "status": "draft",
+  "revisionId": "phd-microbiology-2026-07-03-cdbafd5e",
+  "catalogYear": "2026",
+  "effectiveTerm": "2026-FA"
+}

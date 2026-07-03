@@ -1,0 +1,96 @@
+{
+  "sharedListId": "6-14p-2022.econ-aags",
+  "program": "6-14p-2022",
+  "title": "ECON_AAGS",
+  "items": [
+    {
+      "type": "group",
+      "ruleType": "all_of",
+      "items": [
+        {
+          "type": "subject",
+          "subjectId": "14.121"
+        },
+        {
+          "type": "subject",
+          "subjectId": "14.122"
+        }
+      ]
+    },
+    {
+      "type": "subject",
+      "subjectId": "14.131"
+    },
+    {
+      "type": "subject",
+      "subjectId": "14.137"
+    },
+    {
+      "type": "subject",
+      "subjectId": "14.150"
+    },
+    {
+      "type": "subject",
+      "subjectId": "14.161"
+    },
+    {
+      "type": "subject",
+      "subjectId": "14.200"
+    },
+    {
+      "type": "subject",
+      "subjectId": "14.270"
+    },
+    {
+      "type": "group",
+      "ruleType": "all_of",
+      "items": [
+        {
+          "type": "subject",
+          "subjectId": "14.380"
+        },
+        {
+          "type": "subject",
+          "subjectId": "14.381"
+        }
+      ]
+    },
+    {
+      "type": "subject",
+      "subjectId": "14.387"
+    },
+    {
+      "type": "subject",
+      "subjectId": "14.388"
+    },
+    {
+      "type": "subject",
+      "subjectId": "14.390"
+    },
+    {
+      "type": "subject",
+      "subjectId": "14.420"
+    },
+    {
+      "type": "subject",
+      "subjectId": "14.444"
+    },
+    {
+      "type": "subject",
+      "subjectId": "14.540"
+    },
+    {
+      "type": "subject",
+      "subjectId": "14.640"
+    },
+    {
+      "type": "subject",
+      "subjectId": "14.750"
+    },
+    {
+      "type": "subject",
+      "subjectId": "14.760"
+    }
+  ],
+  "version": "1"
+}

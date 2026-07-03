@@ -1,0 +1,56 @@
+{
+  "sharedListId": "6-14p.econ-math-restricted-electives",
+  "program": "6-14p",
+  "title": "Econ Math Restricted Electives",
+  "items": [
+    {
+      "type": "subject",
+      "subjectId": "18.650"
+    },
+    {
+      "type": "subject",
+      "subjectId": "6.3800"
+    },
+    {
+      "type": "subject",
+      "subjectId": "18.04"
+    },
+    {
+      "type": "subject",
+      "subjectId": "18.0751"
+    },
+    {
+      "type": "subject",
+      "subjectId": "18.1001"
+    },
+    {
+      "type": "subject",
+      "subjectId": "18.1002"
+    },
+    {
+      "type": "subject",
+      "subjectId": "18.0851"
+    },
+    {
+      "type": "subject",
+      "subjectId": "18.0861"
+    },
+    {
+      "type": "subject",
+      "subjectId": "18.200A"
+    },
+    {
+      "type": "subject",
+      "subjectId": "18.330"
+    },
+    {
+      "type": "subject",
+      "subjectId": "18.700"
+    },
+    {
+      "type": "subject",
+      "subjectId": "18.781"
+    }
+  ],
+  "version": "1"
+}

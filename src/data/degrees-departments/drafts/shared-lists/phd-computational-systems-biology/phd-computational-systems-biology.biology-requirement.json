@@ -1,0 +1,32 @@
+{
+  "sharedListId": "phd-computational-systems-biology.biology-requirement",
+  "program": "phd-computational-systems-biology",
+  "title": "Biology Requirement",
+  "items": [
+    {
+      "type": "subject",
+      "subjectId": "7.51"
+    },
+    {
+      "type": "subject",
+      "subjectId": "7.52"
+    },
+    {
+      "type": "subject",
+      "subjectId": "7.58"
+    },
+    {
+      "type": "subject",
+      "subjectId": "7.61"
+    },
+    {
+      "type": "subject",
+      "subjectId": "7.63"
+    },
+    {
+      "type": "subject",
+      "subjectId": "7.68"
+    }
+  ],
+  "version": "1"
+}

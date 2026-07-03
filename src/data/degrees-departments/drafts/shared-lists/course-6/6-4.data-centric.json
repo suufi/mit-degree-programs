@@ -1,0 +1,44 @@
+{
+  "sharedListId": "6-4.data-centric",
+  "program": "6-4",
+  "title": "Data-centric",
+  "items": [
+    {
+      "type": "subject",
+      "subjectId": "6.3720"
+    },
+    {
+      "type": "subject",
+      "subjectId": "6.3900"
+    },
+    {
+      "type": "group",
+      "ruleType": "all_of",
+      "items": [
+        {
+          "type": "subject",
+          "subjectId": "6.C01"
+        },
+        {
+          "type": "subject",
+          "subjectId": "6.C011"
+        }
+      ]
+    },
+    {
+      "type": "group",
+      "ruleType": "all_of",
+      "items": [
+        {
+          "type": "subject",
+          "subjectId": "6.C51"
+        },
+        {
+          "type": "subject",
+          "subjectId": "6.C511"
+        }
+      ]
+    }
+  ],
+  "version": "1"
+}

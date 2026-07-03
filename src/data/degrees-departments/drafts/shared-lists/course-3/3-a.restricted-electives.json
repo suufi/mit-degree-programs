@@ -1,0 +1,148 @@
+{
+  "sharedListId": "3-a.restricted-electives",
+  "program": "3-a",
+  "title": "Restricted Electives",
+  "items": [
+    {
+      "type": "subject",
+      "subjectId": "3.004"
+    },
+    {
+      "type": "subject",
+      "subjectId": "3.017"
+    },
+    {
+      "type": "subject",
+      "subjectId": "3.021"
+    },
+    {
+      "type": "subject",
+      "subjectId": "3.039"
+    },
+    {
+      "type": "subject",
+      "subjectId": "3.040"
+    },
+    {
+      "type": "subject",
+      "subjectId": "3.041"
+    },
+    {
+      "type": "subject",
+      "subjectId": "3.046"
+    },
+    {
+      "type": "subject",
+      "subjectId": "3.052"
+    },
+    {
+      "type": "subject",
+      "subjectId": "3.053"
+    },
+    {
+      "type": "subject",
+      "subjectId": "3.054"
+    },
+    {
+      "type": "subject",
+      "subjectId": "3.055"
+    },
+    {
+      "type": "subject",
+      "subjectId": "3.056"
+    },
+    {
+      "type": "subject",
+      "subjectId": "3.063"
+    },
+    {
+      "type": "subject",
+      "subjectId": "3.064"
+    },
+    {
+      "type": "subject",
+      "subjectId": "3.07"
+    },
+    {
+      "type": "subject",
+      "subjectId": "3.071"
+    },
+    {
+      "type": "subject",
+      "subjectId": "3.074"
+    },
+    {
+      "type": "subject",
+      "subjectId": "3.080"
+    },
+    {
+      "type": "subject",
+      "subjectId": "3.081"
+    },
+    {
+      "type": "subject",
+      "subjectId": "3.086"
+    },
+    {
+      "type": "subject",
+      "subjectId": "3.087"
+    },
+    {
+      "type": "subject",
+      "subjectId": "3.088"
+    },
+    {
+      "type": "subject",
+      "subjectId": "3.14"
+    },
+    {
+      "type": "subject",
+      "subjectId": "3.15"
+    },
+    {
+      "type": "subject",
+      "subjectId": "3.152"
+    },
+    {
+      "type": "subject",
+      "subjectId": "3.154"
+    },
+    {
+      "type": "subject",
+      "subjectId": "3.155"
+    },
+    {
+      "type": "subject",
+      "subjectId": "3.156"
+    },
+    {
+      "type": "subject",
+      "subjectId": "3.157"
+    },
+    {
+      "type": "subject",
+      "subjectId": "3.16"
+    },
+    {
+      "type": "subject",
+      "subjectId": "3.17"
+    },
+    {
+      "type": "subject",
+      "subjectId": "3.171"
+    },
+    {
+      "type": "subject",
+      "subjectId": "3.173"
+    },
+    {
+      "type": "subject",
+      "subjectId": "3.18"
+    },
+    {
+      "type": "subject",
+      "subjectId": "3.19"
+    }
+  ],
+  "version": "1"
+}

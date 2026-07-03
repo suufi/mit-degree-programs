@@ -1,0 +1,108 @@
+{
+  "sharedListId": "master-supply-chain-management.electives",
+  "program": "master-supply-chain-management",
+  "title": "Electives",
+  "items": [
+    {
+      "type": "subject",
+      "subjectId": "15.025"
+    },
+    {
+      "type": "subject",
+      "subjectId": "15.011"
+    },
+    {
+      "type": "subject",
+      "subjectId": "15.401"
+    },
+    {
+      "type": "subject",
+      "subjectId": "15.521"
+    },
+    {
+      "type": "subject",
+      "subjectId": "15.535"
+    },
+    {
+      "type": "subject",
+      "subjectId": "15.900"
+    },
+    {
+      "type": "subject",
+      "subjectId": "15.904"
+    },
+    {
+      "type": "subject",
+      "subjectId": "15.762"
+    },
+    {
+      "type": "subject",
+      "subjectId": "15.763"
+    },
+    {
+      "type": "subject",
+      "subjectId": "1.266"
+    },
+    {
+      "type": "subject",
+      "subjectId": "15.769"
+    },
+    {
+      "type": "subject",
+      "subjectId": "1.200"
+    },
+    {
+      "type": "subject",
+      "subjectId": "15.071"
+    },
+    {
+      "type": "subject",
+      "subjectId": "15.774"
+    },
+    {
+      "type": "subject",
+      "subjectId": "15.871"
+    },
+    {
+      "type": "subject",
+      "subjectId": "15.872"
+    },
+    {
+      "type": "subject",
+      "subjectId": "15.873"
+    },
+    {
+      "type": "subject",
+      "subjectId": "15.C57"
+    },
+    {
+      "type": "subject",
+      "subjectId": "15.286"
+    },
+    {
+      "type": "subject",
+      "subjectId": "15.386"
+    },
+    {
+      "type": "subject",
+      "subjectId": "15.390"
+    },
+    {
+      "type": "subject",
+      "subjectId": "15.768"
+    },
+    {
+      "type": "subject",
+      "subjectId": "15.777"
+    },
+    {
+      "type": "subject",
+      "subjectId": "15.784"
+    },
+    {
+      "type": "subject",
+      "subjectId": "15.915"
+    }
+  ],
+  "version": "1"
+}

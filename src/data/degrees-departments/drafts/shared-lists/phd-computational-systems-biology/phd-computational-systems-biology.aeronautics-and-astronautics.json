@@ -1,0 +1,16 @@
+{
+  "sharedListId": "phd-computational-systems-biology.aeronautics-and-astronautics",
+  "program": "phd-computational-systems-biology",
+  "title": "Aeronautics and Astronautics",
+  "items": [
+    {
+      "type": "subject",
+      "subjectId": "16.391"
+    },
+    {
+      "type": "subject",
+      "subjectId": "16.940"
+    }
+  ],
+  "version": "1"
+}

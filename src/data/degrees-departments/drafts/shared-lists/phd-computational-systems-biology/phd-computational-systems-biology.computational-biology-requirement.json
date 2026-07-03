@@ -1,0 +1,40 @@
+{
+  "sharedListId": "phd-computational-systems-biology.computational-biology-requirement",
+  "program": "phd-computational-systems-biology",
+  "title": "Computational Biology Requirement",
+  "items": [
+    {
+      "type": "subject",
+      "subjectId": "6.C51"
+    },
+    {
+      "type": "subject",
+      "subjectId": "20.C51"
+    },
+    {
+      "type": "subject",
+      "subjectId": "6.8700"
+    },
+    {
+      "type": "subject",
+      "subjectId": "7.81"
+    },
+    {
+      "type": "subject",
+      "subjectId": "20.490"
+    },
+    {
+      "type": "subject",
+      "subjectId": "7.930"
+    },
+    {
+      "type": "subject",
+      "subjectId": "8.396"
+    },
+    {
+      "type": "subject",
+      "subjectId": "8.397"
+    }
+  ],
+  "version": "1"
+}

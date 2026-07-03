@@ -1,0 +1,324 @@
+{
+  "sharedListId": "course-6.track-hardware-and-software",
+  "program": "course-6",
+  "title": "Hardware and Software",
+  "items": [
+    {
+      "type": "subject",
+      "subjectId": "6.1800"
+    },
+    {
+      "type": "subject",
+      "subjectId": "18.404"
+    },
+    {
+      "type": "subject",
+      "subjectId": "6.1040"
+    },
+    {
+      "type": "subject",
+      "subjectId": "6.1060"
+    },
+    {
+      "type": "subject",
+      "subjectId": "6.1100"
+    },
+    {
+      "type": "subject",
+      "subjectId": "6.1120"
+    },
+    {
+      "type": "subject",
+      "subjectId": "6.1220"
+    },
+    {
+      "type": "subject",
+      "subjectId": "6.1400"
+    },
+    {
+      "type": "subject",
+      "subjectId": "6.1420"
+    },
+    {
+      "type": "subject",
+      "subjectId": "6.1600"
+    },
+    {
+      "type": "subject",
+      "subjectId": "6.1810"
+    },
+    {
+      "type": "subject",
+      "subjectId": "6.1820"
+    },
+    {
+      "type": "subject",
+      "subjectId": "6.1850"
+    },
+    {
+      "type": "subject",
+      "subjectId": "6.1852"
+    },
+    {
+      "type": "subject",
+      "subjectId": "6.3950"
+    },
+    {
+      "type": "subject",
+      "subjectId": "6.4500"
+    },
+    {
+      "type": "subject",
+      "subjectId": "6.4510"
+    },
+    {
+      "type": "subject",
+      "subjectId": "6.4530"
+    },
+    {
+      "type": "subject",
+      "subjectId": "6.4550"
+    },
+    {
+      "type": "subject",
+      "subjectId": "6.4590"
+    },
+    {
+      "type": "subject",
+      "subjectId": "6.5060"
+    },
+    {
+      "type": "subject",
+      "subjectId": "6.5080"
+    },
+    {
+      "type": "subject",
+      "subjectId": "6.5081"
+    },
+    {
+      "type": "subject",
+      "subjectId": "6.5110"
+    },
+    {
+      "type": "subject",
+      "subjectId": "6.5120"
+    },
+    {
+      "type": "subject",
+      "subjectId": "6.5210"
+    },
+    {
+      "type": "subject",
+      "subjectId": "6.5220"
+    },
+    {
+      "type": "subject",
+      "subjectId": "6.5230"
+    },
+    {
+      "type": "subject",
+      "subjectId": "6.5240"
+    },
+    {
+      "type": "subject",
+      "subjectId": "6.5250"
+    },
+    {
+      "type": "subject",
+      "subjectId": "6.5310"
+    },
+    {
+      "type": "subject",
+      "subjectId": "6.5320"
+    },
+    {
+      "type": "subject",
+      "subjectId": "6.5340"
+    },
+    {
+      "type": "subject",
+      "subjectId": "6.5350"
+    },
+    {
+      "type": "subject",
+      "subjectId": "6.5360"
+    },
+    {
+      "type": "subject",
+      "subjectId": "6.5370"
+    },
+    {
+      "type": "subject",
+      "subjectId": "6.5380"
+    },
+    {
+      "type": "subject",
+      "subjectId": "6.5390"
+    },
+    {
+      "type": "subject",
+      "subjectId": "6.5400"
+    },
+    {
+      "type": "subject",
+      "subjectId": "6.5410"
+    },
+    {
+      "type": "subject",
+      "subjectId": "6.5420"
+    },
+    {
+      "type": "subject",
+      "subjectId": "6.5430"
+    },
+    {
+      "type": "subject",
+      "subjectId": "6.5480"
+    },
+    {
+      "type": "subject",
+      "subjectId": "6.5490"
+    },
+    {
+      "type": "subject",
+      "subjectId": "6.5610"
+    },
+    {
+      "type": "subject",
+      "subjectId": "6.5620"
+    },
+    {
+      "type": "subject",
+      "subjectId": "6.5630"
+    },
+    {
+      "type": "subject",
+      "subjectId": "6.5660"
+    },
+    {
+      "type": "subject",
+      "subjectId": "6.5810"
+    },
+    {
+      "type": "subject",
+      "subjectId": "6.5820"
+    },
+    {
+      "type": "subject",
+      "subjectId": "6.5821"
+    },
+    {
+      "type": "subject",
+      "subjectId": "6.5830"
+    },
+    {
+      "type": "subject",
+      "subjectId": "6.5831"
+    },
+    {
+      "type": "subject",
+      "subjectId": "6.5840"
+    },
+    {
+      "type": "subject",
+      "subjectId": "6.5850"
+    },
+    {
+      "type": "subject",
+      "subjectId": "6.6040"
+    },
+    {
+      "type": "subject",
+      "subjectId": "6.6410"
+    },
+    {
+      "type": "subject",
+      "subjectId": "6.7980"
+    },
+    {
+      "type": "subject",
+      "subjectId": "6.8510"
+    },
+    {
+      "type": "subject",
+      "subjectId": "6.8530"
+    },
+    {
+      "type": "subject",
+      "subjectId": "6.C35"
+    },
+    {
+      "type": "subject",
+      "subjectId": "6.C395"
+    },
+    {
+      "type": "subject",
+      "subjectId": "6.C85"
+    },
+    {
+      "type": "subject",
+      "subjectId": "18.410"
+    },
+    {
+      "type": "subject",
+      "subjectId": "18.400"
+    },
+    {
+      "type": "subject",
+      "subjectId": "2.78"
+    },
+    {
+      "type": "subject",
+      "subjectId": "21M.385"
+    },
+    {
+      "type": "subject",
+      "subjectId": "18.415"
+    },
+    {
+      "type": "subject",
+      "subjectId": "18.416"
+    },
+    {
+      "type": "subject",
+      "subjectId": "18.437"
+    },
+    {
+      "type": "subject",
+      "subjectId": "18.4041"
+    },
+    {
+      "type": "subject",
+      "subjectId": "18.405"
+    },
+    {
+      "type": "subject",
+      "subjectId": "18.425"
+    },
+    {
+      "type": "subject",
+      "subjectId": "2.111"
+    },
+    {
+      "type": "subject",
+      "subjectId": "8.370"
+    },
+    {
+      "type": "subject",
+      "subjectId": "18.435"
+    },
+    {
+      "type": "subject",
+      "subjectId": "11.C35"
+    },
+    {
+      "type": "subject",
+      "subjectId": "14.C395"
+    },
+    {
+      "type": "subject",
+      "subjectId": "11.C85"
+    }
+  ],
+  "version": "1"
+}

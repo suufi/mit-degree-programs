@@ -1,0 +1,76 @@
+{
+  "sharedListId": "phd-physical-oceanography.physical-bio-chemical-interactions",
+  "program": "phd-physical-oceanography",
+  "title": "Physical-Bio-Chemical Interactions",
+  "items": [
+    {
+      "type": "subject",
+      "subjectId": "1.073"
+    },
+    {
+      "type": "subject",
+      "subjectId": "2.29"
+    },
+    {
+      "type": "subject",
+      "subjectId": "7.410"
+    },
+    {
+      "type": "subject",
+      "subjectId": "7.430"
+    },
+    {
+      "type": "subject",
+      "subjectId": "7.431"
+    },
+    {
+      "type": "subject",
+      "subjectId": "7.434"
+    },
+    {
+      "type": "subject",
+      "subjectId": "7.435"
+    },
+    {
+      "type": "subject",
+      "subjectId": "7.436"
+    },
+    {
+      "type": "subject",
+      "subjectId": "7.437"
+    },
+    {
+      "type": "subject",
+      "subjectId": "7.439"
+    },
+    {
+      "type": "subject",
+      "subjectId": "7.440"
+    },
+    {
+      "type": "subject",
+      "subjectId": "12.702"
+    },
+    {
+      "type": "subject",
+      "subjectId": "12.714"
+    },
+    {
+      "type": "subject",
+      "subjectId": "12.746"
+    },
+    {
+      "type": "subject",
+      "subjectId": "12.802"
+    },
+    {
+      "type": "subject",
+      "subjectId": "12.805"
+    },
+    {
+      "type": "subject",
+      "subjectId": "12.823"
+    }
+  ],
+  "version": "1"
+}

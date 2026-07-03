@@ -1,0 +1,244 @@
+{
+  "schemaVersion": "2",
+  "program": "phd-brain-cognitive-sciences",
+  "title": "Brain and Cognitive Sciences Fields (PhD)",
+  "level": "graduate",
+  "complete": false,
+  "catalogSource": {
+    "url": "https://catalog.mit.edu/degree-charts/phd-brain-cognitive-sciences/",
+    "slug": "phd-brain-cognitive-sciences",
+    "scrapedAt": "2026-07-03",
+    "contentHash": "79d44c67257438aaf004c719d5c06d628f55a11216d01db89b17ea96093bad03"
+  },
+  "footnotes": [
+    {
+      "id": "1",
+      "text": "Each subject may only fulfill one requirement."
+    },
+    {
+      "id": "2",
+      "text": "9.013 Molecular and Cellular Neuroscience Core II may satisfy the Core 2 requirement if 9.015 Molecular and Cellular Neuroscience Core I has been taken."
+    },
+    {
+      "id": "3",
+      "text": "Harvard subjects PSY2170, PSY2020 or MCB231 may satisfy Core 2 requirement if 9.012 Cognitive Science has been taken."
+    },
+    {
+      "id": "4",
+      "text": "9.360 Neurobiology of Self may satisfy Core 2 requirement if 9.011 Systems Neuroscience Core I has been taken."
+    },
+    {
+      "id": "5",
+      "text": "Harvard subject PSY 1950 Intermediate Statistical Analysis in Psychology can also be used to fulfill this requirement. Students can petition for a different subject to fulfill this requirement by contacting the BCS graduate officer."
+    },
+    {
+      "id": "6",
+      "text": "Students are encouraged to ask for advice from their advisor. All 12-unit BCS graduate subjects (excluding the Core Subjects) are approved electives. In some cases, students may wish to replace a 12-unit subject with two 6-unit subjects; take a subject in any other MIT department; or enroll in a subject outside MIT (e.g., Harvard, BU, etc); these exceptions require advance approval of the BCS graduate officer. An additional statistics subject, beyond that used to fulfill the Statistics requirement, can be used to meet one Elective subject requirement."
+    },
+    {
+      "id": "7",
+      "text": "Students must participate in two department-approved professional development activities, registering for 9.990 during each term of participation. One credit unit will be awarded only upon completion of two activities. A list of pre-approved professional development activities is available on the BCS website. Students may also petition other professional development activities."
+    },
+    {
+      "id": "8",
+      "text": "Students will register for 9.921 Research in Brain and Cognitive Sciences during each semester of the program, including during summer, until they pass 9.941 Graduate Thesis Proposal in the spring term of their fourth year. Thereafter, they will register for 9.THG Graduate Thesis. Students must be registered for 9.THG Graduate Thesis during the semester in which they will graduate."
+    }
+  ],
+  "constraints": [],
+  "requirements": [
+    {
+      "groupId": "phd-brain-cognitive-sciences-required-subjects",
+      "title": "Required Subjects",
+      "bucket": "departmental",
+      "subcategory": "required_subjects",
+      "flexibility": {
+        "advisorApproval": false,
+        "catalogText": "Core 11"
+      },
+      "root": {
+        "type": "group",
+        "ruleType": "all_of",
+        "items": [
+          {
+            "type": "subject",
+            "subjectId": "9.401"
+          },
+          {
+            "type": "subject",
+            "subjectId": "9.901"
+          },
+          {
+            "type": "selection",
+            "ruleType": "choose_units",
+            "ruleValue": 12,
+            "itemsSource": "advisor_defined",
+            "note": "Core 11",
+            "flexibility": {
+              "catalogText": "Core 11"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "groupId": "phd-brain-cognitive-sciences-must-complete-one-of-the-subjects-listed-below-with-a-grade-of-b-or-higher",
+      "title": "Must complete one of the subjects listed below with a grade of B or higher:",
+      "bucket": "departmental",
+      "subcategory": "required_subjects",
+      "flexibility": {
+        "advisorApproval": false,
+        "catalogText": "Core 21, 3"
+      },
+      "root": {
+        "type": "group",
+        "ruleType": "all_of",
+        "items": [
+          {
+            "type": "subject",
+            "subjectId": "9.011"
+          },
+          {
+            "type": "subject",
+            "subjectId": "9.012"
+          },
+          {
+            "type": "subject",
+            "subjectId": "9.014"
+          },
+          {
+            "type": "subject",
+            "subjectId": "9.015"
+          },
+          {
+            "type": "selection",
+            "ruleType": "choose_units",
+            "ruleValue": 12,
+            "itemsSource": "advisor_defined",
+            "note": "Core 21, 3",
+            "flexibility": {
+              "catalogText": "Core 21, 3"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "groupId": "phd-brain-cognitive-sciences-must-complete-one-12-unit-subject-with-a-grade-of-b-or-higher",
+      "title": "Must complete one 12-unit subject with a grade of B or higher:",
+      "bucket": "departmental",
+      "subcategory": "required_subjects",
+      "flexibility": {
+        "advisorApproval": false,
+        "catalogText": "Electives6"
+      },
+      "root": {
+        "type": "group",
+        "ruleType": "all_of",
+        "items": [
+          {
+            "type": "subject",
+            "subjectId": "9.014"
+          },
+          {
+            "type": "subject",
+            "subjectId": "9.073"
+          },
+          {
+            "type": "subject",
+            "subjectId": "9.272"
+          },
+          {
+            "type": "subject",
+            "subjectId": "9.520"
+          },
+          {
+            "type": "subject",
+            "subjectId": "9.521"
+          },
+          {
+            "type": "subject",
+            "subjectId": "12.444"
+          },
+          {
+            "type": "subject",
+            "subjectId": "16.391"
+          },
+          {
+            "type": "selection",
+            "ruleType": "choose_units",
+            "ruleValue": 24,
+            "itemsSource": "advisor_defined",
+            "note": "Electives6",
+            "flexibility": {
+              "catalogText": "Electives6"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "groupId": "phd-brain-cognitive-sciences-qualifying-exam",
+      "title": "Qualifying Exam",
+      "bucket": "departmental",
+      "subcategory": "required_subjects",
+      "root": {
+        "type": "subject",
+        "subjectId": "9.300"
+      }
+    },
+    {
+      "groupId": "phd-brain-cognitive-sciences-professional-development7",
+      "title": "Professional Development7",
+      "bucket": "departmental",
+      "subcategory": "required_subjects",
+      "root": {
+        "type": "subject",
+        "subjectId": "9.990"
+      }
+    },
+    {
+      "groupId": "phd-brain-cognitive-sciences-teaching-and-research",
+      "title": "Teaching and Research",
+      "bucket": "departmental",
+      "subcategory": "required_subjects",
+      "root": {
+        "type": "group",
+        "ruleType": "all_of",
+        "items": [
+          {
+            "type": "subject",
+            "subjectId": "9.919"
+          },
+          {
+            "type": "subject",
+            "subjectId": "9.921"
+          }
+        ]
+      }
+    },
+    {
+      "groupId": "phd-brain-cognitive-sciences-thesis",
+      "title": "Thesis",
+      "bucket": "thesis",
+      "subcategory": "thesis",
+      "root": {
+        "type": "group",
+        "ruleType": "all_of",
+        "items": [
+          {
+            "type": "subject",
+            "subjectId": "9.941"
+          },
+          {
+            "type": "subject",
+            "subjectId": "9.THG"
+          }
+        ]
+      }
+    }
+  ],
+  "status": "draft",
+  "revisionId": "phd-brain-cognitive-sciences-2026-07-03-79d44c67",
+  "catalogYear": "2026",
+  "effectiveTerm": "2026-FA"
+}

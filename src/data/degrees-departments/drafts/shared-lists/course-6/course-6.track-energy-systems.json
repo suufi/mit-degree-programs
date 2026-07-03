@@ -1,0 +1,48 @@
+{
+  "sharedListId": "course-6.track-energy-systems",
+  "program": "course-6",
+  "title": "Energy Systems",
+  "items": [
+    {
+      "type": "subject",
+      "subjectId": "6.2200"
+    },
+    {
+      "type": "subject",
+      "subjectId": "6.2202"
+    },
+    {
+      "type": "subject",
+      "subjectId": "6.2210"
+    },
+    {
+      "type": "subject",
+      "subjectId": "6.2220"
+    },
+    {
+      "type": "subject",
+      "subjectId": "6.2221"
+    },
+    {
+      "type": "subject",
+      "subjectId": "6.3100"
+    },
+    {
+      "type": "subject",
+      "subjectId": "6.6220"
+    },
+    {
+      "type": "subject",
+      "subjectId": "6.6230"
+    },
+    {
+      "type": "subject",
+      "subjectId": "6.7120"
+    },
+    {
+      "type": "subject",
+      "subjectId": "6.7121"
+    }
+  ],
+  "version": "1"
+}

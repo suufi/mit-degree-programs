@@ -1,0 +1,96 @@
+Degree Charts
+
+- [Home](https://catalog.mit.edu/) >
+- [Degree Charts](https://catalog.mit.edu/degree-charts/) >
+- Engineering (SB, Course 1-ENG)
+
+# Engineering (Course 1-ENG)
+
+[Department of Civil and Environmental Engineering](https://catalog.mit.edu/schools/engineering/civil-environmental-engineering/#undergraduatetext)
+
+## Bachelor of Science in Engineering
+
+### General Institute Requirements (GIRs)
+
+The General Institute Requirements include a Communication Requirement that is integrated into both the HASS Requirement and the requirements of each major; see details below.
+
+| Summary of Subject Requirements | Subjects |
+| --- | --- |
+| Science Requirement | 6 |
+| Humanities, Arts, and Social Sciences (HASS) Requirement; at least two of these subjects must be designated as communication-intensive (CI-H) to fulfill the Communication Requirement. | 8 |
+| Restricted Electives in Science and Technology (REST) Requirement \[can be satisfied by [1.000](https://catalog.mit.edu/search/?P=1.000 "1.000") and [18.03](https://catalog.mit.edu/search/?P=18.03 "18.03") in the Departmental Program\] | 2 |
+| Laboratory Requirement (12 units) \[can be satisfied from among [1.101](https://catalog.mit.edu/search/?P=1.101 "1.101") and [1.104](https://catalog.mit.edu/search/?P=1.104 "1.104") or [1.106](https://catalog.mit.edu/search/?P=1.106 "1.106") and [1.107](https://catalog.mit.edu/search/?P=1.107 "1.107") in the Departmental Program\] | 1 |
+| **Total GIR Subjects Required for SB Degree** | **17** |
+
+| Physical Education Requirement |  |
+| --- | --- |
+| Swimming requirement, plus four physical education courses for eight points. |  |
+
+### Departmental Program
+
+Choose at least two subjects in the major that are designated as communication-intensive (CI-M) to fulfill the Communication Requirement.
+
+|     |     |     |
+| --- | --- | --- |
+| General Department Requirements (GDRs) | **Units** |
+| [1.000](https://catalog.mit.edu/search/?P=1.000 "1.000") | Introduction to Computer Programming and Numerical Methods for Engineering Applications | 12 |
+| [1.010A](https://catalog.mit.edu/search/?P=1.010A "1.010A") | Probability: Concepts and Applications | 6 |
+| [1.013](https://catalog.mit.edu/search/?P=1.013 "1.013") | Senior Civil and Environmental Engineering Design (CI-M) 1 | 12 |
+| [1.073](https://catalog.mit.edu/search/?P=1.073 "1.073") | Introduction to Environmental Data Analysis | 6 |
+| or [1.074](https://catalog.mit.edu/search/?P=1.074 "1.074") | Multivariate Data Analysis |
+| [1.101](https://catalog.mit.edu/search/?P=1.101 "1.101") | Introduction to Civil and Environmental Engineering Design | 6 |
+| [18.03](https://catalog.mit.edu/search/?P=18.03 "18.03") | Differential Equations | 12 |
+| Core Subjects |  |
+| Select one area of core coursework | 63-66 |
+| Environment |  |
+| [1.018\[J\]](https://catalog.mit.edu/search/?P=1.018 "1.018[J]") | Fundamentals of Ecology |  |
+| [1.060](https://catalog.mit.edu/search/?P=1.060 "1.060") | Fluid Mechanics |  |
+| [1.061A](https://catalog.mit.edu/search/?P=1.061A "1.061A") | Transport Processes in the Environment I |  |
+| [1.080](https://catalog.mit.edu/search/?P=1.080 "1.080") | Chemicals in the Environment |  |
+| [1.091](https://catalog.mit.edu/search/?P=1.091 "1.091") | Traveling Research Environmental eXperience (TREX): Fieldwork |  |
+| [1.105](https://catalog.mit.edu/search/?P=1.105 "1.105") | Environmental Biology Laboratory |  |
+| [1.106](https://catalog.mit.edu/search/?P=1.106 "1.106") | Environmental Fluid Mechanics Lab |  |
+| [1.107](https://catalog.mit.edu/search/?P=1.107 "1.107") | Water and Air Quality Laboratory (CI-M) |  |
+| Mechanics/Materials |  |
+| [1.035](https://catalog.mit.edu/search/?P=1.035 "1.035") | Mechanics of Materials |  |
+| [1.036](https://catalog.mit.edu/search/?P=1.036 "1.036") | Structural Mechanics and Design |  |
+| [1.050](https://catalog.mit.edu/search/?P=1.050 "1.050") | Solid Mechanics |  |
+| [1.056\[J\]](https://catalog.mit.edu/search/?P=1.056 "1.056[J]") | Introduction to Structural Design |  |
+| [1.060](https://catalog.mit.edu/search/?P=1.060 "1.060") | Fluid Mechanics |  |
+| [1.104](https://catalog.mit.edu/search/?P=1.104 "1.104") | Sensing and Intelligent Systems (CI-M) |  |
+| Energy, Transportation, and Societal Systems |  |
+| [1.020](https://catalog.mit.edu/search/?P=1.020 "1.020") | Modeling and Decision-Making for Sustainability |  |
+| [1.022](https://catalog.mit.edu/search/?P=1.022 "1.022") | Introduction to Network Models |  |
+| [1.041\[J\]](https://catalog.mit.edu/search/?P=1.041 "1.041[J]") | Transportation: Foundations and Methods |  |
+| [1.050](https://catalog.mit.edu/search/?P=1.050 "1.050") | Solid Mechanics |  |
+| or [1.060](https://catalog.mit.edu/search/?P=1.060 "1.060") | Fluid Mechanics |
+| [1.104](https://catalog.mit.edu/search/?P=1.104 "1.104") | Sensing and Intelligent Systems (CI-M) |  |
+| [15.053](https://catalog.mit.edu/search/?P=15.053 "15.053") | Optimization Methods in Business Analytics |  |
+| Elective Subjects with Engineering Content2 |  |
+| Students are required to take at least four Restricted Electives selected from subjects offered within or outside CEE to form a coherent program of study under supervision by CEE faculty. | 48-51 |
+| Units in Major | 168 |
+| Unrestricted Electives2 | 48 |
+| Units in Major That Also Satisfy the GIRs | (36) |
+| Total Units Beyond the GIRs Required for SB Degree | 180 |
+
+The units for any subject that counts as one of the 17 GIR subjects cannot also be counted as units required beyond the GIRs.
+
+|     |     |
+| --- | --- |
+| _1_ | _Students are expected to take 6-unit 1.013 twice._ |
+| _2_ | _In order to reach the 180 units beyond the GIRs required, students may need to take more than 48 units of Restricted and/or Unrestricted Electives. See the catalog for a list of [CEE subjects](https://catalog.mit.edu/subjects/1/ "https://catalog.mit.edu/subjects/1/"). Direct requests for more information to [cee-apo@mit.edu](mailto:cee-apo@mit.edu)._ |
+
+Print Options
+
+
+[Send Page to Printer](https://catalog.mit.edu/degree-charts/engineering-civil-environmental-engineering-course-1-eng/#)
+
+_Print this page._
+
+[Download PDF of this Page](https://catalog.mit.edu/degree-charts/engineering-civil-environmental-engineering-course-1-eng/engineering-civil-environmental-engineering-course-1-eng.pdf)
+
+_The PDF includes all information on this page and its related tabs. Subject (course) information includes any changes approved for the current academic year._
+
+[Download PDF of the Entire Catalog and/or Subject Descriptions](https://catalog.mit.edu/archive/)
+
+[Cancel](https://catalog.mit.edu/degree-charts/engineering-civil-environmental-engineering-course-1-eng/#)

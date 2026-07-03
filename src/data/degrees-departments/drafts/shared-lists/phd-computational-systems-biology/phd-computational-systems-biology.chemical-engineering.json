@@ -1,0 +1,24 @@
+{
+  "sharedListId": "phd-computational-systems-biology.chemical-engineering",
+  "program": "phd-computational-systems-biology",
+  "title": "Chemical Engineering",
+  "items": [
+    {
+      "type": "subject",
+      "subjectId": "10.544"
+    },
+    {
+      "type": "subject",
+      "subjectId": "10.555"
+    },
+    {
+      "type": "subject",
+      "subjectId": "10.557"
+    },
+    {
+      "type": "subject",
+      "subjectId": "10.637"
+    }
+  ],
+  "version": "1"
+}

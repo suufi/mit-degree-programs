@@ -1,0 +1,24 @@
+{
+  "sharedListId": "course-6.track-communications-and-networks",
+  "program": "course-6",
+  "title": "Communications and Networks",
+  "items": [
+    {
+      "type": "subject",
+      "subjectId": "6.1800"
+    },
+    {
+      "type": "subject",
+      "subjectId": "6.3000"
+    },
+    {
+      "type": "subject",
+      "subjectId": "6.3010"
+    },
+    {
+      "type": "subject",
+      "subjectId": "6.7411"
+    }
+  ],
+  "version": "1"
+}

@@ -1,0 +1,24 @@
+{
+  "sharedListId": "interdisciplinary-doctoral-statistics.common-core",
+  "program": "interdisciplinary-doctoral-statistics",
+  "title": "Common Core",
+  "items": [
+    {
+      "type": "subject",
+      "subjectId": "6.7700"
+    },
+    {
+      "type": "subject",
+      "subjectId": "18.675"
+    },
+    {
+      "type": "subject",
+      "subjectId": "18.6501"
+    },
+    {
+      "type": "subject",
+      "subjectId": "18.655"
+    }
+  ],
+  "version": "1"
+}

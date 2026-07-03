@@ -1,0 +1,36 @@
+{
+  "sharedListId": "course-6.track-nanoelectronics",
+  "program": "course-6",
+  "title": "Nanoelectronics",
+  "items": [
+    {
+      "type": "subject",
+      "subjectId": "6.2500"
+    },
+    {
+      "type": "subject",
+      "subjectId": "6.2540"
+    },
+    {
+      "type": "subject",
+      "subjectId": "6.2600"
+    },
+    {
+      "type": "subject",
+      "subjectId": "6.6500"
+    },
+    {
+      "type": "subject",
+      "subjectId": "3.158"
+    },
+    {
+      "type": "subject",
+      "subjectId": "3.155"
+    },
+    {
+      "type": "subject",
+      "subjectId": "3.43"
+    }
+  ],
+  "version": "1"
+}

@@ -1,0 +1,200 @@
+{
+  "sharedListId": "6-7p.bioeecs-aags",
+  "program": "6-7p",
+  "title": "BIOEECS_AAGS",
+  "items": [
+    {
+      "type": "subject",
+      "subjectId": "6.8850"
+    },
+    {
+      "type": "subject",
+      "subjectId": "7.411"
+    },
+    {
+      "type": "subject",
+      "subjectId": "7.421"
+    },
+    {
+      "type": "subject",
+      "subjectId": "7.430"
+    },
+    {
+      "type": "subject",
+      "subjectId": "7.431"
+    },
+    {
+      "type": "subject",
+      "subjectId": "7.432"
+    },
+    {
+      "type": "subject",
+      "subjectId": "7.433"
+    },
+    {
+      "type": "subject",
+      "subjectId": "7.434"
+    },
+    {
+      "type": "subject",
+      "subjectId": "7.435"
+    },
+    {
+      "type": "subject",
+      "subjectId": "7.436"
+    },
+    {
+      "type": "subject",
+      "subjectId": "7.437"
+    },
+    {
+      "type": "subject",
+      "subjectId": "7.438"
+    },
+    {
+      "type": "subject",
+      "subjectId": "7.439"
+    },
+    {
+      "type": "subject",
+      "subjectId": "7.440"
+    },
+    {
+      "type": "subject",
+      "subjectId": "7.491"
+    },
+    {
+      "type": "subject",
+      "subjectId": "7.492"
+    },
+    {
+      "type": "subject",
+      "subjectId": "7.493"
+    },
+    {
+      "type": "subject",
+      "subjectId": "7.494"
+    },
+    {
+      "type": "subject",
+      "subjectId": "7.498"
+    },
+    {
+      "type": "subject",
+      "subjectId": "7.499"
+    },
+    {
+      "type": "subject",
+      "subjectId": "7.50"
+    },
+    {
+      "type": "subject",
+      "subjectId": "7.51"
+    },
+    {
+      "type": "subject",
+      "subjectId": "7.52"
+    },
+    {
+      "type": "subject",
+      "subjectId": "7.540"
+    },
+    {
+      "type": "subject",
+      "subjectId": "7.547"
+    },
+    {
+      "type": "subject",
+      "subjectId": "7.55"
+    },
+    {
+      "type": "subject",
+      "subjectId": "7.57"
+    },
+    {
+      "type": "subject",
+      "subjectId": "7.58"
+    },
+    {
+      "type": "subject",
+      "subjectId": "7.60"
+    },
+    {
+      "type": "subject",
+      "subjectId": "7.61"
+    },
+    {
+      "type": "subject",
+      "subjectId": "7.62"
+    },
+    {
+      "type": "subject",
+      "subjectId": "7.63"
+    },
+    {
+      "type": "subject",
+      "subjectId": "7.64"
+    },
+    {
+      "type": "subject",
+      "subjectId": "7.66"
+    },
+    {
+      "type": "subject",
+      "subjectId": "7.69"
+    },
+    {
+      "type": "subject",
+      "subjectId": "7.70"
+    },
+    {
+      "type": "subject",
+      "subjectId": "7.71"
+    },
+    {
+      "type": "subject",
+      "subjectId": "7.72"
+    },
+    {
+      "type": "subject",
+      "subjectId": "7.76"
+    },
+    {
+      "type": "subject",
+      "subjectId": "7.77"
+    },
+    {
+      "type": "subject",
+      "subjectId": "7.80"
+    },
+    {
+      "type": "subject",
+      "subjectId": "7.81"
+    },
+    {
+      "type": "subject",
+      "subjectId": "7.82"
+    },
+    {
+      "type": "subject",
+      "subjectId": "7.89"
+    },
+    {
+      "type": "subject",
+      "subjectId": "7.935"
+    },
+    {
+      "type": "subject",
+      "subjectId": "7.95"
+    },
+    {
+      "type": "subject",
+      "subjectId": "7.98"
+    },
+    {
+      "type": "subject",
+      "subjectId": "8.181"
+    }
+  ],
+  "version": "1"
+}

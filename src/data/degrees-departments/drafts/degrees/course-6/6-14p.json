@@ -1,0 +1,587 @@
+{
+  "schemaVersion": "2",
+  "program": "6-14p",
+  "title": "Computer Science, Economics, and Data Science (MEng, Course 6-14P)",
+  "level": "graduate",
+  "complete": false,
+  "catalogYear": "2022",
+  "effectiveTerm": "2022-FA",
+  "eecsSource": {
+    "url": "https://eecsis.mit.edu/degree_requirements.pcgi?program=6-P14",
+    "programKey": "6-P14_2022",
+    "enterYear": 2022,
+    "level": "MNG",
+    "scrapedAt": "2026-07-03",
+    "contentHash": "b84bfeb07e939c9ae5f5696eaaaca799e29394cf574b4f9e36df73b510e39be7"
+  },
+  "footnotes": [
+    {
+      "id": "1",
+      "text": "You must follow these requirements"
+    },
+    {
+      "id": "2",
+      "text": "Includes subjects as of Fall 2026"
+    },
+    {
+      "id": "3",
+      "text": "Each completed subject can only be used to satisfy at most one _required_ subject but can be used to satisfy multiple _additional constraints_."
+    },
+    {
+      "id": "4",
+      "text": "![](https://eecsis.mit.edu/images/fall.gif): only offered fall term ![](https://eecsis.mit.edu/images/spring.gif): only offered spring term grey: not offered this academic year."
+    },
+    {
+      "id": "5",
+      "text": "If your primary major is 6-14, at most three of your economics subjects may count toward the eight-subject HASS requirement."
+    },
+    {
+      "id": "6",
+      "text": "16.0002/18.0002/CSE.01 are acceptable alternatives to 6.0002"
+    }
+  ],
+  "constraints": [],
+  "requirements": [
+    {
+      "groupId": "6-14p-required-subjects",
+      "title": "Required Subjects",
+      "bucket": "departmental",
+      "subcategory": "required_subjects",
+      "root": {
+        "type": "group",
+        "ruleType": "all_of",
+        "items": [
+          {
+            "type": "group",
+            "ruleType": "all_of",
+            "items": [
+              {
+                "type": "subject",
+                "subjectId": "18.06"
+              },
+              {
+                "type": "subject",
+                "subjectId": "18.06"
+              },
+              {
+                "type": "subject",
+                "subjectId": "18.06"
+              },
+              {
+                "type": "subject",
+                "subjectId": "18.C06"
+              },
+              {
+                "type": "subject",
+                "subjectId": "6.C06"
+              },
+              {
+                "type": "subject",
+                "subjectId": "18.C06"
+              },
+              {
+                "type": "subject",
+                "subjectId": "6.C06"
+              },
+              {
+                "type": "subject",
+                "subjectId": "18.C06"
+              },
+              {
+                "type": "subject",
+                "subjectId": "6.C06"
+              },
+              {
+                "type": "subject",
+                "subjectId": "14.30"
+              },
+              {
+                "type": "subject",
+                "subjectId": "14.30"
+              },
+              {
+                "type": "subject",
+                "subjectId": "14.30"
+              },
+              {
+                "type": "subject",
+                "subjectId": "18.600"
+              },
+              {
+                "type": "subject",
+                "subjectId": "18.600"
+              },
+              {
+                "type": "subject",
+                "subjectId": "6.3700"
+              },
+              {
+                "type": "subject",
+                "subjectId": "6.3700"
+              },
+              {
+                "type": "subject",
+                "subjectId": "6.1200"
+              },
+              {
+                "type": "subject",
+                "subjectId": "18.062"
+              },
+              {
+                "type": "subject",
+                "subjectId": "6.1200"
+              }
+            ],
+            "note": "Three math subjects"
+          },
+          {
+            "type": "group",
+            "ruleType": "all_of",
+            "items": [
+              {
+                "type": "subject",
+                "subjectId": "6.1000"
+              },
+              {
+                "type": "subject",
+                "subjectId": "6.1000"
+              },
+              {
+                "type": "subject",
+                "subjectId": "6.1000"
+              },
+              {
+                "type": "subject",
+                "subjectId": "6.100A"
+              },
+              {
+                "type": "subject",
+                "subjectId": "6.100A"
+              },
+              {
+                "type": "subject",
+                "subjectId": "18.0002"
+              },
+              {
+                "type": "subject",
+                "subjectId": "6.100B"
+              },
+              {
+                "type": "subject",
+                "subjectId": "6.100A"
+              },
+              {
+                "type": "subject",
+                "subjectId": "6.100B"
+              },
+              {
+                "type": "subject",
+                "subjectId": "6.1010"
+              },
+              {
+                "type": "subject",
+                "subjectId": "6.1000"
+              },
+              {
+                "type": "subject",
+                "subjectId": "6.100A"
+              },
+              {
+                "type": "subject",
+                "subjectId": "6.100B"
+              },
+              {
+                "type": "subject",
+                "subjectId": "16.C20"
+              },
+              {
+                "type": "subject",
+                "subjectId": "6.1010"
+              },
+              {
+                "type": "subject",
+                "subjectId": "6.1210"
+              },
+              {
+                "type": "subject",
+                "subjectId": "6.100A"
+              },
+              {
+                "type": "subject",
+                "subjectId": "6.1200"
+              },
+              {
+                "type": "subject",
+                "subjectId": "6.120A"
+              },
+              {
+                "type": "subject",
+                "subjectId": "6.3700"
+              },
+              {
+                "type": "subject",
+                "subjectId": "6.3800"
+              },
+              {
+                "type": "subject",
+                "subjectId": "18.05"
+              },
+              {
+                "type": "subject",
+                "subjectId": "18.600"
+              },
+              {
+                "type": "subject",
+                "subjectId": "6.1210"
+              },
+              {
+                "type": "subject",
+                "subjectId": "6.1220"
+              },
+              {
+                "type": "subject",
+                "subjectId": "18.410"
+              },
+              {
+                "type": "subject",
+                "subjectId": "6.1200"
+              },
+              {
+                "type": "subject",
+                "subjectId": "6.1210"
+              },
+              {
+                "type": "subject",
+                "subjectId": "6.1220"
+              },
+              {
+                "type": "subject",
+                "subjectId": "6.3900"
+              },
+              {
+                "type": "subject",
+                "subjectId": "6.1000"
+              },
+              {
+                "type": "subject",
+                "subjectId": "6.1210"
+              },
+              {
+                "type": "subject",
+                "subjectId": "18.03"
+              },
+              {
+                "type": "subject",
+                "subjectId": "18.06"
+              },
+              {
+                "type": "subject",
+                "subjectId": "6.3900"
+              },
+              {
+                "type": "subject",
+                "subjectId": "6.C01"
+              },
+              {
+                "type": "subject",
+                "subjectId": "6.100A"
+              },
+              {
+                "type": "subject",
+                "subjectId": "1.C01"
+              },
+              {
+                "type": "subject",
+                "subjectId": "2.C01"
+              },
+              {
+                "type": "subject",
+                "subjectId": "3.C01"
+              },
+              {
+                "type": "subject",
+                "subjectId": "6.C011"
+              },
+              {
+                "type": "subject",
+                "subjectId": "7.C01"
+              },
+              {
+                "type": "subject",
+                "subjectId": "15.C01"
+              },
+              {
+                "type": "subject",
+                "subjectId": "22.C01"
+              },
+              {
+                "type": "subject",
+                "subjectId": "6.C01"
+              },
+              {
+                "type": "subject",
+                "subjectId": "6.C011"
+              },
+              {
+                "type": "subject",
+                "subjectId": "6.100A"
+              },
+              {
+                "type": "subject",
+                "subjectId": "6.C01"
+              },
+              {
+                "type": "subject",
+                "subjectId": "6.1200"
+              },
+              {
+                "type": "subject",
+                "subjectId": "6.3700"
+              },
+              {
+                "type": "subject",
+                "subjectId": "18.06"
+              },
+              {
+                "type": "subject",
+                "subjectId": "18.C06"
+              },
+              {
+                "type": "subject",
+                "subjectId": "6.C011"
+              }
+            ],
+            "note": "Five computation and algorithms subjects"
+          },
+          {
+            "type": "group",
+            "ruleType": "all_of",
+            "items": [
+              {
+                "type": "subject",
+                "subjectId": "14.01"
+              },
+              {
+                "type": "subject",
+                "subjectId": "14.01"
+              },
+              {
+                "type": "subject",
+                "subjectId": "14.01"
+              },
+              {
+                "type": "subject",
+                "subjectId": "14.03"
+              },
+              {
+                "type": "subject",
+                "subjectId": "14.01"
+              },
+              {
+                "type": "subject",
+                "subjectId": "14.03"
+              },
+              {
+                "type": "subject",
+                "subjectId": "14.32"
+              },
+              {
+                "type": "subject",
+                "subjectId": "14.32"
+              },
+              {
+                "type": "subject",
+                "subjectId": "14.30"
+              },
+              {
+                "type": "subject",
+                "subjectId": "15.069"
+              },
+              {
+                "type": "subject",
+                "subjectId": "18.650"
+              },
+              {
+                "type": "subject",
+                "subjectId": "14.32"
+              },
+              {
+                "type": "selection",
+                "ruleType": "choose_one",
+                "items": [
+                  {
+                    "type": "subject",
+                    "subjectId": "14.05"
+                  },
+                  {
+                    "type": "subject",
+                    "subjectId": "14.18"
+                  },
+                  {
+                    "type": "subject",
+                    "subjectId": "14.33"
+                  },
+                  {
+                    "type": "subject",
+                    "subjectId": "14.35"
+                  }
+                ],
+                "itemsSource": "explicit"
+              }
+            ],
+            "note": "Three economics subjects"
+          },
+          {
+            "type": "selection",
+            "ruleType": "choose_one",
+            "items": [
+              {
+                "type": "subject",
+                "subjectId": "15.276"
+              },
+              {
+                "type": "subject",
+                "subjectId": "6.UAR"
+              },
+              {
+                "type": "subject",
+                "subjectId": "6.UAT"
+              },
+              {
+                "type": "subject",
+                "subjectId": "2.UAR"
+              }
+            ],
+            "itemsSource": "explicit"
+          },
+          {
+            "type": "selection",
+            "ruleType": "choose_one",
+            "items": [
+              {
+                "type": "subject",
+                "subjectId": "6.9830"
+              },
+              {
+                "type": "subject",
+                "subjectId": "6.9870"
+              },
+              {
+                "type": "subject",
+                "subjectId": "6.9880"
+              }
+            ],
+            "itemsSource": "explicit"
+          },
+          {
+            "type": "selection",
+            "ruleType": "choose_one",
+            "items": [
+              {
+                "type": "subject",
+                "subjectId": "6.THM"
+              }
+            ],
+            "itemsSource": "explicit"
+          }
+        ]
+      }
+    },
+    {
+      "groupId": "6-14p-computer-science-elective",
+      "title": "computer science elective",
+      "bucket": "elective",
+      "subcategory": "elective_subjects",
+      "root": {
+        "type": "selection",
+        "ruleType": "choose_n",
+        "ruleValue": 1,
+        "items": [
+          {
+            "type": "subject",
+            "subjectId": "15.053"
+          },
+          {
+            "type": "subject",
+            "subjectId": "6.3260"
+          },
+          {
+            "type": "subject",
+            "subjectId": "6.7201"
+          },
+          {
+            "type": "subject",
+            "subjectId": "6.C395"
+          },
+          {
+            "type": "subject",
+            "subjectId": "6.C571"
+          }
+        ],
+        "itemsSource": "explicit",
+        "note": "One **computer science elective** subject:"
+      }
+    },
+    {
+      "groupId": "6-14p-economics-elective",
+      "title": "economics elective",
+      "bucket": "elective",
+      "subcategory": "elective_subjects",
+      "root": {
+        "type": "group",
+        "ruleType": "all_of",
+        "items": [
+          {
+            "type": "selection",
+            "ruleType": "choose_n",
+            "ruleValue": 1,
+            "itemsSource": "shared_list_union",
+            "sharedListIds": [
+              "6-14p.econds"
+            ],
+            "note": "One from the [ECONDS](https://eecsis.mit.edu/degree_requirements.pcgi?program=6-P14#ECONDS) list"
+          },
+          {
+            "type": "selection",
+            "ruleType": "choose_n",
+            "ruleValue": 1,
+            "itemsSource": "shared_list_union",
+            "sharedListIds": [
+              "6-14p.econth"
+            ],
+            "note": "One from the [ECONTH](https://eecsis.mit.edu/degree_requirements.pcgi?program=6-P14#ECONTH) list"
+          },
+          {
+            "type": "selection",
+            "ruleType": "choose_n",
+            "ruleValue": 1,
+            "itemsSource": "shared_list_union",
+            "sharedListIds": [
+              "6-14p.econds",
+              "6-14p.econth"
+            ],
+            "note": "One from the [ECONDS](https://eecsis.mit.edu/degree_requirements.pcgi?program=6-P14#ECONDS) or [ECONTH](https://eecsis.mit.edu/degree_requirements.pcgi?program=6-P14#ECONTH) list"
+          }
+        ]
+      }
+    },
+    {
+      "groupId": "6-14p-econ-math-restricted-elective",
+      "title": "Econ Math Restricted Elective",
+      "bucket": "elective",
+      "subcategory": "elective_subjects",
+      "root": {
+        "type": "selection",
+        "ruleType": "choose_n",
+        "ruleValue": 2,
+        "itemsSource": "shared_list_union",
+        "sharedListIds": [
+          "6-14p.econ-math-restricted-electives"
+        ],
+        "note": "Two from the [Econ Math Restricted Electives](https://eecsis.mit.edu/degree_requirements.pcgi?program=6-P14#Econ%20Math%20Restricted%20Electives) list"
+      }
+    }
+  ],
+  "status": "draft",
+  "revisionId": "6-14p-2026-07-03-fc44195d"
+}

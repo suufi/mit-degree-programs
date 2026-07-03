@@ -1,0 +1,20 @@
+{
+  "sharedListId": "15-2.select-up-to-one-of-the-following",
+  "program": "15-2",
+  "title": "Select up to one of the following:",
+  "items": [
+    {
+      "type": "subject",
+      "subjectId": "15.417"
+    },
+    {
+      "type": "subject",
+      "subjectId": "15.501"
+    },
+    {
+      "type": "subject",
+      "subjectId": "15.9001"
+    }
+  ],
+  "version": "1"
+}

@@ -1,0 +1,256 @@
+{
+  "schemaVersion": "2",
+  "program": "phd-biological-oceanography",
+  "title": "Biological Oceanography (PhD)",
+  "level": "graduate",
+  "complete": false,
+  "catalogSource": {
+    "url": "https://catalog.mit.edu/degree-charts/phd-biological-oceanography/",
+    "slug": "phd-biological-oceanography",
+    "scrapedAt": "2026-07-03",
+    "contentHash": "69876da45d2ee8ff8f67ff5d14e88b7c7d5e54d9b01d54e0f9bc7a99e49cbff1"
+  },
+  "footnotes": [
+    {
+      "id": "1",
+      "text": "Harvard courses OEB137 Experimental Design and Statistics for Ecology and_<br>_MCB 112 Biological Data Analysis may also be used to satisfy this requirement."
+    },
+    {
+      "id": "2",
+      "text": "Other relevant courses can be requested by petition to the Joint Committee on Biological Oceanography."
+    },
+    {
+      "id": "3",
+      "text": "Up to 12 of the 24 units may come from Topics subjects."
+    },
+    {
+      "id": "4",
+      "text": "Biological oceanography students whose home department is Civil and Environmental Engineering register for 1.THG whether they are completing pre-thesis or thesis research, for a total of 384–492 units of 1.THG over the course of the five-year doctoral program"
+    }
+  ],
+  "constraints": [],
+  "requirements": [
+    {
+      "groupId": "phd-biological-oceanography-core-subject",
+      "title": "Core Subject",
+      "bucket": "departmental",
+      "subcategory": "required_subjects",
+      "flexibility": {
+        "advisorApproval": false,
+        "catalogText": "Foundational Statistics"
+      },
+      "root": {
+        "type": "group",
+        "ruleType": "all_of",
+        "items": [
+          {
+            "type": "subject",
+            "subjectId": "7.470"
+          },
+          {
+            "type": "selection",
+            "ruleType": "choose_units",
+            "ruleValue": 12,
+            "itemsSource": "advisor_defined",
+            "note": "Foundational Statistics",
+            "flexibility": {
+              "catalogText": "Foundational Statistics"
+            }
+          },
+          {
+            "type": "selection",
+            "ruleType": "choose_one",
+            "itemsSource": "explicit",
+            "items": [
+              {
+                "type": "subject",
+                "subjectId": "1.010"
+              },
+              {
+                "type": "subject",
+                "subjectId": "18.05"
+              }
+            ]
+          },
+          {
+            "type": "selection",
+            "ruleType": "choose_units",
+            "ruleValue": 12,
+            "itemsSource": "advisor_defined",
+            "note": "Quantitative Methods of Data Analysis and/or Modeling",
+            "flexibility": {
+              "catalogText": "Quantitative Methods of Data Analysis and/or Modeling"
+            }
+          },
+          {
+            "type": "selection",
+            "ruleType": "choose_one",
+            "itemsSource": "explicit",
+            "items": [
+              {
+                "type": "subject",
+                "subjectId": "7.440"
+              },
+              {
+                "type": "subject",
+                "subjectId": "9.014"
+              },
+              {
+                "type": "subject",
+                "subjectId": "12.586"
+              },
+              {
+                "type": "subject",
+                "subjectId": "12.747"
+              },
+              {
+                "type": "subject",
+                "subjectId": "12.823"
+              }
+            ]
+          },
+          {
+            "type": "selection",
+            "ruleType": "choose_units",
+            "ruleValue": 24,
+            "itemsSource": "advisor_defined",
+            "note": "Graduate-Level Oceanography or Marine Science2, 3",
+            "flexibility": {
+              "catalogText": "Graduate-Level Oceanography or Marine Science2, 3"
+            }
+          },
+          {
+            "type": "subject",
+            "subjectId": "12.702"
+          },
+          {
+            "type": "subject",
+            "subjectId": "12.710"
+          },
+          {
+            "type": "subject",
+            "subjectId": "12.739"
+          },
+          {
+            "type": "subject",
+            "subjectId": "12.741"
+          },
+          {
+            "type": "subject",
+            "subjectId": "12.742"
+          },
+          {
+            "type": "subject",
+            "subjectId": "12.743"
+          },
+          {
+            "type": "subject",
+            "subjectId": "12.744"
+          },
+          {
+            "type": "subject",
+            "subjectId": "12.800"
+          },
+          {
+            "type": "subject",
+            "subjectId": "12.808"
+          },
+          {
+            "type": "subject",
+            "subjectId": "12.862"
+          },
+          {
+            "type": "subject",
+            "subjectId": "7.430"
+          },
+          {
+            "type": "subject",
+            "subjectId": "7.431"
+          },
+          {
+            "type": "subject",
+            "subjectId": "7.432"
+          },
+          {
+            "type": "subject",
+            "subjectId": "7.433"
+          },
+          {
+            "type": "subject",
+            "subjectId": "7.434"
+          },
+          {
+            "type": "subject",
+            "subjectId": "7.435"
+          },
+          {
+            "type": "subject",
+            "subjectId": "7.436"
+          },
+          {
+            "type": "subject",
+            "subjectId": "7.437"
+          },
+          {
+            "type": "subject",
+            "subjectId": "7.438"
+          },
+          {
+            "type": "subject",
+            "subjectId": "7.439"
+          },
+          {
+            "type": "selection",
+            "ruleType": "choose_units",
+            "ruleValue": 36,
+            "itemsSource": "advisor_defined",
+            "note": "Specialization",
+            "flexibility": {
+              "catalogText": "Specialization"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "groupId": "phd-biological-oceanography-thesis-and-research",
+      "title": "Thesis and Research",
+      "bucket": "thesis",
+      "subcategory": "thesis",
+      "flexibility": {
+        "advisorApproval": false,
+        "catalogText": "Pre-Thesis Research4"
+      },
+      "root": {
+        "type": "group",
+        "ruleType": "all_of",
+        "items": [
+          {
+            "type": "selection",
+            "ruleType": "choose_units",
+            "ruleValue": 96,
+            "itemsSource": "advisor_defined",
+            "note": "Pre-Thesis Research4",
+            "flexibility": {
+              "catalogText": "Pre-Thesis Research4"
+            }
+          },
+          {
+            "type": "selection",
+            "ruleType": "choose_units",
+            "ruleValue": 288,
+            "itemsSource": "advisor_defined",
+            "note": "Thesis (.THG subject of home department)4",
+            "flexibility": {
+              "catalogText": "Thesis (.THG subject of home department)4"
+            }
+          }
+        ]
+      }
+    }
+  ],
+  "status": "draft",
+  "revisionId": "phd-biological-oceanography-2026-07-03-69876da4",
+  "catalogYear": "2026",
+  "effectiveTerm": "2026-FA"
+}

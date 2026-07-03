@@ -1,0 +1,40 @@
+{
+  "sharedListId": "interdisciplinary-doctoral-statistics.brain-and-cognitive-sciences",
+  "program": "interdisciplinary-doctoral-statistics",
+  "title": "# **Brain and Cognitive Sciences",
+  "items": [
+    {
+      "type": "subject",
+      "subjectId": "6.8800"
+    },
+    {
+      "type": "subject",
+      "subjectId": "6.7900"
+    },
+    {
+      "type": "subject",
+      "subjectId": "9.190"
+    },
+    {
+      "type": "subject",
+      "subjectId": "9.520"
+    },
+    {
+      "type": "subject",
+      "subjectId": "9.660"
+    },
+    {
+      "type": "subject",
+      "subjectId": "9.073"
+    },
+    {
+      "type": "subject",
+      "subjectId": "9.272"
+    },
+    {
+      "type": "subject",
+      "subjectId": "9.583"
+    }
+  ],
+  "version": "1"
+}

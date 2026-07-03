@@ -1,0 +1,36 @@
+{
+  "sharedListId": "interdisciplinary-doctoral-statistics.program-specific-requirements",
+  "program": "interdisciplinary-doctoral-statistics",
+  "title": "Program-specific Requirements",
+  "items": [
+    {
+      "type": "subject",
+      "subjectId": "6.7810"
+    },
+    {
+      "type": "subject",
+      "subjectId": "6.7900"
+    },
+    {
+      "type": "subject",
+      "subjectId": "9.520"
+    },
+    {
+      "type": "subject",
+      "subjectId": "16.391"
+    },
+    {
+      "type": "subject",
+      "subjectId": "16.940"
+    },
+    {
+      "type": "subject",
+      "subjectId": "16.393"
+    },
+    {
+      "type": "subject",
+      "subjectId": "16.470"
+    }
+  ],
+  "version": "1"
+}

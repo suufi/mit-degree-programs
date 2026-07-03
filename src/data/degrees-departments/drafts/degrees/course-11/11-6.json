@@ -1,0 +1,303 @@
+{
+  "schemaVersion": "2",
+  "program": "11-6",
+  "title": "Urban Science and Planning with Computer Science (Course 11-6)",
+  "level": "undergraduate",
+  "complete": false,
+  "includesGir": "sb",
+  "catalogSource": {
+    "url": "https://catalog.mit.edu/degree-charts/urban-science-planning-computer-science-11-6/",
+    "slug": "urban-science-planning-computer-science-11-6",
+    "scrapedAt": "2026-07-03",
+    "contentHash": "0592d52fb49504c558c104e0b49d682043c3511a860a3f6457f93a7b9334504b"
+  },
+  "girCrosswalk": [],
+  "footnotes": [
+    {
+      "id": "1",
+      "text": "6.4590 and 11.165 can count towards either the Urban Planning Requirements or the Urban Science Electives, but not both.",
+      "appliesTo": [
+        "11-6.urban-science-electives",
+        "11-6.computer-science-electives",
+        "11-6.select-one-of-the-following-options",
+        "11-6.majors-are-required-to-write-a-senior-thesis-or-complete-a-senior-project-select-one-of-the-following-options"
+      ]
+    },
+    {
+      "id": "2",
+      "text": "11.007, 11.138, 11.154, and 11.C35 can count towards the Urban Technology Workshop or the Urban Science Electives, but not both.",
+      "appliesTo": [
+        "11-6.urban-science-electives",
+        "11-6.computer-science-electives",
+        "11-6.select-one-of-the-following-options",
+        "11-6.majors-are-required-to-write-a-senior-thesis-or-complete-a-senior-project-select-one-of-the-following-options"
+      ]
+    },
+    {
+      "id": "3",
+      "text": "If you take both 11.154 and 11.C35, you may only count one of the classes towards all your major requirements."
+    }
+  ],
+  "constraints": [
+    {
+      "type": "exclusive_pools",
+      "pools": [
+        "11-6.urban-science-electives",
+        "11-6.computer-science-electives",
+        "11-6.select-one-of-the-following-options",
+        "11-6.majors-are-required-to-write-a-senior-thesis-or-complete-a-senior-project-select-one-of-the-following-options"
+      ],
+      "note": "6.4590 and 11.165 can count towards either the Urban Planning Requirements or the Urban Science Electives, but not both."
+    },
+    {
+      "type": "exclusive_pools",
+      "pools": [
+        "11-6.urban-science-electives",
+        "11-6.computer-science-electives",
+        "11-6.select-one-of-the-following-options",
+        "11-6.majors-are-required-to-write-a-senior-thesis-or-complete-a-senior-project-select-one-of-the-following-options"
+      ],
+      "note": "11.007, 11.138, 11.154, and 11.C35 can count towards the Urban Technology Workshop or the Urban Science Electives, but not both."
+    }
+  ],
+  "requirements": [
+    {
+      "groupId": "11-6-required-subjects",
+      "title": "Required Subjects",
+      "bucket": "departmental",
+      "subcategory": "required_subjects",
+      "root": {
+        "type": "group",
+        "ruleType": "all_of",
+        "items": [
+          {
+            "type": "subject",
+            "subjectId": "6.100A"
+          },
+          {
+            "type": "subject",
+            "subjectId": "6.100B"
+          },
+          {
+            "type": "selection",
+            "ruleType": "choose_one",
+            "itemsSource": "explicit",
+            "items": [
+              {
+                "type": "subject",
+                "subjectId": "16.C20"
+              }
+            ]
+          },
+          {
+            "type": "subject",
+            "subjectId": "6.1010"
+          },
+          {
+            "type": "subject",
+            "subjectId": "6.1200"
+          },
+          {
+            "type": "subject",
+            "subjectId": "6.1210"
+          }
+        ]
+      }
+    },
+    {
+      "groupId": "11-6-option-1-12-units",
+      "title": "Option 1 (12 units)",
+      "bucket": "departmental",
+      "subcategory": "required_subjects",
+      "root": {
+        "type": "subject",
+        "subjectId": "6.3800"
+      }
+    },
+    {
+      "groupId": "11-6-option-2-24-units",
+      "title": "Option 2 (24 units)",
+      "bucket": "departmental",
+      "subcategory": "required_subjects",
+      "root": {
+        "type": "group",
+        "ruleType": "all_of",
+        "items": [
+          {
+            "type": "subject",
+            "subjectId": "18.06"
+          },
+          {
+            "type": "selection",
+            "ruleType": "choose_one",
+            "itemsSource": "explicit",
+            "items": [
+              {
+                "type": "subject",
+                "subjectId": "18.C06"
+              }
+            ]
+          },
+          {
+            "type": "subject",
+            "subjectId": "6.3900"
+          }
+        ]
+      }
+    },
+    {
+      "groupId": "11-6-urban-planning-requirements",
+      "title": "Urban Planning Requirements",
+      "bucket": "departmental",
+      "subcategory": "required_subjects",
+      "root": {
+        "type": "group",
+        "ruleType": "all_of",
+        "items": [
+          {
+            "type": "subject",
+            "subjectId": "11.001"
+          },
+          {
+            "type": "subject",
+            "subjectId": "11.188"
+          }
+        ]
+      }
+    },
+    {
+      "groupId": "11-6-select-one-of-the-following-options",
+      "title": "Select one of the following options:",
+      "bucket": "departmental",
+      "subcategory": "required_subjects",
+      "root": {
+        "type": "group",
+        "ruleType": "all_of",
+        "items": [
+          {
+            "type": "subject",
+            "subjectId": "6.4590"
+          },
+          {
+            "type": "subject",
+            "subjectId": "11.002"
+          },
+          {
+            "type": "subject",
+            "subjectId": "11.011"
+          },
+          {
+            "type": "subject",
+            "subjectId": "11.165"
+          }
+        ]
+      }
+    },
+    {
+      "groupId": "11-6-option-1",
+      "title": "Option 1",
+      "bucket": "departmental",
+      "subcategory": "required_subjects",
+      "root": {
+        "type": "group",
+        "ruleType": "all_of",
+        "items": [
+          {
+            "type": "subject",
+            "subjectId": "6.UAR"
+          },
+          {
+            "type": "selection",
+            "ruleType": "choose_one",
+            "itemsSource": "explicit",
+            "items": [
+              {
+                "type": "subject",
+                "subjectId": "11.UAR"
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "groupId": "11-6-option-2",
+      "title": "Option 2",
+      "bucket": "departmental",
+      "subcategory": "required_subjects",
+      "root": {
+        "type": "group",
+        "ruleType": "all_of",
+        "items": [
+          {
+            "type": "subject",
+            "subjectId": "11.THT"
+          },
+          {
+            "type": "subject",
+            "subjectId": "11.THU"
+          }
+        ]
+      }
+    },
+    {
+      "groupId": "11-6-electives",
+      "title": "Electives",
+      "bucket": "elective",
+      "subcategory": "elective_subjects",
+      "flexibility": {
+        "advisorApproval": false,
+        "catalogText": "Select Computer Science Electives for a minimum of 27 units from the list below"
+      },
+      "root": {
+        "type": "group",
+        "ruleType": "all_of",
+        "items": [
+          {
+            "type": "selection",
+            "ruleType": "choose_units",
+            "ruleValue": 27,
+            "itemsSource": "advisor_defined",
+            "note": "Select Computer Science Electives for a minimum of 27 units from the list below",
+            "flexibility": {
+              "catalogText": "Select Computer Science Electives for a minimum of 27 units from the list below"
+            }
+          },
+          {
+            "type": "selection",
+            "ruleType": "choose_units",
+            "ruleValue": 30,
+            "itemsSource": "advisor_defined",
+            "note": "Select Urban Science Electives for a minimum of 30 units from the list below",
+            "flexibility": {
+              "catalogText": "Select Urban Science Electives for a minimum of 30 units from the list below"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "groupId": "11-6-restricted-electives",
+      "title": "Restricted Electives",
+      "bucket": "elective",
+      "subcategory": "restricted_electives",
+      "flexibility": {
+        "catalogText": "Select Computer Science Electives for a minimum of 27 units from the list below"
+      },
+      "root": {
+        "type": "selection",
+        "ruleType": "choose_units",
+        "ruleValue": 27,
+        "itemsSource": "shared_list_union",
+        "sharedListIds": [
+          "11-6.computer-science-electives",
+          "11-6.urban-science-electives"
+        ]
+      }
+    }
+  ],
+  "status": "draft",
+  "revisionId": "11-6-2026-07-03-0592d52f",
+  "catalogYear": "2026",
+  "effectiveTerm": "2026-FA"
+}

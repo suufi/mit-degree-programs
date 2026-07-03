@@ -1,0 +1,12 @@
+{
+  "sharedListId": "master-supply-chain-management.subject-requirements1",
+  "program": "master-supply-chain-management",
+  "title": "Subject Requirements1",
+  "items": [
+    {
+      "type": "subject",
+      "subjectId": "6.C51"
+    }
+  ],
+  "version": "1"
+}

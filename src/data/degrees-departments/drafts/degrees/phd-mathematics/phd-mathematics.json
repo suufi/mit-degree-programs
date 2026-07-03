@@ -1,0 +1,64 @@
+{
+  "schemaVersion": "2",
+  "program": "phd-mathematics",
+  "title": "Mathematics (PhD/ScD)",
+  "level": "graduate",
+  "complete": false,
+  "catalogSource": {
+    "url": "https://catalog.mit.edu/degree-charts/phd-mathematics/",
+    "slug": "phd-mathematics",
+    "scrapedAt": "2026-07-03",
+    "contentHash": "cf97772ad6a7d0cce4a127f5b186a44bf8f457c3a5a7194cdbc5f7a9565147ae"
+  },
+  "footnotes": [
+    {
+      "id": "1",
+      "text": "Select subjects in Mathematics. Either 18.899 Internship in Mathematics or 18.999 Research in Mathematics can be counted as one class toward this requirement but can only be taken once."
+    },
+    {
+      "id": "2",
+      "text": "The research units given here are based on three years from oral examination to thesis defense but will vary depending on how long the student remains in the program. After passing the oral exam, students register for 36 units of Graduate Thesis each fall and spring and for 24 units in the summer term."
+    }
+  ],
+  "constraints": [],
+  "requirements": [
+    {
+      "groupId": "phd-mathematics-program-requirements",
+      "title": "Program Requirements",
+      "bucket": "departmental",
+      "subcategory": "required_subjects",
+      "flexibility": {
+        "advisorApproval": false,
+        "catalogText": "Select eight graduate-level subjects in Mathematics1"
+      },
+      "root": {
+        "type": "group",
+        "ruleType": "all_of",
+        "items": [
+          {
+            "type": "selection",
+            "ruleType": "choose_units",
+            "ruleValue": 96,
+            "itemsSource": "advisor_defined",
+            "note": "Select eight graduate-level subjects in Mathematics1",
+            "flexibility": {
+              "catalogText": "Select eight graduate-level subjects in Mathematics1"
+            }
+          },
+          {
+            "type": "subject",
+            "subjectId": "18.TAC"
+          },
+          {
+            "type": "subject",
+            "subjectId": "18.THG"
+          }
+        ]
+      }
+    }
+  ],
+  "status": "draft",
+  "revisionId": "phd-mathematics-2026-07-03-cf97772a",
+  "catalogYear": "2026",
+  "effectiveTerm": "2026-FA"
+}

@@ -1,0 +1,105 @@
+Degree Charts
+
+- [Home](https://catalog.mit.edu/) >
+- [Degree Charts](https://catalog.mit.edu/degree-charts/) >
+- Nuclear Science and Engineering (PhD)
+
+# Doctor of Philosophy in Nuclear Science and Engineering
+
+[Department of Nuclear Science and Engineering](https://catalog.mit.edu/schools/engineering/nuclear-science-engineering/#phd-dsc)
+
+## Program Requirements
+
+|     |     |     |
+| --- | --- | --- |
+| Core Subjects |  |
+| [22.101](https://catalog.mit.edu/search/?P=22.101 "22.101") | Applied Nuclear Physics | 12 |
+| [22.102](https://catalog.mit.edu/search/?P=22.102 "22.102") | Applications of Nuclear Science and Engineering | 3 |
+| [22.103](https://catalog.mit.edu/search/?P=22.103 "22.103") | Nuclear Technology and Society | 9 |
+| Field of Specialization (choose one)1 | 36 |
+| _Nuclear Reactor Engineering_ |  |
+| [22.211](https://catalog.mit.edu/search/?P=22.211 "22.211") | Nuclear Reactor Physics I |  |
+| [22.312](https://catalog.mit.edu/search/?P=22.312 "22.312") | Engineering of Nuclear Reactors |  |
+| _Plus one of the following subjects:_ |  |
+| [22.313\[J\]](https://catalog.mit.edu/search/?P=22.313 "22.313[J]") | Thermal Hydraulics in Power Technology |  |
+| [22.315](https://catalog.mit.edu/search/?P=22.315 "22.315") | Applied Computational Fluid Dynamics and Heat Transfer |  |
+| [22.39](https://catalog.mit.edu/search/?P=22.39 "22.39") | Integration of Reactor Design, Operations, and Safety |  |
+| _Nuclear Reactor Physics_ |  |
+| [22.211](https://catalog.mit.edu/search/?P=22.211 "22.211") | Nuclear Reactor Physics I |  |
+| [22.312](https://catalog.mit.edu/search/?P=22.312 "22.312") | Engineering of Nuclear Reactors |  |
+| _Plus one of the following subjects:_ |  |
+| [22.212](https://catalog.mit.edu/search/?P=22.212 "22.212") | Nuclear Reactor Analysis II |  |
+| [22.213](https://catalog.mit.edu/search/?P=22.213 "22.213") | Nuclear Reactor Physics III |  |
+| [22.251](https://catalog.mit.edu/search/?P=22.251 "22.251") | Systems Analysis of the Nuclear Fuel Cycle |  |
+| _Nuclear Materials_ |  |
+| [3.20](https://catalog.mit.edu/search/?P=3.20 "3.20") | Materials at Equilibrium |  |
+| [22.71\[J\]](https://catalog.mit.edu/search/?P=22.71 "22.71[J]") | Modern Physical Metallurgy |  |
+| _Plus one of the following subjects:_ |  |
+| [3.21](https://catalog.mit.edu/search/?P=3.21 "3.21") | Kinetic Processes in Materials |  |
+| [22.72](https://catalog.mit.edu/search/?P=22.72 "22.72") | Corrosion: The Environmental Degradation of Materials |  |
+| [22.73\[J\]](https://catalog.mit.edu/search/?P=22.73 "22.73[J]") | Defects in Materials |  |
+| [22.74\[J\]](https://catalog.mit.edu/search/?P=22.74 "22.74[J]") | Radiation Damage and Effects in Nuclear Materials |  |
+| [22.76\[J\]](https://catalog.mit.edu/search/?P=22.76 "22.76[J]") | Ionics and Its Applications |  |
+| _Fusion Plasma Physics_ |  |
+| [22.611\[J\]](https://catalog.mit.edu/search/?P=22.611 "22.611[J]") | Introduction to Plasma Physics I |  |
+| [22.62](https://catalog.mit.edu/search/?P=22.62 "22.62") | Fusion Energy |  |
+| _Plus one of the following subjects:_ |  |
+| [22.63](https://catalog.mit.edu/search/?P=22.63 "22.63") | Engineering Principles for Fusion Reactors |  |
+| [2.612](https://catalog.mit.edu/search/?P=2.612 "2.612") | Marine Power and Propulsion |  |
+| [22.615](https://catalog.mit.edu/search/?P=22.615 "22.615") | MHD Theory of Fusion Systems |  |
+| [22.67\[J\]](https://catalog.mit.edu/search/?P=22.67 "22.67[J]") | Principles of Plasma Diagnostics |  |
+| _Fusion Engineering_ |  |
+| [22.611\[J\]](https://catalog.mit.edu/search/?P=22.611 "22.611[J]") | Introduction to Plasma Physics I |  |
+| [22.62](https://catalog.mit.edu/search/?P=22.62 "22.62") | Fusion Energy |  |
+| _Plus one of the following subjects:_ |  |
+| [22.211](https://catalog.mit.edu/search/?P=22.211 "22.211") | Nuclear Reactor Physics I |  |
+| [22.71\[J\]](https://catalog.mit.edu/search/?P=22.71 "22.71[J]") | Modern Physical Metallurgy |  |
+| [22.74\[J\]](https://catalog.mit.edu/search/?P=22.74 "22.74[J]") | Radiation Damage and Effects in Nuclear Materials |  |
+| [22.312](https://catalog.mit.edu/search/?P=22.312 "22.312") | Engineering of Nuclear Reactors |  |
+| _Quantum Science and Engineering_ |  |
+| [8.511](https://catalog.mit.edu/search/?P=8.511 "8.511") | Theory of Solids I |  |
+| [22.51\[J\]](https://catalog.mit.edu/search/?P=22.51 "22.51[J]") | Quantum Technology and Devices |  |
+| _Plus one of the following subjects:_ |  |
+| [22.52](https://catalog.mit.edu/search/?P=22.52 "22.52") | Quantum Theory of Materials Characterization |  |
+| [8.333](https://catalog.mit.edu/search/?P=8.333 "8.333") | Statistical Mechanics I |  |
+| [8.421](https://catalog.mit.edu/search/?P=8.421 "8.421") | Atomic and Optical Physics I |  |
+| _Nuclear Security and Policy_ |  |
+| [6.3702](https://catalog.mit.edu/search/?P=6.3702 "6.3702") | Introduction to Probability |  |
+| [22.90](https://catalog.mit.edu/search/?P=22.90 "22.90") | Nuclear Science and Engineering Laboratory |  |
+| Plus one specialist subject by petition |  |
+| Advanced Subjects | 24 |
+| Two advanced subjects closely related to the doctoral thesis topic. May not overlap with the student's field of specialization but can be from a different field of specialization. |  |
+| NSE Breadth Requirement | 12 |
+| One NSE subject outside the field of specialization. |  |
+| Unrestricted Elective | 12 |
+| Communication Requirement |  |
+| [22.911](https://catalog.mit.edu/search/?P=22.911 "22.911") | Seminar in Nuclear Science and Engineering I | 3 |
+| [22.912](https://catalog.mit.edu/search/?P=22.912 "22.912") | Seminar in Nuclear Science and Engineering II | 3 |
+| Professional Perspective Requirement2 |  |
+| [22.913](https://catalog.mit.edu/search/?P=22.913 "22.913") | Professional Perspective in Nuclear Science and Engineering | 1 |
+| Graduate Research |  |
+| [22.THG](https://catalog.mit.edu/search/?P=22.THG "22.THG") | Graduate Thesis 3 | 84 |
+| Total Units | 199 |
+
+Note: Students in this program can choose to receive the Doctor of Philosophy or the Doctor of Science in Nuclear Science and Engineering or in another departmental field of specialization. Students receiving veterans benefits must select the degree they wish to receive prior to program certification with the Veterans Administration.
+
+|     |     |
+| --- | --- |
+| _1_ | _Students may also petition for a unique field of specialization._ |
+| _2_ | _Students must register for 22.913 annually._ |
+| _3_ | _Students must register for graduate thesis until they complete all degree requirements, including defending the thesis, and submission of a final, approved thesis document. The units here represent a typical number of units for doctoral thesis research, not a minimum or maximum._ |
+
+Print Options
+
+
+[Send Page to Printer](https://catalog.mit.edu/degree-charts/phd-nuclear-science-engineering/#)
+
+_Print this page._
+
+[Download PDF of this Page](https://catalog.mit.edu/degree-charts/phd-nuclear-science-engineering/phd-nuclear-science-engineering.pdf)
+
+_The PDF includes all information on this page and its related tabs. Subject (course) information includes any changes approved for the current academic year._
+
+[Download PDF of the Entire Catalog and/or Subject Descriptions](https://catalog.mit.edu/archive/)
+
+[Cancel](https://catalog.mit.edu/degree-charts/phd-nuclear-science-engineering/#)

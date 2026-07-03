@@ -1,0 +1,100 @@
+Degree Charts
+
+- [Home](https://catalog.mit.edu/) >
+- [Degree Charts](https://catalog.mit.edu/degree-charts/) >
+- Music (SB, Course 21M)
+
+# Music (Course 21M)
+
+[Music and Theater Arts Section](https://catalog.mit.edu/schools/humanities-arts-social-sciences/music-theater-arts/#undergraduatetext)
+
+## Bachelor of Science in Music
+
+### General Institute Requirements (GIRs)
+
+The General Institute Requirements include a Communication Requirement that is integrated into both the HASS Requirement and the requirements of each major; see details below.
+
+| Summary of Subject Requirements | Subjects |
+| --- | --- |
+| Science Requirement | 6 |
+| Humanities, Arts, and Social Sciences (HASS) Requirement \[between three and six subjects can be from the Departmental Program\]; at least two of these subjects must be designated as communication-intensive (CI-H) to fulfill the Communication Requirement. | 8 |
+| Restricted Electives in Science and Technology (REST) Requirement | 2 |
+| Laboratory Requirement (12 units) | 1 |
+| **Total GIR Subjects Required for SB Degree** | **17** |
+
+| Physical Education Requirement |  |
+| --- | --- |
+| Swimming requirement, plus four physical education courses for eight points. |  |
+
+### Departmental Program
+
+Choose at least two subjects in the major that are designated as communication-intensive (CI-M) to fulfill the Communication Requirement.
+
+|     |     |     |
+| --- | --- | --- |
+| Required Subjects1 | **Units** |
+| [21M.301](https://catalog.mit.edu/search/?P=21M.301 "21M.301") | Harmony and Counterpoint I | 12 |
+| [21M.500](https://catalog.mit.edu/search/?P=21M.500 "21M.500") | Advanced Seminar in Music (CI-M) | 12 |
+| _Select one of the following:_ | 12 |
+| [21M.220](https://catalog.mit.edu/search/?P=21M.220 "21M.220") | Medieval and Renaissance Music (CI-M) |  |
+| [21M.235](https://catalog.mit.edu/search/?P=21M.235 "21M.235") | Baroque and Classical Music (CI-M) |  |
+| [21M.260](https://catalog.mit.edu/search/?P=21M.260 "21M.260") | Music since 1900 (CI-M) |  |
+| _Select one of the following:_ | 12 |
+| [21M.291](https://catalog.mit.edu/search/?P=21M.291 "21M.291") | Music of India |  |
+| [21M.292](https://catalog.mit.edu/search/?P=21M.292 "21M.292") | Musics in Bali |  |
+| [21M.293](https://catalog.mit.edu/search/?P=21M.293 "21M.293") | Musics of Africa |  |
+| [21M.294](https://catalog.mit.edu/search/?P=21M.294 "21M.294") | Popular Musics of the World |  |
+| [21M.297\[J\]](https://catalog.mit.edu/search/?P=21M.297 "21M.297[J]") | Cultures of Popular Music in East Asia: Japan, Korea, China |  |
+| [21M.298\[J\]](https://catalog.mit.edu/search/?P=21M.298 "21M.298[J]") | The Beat of Brazil: Portuguese Language and Brazilian Society Through its Music |  |
+| [21M.299](https://catalog.mit.edu/search/?P=21M.299 "21M.299") | Studies in Global Musics |  |
+| Select two terms of Performance subjects (6-9 units each); see list below. | 12-18 |
+| Restricted Electives |  |
+| In consultation with advisor, select 60 units from the music curriculum (21M.000 - 21M.599).2 | 60 |
+| Units in Major | 120-126 |
+| Unrestricted Electives3 | 90-132 |
+| Units in Major That Also Satisfy the GIRs | (36-72) |
+| Total Units Beyond the GIRs Required for SB Degree | 180 |
+
+The units for any subject that counts as one of the 17 GIR subjects cannot also be counted as units required beyond the GIRs.
+
+|     |     |
+| --- | --- |
+| _1_ | _Students who enter with additional training in music theory should take [21M.302](https://catalog.mit.edu/search/?P=21M.302 "21M.302") or an upper-level subject as a substitute for [21M.301](https://catalog.mit.edu/search/?P=21M.301 "21M.301")._ |
+| _2_ | _A maximum of 24 restricted elective units may be comprised of introductory subjects (21M.0xx,150,151). A maximum of 24 restricted elective units may be comprised of Performance subjects (6 units each), with the exception of [21M.480](https://catalog.mit.edu/search/?P=21M.480 "21M.480") which may be repeated without limitation._ |
+| _3_ | _This chart has been calculated based on an overlap of 36 units (three subjects) between the HASS General Institute Requirement and the departmental requirements. Students who develop a program of study with more overlap will be able to select more unrestricted electives to meet the number of total units beyond the GIRs required for an SB degree._ |
+
+### Performance Subjects
+
+|     |     |     |
+| --- | --- | --- |
+| [21M.401](https://catalog.mit.edu/search/?P=21M.401 "21M.401") | MIT Concert Choir | 6 |
+| [21M.405](https://catalog.mit.edu/search/?P=21M.405 "21M.405") | MIT Chamber Chorus | 6 |
+| [21M.410](https://catalog.mit.edu/search/?P=21M.410 "21M.410") | Vocal Repertoire and Performance | 6 |
+| [21M.421](https://catalog.mit.edu/search/?P=21M.421 "21M.421") | MIT Symphony | 6 |
+| [21M.423](https://catalog.mit.edu/search/?P=21M.423 "21M.423") | Conducting and Score-Reading | 6 |
+| [21M.426](https://catalog.mit.edu/search/?P=21M.426 "21M.426") | MIT Wind Ensemble | 6 |
+| [21M.442](https://catalog.mit.edu/search/?P=21M.442 "21M.442") | MIT Festival Jazz Ensemble | 6 |
+| [21M.443](https://catalog.mit.edu/search/?P=21M.443 "21M.443") | MIT Vocal Jazz Ensemble | 6 |
+| [21M.445](https://catalog.mit.edu/search/?P=21M.445 "21M.445") | Chamber Music Society | 6 |
+| [21M.450](https://catalog.mit.edu/search/?P=21M.450 "21M.450") | MIT Balinese Gamelan | 6 |
+| [21M.451](https://catalog.mit.edu/search/?P=21M.451 "21M.451") | Collaborative Piano | 3-6 |
+| [21M.460](https://catalog.mit.edu/search/?P=21M.460 "21M.460") | MIT Senegalese Drum Ensemble | 6 |
+| [21M.470](https://catalog.mit.edu/search/?P=21M.470 "21M.470") | MIT Laptop Ensemble | 6 |
+| [21M.475](https://catalog.mit.edu/search/?P=21M.475 "21M.475") | Music Performance | 6 |
+| [21M.480](https://catalog.mit.edu/search/?P=21M.480 "21M.480") | Advanced Music Performance | 9 |
+| [21M.490](https://catalog.mit.edu/search/?P=21M.490 "21M.490") | Solo Recital | 9 |
+
+Print Options
+
+
+[Send Page to Printer](https://catalog.mit.edu/degree-charts/music-course-21m/#)
+
+_Print this page._
+
+[Download PDF of this Page](https://catalog.mit.edu/degree-charts/music-course-21m/music-course-21m.pdf)
+
+_The PDF includes all information on this page and its related tabs. Subject (course) information includes any changes approved for the current academic year._
+
+[Download PDF of the Entire Catalog and/or Subject Descriptions](https://catalog.mit.edu/archive/)
+
+[Cancel](https://catalog.mit.edu/degree-charts/music-course-21m/#)

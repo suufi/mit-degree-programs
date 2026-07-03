@@ -1,0 +1,145 @@
+{
+  "schemaVersion": "2",
+  "program": "2-a",
+  "title": "Engineering (Course 2-A)",
+  "level": "undergraduate",
+  "complete": false,
+  "includesGir": "sb",
+  "catalogSource": {
+    "url": "https://catalog.mit.edu/degree-charts/mechanical-engineering-course-2-a/",
+    "slug": "mechanical-engineering-course-2-a",
+    "scrapedAt": "2026-07-03",
+    "contentHash": "97a82c3246f9efe9f4ecc64c2b2ba2992f785b0984a8eec6818020d3bfb8418d"
+  },
+  "girCrosswalk": [
+    {
+      "subjectId": "2.086",
+      "satisfies": [
+        "rest"
+      ],
+      "note": "Also satisfies REST via departmental program."
+    },
+    {
+      "subjectId": "2.671",
+      "satisfies": [
+        "lab"
+      ],
+      "note": "Also satisfies Laboratory Requirement via departmental program."
+    }
+  ],
+  "footnotes": [
+    {
+      "id": "1",
+      "text": "Students may also fulfill this requirement by completing an alternative 2.00X subject, i.e., 2.00B."
+    },
+    {
+      "id": "2",
+      "text": "These electives define a concentrated area of study which must be approved by the 2-A review committee. The concentration electives must form an engineering topic. In some cases, non-engineering subjects may be necessary for the particular concentration (e.g., management subjects for an engineering management concentration), in which case additional engineering subjects may be required to meet the engineering accreditation standards. In all cases, the relationship of concentration subjects to the concentration topic must be obvious."
+    }
+  ],
+  "constraints": [],
+  "requirements": [
+    {
+      "groupId": "2-a-required-subjects",
+      "title": "Required Subjects",
+      "bucket": "departmental",
+      "subcategory": "required_subjects",
+      "root": {
+        "type": "group",
+        "ruleType": "all_of",
+        "items": [
+          {
+            "type": "subject",
+            "subjectId": "2.00"
+          },
+          {
+            "type": "subject",
+            "subjectId": "2.001"
+          },
+          {
+            "type": "subject",
+            "subjectId": "2.003"
+          },
+          {
+            "type": "subject",
+            "subjectId": "2.005"
+          },
+          {
+            "type": "subject",
+            "subjectId": "2.086"
+          },
+          {
+            "type": "subject",
+            "subjectId": "2.671"
+          },
+          {
+            "type": "subject",
+            "subjectId": "2.678"
+          },
+          {
+            "type": "selection",
+            "ruleType": "choose_one",
+            "itemsSource": "explicit",
+            "items": [
+              {
+                "type": "subject",
+                "subjectId": "2.674"
+              }
+            ]
+          },
+          {
+            "type": "subject",
+            "subjectId": "18.03"
+          },
+          {
+            "type": "selection",
+            "ruleType": "choose_one",
+            "itemsSource": "explicit",
+            "items": [
+              {
+                "type": "subject",
+                "subjectId": "2.009"
+              },
+              {
+                "type": "subject",
+                "subjectId": "2.013"
+              },
+              {
+                "type": "subject",
+                "subjectId": "2.750"
+              },
+              {
+                "type": "subject",
+                "subjectId": "2.760"
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "groupId": "2-a-elective-subjects-with-engineering-content",
+      "title": "Elective Subjects with Engineering Content",
+      "bucket": "elective",
+      "subcategory": "elective_subjects",
+      "flexibility": {
+        "advisorApproval": false,
+        "catalogText": "Select 72 units2"
+      },
+      "root": {
+        "type": "selection",
+        "ruleType": "choose_units",
+        "ruleValue": 72,
+        "itemsSource": "advisor_defined",
+        "note": "Select 72 units2",
+        "flexibility": {
+          "catalogText": "Select 72 units2"
+        }
+      }
+    }
+  ],
+  "status": "draft",
+  "revisionId": "2-a-2026-07-03-97a82c32",
+  "catalogYear": "2026",
+  "effectiveTerm": "2026-FA"
+}

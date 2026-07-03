@@ -1,0 +1,439 @@
+{
+  "schemaVersion": "2",
+  "program": "6-9",
+  "title": "Computation and Cognition (Course 6-9)",
+  "level": "undergraduate",
+  "complete": false,
+  "includesGir": "sb",
+  "catalogSource": {
+    "url": "https://catalog.mit.edu/degree-charts/computation-cognition-6-9/",
+    "slug": "computation-cognition-6-9",
+    "scrapedAt": "2026-07-03",
+    "contentHash": "d4d1f3a6f4d633c1e5d510817f822032bba416ff8dd3dad7091e70bfcd8e052a"
+  },
+  "girCrosswalk": [
+    {
+      "subjectId": "9.01",
+      "satisfies": [
+        "rest"
+      ],
+      "note": "Also satisfies REST via departmental program."
+    },
+    {
+      "subjectId": "6.1200",
+      "satisfies": [
+        "rest"
+      ],
+      "note": "Also satisfies REST via departmental program."
+    },
+    {
+      "subjectId": "6.2000",
+      "satisfies": [
+        "rest"
+      ],
+      "note": "Also satisfies REST via departmental program."
+    },
+    {
+      "subjectId": "6.3000",
+      "satisfies": [
+        "rest"
+      ],
+      "note": "Also satisfies REST via departmental program."
+    },
+    {
+      "subjectId": "6.3700",
+      "satisfies": [
+        "rest"
+      ],
+      "note": "Also satisfies REST via departmental program."
+    },
+    {
+      "subjectId": "18.03",
+      "satisfies": [
+        "rest"
+      ],
+      "note": "Also satisfies REST via departmental program."
+    },
+    {
+      "subjectId": "18.05",
+      "satisfies": [
+        "rest"
+      ],
+      "note": "Also satisfies REST via departmental program."
+    },
+    {
+      "subjectId": "18.06",
+      "satisfies": [
+        "rest"
+      ],
+      "note": "Also satisfies REST via departmental program."
+    },
+    {
+      "subjectId": "18.600",
+      "satisfies": [
+        "rest"
+      ],
+      "note": "Also satisfies REST via departmental program."
+    },
+    {
+      "subjectId": "18.C06",
+      "satisfies": [
+        "rest"
+      ],
+      "note": "Also satisfies REST via departmental program."
+    }
+  ],
+  "footnotes": [
+    {
+      "id": "1",
+      "text": "Subjects that also appear in the list of BCS Program Subjects can count as either a BCS Program Subject or a Program Elective, but not both.",
+      "appliesTo": [
+        "6-9.program-electives",
+        "6-9.laboratory-subjects"
+      ]
+    },
+    {
+      "id": "2",
+      "text": "Subject has prerequisites that are outside of the program."
+    },
+    {
+      "id": "3",
+      "text": "In order to meet the 180-198 units beyond the GIRs required, students may need to take more than 48 or fewer than 72 units of unrestricted electives."
+    }
+  ],
+  "constraints": [
+    {
+      "type": "exclusive_pools",
+      "pools": [
+        "6-9.program-electives",
+        "6-9.laboratory-subjects"
+      ],
+      "note": "Subjects that also appear in the list of BCS Program Subjects can count as either a BCS Program Subject or a Program Elective, but not both."
+    }
+  ],
+  "requirements": [
+    {
+      "groupId": "6-9-required-subjects",
+      "title": "Required Subjects",
+      "bucket": "departmental",
+      "subcategory": "required_subjects",
+      "root": {
+        "type": "group",
+        "ruleType": "all_of",
+        "items": [
+          {
+            "type": "subject",
+            "subjectId": "6.100A"
+          },
+          {
+            "type": "subject",
+            "subjectId": "9.01"
+          },
+          {
+            "type": "subject",
+            "subjectId": "18.06"
+          },
+          {
+            "type": "selection",
+            "ruleType": "choose_one",
+            "itemsSource": "explicit",
+            "items": [
+              {
+                "type": "subject",
+                "subjectId": "18.C06"
+              }
+            ]
+          },
+          {
+            "type": "selection",
+            "ruleType": "choose_one",
+            "itemsSource": "explicit",
+            "items": [
+              {
+                "type": "subject",
+                "subjectId": "6.1200"
+              },
+              {
+                "type": "subject",
+                "subjectId": "6.120A"
+              },
+              {
+                "type": "subject",
+                "subjectId": "18.03"
+              }
+            ]
+          },
+          {
+            "type": "selection",
+            "ruleType": "choose_one",
+            "itemsSource": "explicit",
+            "items": [
+              {
+                "type": "subject",
+                "subjectId": "6.3700"
+              },
+              {
+                "type": "subject",
+                "subjectId": "18.05"
+              },
+              {
+                "type": "subject",
+                "subjectId": "18.600"
+              },
+              {
+                "type": "subject",
+                "subjectId": "6.3800"
+              },
+              {
+                "type": "subject",
+                "subjectId": "9.07"
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "groupId": "6-9-eecs-program-subjects",
+      "title": "EECS Program Subjects",
+      "bucket": "departmental",
+      "subcategory": "required_subjects",
+      "root": {
+        "type": "group",
+        "ruleType": "all_of",
+        "items": [
+          {
+            "type": "subject",
+            "subjectId": "6.3900"
+          },
+          {
+            "type": "selection",
+            "ruleType": "choose_n",
+            "ruleValue": 2,
+            "itemsSource": "explicit",
+            "items": [
+              {
+                "type": "subject",
+                "subjectId": "6.1010"
+              },
+              {
+                "type": "subject",
+                "subjectId": "6.1210"
+              },
+              {
+                "type": "subject",
+                "subjectId": "6.2000"
+              }
+            ]
+          },
+          {
+            "type": "selection",
+            "ruleType": "choose_one",
+            "itemsSource": "explicit",
+            "items": [
+              {
+                "type": "subject",
+                "subjectId": "6.3000"
+              },
+              {
+                "type": "subject",
+                "subjectId": "6.3100"
+              },
+              {
+                "type": "subject",
+                "subjectId": "6.3950"
+              },
+              {
+                "type": "subject",
+                "subjectId": "6.4110"
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "groupId": "6-9-brain-systems-neurophysiology",
+      "title": "Brain Systems/Neurophysiology",
+      "bucket": "departmental",
+      "subcategory": "required_subjects",
+      "root": {
+        "type": "selection",
+        "ruleType": "choose_one",
+        "itemsSource": "explicit",
+        "items": [
+          {
+            "type": "subject",
+            "subjectId": "9.09"
+          },
+          {
+            "type": "subject",
+            "subjectId": "9.13"
+          },
+          {
+            "type": "subject",
+            "subjectId": "9.18"
+          },
+          {
+            "type": "subject",
+            "subjectId": "9.21"
+          },
+          {
+            "type": "subject",
+            "subjectId": "9.35"
+          },
+          {
+            "type": "subject",
+            "subjectId": "9.36"
+          },
+          {
+            "type": "subject",
+            "subjectId": "9.40"
+          },
+          {
+            "type": "subject",
+            "subjectId": "9.67"
+          }
+        ]
+      }
+    },
+    {
+      "groupId": "6-9-computation-and-cognition",
+      "title": "Computation and Cognition",
+      "bucket": "departmental",
+      "subcategory": "computation",
+      "root": {
+        "type": "selection",
+        "ruleType": "choose_one",
+        "itemsSource": "explicit",
+        "items": [
+          {
+            "type": "subject",
+            "subjectId": "9.19"
+          },
+          {
+            "type": "subject",
+            "subjectId": "9.39"
+          },
+          {
+            "type": "subject",
+            "subjectId": "9.49"
+          },
+          {
+            "type": "subject",
+            "subjectId": "9.53"
+          },
+          {
+            "type": "subject",
+            "subjectId": "9.66"
+          },
+          {
+            "type": "subject",
+            "subjectId": "9.85"
+          }
+        ]
+      }
+    },
+    {
+      "groupId": "6-9-program-electives",
+      "title": "Program Electives",
+      "bucket": "elective",
+      "subcategory": "elective_subjects",
+      "flexibility": {
+        "advisorApproval": false,
+        "catalogText": "One subject from the Electives list"
+      },
+      "root": {
+        "type": "selection",
+        "ruleType": "choose_units",
+        "ruleValue": 12,
+        "itemsSource": "advisor_defined",
+        "note": "One subject from the Electives list",
+        "flexibility": {
+          "catalogText": "One subject from the Electives list"
+        }
+      }
+    },
+    {
+      "groupId": "6-9-laboratory",
+      "title": "Laboratory",
+      "bucket": "departmental",
+      "subcategory": "laboratory",
+      "flexibility": {
+        "advisorApproval": false,
+        "catalogText": "One subject from the Laboratory Subjects list"
+      },
+      "root": {
+        "type": "selection",
+        "ruleType": "choose_units",
+        "ruleValue": 12,
+        "itemsSource": "advisor_defined",
+        "note": "One subject from the Laboratory Subjects list",
+        "flexibility": {
+          "catalogText": "One subject from the Laboratory Subjects list"
+        }
+      }
+    },
+    {
+      "groupId": "6-9-advanced-project",
+      "title": "Advanced Project",
+      "bucket": "departmental",
+      "subcategory": "required_subjects",
+      "root": {
+        "type": "selection",
+        "ruleType": "choose_one",
+        "itemsSource": "explicit",
+        "items": [
+          {
+            "type": "subject",
+            "subjectId": "6.UAR"
+          },
+          {
+            "type": "subject",
+            "subjectId": "9.41"
+          },
+          {
+            "type": "subject",
+            "subjectId": "9.58"
+          },
+          {
+            "type": "subject",
+            "subjectId": "6.4200"
+          },
+          {
+            "type": "subject",
+            "subjectId": "6.4210"
+          },
+          {
+            "type": "subject",
+            "subjectId": "6.8301"
+          },
+          {
+            "type": "subject",
+            "subjectId": "6.8611"
+          }
+        ]
+      }
+    },
+    {
+      "groupId": "6-9-restricted-electives",
+      "title": "Restricted Electives",
+      "bucket": "elective",
+      "subcategory": "restricted_electives",
+      "flexibility": {
+        "catalogText": "One subject from the Electives list"
+      },
+      "root": {
+        "type": "selection",
+        "ruleType": "choose_units",
+        "ruleValue": 12,
+        "itemsSource": "shared_list",
+        "sharedListId": "6-9.program-electives"
+      }
+    }
+  ],
+  "status": "draft",
+  "revisionId": "6-9-2026-07-03-d4d1f3a6",
+  "catalogYear": "2026",
+  "effectiveTerm": "2026-FA"
+}

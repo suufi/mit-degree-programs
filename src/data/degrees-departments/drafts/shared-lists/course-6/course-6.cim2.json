@@ -1,0 +1,100 @@
+{
+  "sharedListId": "course-6.cim2",
+  "program": "course-6",
+  "title": "CIM2",
+  "items": [
+    {
+      "type": "subject",
+      "subjectId": "6.1800"
+    },
+    {
+      "type": "subject",
+      "subjectId": "6.1850"
+    },
+    {
+      "type": "subject",
+      "subjectId": "6.2040"
+    },
+    {
+      "type": "subject",
+      "subjectId": "6.2050"
+    },
+    {
+      "type": "subject",
+      "subjectId": "6.2060"
+    },
+    {
+      "type": "subject",
+      "subjectId": "6.2061"
+    },
+    {
+      "type": "subject",
+      "subjectId": "6.2220"
+    },
+    {
+      "type": "subject",
+      "subjectId": "6.2221"
+    },
+    {
+      "type": "subject",
+      "subjectId": "6.2370"
+    },
+    {
+      "type": "subject",
+      "subjectId": "6.2410"
+    },
+    {
+      "type": "subject",
+      "subjectId": "6.2600"
+    },
+    {
+      "type": "subject",
+      "subjectId": "6.3930"
+    },
+    {
+      "type": "subject",
+      "subjectId": "6.4200"
+    },
+    {
+      "type": "subject",
+      "subjectId": "6.4210"
+    },
+    {
+      "type": "subject",
+      "subjectId": "6.4300"
+    },
+    {
+      "type": "subject",
+      "subjectId": "6.4590"
+    },
+    {
+      "type": "subject",
+      "subjectId": "6.4610"
+    },
+    {
+      "type": "subject",
+      "subjectId": "6.4860"
+    },
+    {
+      "type": "subject",
+      "subjectId": "6.4880"
+    },
+    {
+      "type": "subject",
+      "subjectId": "6.8611"
+    },
+    {
+      "type": "subject",
+      "subjectId": "6.9030"
+    },
+    {
+      "type": "subject",
+      "subjectId": "6.UAR"
+    },
+    {
+      "type": "subject",
+      "subjectId": "6.UAT"
+    }
+  ],
+  "version": "1"
+}

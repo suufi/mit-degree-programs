@@ -1,0 +1,94 @@
+Degree Charts
+
+- [Home](https://catalog.mit.edu/) >
+- [Degree Charts](https://catalog.mit.edu/degree-charts/) >
+- Social and Engineering Systems (PhD)
+
+# Doctor of Philosophy in Social and Engineering Systems
+
+[Institute for Data, Systems, and Society](https://catalog.mit.edu/schools/engineering/data-systems-society/index.html#graduatetext)
+
+## Program Requirements
+
+|     |     |     |
+| --- | --- | --- |
+| Orientation |  |
+| [IDS.900](https://catalog.mit.edu/search/?P=IDS.900 "IDS.900") | Doctoral Seminar in Social and Engineering Systems | 3 |
+| Core |  |
+| _Select 12 units from three of the areas below:_ |  |
+| _Probability_ |  |
+| [6.7700\[J\]](https://catalog.mit.edu/search/?P=6.7700 "6.7700[J]") | Fundamentals of Probability |  |
+| _Statistics_ |  |
+| [18.6501](https://catalog.mit.edu/search/?P=18.6501 "18.6501") | Fundamentals of Statistics |  |
+| [18.655](https://catalog.mit.edu/search/?P=18.655 "18.655") | Mathematical Statistics |  |
+| [IDS.160\[J\]](https://catalog.mit.edu/search/?P=IDS.160 "IDS.160[J]") | Mathematical Statistics: a Non-Asymptotic Approach |  |
+| [IDS.131\[J\]](https://catalog.mit.edu/search/?P=IDS.131 "IDS.131[J]") | Statistics, Computation and Applications |  |
+| _Social Science_1 |  |
+| [17.850](https://catalog.mit.edu/search/?P=17.850 "17.850") | Political Science Scope and Methods |  |
+| [21A.809](https://catalog.mit.edu/search/?P=21A.809 "21A.809") | Designing Empirical Research in the Social Sciences |  |
+| [21A.819](https://catalog.mit.edu/search/?P=21A.819 "21A.819") | Ethnographic Research Methods |  |
+| _Microeconomics / Causal Inference_ |  |
+| [14.121](https://catalog.mit.edu/search/?P=14.121 "14.121")<br>& [14.122](https://catalog.mit.edu/search/?P=14.122 "14.122") | Microeconomic Theory I<br>and Microeconomic Theory II |  |
+| [14.320](https://catalog.mit.edu/search/?P=14.320 "14.320") | Econometric Data Science |  |
+| [14.386](https://catalog.mit.edu/search/?P=14.386 "14.386") | New Econometric Methods |  |
+| [14.388](https://catalog.mit.edu/search/?P=14.388 "14.388") | Inference on Causal and Structural Parameters Using ML and AI |  |
+| [17.802](https://catalog.mit.edu/search/?P=17.802 "17.802") | Quantitative Research Methods II: Causal Inference |  |
+| Information Systems and Decision Science Focus2, 3 | 54 |
+| Five in the areas of probabilistic modeling, statistics, optimization, or systems/control theory, including: |  |
+| One subject from the list of Statistical Processing of Data Subjects below |  |
+| One subject of substantial mathematical content4 |  |
+| Two subjects belonging to a sequence that provides increasing depth on a particular topic |  |
+| Social Science Focus2, 5 | 42 |
+| Four subjects that create a coherent and rigorous program of study in the social sciences, providing necessary background for research, including three subjects comprising a coherent collection that builds depth in a particular social science focus area |  |
+| Problem Domain Focus2, 6, 7 | 9 |
+| Two subjects in the application domain of the student’s research |  |
+| Teaching |  |
+| [IDS.960](https://catalog.mit.edu/search/?P=IDS.960 "IDS.960") | Teaching in Data, Systems, and Society | 20 |
+| Research |  |
+| [IDS.970](https://catalog.mit.edu/search/?P=IDS.970 "IDS.970") | Pre-Thesis Research in Data, Systems, and Society 8 | 138 |
+| [IDS.THG](https://catalog.mit.edu/search/?P=IDS.THG "IDS.THG") | Graduate Thesis 8 | 60 |
+| Total Units | 326 |
+
+|     |     |
+| --- | --- |
+| _1_ | _Can also be satisfied by Harvard University subject SOCIO 2205 Sociological Research Design._ |
+| _2_ | _Students should choose 9-12 unit subjects to meet this requirement, with no more than half of the subjects chosen being 9-unit subjects. Two partial term subjects that form a two-subject sequence may be counted as one subject if their unit total is equal to or greater than 9 units. If Core subjects are used to satisfy this requirement, the remaining subjects in the focus should be at a more advanced level._ |
+| _3_ | _Core subjects in Probability and Statistics should be counted toward this requirement._ |
+| _4_ | _[6.7700\[J\]](https://catalog.mit.edu/search/?P=6.7700 "6.7700[J]") Fundamentals of Probability or another subject approved by the advisor and the graduate program committee._ |
+| _5_ | _Core subjects in Social Science and Microeconomics/Causal Inference should be counted toward this requirement._ |
+| _6_ | _One subject may be satisfied by a one-term, 12-unit internship ([IDS.955](https://catalog.mit.edu/search/?P=IDS.955 "IDS.955") Practical Experience in Data, Systems, and Society) or independent study ([IDS.950](https://catalog.mit.edu/search/?P=IDS.950 "IDS.950") Independent Study in Data, Systems, and Society). [IDS.955](https://catalog.mit.edu/search/?P=IDS.955 "IDS.955") is considered an ideal way to satisfy one Problem Domain requirement._ |
+| _7_ | _One subject may also be counted toward the Social Science Focus._ |
+| _8_ | _This represents the number of units the average student registers for this subject over the course of the program._ |
+
+### Statistical Processing of Data Subjects
+
+|     |     |     |
+| --- | --- | --- |
+| [6.7810](https://catalog.mit.edu/search/?P=6.7810 "6.7810") | Algorithms for Inference | 12 |
+| [6.7900](https://catalog.mit.edu/search/?P=6.7900 "6.7900") | Machine Learning | 12 |
+| [9.520\[J\]](https://catalog.mit.edu/search/?P=9.520 "9.520[J]") | Statistical Learning Theory and Applications | 12 |
+| [14.382](https://catalog.mit.edu/search/?P=14.382 "14.382")<br>& [14.383](https://catalog.mit.edu/search/?P=14.383 "14.383") | Econometrics<br>and High-Dimensional Econometrics | 6 |
+| [15.077\[J\]](https://catalog.mit.edu/search/?P=15.077 "15.077[J]") | Statistical Machine Learning and Data Science | 12 |
+| [16.391](https://catalog.mit.edu/search/?P=16.391 "16.391") | Statistics for Engineers and Scientists | 12 |
+| [17.802](https://catalog.mit.edu/search/?P=17.802 "17.802") | Quantitative Research Methods II: Causal Inference | 12 |
+| [17.804](https://catalog.mit.edu/search/?P=17.804 "17.804") | Quantitative Research Methods III: Generalized Linear Models and Extensions | 12 |
+| [17.806](https://catalog.mit.edu/search/?P=17.806 "17.806") | Quantitative Research Methods IV: Advanced Topics | 12 |
+| [18.6501](https://catalog.mit.edu/search/?P=18.6501 "18.6501") | Fundamentals of Statistics | 12 |
+| [18.655](https://catalog.mit.edu/search/?P=18.655 "18.655") | Mathematical Statistics | 12 |
+| [IDS.131\[J\]](https://catalog.mit.edu/search/?P=IDS.131 "IDS.131[J]") | Statistics, Computation and Applications | 12 |
+| [IDS.160\[J\]](https://catalog.mit.edu/search/?P=IDS.160 "IDS.160[J]") | Mathematical Statistics: a Non-Asymptotic Approach | 12 |
+
+Print Options
+
+
+[Send Page to Printer](https://catalog.mit.edu/degree-charts/phd-social-engineering-systems/#)
+
+_Print this page._
+
+[Download PDF of this Page](https://catalog.mit.edu/degree-charts/phd-social-engineering-systems/phd-social-engineering-systems.pdf)
+
+_The PDF includes all information on this page and its related tabs. Subject (course) information includes any changes approved for the current academic year._
+
+[Download PDF of the Entire Catalog and/or Subject Descriptions](https://catalog.mit.edu/archive/)
+
+[Cancel](https://catalog.mit.edu/degree-charts/phd-social-engineering-systems/#)

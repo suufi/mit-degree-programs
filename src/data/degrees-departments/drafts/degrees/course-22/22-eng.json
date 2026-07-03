@@ -1,0 +1,234 @@
+{
+  "schemaVersion": "2",
+  "program": "22-eng",
+  "title": "Engineering (Course 22-ENG)",
+  "level": "undergraduate",
+  "complete": false,
+  "includesGir": "sb",
+  "catalogSource": {
+    "url": "https://catalog.mit.edu/degree-charts/engineering-nuclear-science-engineering-course-22-eng/",
+    "slug": "engineering-nuclear-science-engineering-course-22-eng",
+    "scrapedAt": "2026-07-03",
+    "contentHash": "a5a5dbb505604e6c901430611c4b6a148c4d25f843e0c61be75051508715dcb3"
+  },
+  "girCrosswalk": [
+    {
+      "subjectId": "22.09",
+      "satisfies": [
+        "lab"
+      ],
+      "note": "Also satisfies Laboratory Requirement via departmental program."
+    }
+  ],
+  "footnotes": [
+    {
+      "id": "1",
+      "text": "_18.032 Differential Equations is also an acceptable option._"
+    }
+  ],
+  "constraints": [],
+  "requirements": [
+    {
+      "groupId": "22-eng-required-subjects",
+      "title": "Required Subjects",
+      "bucket": "departmental",
+      "subcategory": "required_subjects",
+      "root": {
+        "type": "group",
+        "ruleType": "all_of",
+        "items": [
+          {
+            "type": "subject",
+            "subjectId": "2.005"
+          },
+          {
+            "type": "subject",
+            "subjectId": "18.03"
+          },
+          {
+            "type": "subject",
+            "subjectId": "22.01"
+          },
+          {
+            "type": "subject",
+            "subjectId": "22.04"
+          },
+          {
+            "type": "subject",
+            "subjectId": "22.09"
+          }
+        ]
+      }
+    },
+    {
+      "groupId": "22-eng-system-specialization",
+      "title": "System Specialization",
+      "bucket": "departmental",
+      "subcategory": "required_subjects",
+      "root": {
+        "type": "group",
+        "ruleType": "all_of",
+        "items": [
+          {
+            "type": "subject",
+            "subjectId": "22.06"
+          },
+          {
+            "type": "selection",
+            "ruleType": "choose_one",
+            "itemsSource": "explicit",
+            "items": [
+              {
+                "type": "subject",
+                "subjectId": "22.061"
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "groupId": "22-eng-computational-elective",
+      "title": "Computational Elective",
+      "bucket": "elective",
+      "subcategory": "computation",
+      "root": {
+        "type": "selection",
+        "ruleType": "choose_one",
+        "itemsSource": "explicit",
+        "items": [
+          {
+            "type": "subject",
+            "subjectId": "1.000"
+          },
+          {
+            "type": "subject",
+            "subjectId": "2.086"
+          },
+          {
+            "type": "group",
+            "ruleType": "all_of",
+            "items": [
+              {
+                "type": "subject",
+                "subjectId": "6.100A"
+              },
+              {
+                "type": "subject",
+                "subjectId": "6.100B"
+              }
+            ]
+          },
+          {
+            "type": "subject",
+            "subjectId": "6.100A"
+          },
+          {
+            "type": "subject",
+            "subjectId": "12.010"
+          },
+          {
+            "type": "subject",
+            "subjectId": "22.C25"
+          }
+        ]
+      }
+    },
+    {
+      "groupId": "22-eng-mathematics-elective",
+      "title": "Mathematics Elective",
+      "bucket": "elective",
+      "subcategory": "elective_subjects",
+      "root": {
+        "type": "selection",
+        "ruleType": "choose_one",
+        "itemsSource": "explicit",
+        "items": [
+          {
+            "type": "subject",
+            "subjectId": "6.3700"
+          },
+          {
+            "type": "subject",
+            "subjectId": "18.04"
+          },
+          {
+            "type": "subject",
+            "subjectId": "18.05"
+          },
+          {
+            "type": "subject",
+            "subjectId": "18.06"
+          },
+          {
+            "type": "subject",
+            "subjectId": "18.C06"
+          },
+          {
+            "type": "subject",
+            "subjectId": "18.075"
+          },
+          {
+            "type": "subject",
+            "subjectId": "18.600"
+          }
+        ]
+      }
+    },
+    {
+      "groupId": "22-eng-senior-project",
+      "title": "Senior Project",
+      "bucket": "departmental",
+      "subcategory": "required_subjects",
+      "root": {
+        "type": "selection",
+        "ruleType": "choose_one",
+        "itemsSource": "explicit",
+        "items": [
+          {
+            "type": "subject",
+            "subjectId": "22.033"
+          },
+          {
+            "type": "group",
+            "ruleType": "all_of",
+            "items": [
+              {
+                "type": "subject",
+                "subjectId": "22.THT"
+              },
+              {
+                "type": "subject",
+                "subjectId": "22.THU"
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "groupId": "22-eng-focus-area",
+      "title": "Focus Area",
+      "bucket": "departmental",
+      "subcategory": "required_subjects",
+      "flexibility": {
+        "advisorApproval": false,
+        "catalogText": "A program of 72 units of electives from a proposal of study approved by the department"
+      },
+      "root": {
+        "type": "selection",
+        "ruleType": "choose_units",
+        "ruleValue": 72,
+        "itemsSource": "advisor_defined",
+        "note": "A program of 72 units of electives from a proposal of study approved by the department",
+        "flexibility": {
+          "catalogText": "A program of 72 units of electives from a proposal of study approved by the department"
+        }
+      }
+    }
+  ],
+  "status": "draft",
+  "revisionId": "22-eng-2026-07-03-a5a5dbb5",
+  "catalogYear": "2026",
+  "effectiveTerm": "2026-FA"
+}

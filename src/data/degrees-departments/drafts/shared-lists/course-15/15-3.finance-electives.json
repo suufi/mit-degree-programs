@@ -1,0 +1,36 @@
+{
+  "sharedListId": "15-3.finance-electives",
+  "program": "15-3",
+  "title": "Finance Electives",
+  "items": [
+    {
+      "type": "subject",
+      "subjectId": "15.4311"
+    },
+    {
+      "type": "subject",
+      "subjectId": "15.4331"
+    },
+    {
+      "type": "subject",
+      "subjectId": "15.4341"
+    },
+    {
+      "type": "subject",
+      "subjectId": "15.4371"
+    },
+    {
+      "type": "subject",
+      "subjectId": "15.4381"
+    },
+    {
+      "type": "subject",
+      "subjectId": "15.4451"
+    },
+    {
+      "type": "subject",
+      "subjectId": "15.5181"
+    }
+  ],
+  "version": "1"
+}

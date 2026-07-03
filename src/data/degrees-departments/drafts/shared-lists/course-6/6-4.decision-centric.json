@@ -1,0 +1,20 @@
+{
+  "sharedListId": "6-4.decision-centric",
+  "program": "6-4",
+  "title": "Decision-centric",
+  "items": [
+    {
+      "type": "subject",
+      "subjectId": "6.3100"
+    },
+    {
+      "type": "subject",
+      "subjectId": "6.4110"
+    },
+    {
+      "type": "subject",
+      "subjectId": "6.C571"
+    }
+  ],
+  "version": "1"
+}

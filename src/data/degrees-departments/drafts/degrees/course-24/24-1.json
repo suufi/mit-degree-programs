@@ -1,0 +1,282 @@
+{
+  "schemaVersion": "2",
+  "program": "24-1",
+  "title": "Philosophy (Course 24-1)",
+  "level": "undergraduate",
+  "complete": false,
+  "includesGir": "sb",
+  "catalogSource": {
+    "url": "https://catalog.mit.edu/degree-charts/philosophy-course-24-1/",
+    "slug": "philosophy-course-24-1",
+    "scrapedAt": "2026-07-03",
+    "contentHash": "8b774c855d9c2602e9381eaac6fe6083f1253112872720607c3993d24b80bff8"
+  },
+  "girCrosswalk": [],
+  "footnotes": [
+    {
+      "id": "1",
+      "text": "No more than four of the total number of philosophy subjects for the major may be introductory philosophy subjects numbered 24.00–24.09. At least two of the total number of philosophy courses must be at the 200 level or above."
+    },
+    {
+      "id": "2",
+      "text": "The introductory subject numbered 24.00–24.09 cannot also be used as a departmental distribution subject. Students may substitute an appropriate philosophy concourse subject."
+    },
+    {
+      "id": "3",
+      "text": "Students may substitute another subject with a history of philosophy orientation, with the approval of the major advisor in consultation with the instructor."
+    },
+    {
+      "id": "4",
+      "text": "Students may select a logic subject from another department (e.g., Mathematics) with the approval of their major advisor."
+    },
+    {
+      "id": "5",
+      "text": "See Subjects."
+    },
+    {
+      "id": "6",
+      "text": "This chart has been calculated based on an overlap of 36 units (three subjects) between the HASS General Institute Requirement and the departmental requirements. Students who develop a program of study with more overlap will be able to select more unrestricted electives to meet the number of total units beyond the GIRs required for an SB degree."
+    }
+  ],
+  "constraints": [],
+  "requirements": [
+    {
+      "groupId": "24-1-required-subjects",
+      "title": "Required Subjects",
+      "bucket": "departmental",
+      "subcategory": "required_subjects",
+      "root": {
+        "type": "group",
+        "ruleType": "all_of",
+        "items": [
+          {
+            "type": "group",
+            "ruleType": "all_of",
+            "items": [
+              {
+                "type": "subject",
+                "subjectId": "24.00"
+              },
+              {
+                "type": "subject",
+                "subjectId": "24.09"
+              }
+            ]
+          },
+          {
+            "type": "selection",
+            "ruleType": "choose_one",
+            "itemsSource": "explicit",
+            "items": [
+              {
+                "type": "subject",
+                "subjectId": "24.01"
+              },
+              {
+                "type": "subject",
+                "subjectId": "24.201"
+              }
+            ]
+          },
+          {
+            "type": "selection",
+            "ruleType": "choose_one",
+            "itemsSource": "explicit",
+            "items": [
+              {
+                "type": "subject",
+                "subjectId": "24.05"
+              },
+              {
+                "type": "subject",
+                "subjectId": "24.08"
+              },
+              {
+                "type": "subject",
+                "subjectId": "24.09"
+              },
+              {
+                "type": "subject",
+                "subjectId": "24.111"
+              },
+              {
+                "type": "subject",
+                "subjectId": "24.121"
+              },
+              {
+                "type": "subject",
+                "subjectId": "24.211"
+              },
+              {
+                "type": "subject",
+                "subjectId": "24.212"
+              },
+              {
+                "type": "subject",
+                "subjectId": "24.215"
+              },
+              {
+                "type": "subject",
+                "subjectId": "24.223"
+              },
+              {
+                "type": "subject",
+                "subjectId": "24.251"
+              },
+              {
+                "type": "subject",
+                "subjectId": "24.252"
+              },
+              {
+                "type": "subject",
+                "subjectId": "24.253"
+              },
+              {
+                "type": "subject",
+                "subjectId": "24.280"
+              }
+            ]
+          },
+          {
+            "type": "selection",
+            "ruleType": "choose_one",
+            "itemsSource": "explicit",
+            "items": [
+              {
+                "type": "subject",
+                "subjectId": "24.013"
+              },
+              {
+                "type": "subject",
+                "subjectId": "24.02"
+              },
+              {
+                "type": "subject",
+                "subjectId": "24.03"
+              },
+              {
+                "type": "subject",
+                "subjectId": "24.04"
+              },
+              {
+                "type": "subject",
+                "subjectId": "24.06"
+              },
+              {
+                "type": "subject",
+                "subjectId": "24.130"
+              },
+              {
+                "type": "subject",
+                "subjectId": "24.131"
+              },
+              {
+                "type": "subject",
+                "subjectId": "24.137"
+              },
+              {
+                "type": "subject",
+                "subjectId": "24.150"
+              },
+              {
+                "type": "subject",
+                "subjectId": "24.213"
+              },
+              {
+                "type": "subject",
+                "subjectId": "24.220"
+              },
+              {
+                "type": "subject",
+                "subjectId": "24.222"
+              },
+              {
+                "type": "subject",
+                "subjectId": "24.230"
+              },
+              {
+                "type": "subject",
+                "subjectId": "24.233"
+              },
+              {
+                "type": "subject",
+                "subjectId": "24.234"
+              },
+              {
+                "type": "subject",
+                "subjectId": "24.235"
+              },
+              {
+                "type": "subject",
+                "subjectId": "24.236"
+              },
+              {
+                "type": "subject",
+                "subjectId": "24.240"
+              }
+            ]
+          },
+          {
+            "type": "selection",
+            "ruleType": "choose_one",
+            "itemsSource": "explicit",
+            "items": [
+              {
+                "type": "subject",
+                "subjectId": "24.118"
+              },
+              {
+                "type": "subject",
+                "subjectId": "24.141"
+              },
+              {
+                "type": "subject",
+                "subjectId": "24.242"
+              },
+              {
+                "type": "subject",
+                "subjectId": "24.243"
+              },
+              {
+                "type": "subject",
+                "subjectId": "24.244"
+              },
+              {
+                "type": "subject",
+                "subjectId": "24.245"
+              },
+              {
+                "type": "subject",
+                "subjectId": "24.260"
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "groupId": "24-1-restricted-electives",
+      "title": "Restricted Electives",
+      "bucket": "elective",
+      "subcategory": "restricted_electives",
+      "flexibility": {
+        "advisorApproval": false,
+        "catalogText": "Select a coherent program of five additional subjects, two of which must be in philosophy, with approval of the major advisor.5"
+      },
+      "root": {
+        "type": "selection",
+        "ruleType": "choose_units",
+        "ruleValue": 60,
+        "itemsSource": "advisor_defined",
+        "note": "Select a coherent program of five additional subjects, two of which must be in philosophy, with approval of the major advisor.5",
+        "flexibility": {
+          "catalogText": "Select a coherent program of five additional subjects, two of which must be in philosophy, with approval of the major advisor.5"
+        }
+      }
+    }
+  ],
+  "status": "draft",
+  "revisionId": "24-1-2026-07-03-8b774c85",
+  "catalogYear": "2026",
+  "effectiveTerm": "2026-FA"
+}

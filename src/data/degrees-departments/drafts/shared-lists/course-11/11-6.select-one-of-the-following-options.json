@@ -1,0 +1,64 @@
+{
+  "sharedListId": "11-6.select-one-of-the-following-options",
+  "program": "11-6",
+  "title": "Select one of the following options:",
+  "items": [
+    {
+      "type": "subject",
+      "subjectId": "6.3800"
+    },
+    {
+      "type": "subject",
+      "subjectId": "18.06"
+    },
+    {
+      "type": "subject",
+      "subjectId": "18.C06"
+    },
+    {
+      "type": "subject",
+      "subjectId": "6.3900"
+    },
+    {
+      "type": "subject",
+      "subjectId": "11.001"
+    },
+    {
+      "type": "subject",
+      "subjectId": "11.188"
+    },
+    {
+      "type": "subject",
+      "subjectId": "6.4590"
+    },
+    {
+      "type": "subject",
+      "subjectId": "11.002"
+    },
+    {
+      "type": "subject",
+      "subjectId": "11.011"
+    },
+    {
+      "type": "subject",
+      "subjectId": "11.165"
+    },
+    {
+      "type": "subject",
+      "subjectId": "11.007"
+    },
+    {
+      "type": "subject",
+      "subjectId": "11.138"
+    },
+    {
+      "type": "subject",
+      "subjectId": "11.154"
+    },
+    {
+      "type": "subject",
+      "subjectId": "11.C35"
+    }
+  ],
+  "version": "1"
+}

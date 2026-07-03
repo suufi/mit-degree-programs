@@ -1,0 +1,16 @@
+{
+  "sharedListId": "21.russian-and-eurasian-studies",
+  "program": "21",
+  "title": "# Russian and Eurasian Studies",
+  "items": [
+    {
+      "type": "subject",
+      "subjectId": "21.THT"
+    },
+    {
+      "type": "subject",
+      "subjectId": "21.THU"
+    }
+  ],
+  "version": "1"
+}

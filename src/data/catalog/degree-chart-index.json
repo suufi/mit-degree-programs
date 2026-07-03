@@ -1,0 +1,1025 @@
+{
+  "schemaVersion": "1",
+  "sourceUrl": "https://catalog.mit.edu/degree-charts/",
+  "scrapedAt": "2026-07-03",
+  "contentHash": "456eff4a7cdb3a3199d02621dfa1edf5756a81e66cab8dcf8e36f3fd4fb0d998",
+  "entries": [
+    {
+      "slug": "architecture-course-4",
+      "url": "https://catalog.mit.edu/degree-charts/architecture-course-4/",
+      "title": "Architecture (Course 4)",
+      "level": "undergraduate",
+      "school": "School of Architecture and Planning",
+      "programId": "4",
+      "schools": [
+        "School of Architecture and Planning"
+      ]
+    },
+    {
+      "slug": "architecture-course-4-b",
+      "url": "https://catalog.mit.edu/degree-charts/architecture-course-4-b/",
+      "title": "Art and Design (Course 4-B)",
+      "level": "undergraduate",
+      "school": "School of Architecture and Planning",
+      "programId": "4-b",
+      "schools": [
+        "School of Architecture and Planning"
+      ]
+    },
+    {
+      "slug": "planning-course-11",
+      "url": "https://catalog.mit.edu/degree-charts/planning-course-11/",
+      "title": "Planning (Course 11)",
+      "level": "undergraduate",
+      "school": "School of Architecture and Planning",
+      "programId": "11",
+      "schools": [
+        "School of Architecture and Planning"
+      ]
+    },
+    {
+      "slug": "aerospace-engineering-course-16",
+      "url": "https://catalog.mit.edu/degree-charts/aerospace-engineering-course-16/",
+      "title": "Aerospace Engineering (Course 16)",
+      "level": "undergraduate",
+      "school": "School of Engineering",
+      "programId": "16",
+      "schools": [
+        "School of Engineering"
+      ]
+    },
+    {
+      "slug": "archaeology-materials-course-3-c",
+      "url": "https://catalog.mit.edu/degree-charts/archaeology-materials-course-3-c/",
+      "title": "Archaeology and Materials as Recommended by the Department of Materials Science and Engineering (Course 3-C)",
+      "level": "undergraduate",
+      "school": "School of Engineering",
+      "programId": "3-c",
+      "schools": [
+        "School of Engineering"
+      ]
+    },
+    {
+      "slug": "artifical-intelligence-decision-making-course-6-4",
+      "url": "https://catalog.mit.edu/degree-charts/artifical-intelligence-decision-making-course-6-4/",
+      "title": "Artificial Intelligence and Decision Making (6-4)",
+      "level": "undergraduate",
+      "school": "School of Engineering",
+      "programId": "6-4",
+      "schools": [
+        "School of Engineering",
+        "MIT Schwarzman College of Computing"
+      ]
+    },
+    {
+      "slug": "biological-engineering-course-20",
+      "url": "https://catalog.mit.edu/degree-charts/biological-engineering-course-20/",
+      "title": "Biological Engineering (Course 20)",
+      "level": "undergraduate",
+      "school": "School of Engineering",
+      "programId": "20",
+      "schools": [
+        "School of Engineering"
+      ]
+    },
+    {
+      "slug": "chemical-biological-engineering-course-10-b",
+      "url": "https://catalog.mit.edu/degree-charts/chemical-biological-engineering-course-10-b/",
+      "title": "Chemical-Biological Engineering (Course 10-B)",
+      "level": "undergraduate",
+      "school": "School of Engineering",
+      "programId": "10-b",
+      "schools": [
+        "School of Engineering"
+      ]
+    },
+    {
+      "slug": "chemical-engineering-course-10",
+      "url": "https://catalog.mit.edu/degree-charts/chemical-engineering-course-10/",
+      "title": "Chemical Engineering (Course 10)",
+      "level": "undergraduate",
+      "school": "School of Engineering",
+      "programId": "10",
+      "schools": [
+        "School of Engineering"
+      ]
+    },
+    {
+      "slug": "chemical-engineering-course-10-c",
+      "url": "https://catalog.mit.edu/degree-charts/chemical-engineering-course-10-c/",
+      "title": "Chemical Engineering as Recommended by the Department of Chemical Engineering (Course 10-C)",
+      "level": "undergraduate",
+      "school": "School of Engineering",
+      "programId": "10-c",
+      "schools": [
+        "School of Engineering"
+      ]
+    },
+    {
+      "slug": "computer-science-engineering-course-6-3",
+      "url": "https://catalog.mit.edu/degree-charts/computer-science-engineering-course-6-3/",
+      "title": "Computer Science and Engineering (Course 6-3)",
+      "level": "undergraduate",
+      "school": "School of Engineering",
+      "programId": "6-3",
+      "schools": [
+        "School of Engineering",
+        "MIT Schwarzman College of Computing"
+      ]
+    },
+    {
+      "slug": "electrical-engineering-computing-6-5",
+      "url": "https://catalog.mit.edu/degree-charts/electrical-engineering-computing-6-5/",
+      "title": "Electrical Engineering with Computing (Course 6-5)",
+      "level": "undergraduate",
+      "school": "School of Engineering",
+      "programId": "6-5",
+      "schools": [
+        "School of Engineering",
+        "MIT Schwarzman College of Computing"
+      ]
+    },
+    {
+      "slug": "engineering-civil-environmental-engineering-course-1-eng",
+      "url": "https://catalog.mit.edu/degree-charts/engineering-civil-environmental-engineering-course-1-eng/",
+      "title": "Engineering (Course 1-ENG)",
+      "level": "undergraduate",
+      "school": "School of Engineering",
+      "programId": "1-eng",
+      "schools": [
+        "School of Engineering"
+      ]
+    },
+    {
+      "slug": "mechanical-engineering-course-2-a",
+      "url": "https://catalog.mit.edu/degree-charts/mechanical-engineering-course-2-a/",
+      "title": "Engineering (Course 2-A)",
+      "level": "undergraduate",
+      "school": "School of Engineering",
+      "programId": "2-a",
+      "schools": [
+        "School of Engineering"
+      ]
+    },
+    {
+      "slug": "engineering-chemical-engineering-course-10-eng",
+      "url": "https://catalog.mit.edu/degree-charts/engineering-chemical-engineering-course-10-eng/",
+      "title": "Engineering (Course 10-ENG)",
+      "level": "undergraduate",
+      "school": "School of Engineering",
+      "programId": "10-eng",
+      "schools": [
+        "School of Engineering"
+      ]
+    },
+    {
+      "slug": "engineering-aeronautics-astronautics-course-16-eng",
+      "url": "https://catalog.mit.edu/degree-charts/engineering-aeronautics-astronautics-course-16-eng/",
+      "title": "Engineering (Course 16-ENG)",
+      "level": "undergraduate",
+      "school": "School of Engineering",
+      "programId": "16-eng",
+      "schools": [
+        "School of Engineering"
+      ]
+    },
+    {
+      "slug": "engineering-nuclear-science-engineering-course-22-eng",
+      "url": "https://catalog.mit.edu/degree-charts/engineering-nuclear-science-engineering-course-22-eng/",
+      "title": "Engineering (Course 22-ENG)",
+      "level": "undergraduate",
+      "school": "School of Engineering",
+      "programId": "22-eng",
+      "schools": [
+        "School of Engineering"
+      ]
+    },
+    {
+      "slug": "materials-science-engineering-course-3",
+      "url": "https://catalog.mit.edu/degree-charts/materials-science-engineering-course-3/",
+      "title": "Materials Science and Engineering (Course 3)",
+      "level": "undergraduate",
+      "school": "School of Engineering",
+      "programId": "3",
+      "schools": [
+        "School of Engineering"
+      ]
+    },
+    {
+      "slug": "materials-science-engineering-course-3-a",
+      "url": "https://catalog.mit.edu/degree-charts/materials-science-engineering-course-3-a/",
+      "title": "Materials Science and Engineering (Course 3-A)",
+      "level": "undergraduate",
+      "school": "School of Engineering",
+      "programId": "3-a",
+      "schools": [
+        "School of Engineering"
+      ]
+    },
+    {
+      "slug": "mechanical-ocean-engineering-course-2-oe",
+      "url": "https://catalog.mit.edu/degree-charts/mechanical-ocean-engineering-course-2-oe/",
+      "title": "Mechanical and Ocean Engineering (Course 2-OE)",
+      "level": "undergraduate",
+      "school": "School of Engineering",
+      "programId": "2-oe",
+      "schools": [
+        "School of Engineering"
+      ]
+    },
+    {
+      "slug": "mechanical-engineering-course-2",
+      "url": "https://catalog.mit.edu/degree-charts/mechanical-engineering-course-2/",
+      "title": "Mechanical Engineering (Course 2)",
+      "level": "undergraduate",
+      "school": "School of Engineering",
+      "programId": "2",
+      "schools": [
+        "School of Engineering"
+      ]
+    },
+    {
+      "slug": "nuclear-science-engineering-course-22",
+      "url": "https://catalog.mit.edu/degree-charts/nuclear-science-engineering-course-22/",
+      "title": "Nuclear Science and Engineering (Course 22)",
+      "level": "undergraduate",
+      "school": "School of Engineering",
+      "programId": "22",
+      "schools": [
+        "School of Engineering"
+      ]
+    },
+    {
+      "slug": "anthropology-course-21a",
+      "url": "https://catalog.mit.edu/degree-charts/anthropology-course-21a/",
+      "title": "Anthropology (Course 21A)",
+      "level": "undergraduate",
+      "school": "School of Humanities, Arts, and Social Sciences",
+      "programId": "21",
+      "schools": [
+        "School of Humanities, Arts, and Social Sciences"
+      ]
+    },
+    {
+      "slug": "comparative-media-studies-cms",
+      "url": "https://catalog.mit.edu/degree-charts/comparative-media-studies-cms/",
+      "title": "Comparative Media Studies (CMS)",
+      "level": "undergraduate",
+      "school": "School of Humanities, Arts, and Social Sciences",
+      "programId": "comparative-media-studies-cms",
+      "schools": [
+        "School of Humanities, Arts, and Social Sciences"
+      ]
+    },
+    {
+      "slug": "economics-course-14",
+      "url": "https://catalog.mit.edu/degree-charts/economics-course-14/",
+      "title": "Economics (Course 14-1)",
+      "level": "undergraduate",
+      "school": "School of Humanities, Arts, and Social Sciences",
+      "programId": "14-1",
+      "schools": [
+        "School of Humanities, Arts, and Social Sciences"
+      ]
+    },
+    {
+      "slug": "global-studies-languages-course-21g",
+      "url": "https://catalog.mit.edu/degree-charts/global-studies-languages-course-21g/",
+      "title": "Global Studies and Languages (Course 21G)",
+      "level": "undergraduate",
+      "school": "School of Humanities, Arts, and Social Sciences",
+      "programId": "21",
+      "schools": [
+        "School of Humanities, Arts, and Social Sciences"
+      ]
+    },
+    {
+      "slug": "history-course-21h",
+      "url": "https://catalog.mit.edu/degree-charts/history-course-21h/",
+      "title": "History (Course 21H)",
+      "level": "undergraduate",
+      "school": "School of Humanities, Arts, and Social Sciences",
+      "programId": "21",
+      "schools": [
+        "School of Humanities, Arts, and Social Sciences"
+      ]
+    },
+    {
+      "slug": "humanities-course-21",
+      "url": "https://catalog.mit.edu/degree-charts/humanities-course-21/",
+      "title": "Humanities (Course 21)",
+      "level": "undergraduate",
+      "school": "School of Humanities, Arts, and Social Sciences",
+      "programId": "21",
+      "schools": [
+        "School of Humanities, Arts, and Social Sciences"
+      ]
+    },
+    {
+      "slug": "humanities-engineering-course-21e",
+      "url": "https://catalog.mit.edu/degree-charts/humanities-engineering-course-21e/",
+      "title": "Humanities and Engineering (Course 21E)",
+      "level": "undergraduate",
+      "school": "School of Humanities, Arts, and Social Sciences",
+      "programId": "21",
+      "schools": [
+        "School of Humanities, Arts, and Social Sciences"
+      ]
+    },
+    {
+      "slug": "humanities-science-course-21s",
+      "url": "https://catalog.mit.edu/degree-charts/humanities-science-course-21s/",
+      "title": "Humanities and Science (Course 21S)",
+      "level": "undergraduate",
+      "school": "School of Humanities, Arts, and Social Sciences",
+      "programId": "21",
+      "schools": [
+        "School of Humanities, Arts, and Social Sciences"
+      ]
+    },
+    {
+      "slug": "linguistics-philosophy-course-24-2",
+      "url": "https://catalog.mit.edu/degree-charts/linguistics-philosophy-course-24-2/",
+      "title": "Linguistics and Philosophy (Course 24-2)",
+      "level": "undergraduate",
+      "school": "School of Humanities, Arts, and Social Sciences",
+      "programId": "24-2",
+      "schools": [
+        "School of Humanities, Arts, and Social Sciences"
+      ]
+    },
+    {
+      "slug": "literature-course-21l",
+      "url": "https://catalog.mit.edu/degree-charts/literature-course-21l/",
+      "title": "Literature (Course 21L)",
+      "level": "undergraduate",
+      "school": "School of Humanities, Arts, and Social Sciences",
+      "programId": "21",
+      "schools": [
+        "School of Humanities, Arts, and Social Sciences"
+      ]
+    },
+    {
+      "slug": "mathematical-economics-course-14-2",
+      "url": "https://catalog.mit.edu/degree-charts/mathematical-economics-course-14-2/",
+      "title": "Mathematical Economics (Course 14-2)",
+      "level": "undergraduate",
+      "school": "School of Humanities, Arts, and Social Sciences",
+      "programId": "14-2",
+      "schools": [
+        "School of Humanities, Arts, and Social Sciences"
+      ]
+    },
+    {
+      "slug": "music-course-21m",
+      "url": "https://catalog.mit.edu/degree-charts/music-course-21m/",
+      "title": "Music (Course 21M)",
+      "level": "undergraduate",
+      "school": "School of Humanities, Arts, and Social Sciences",
+      "programId": "21",
+      "schools": [
+        "School of Humanities, Arts, and Social Sciences"
+      ]
+    },
+    {
+      "slug": "philosophy-course-24-1",
+      "url": "https://catalog.mit.edu/degree-charts/philosophy-course-24-1/",
+      "title": "Philosophy (Course 24-1)",
+      "level": "undergraduate",
+      "school": "School of Humanities, Arts, and Social Sciences",
+      "programId": "24-1",
+      "schools": [
+        "School of Humanities, Arts, and Social Sciences"
+      ]
+    },
+    {
+      "slug": "political-science-course-17",
+      "url": "https://catalog.mit.edu/degree-charts/political-science-course-17/",
+      "title": "Political Science (Course 17)",
+      "level": "undergraduate",
+      "school": "School of Humanities, Arts, and Social Sciences",
+      "programId": "17",
+      "schools": [
+        "School of Humanities, Arts, and Social Sciences"
+      ]
+    },
+    {
+      "slug": "science-technology-society-sts",
+      "url": "https://catalog.mit.edu/degree-charts/science-technology-society-sts/",
+      "title": "Science, Technology, and Society/Second Major (STS)",
+      "level": "undergraduate",
+      "school": "School of Humanities, Arts, and Social Sciences",
+      "programId": "science-technology-society-sts",
+      "schools": [
+        "School of Humanities, Arts, and Social Sciences"
+      ]
+    },
+    {
+      "slug": "theater-arts-course-21t",
+      "url": "https://catalog.mit.edu/degree-charts/theater-arts-course-21t/",
+      "title": "Theater Arts (Course 21T)",
+      "level": "undergraduate",
+      "school": "School of Humanities, Arts, and Social Sciences",
+      "programId": "21",
+      "schools": [
+        "School of Humanities, Arts, and Social Sciences"
+      ]
+    },
+    {
+      "slug": "writing-course-21w",
+      "url": "https://catalog.mit.edu/degree-charts/writing-course-21w/",
+      "title": "Writing (Course 21W)",
+      "level": "undergraduate",
+      "school": "School of Humanities, Arts, and Social Sciences",
+      "programId": "21",
+      "schools": [
+        "School of Humanities, Arts, and Social Sciences"
+      ]
+    },
+    {
+      "slug": "business-analytics-course-15-2",
+      "url": "https://catalog.mit.edu/degree-charts/business-analytics-course-15-2/",
+      "title": "Business Analytics (Course 15-2)",
+      "level": "undergraduate",
+      "school": "Sloan School of Management",
+      "programId": "15-2",
+      "schools": [
+        "Sloan School of Management"
+      ]
+    },
+    {
+      "slug": "finance-course-15-3",
+      "url": "https://catalog.mit.edu/degree-charts/finance-course-15-3/",
+      "title": "Finance (Course 15-3)",
+      "level": "undergraduate",
+      "school": "Sloan School of Management",
+      "programId": "15-3",
+      "schools": [
+        "Sloan School of Management"
+      ]
+    },
+    {
+      "slug": "management-course-15-1",
+      "url": "https://catalog.mit.edu/degree-charts/management-course-15-1/",
+      "title": "Management (Course 15-1)",
+      "level": "undergraduate",
+      "school": "Sloan School of Management",
+      "programId": "15-1",
+      "schools": [
+        "Sloan School of Management"
+      ]
+    },
+    {
+      "slug": "biology-course-7",
+      "url": "https://catalog.mit.edu/degree-charts/biology-course-7/",
+      "title": "Biology (Course 7)",
+      "level": "undergraduate",
+      "school": "School of Science",
+      "programId": "7",
+      "schools": [
+        "School of Science"
+      ]
+    },
+    {
+      "slug": "brain-cognitive-sciences-course-9",
+      "url": "https://catalog.mit.edu/degree-charts/brain-cognitive-sciences-course-9/",
+      "title": "Brain and Cognitive Sciences (Course 9)",
+      "level": "undergraduate",
+      "school": "School of Science",
+      "programId": "9",
+      "schools": [
+        "School of Science"
+      ]
+    },
+    {
+      "slug": "chemistry-course-5",
+      "url": "https://catalog.mit.edu/degree-charts/chemistry-course-5/",
+      "title": "Chemistry (Course 5)",
+      "level": "undergraduate",
+      "school": "School of Science",
+      "programId": "5",
+      "schools": [
+        "School of Science"
+      ]
+    },
+    {
+      "slug": "earth-atmospheric-planetary-sciences-course-12",
+      "url": "https://catalog.mit.edu/degree-charts/earth-atmospheric-planetary-sciences-course-12/",
+      "title": "Earth, Atmospheric, and Planetary Sciences (Course 12)",
+      "level": "undergraduate",
+      "school": "School of Science",
+      "programId": "12",
+      "schools": [
+        "School of Science"
+      ]
+    },
+    {
+      "slug": "mathematics-course-18",
+      "url": "https://catalog.mit.edu/degree-charts/mathematics-course-18/",
+      "title": "Mathematics (Course 18)",
+      "level": "undergraduate",
+      "school": "School of Science",
+      "programId": "18",
+      "schools": [
+        "School of Science"
+      ]
+    },
+    {
+      "slug": "mathematics-computer-science-course-18-c",
+      "url": "https://catalog.mit.edu/degree-charts/mathematics-computer-science-course-18-c/",
+      "title": "Mathematics with Computer Science (Course 18-C)",
+      "level": "undergraduate",
+      "school": "School of Science",
+      "programId": "18-c",
+      "schools": [
+        "School of Science"
+      ]
+    },
+    {
+      "slug": "physics-course-8",
+      "url": "https://catalog.mit.edu/degree-charts/physics-course-8/",
+      "title": "Physics (Course 8)",
+      "level": "undergraduate",
+      "school": "School of Science",
+      "programId": "8",
+      "schools": [
+        "School of Science"
+      ]
+    },
+    {
+      "slug": "chemistry-biology-course-5-7",
+      "url": "https://catalog.mit.edu/degree-charts/chemistry-biology-course-5-7/",
+      "title": "Chemistry and Biology (Course 5-7)",
+      "level": "undergraduate",
+      "school": "Interdisciplinary Programs",
+      "programId": "5-7",
+      "schools": [
+        "Interdisciplinary Programs"
+      ]
+    },
+    {
+      "slug": "climate-system-science-engineering-course-1-12",
+      "url": "https://catalog.mit.edu/degree-charts/climate-system-science-engineering-course-1-12/",
+      "title": "Climate System Science and Engineering (Course 1-12)",
+      "level": "undergraduate",
+      "school": "Interdisciplinary Programs",
+      "programId": "1-12",
+      "schools": [
+        "Interdisciplinary Programs"
+      ]
+    },
+    {
+      "slug": "computation-cognition-6-9",
+      "url": "https://catalog.mit.edu/degree-charts/computation-cognition-6-9/",
+      "title": "Computation and Cognition (Course 6-9)",
+      "level": "undergraduate",
+      "school": "Interdisciplinary Programs",
+      "programId": "6-9",
+      "schools": [
+        "Interdisciplinary Programs"
+      ]
+    },
+    {
+      "slug": "computer-science-molecular-biology-course-6-7",
+      "url": "https://catalog.mit.edu/degree-charts/computer-science-molecular-biology-course-6-7/",
+      "title": "Computer Science and Molecular Biology (Course 6-7)",
+      "level": "undergraduate",
+      "school": "Interdisciplinary Programs",
+      "programId": "6-7",
+      "schools": [
+        "Interdisciplinary Programs"
+      ]
+    },
+    {
+      "slug": "computer-science-economics-data-science-course-6-14",
+      "url": "https://catalog.mit.edu/degree-charts/computer-science-economics-data-science-course-6-14/",
+      "title": "Computer Science, Economics, and Data Science (Course 6-14)",
+      "level": "undergraduate",
+      "school": "Interdisciplinary Programs",
+      "programId": "6-14",
+      "schools": [
+        "Interdisciplinary Programs"
+      ]
+    },
+    {
+      "slug": "urban-science-planning-computer-science-11-6",
+      "url": "https://catalog.mit.edu/degree-charts/urban-science-planning-computer-science-11-6/",
+      "title": "Urban Science and Planning with Computer Science (Course 11-6)",
+      "level": "undergraduate",
+      "school": "Interdisciplinary Programs",
+      "programId": "11-6",
+      "schools": [
+        "Interdisciplinary Programs"
+      ]
+    },
+    {
+      "slug": "master-architecture",
+      "url": "https://catalog.mit.edu/degree-charts/master-architecture/",
+      "title": "Architecture (MArch)",
+      "level": "graduate",
+      "school": "School of Architecture and Planning",
+      "programId": "march",
+      "schools": [
+        "School of Architecture and Planning"
+      ]
+    },
+    {
+      "slug": "master-architecture-studies",
+      "url": "https://catalog.mit.edu/degree-charts/master-architecture-studies/",
+      "title": "Architecture Studies (SMArchS)",
+      "level": "graduate",
+      "school": "School of Architecture and Planning",
+      "programId": "sm-arch-studies",
+      "schools": [
+        "School of Architecture and Planning"
+      ]
+    },
+    {
+      "slug": "master-art-culture-technology",
+      "url": "https://catalog.mit.edu/degree-charts/master-art-culture-technology/",
+      "title": "Art, Culture, and Technology (SM)",
+      "level": "graduate",
+      "school": "School of Architecture and Planning",
+      "programId": "master-art-culture-technology",
+      "schools": [
+        "School of Architecture and Planning"
+      ]
+    },
+    {
+      "slug": "master-city-planning",
+      "url": "https://catalog.mit.edu/degree-charts/master-city-planning/",
+      "title": "City Planning (SM)",
+      "level": "graduate",
+      "school": "School of Architecture and Planning",
+      "programId": "master-city-planning",
+      "schools": [
+        "School of Architecture and Planning"
+      ]
+    },
+    {
+      "slug": "phd-aeronautics-astronautics",
+      "url": "https://catalog.mit.edu/degree-charts/phd-aeronautics-astronautics/",
+      "title": "Aeronautics and Astronautics Fields (PhD/ScD)",
+      "level": "graduate",
+      "school": "School of Engineering",
+      "programId": "phd-aeronautics-astronautics",
+      "schools": [
+        "School of Engineering"
+      ]
+    },
+    {
+      "slug": "phd-biological-engineering",
+      "url": "https://catalog.mit.edu/degree-charts/phd-biological-engineering/",
+      "title": "Biological Engineering (PhD/ScD)",
+      "level": "graduate",
+      "school": "School of Engineering",
+      "programId": "phd-biological-engineering",
+      "schools": [
+        "School of Engineering"
+      ]
+    },
+    {
+      "slug": "master-civil-environmental-engineering",
+      "url": "https://catalog.mit.edu/degree-charts/master-civil-environmental-engineering/",
+      "title": "Civil and Environmental Engineering (SM)",
+      "level": "graduate",
+      "school": "School of Engineering",
+      "programId": "master-civil-environmental-engineering",
+      "schools": [
+        "School of Engineering"
+      ]
+    },
+    {
+      "slug": "phd-civil-environmental-engineering",
+      "url": "https://catalog.mit.edu/degree-charts/phd-civil-environmental-engineering/",
+      "title": "Civil and Environmental Engineering (PhD/ScD)",
+      "level": "graduate",
+      "school": "School of Engineering",
+      "programId": "phd-civil-environmental-engineering",
+      "schools": [
+        "School of Engineering"
+      ]
+    },
+    {
+      "slug": "master-electrical-engineering-computer-science-course-6-p",
+      "url": "https://catalog.mit.edu/degree-charts/master-electrical-engineering-computer-science-course-6-p/",
+      "title": "Electrical Engineering and Computer Science (MEng, Course 6-P)",
+      "level": "graduate",
+      "school": "School of Engineering",
+      "programId": "6-p",
+      "schools": [
+        "School of Engineering",
+        "College of Computing"
+      ]
+    },
+    {
+      "slug": "phd-materials-science-engineering",
+      "url": "https://catalog.mit.edu/degree-charts/phd-materials-science-engineering/",
+      "title": "Materials Science and Engineering (PhD/ScD)",
+      "level": "graduate",
+      "school": "School of Engineering",
+      "programId": "phd-materials-science-engineering",
+      "schools": [
+        "School of Engineering"
+      ]
+    },
+    {
+      "slug": "phd-nuclear-science-engineering",
+      "url": "https://catalog.mit.edu/degree-charts/phd-nuclear-science-engineering/",
+      "title": "Nuclear Science and Engineering (PhD/ScD)",
+      "level": "graduate",
+      "school": "School of Engineering",
+      "programId": "phd-nuclear-science-engineering",
+      "schools": [
+        "School of Engineering"
+      ]
+    },
+    {
+      "slug": "phd-social-engineering-systems",
+      "url": "https://catalog.mit.edu/degree-charts/phd-social-engineering-systems/",
+      "title": "Social and Engineering Systems (PhD/ScD)",
+      "level": "graduate",
+      "school": "School of Engineering",
+      "programId": "phd-social-engineering-systems",
+      "schools": [
+        "School of Engineering",
+        "College of Computing"
+      ]
+    },
+    {
+      "slug": "master-applied-science-data-economics-design-policy",
+      "url": "https://catalog.mit.edu/degree-charts/master-applied-science-data-economics-design-policy/",
+      "title": "Data, Economics, and Design of Policy (MASc)",
+      "level": "graduate",
+      "school": "School of Humanities, Arts, and Social Sciences",
+      "programId": "master-applied-science-data-economics-design-policy",
+      "schools": [
+        "School of Humanities, Arts, and Social Sciences"
+      ]
+    },
+    {
+      "slug": "phd-economics",
+      "url": "https://catalog.mit.edu/degree-charts/phd-economics/",
+      "title": "Economics (PhD)",
+      "level": "graduate",
+      "school": "School of Humanities, Arts, and Social Sciences",
+      "programId": "phd-economics",
+      "schools": [
+        "School of Humanities, Arts, and Social Sciences"
+      ]
+    },
+    {
+      "slug": "sm-linguistics",
+      "url": "https://catalog.mit.edu/degree-charts/sm-linguistics/",
+      "title": "Linguistics (SM)",
+      "level": "graduate",
+      "school": "School of Humanities, Arts, and Social Sciences",
+      "programId": "sm-linguistics",
+      "schools": [
+        "School of Humanities, Arts, and Social Sciences"
+      ]
+    },
+    {
+      "slug": "master-science-writing",
+      "url": "https://catalog.mit.edu/degree-charts/master-science-writing/",
+      "title": "Science Writing (SM)",
+      "level": "graduate",
+      "school": "School of Humanities, Arts, and Social Sciences",
+      "programId": "master-science-writing",
+      "schools": [
+        "School of Humanities, Arts, and Social Sciences"
+      ]
+    },
+    {
+      "slug": "phd-brain-cognitive-sciences",
+      "url": "https://catalog.mit.edu/degree-charts/phd-brain-cognitive-sciences/",
+      "title": "Brain and Cognitive Sciences Fields (PhD)",
+      "level": "graduate",
+      "school": "School of Science",
+      "programId": "phd-brain-cognitive-sciences",
+      "schools": [
+        "School of Science"
+      ]
+    },
+    {
+      "slug": "phd-chemistry",
+      "url": "https://catalog.mit.edu/degree-charts/phd-chemistry/",
+      "title": "Chemistry (PhD)",
+      "level": "graduate",
+      "school": "School of Science",
+      "programId": "phd-chemistry",
+      "schools": [
+        "School of Science"
+      ]
+    },
+    {
+      "slug": "phd-earth-atmospheric-planetary-sciences",
+      "url": "https://catalog.mit.edu/degree-charts/phd-earth-atmospheric-planetary-sciences/",
+      "title": "Earth, Atmospheric, and Planetary Sciences Fields (PhD/ScD)",
+      "level": "graduate",
+      "school": "School of Science",
+      "programId": "phd-earth-atmospheric-planetary-sciences",
+      "schools": [
+        "School of Science"
+      ]
+    },
+    {
+      "slug": "phd-mathematics",
+      "url": "https://catalog.mit.edu/degree-charts/phd-mathematics/",
+      "title": "Mathematics (PhD/ScD)",
+      "level": "graduate",
+      "school": "School of Science",
+      "programId": "phd-mathematics",
+      "schools": [
+        "School of Science"
+      ]
+    },
+    {
+      "slug": "phd-biological-oceanography",
+      "url": "https://catalog.mit.edu/degree-charts/phd-biological-oceanography/",
+      "title": "Biological Oceanography (PhD)",
+      "level": "graduate",
+      "school": "Interdisciplinary Programs",
+      "programId": "phd-biological-oceanography",
+      "schools": [
+        "Interdisciplinary Programs"
+      ]
+    },
+    {
+      "slug": "master-computation-cognition-course-6-9p",
+      "url": "https://catalog.mit.edu/degree-charts/master-computation-cognition-course-6-9p/",
+      "title": "Computation and Cognition (MEng, Course 6-9P)",
+      "level": "graduate",
+      "school": "Interdisciplinary Programs",
+      "programId": "6-9p",
+      "schools": [
+        "Interdisciplinary Programs"
+      ]
+    },
+    {
+      "slug": "phd-computational-systems-biology",
+      "url": "https://catalog.mit.edu/degree-charts/phd-computational-systems-biology/",
+      "title": "Computational and Systems Biology (PhD)",
+      "level": "graduate",
+      "school": "Interdisciplinary Programs",
+      "programId": "phd-computational-systems-biology",
+      "schools": [
+        "Interdisciplinary Programs"
+      ]
+    },
+    {
+      "slug": "master-computational-science-engineering",
+      "url": "https://catalog.mit.edu/degree-charts/master-computational-science-engineering/",
+      "title": "Computational Science and Engineering (SM)",
+      "level": "graduate",
+      "school": "Interdisciplinary Programs",
+      "programId": "master-computational-science-engineering",
+      "schools": [
+        "Interdisciplinary Programs"
+      ]
+    },
+    {
+      "slug": "phd-computational-science-engineering",
+      "url": "https://catalog.mit.edu/degree-charts/phd-computational-science-engineering/",
+      "title": "Computational Science and Engineering (PhD)",
+      "level": "graduate",
+      "school": "Interdisciplinary Programs",
+      "programId": "phd-computational-science-engineering",
+      "schools": [
+        "Interdisciplinary Programs"
+      ]
+    },
+    {
+      "slug": "master-computer-science-molecular-biology-course-6-7p",
+      "url": "https://catalog.mit.edu/degree-charts/master-computer-science-molecular-biology-course-6-7p/",
+      "title": "Computer Science and Molecular Biology (MEng, Course 6-7P)",
+      "level": "graduate",
+      "school": "Interdisciplinary Programs",
+      "programId": "6-7p",
+      "schools": [
+        "Interdisciplinary Programs"
+      ]
+    },
+    {
+      "slug": "master-computer-science-economics-data-science-course-6-14-p",
+      "url": "https://catalog.mit.edu/degree-charts/master-computer-science-economics-data-science-course-6-14-p/",
+      "title": "Computer Science, Economics, and Data Science (MEng, Course 6-14P)",
+      "level": "graduate",
+      "school": "Interdisciplinary Programs",
+      "programId": "6-14p",
+      "schools": [
+        "Interdisciplinary Programs"
+      ]
+    },
+    {
+      "slug": "sm-system-design-management",
+      "url": "https://catalog.mit.edu/degree-charts/sm-system-design-management/",
+      "title": "Engineering and Management (System Design and Management, SM)",
+      "level": "graduate",
+      "school": "Interdisciplinary Programs",
+      "programId": "sm-system-design-management",
+      "schools": [
+        "Interdisciplinary Programs"
+      ]
+    },
+    {
+      "slug": "phd-microbiology",
+      "url": "https://catalog.mit.edu/degree-charts/phd-microbiology/",
+      "title": "Microbiology (PhD)",
+      "level": "graduate",
+      "school": "Interdisciplinary Programs",
+      "programId": "phd-microbiology",
+      "schools": [
+        "Interdisciplinary Programs"
+      ]
+    },
+    {
+      "slug": "master-music-technology-computation",
+      "url": "https://catalog.mit.edu/degree-charts/master-music-technology-computation/",
+      "title": "Music Technology and Computation (MASc & SM)",
+      "level": "graduate",
+      "school": "Interdisciplinary Programs",
+      "programId": "master-music-technology-computation",
+      "schools": [
+        "Interdisciplinary Programs"
+      ]
+    },
+    {
+      "slug": "phd-physical-oceanography",
+      "url": "https://catalog.mit.edu/degree-charts/phd-physical-oceanography/",
+      "title": "Physical Oceanography (PhD)",
+      "level": "graduate",
+      "school": "Interdisciplinary Programs",
+      "programId": "phd-physical-oceanography",
+      "schools": [
+        "Interdisciplinary Programs"
+      ]
+    },
+    {
+      "slug": "master-real-estate-development",
+      "url": "https://catalog.mit.edu/degree-charts/master-real-estate-development/",
+      "title": "Real Estate Development (SM)",
+      "level": "graduate",
+      "school": "Interdisciplinary Programs",
+      "programId": "master-real-estate-development",
+      "schools": [
+        "Interdisciplinary Programs"
+      ]
+    },
+    {
+      "slug": "interdisciplinary-doctoral-statistics",
+      "url": "https://catalog.mit.edu/degree-charts/interdisciplinary-doctoral-statistics/",
+      "title": "Statistics (PhD)",
+      "level": "graduate",
+      "school": "Interdisciplinary Programs",
+      "programId": "interdisciplinary-doctoral-statistics",
+      "schools": [
+        "Interdisciplinary Programs"
+      ]
+    },
+    {
+      "slug": "master-supply-chain-management",
+      "url": "https://catalog.mit.edu/degree-charts/master-supply-chain-management/",
+      "title": "Supply Chain Management (MASc & MEng)",
+      "level": "graduate",
+      "school": "Interdisciplinary Programs",
+      "programId": "master-supply-chain-management",
+      "schools": [
+        "Interdisciplinary Programs"
+      ]
+    },
+    {
+      "slug": "master-technology-policy",
+      "url": "https://catalog.mit.edu/degree-charts/master-technology-policy/",
+      "title": "Technology and Policy (SM)",
+      "level": "graduate",
+      "school": "Interdisciplinary Programs",
+      "programId": "master-technology-policy",
+      "schools": [
+        "Interdisciplinary Programs"
+      ]
+    },
+    {
+      "slug": "master-transportation",
+      "url": "https://catalog.mit.edu/degree-charts/master-transportation/",
+      "title": "Transportation (SM)",
+      "level": "graduate",
+      "school": "Interdisciplinary Programs",
+      "programId": "master-transportation",
+      "schools": [
+        "Interdisciplinary Programs"
+      ]
+    },
+    {
+      "slug": "phd-transportation",
+      "url": "https://catalog.mit.edu/degree-charts/phd-transportation/",
+      "title": "Transportation (PhD)",
+      "level": "graduate",
+      "school": "Interdisciplinary Programs",
+      "programId": "phd-transportation",
+      "schools": [
+        "Interdisciplinary Programs"
+      ]
+    }
+  ]
+}

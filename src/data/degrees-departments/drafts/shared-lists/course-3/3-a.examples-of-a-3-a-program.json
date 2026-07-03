@@ -1,0 +1,28 @@
+{
+  "sharedListId": "3-a.examples-of-a-3-a-program",
+  "program": "3-a",
+  "title": "Examples of a 3-A Program",
+  "items": [
+    {
+      "type": "subject",
+      "subjectId": "7.002"
+    },
+    {
+      "type": "subject",
+      "subjectId": "5.12"
+    },
+    {
+      "type": "subject",
+      "subjectId": "5.13"
+    },
+    {
+      "type": "subject",
+      "subjectId": "5.310"
+    },
+    {
+      "type": "subject",
+      "subjectId": "7.05"
+    }
+  ],
+  "version": "1"
+}

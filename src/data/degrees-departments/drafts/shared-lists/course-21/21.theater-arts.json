@@ -1,0 +1,36 @@
+{
+  "sharedListId": "21.theater-arts",
+  "program": "21",
+  "title": "# Theater Arts",
+  "items": [
+    {
+      "type": "subject",
+      "subjectId": "21T.101"
+    },
+    {
+      "type": "subject",
+      "subjectId": "21T.110"
+    },
+    {
+      "type": "subject",
+      "subjectId": "21T.120"
+    },
+    {
+      "type": "subject",
+      "subjectId": "21T.130"
+    },
+    {
+      "type": "subject",
+      "subjectId": "21T.131"
+    },
+    {
+      "type": "subject",
+      "subjectId": "21T.150"
+    },
+    {
+      "type": "subject",
+      "subjectId": "21T.THU"
+    }
+  ],
+  "version": "1"
+}

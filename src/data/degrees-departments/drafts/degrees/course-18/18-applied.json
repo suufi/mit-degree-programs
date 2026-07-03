@@ -1,0 +1,118 @@
+{
+  "schemaVersion": "2",
+  "program": "18-applied",
+  "title": "Mathematics (Course 18) — Applied Mathematics Option",
+  "level": "undergraduate",
+  "complete": false,
+  "includesGir": "sb",
+  "catalogSource": {
+    "url": "https://catalog.mit.edu/degree-charts/mathematics-course-18/",
+    "slug": "mathematics-course-18",
+    "scrapedAt": "2026-07-03",
+    "contentHash": "c611ba8c83ed9fa95eda3641dcac7566ac246ec9959e21044b5fca318201fe99"
+  },
+  "girCrosswalk": [
+    {
+      "subjectId": "18.03",
+      "satisfies": [
+        "rest"
+      ],
+      "note": "Also satisfies REST via departmental program."
+    }
+  ],
+  "footnotes": [
+    {
+      "id": "1",
+      "text": "Students may substitute one of the more advanced subjects 18.152 Introduction to Partial Differential Equations or 18.303 Linear Partial Differential Equations: Analysis and Numerics for 18.03. 18.032 Differential Equations, which places more emphasis on theory, is also an acceptable option."
+    },
+    {
+      "id": "2",
+      "text": "Students may substitute 18.C06 Linear Algebra and Optimization, 18.700 Linear Algebra (which places more emphasis on theory and proofs), or the more advanced subject, 18.701 Algebra I."
+    },
+    {
+      "id": "3",
+      "text": "A list of acceptable subjects is available from Math Academic Services and on the department's website."
+    }
+  ],
+  "constraints": [],
+  "requirements": [
+    {
+      "groupId": "18-applied-required-subjects",
+      "title": "Required Subjects",
+      "bucket": "departmental",
+      "subcategory": "required_subjects",
+      "root": {
+        "type": "group",
+        "ruleType": "all_of",
+        "items": [
+          {
+            "type": "subject",
+            "subjectId": "18.03"
+          },
+          {
+            "type": "subject",
+            "subjectId": "18.04"
+          },
+          {
+            "type": "selection",
+            "ruleType": "choose_one",
+            "itemsSource": "explicit",
+            "items": [
+              {
+                "type": "subject",
+                "subjectId": "18.112"
+              }
+            ]
+          },
+          {
+            "type": "subject",
+            "subjectId": "18.06"
+          },
+          {
+            "type": "subject",
+            "subjectId": "18.300"
+          },
+          {
+            "type": "selection",
+            "ruleType": "choose_one",
+            "itemsSource": "explicit",
+            "items": [
+              {
+                "type": "subject",
+                "subjectId": "18.200"
+              },
+              {
+                "type": "subject",
+                "subjectId": "18.200A"
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "groupId": "18-applied-restricted-electives",
+      "title": "Restricted Electives",
+      "bucket": "elective",
+      "subcategory": "restricted_electives",
+      "flexibility": {
+        "advisorApproval": false,
+        "catalogText": "Select four additional 12-unit Course 18 subjects from the following two groups with at least one subject from each group:3"
+      },
+      "root": {
+        "type": "selection",
+        "ruleType": "choose_units",
+        "ruleValue": 48,
+        "itemsSource": "advisor_defined",
+        "note": "Select four additional 12-unit Course 18 subjects from the following two groups with at least one subject from each group:3",
+        "flexibility": {
+          "catalogText": "Select four additional 12-unit Course 18 subjects from the following two groups with at least one subject from each group:3"
+        }
+      }
+    }
+  ],
+  "status": "draft",
+  "revisionId": "18-applied-2026-07-03-c611ba8c",
+  "catalogYear": "2026",
+  "effectiveTerm": "2026-FA"
+}

@@ -1,0 +1,113 @@
+Degree Charts
+
+- [Home](https://catalog.mit.edu/) >
+- [Degree Charts](https://catalog.mit.edu/degree-charts/) >
+- Architecture (SB, Course 4)
+
+# Architecture (Course 4)
+
+[Department of Architecture](https://catalog.mit.edu/schools/architecture-planning/architecture/#undergraduatetext)
+
+## Bachelor of Science in Architecture
+
+### General Institute Requirements (GIRs)
+
+The General Institute Requirements include a Communication Requirement that is integrated into both the HASS Requirement and the requirements of each major; see details below.
+
+| Summary of Subject Requirements | Subjects |
+| --- | --- |
+| Science Requirement | 6 |
+| Humanities, Arts, and Social Sciences (HASS) Requirement \[one subject can be satisfied by a subject in the Departmental Program\]; at least two of these subjects must be designated as communication-intensive (CI-H) to fulfill the Communication Requirement. | 8 |
+| Restricted Electives in Science and Technology (REST) Requirement \[one subject can be satisfied by [4.440\[J\]](https://catalog.mit.edu/search/?P=4.440 "4.440[J]") in the Departmental Program\] | 2 |
+| Laboratory Requirement (12 units) \[can be satisfied by [4.411\[J\]](https://catalog.mit.edu/search/?P=4.411 "4.411[J]"), an option within the Departmental Program\] | 1 |
+| **Total GIR Subjects Required for SB Degree** | **17** |
+
+| Physical Education Requirement |  |
+| --- | --- |
+| Swimming requirement, plus four physical education courses for eight points. |  |
+
+### Departmental Program
+
+Choose at least two subjects in the major that are designated as communication-intensive (CI-M) to fulfill the Communication Requirement.
+
+|     |     |     |
+| --- | --- | --- |
+| Required Subjects | **Units** |
+| [4.021](https://catalog.mit.edu/search/?P=4.021 "4.021") | Design Studio: How to Design | 9-12 |
+| or [4.02A](https://catalog.mit.edu/search/?P=4.02A "4.02A") | Design Studio: How to Design Intensive |
+| [4.022](https://catalog.mit.edu/search/?P=4.022 "4.022") | Introduction to Architectural Design Techniques | 12 |
+| [4.023](https://catalog.mit.edu/search/?P=4.023 "4.023") | Architecture Design Studio I | 24 |
+| [4.024](https://catalog.mit.edu/search/?P=4.024 "4.024") | Architecture Design Studio II | 24 |
+| [4.302](https://catalog.mit.edu/search/?P=4.302 "4.302") | Foundations in Art, Design, and Spatial Practices (CI-M) | 12 |
+| [4.401](https://catalog.mit.edu/search/?P=4.401 "4.401") | Environmental Technologies in Buildings | 12 |
+| [4.440\[J\]](https://catalog.mit.edu/search/?P=4.440 "4.440[J]") | Introduction to Structural Design | 12 |
+| [4.500](https://catalog.mit.edu/search/?P=4.500 "4.500") | Design Computation: Art, Objects, and Space | 12 |
+| [4.603](https://catalog.mit.edu/search/?P=4.603 "4.603") | Understanding Modern Architecture | 12 |
+| Restricted Electives |  |
+| Select a minimum of 24 units of Restricted Electives | 24-30 |
+| Thesis |  |
+| [4.THT\[J\]](https://catalog.mit.edu/search/?P=4.THT "4.THT[J]") | Thesis Research Design Seminar (CI-M) | 12 |
+| [4.THU](https://catalog.mit.edu/search/?P=4.THU "4.THU") | Undergraduate Thesis | 12 |
+| Units in Major | 177-186 |
+| Unrestricted Electives | 48-51 |
+| Units in Major That Also Satisfy the GIRs | (36) |
+| Total Units Beyond the GIRs Required for SB Degree | 189-198 |
+
+The units for any subject that counts as one of the 17 GIR subjects cannot also be counted as units required beyond the GIRs.
+
+|     |     |     |
+| --- | --- | --- |
+| Restricted Electives |  |
+| _Architecture Design and Studies_ |  |
+| [4.041](https://catalog.mit.edu/search/?P=4.041 "4.041") | Design Studio: Advanced Product Design | 12 |
+| [4.053](https://catalog.mit.edu/search/?P=4.053 "4.053") | Visual Communication Fundamentals | 12 |
+| [4.250\[J\]](https://catalog.mit.edu/search/?P=4.250 "4.250[J]") | Introduction to Urban Design and Development | 12 |
+| _Art, Culture, and Technology_ |  |
+| [4.307](https://catalog.mit.edu/search/?P=4.307 "4.307") | Art, Architecture, and Urbanism in Dialogue | 12 |
+| [4.314](https://catalog.mit.edu/search/?P=4.314 "4.314") | Advanced Workshop in Artistic Practice and Transdisciplinary Research | 12 |
+| [4.322](https://catalog.mit.edu/search/?P=4.322 "4.322") | Introduction to Three-Dimensional Art Work | 12 |
+| [4.341](https://catalog.mit.edu/search/?P=4.341 "4.341") | Introduction to Photography and Related Media | 12 |
+| [4.344](https://catalog.mit.edu/search/?P=4.344 "4.344") | Advanced Photography and Related Media | 12 |
+| [4.354](https://catalog.mit.edu/search/?P=4.354 "4.354") | Introduction to Video and Related Media | 12 |
+| [4.356](https://catalog.mit.edu/search/?P=4.356 "4.356") | Cinematic Migrations | 12 |
+| [4.368](https://catalog.mit.edu/search/?P=4.368 "4.368") | Studio Seminar in Art and the Public Sphere | 12 |
+| [4.373](https://catalog.mit.edu/search/?P=4.373 "4.373") | Advanced Projects in Art, Culture, and Technology | 12 |
+| _Building Technology_ |  |
+| [4.411\[J\]](https://catalog.mit.edu/search/?P=4.411 "4.411[J]") | D-Lab Schools: Building Technology Laboratory | 12 |
+| [4.432](https://catalog.mit.edu/search/?P=4.432 "4.432") | Modeling Urban Energy Flows for Sustainable Cities and Neighborhoods | 12 |
+| [4.451](https://catalog.mit.edu/search/?P=4.451 "4.451") | Computational Structural Design and Optimization | 12 |
+| _Computation_ |  |
+| [4.501](https://catalog.mit.edu/search/?P=4.501 "4.501") | Tiny Fab: Advancements in Rapid Design and Fabrication of Small Homes | 12 |
+| [4.502](https://catalog.mit.edu/search/?P=4.502 "4.502") | Advanced Visualization: Architecture in Motion Graphics | 12 |
+| [4.507](https://catalog.mit.edu/search/?P=4.507 "4.507") | Introduction to Building Information Modeling in Architecture | 12 |
+| [4.520](https://catalog.mit.edu/search/?P=4.520 "4.520") | Visual Computing | 12 |
+| [6.1040](https://catalog.mit.edu/search/?P=6.1040 "6.1040") | Software Design | 18 |
+| [6.4400](https://catalog.mit.edu/search/?P=6.4400 "6.4400") | Computer Graphics | 12 |
+| [6.8371](https://catalog.mit.edu/search/?P=6.8371 "6.8371") | Digital and Computational Photography | 12 |
+| [CMS.405](https://catalog.mit.edu/search/?P=CMS.405 "CMS.405") | Visual Design | 12 |
+| [CMS.631](https://catalog.mit.edu/search/?P=CMS.631 "CMS.631") | Data Storytelling Studio | 12 |
+| [CMS.633](https://catalog.mit.edu/search/?P=CMS.633 "CMS.633") | Digital Humanities: Topics, Techniques, and Technologies | 12 |
+| _History, Theory and Criticism of Architecture, Art and Design_ |  |
+| [4.601](https://catalog.mit.edu/search/?P=4.601 "4.601") | Introduction to Art History | 12 |
+| [4.602](https://catalog.mit.edu/search/?P=4.602 "4.602") | Modern Art and Mass Culture | 12 |
+| [4.605](https://catalog.mit.edu/search/?P=4.605 "4.605") | A Global History of Architecture | 12 |
+| [4.614](https://catalog.mit.edu/search/?P=4.614 "4.614") | Introduction to Islamic Architecture | 12 |
+| [4.635](https://catalog.mit.edu/search/?P=4.635 "4.635") | Early Modern Architecture and Art | 12 |
+| [4.636](https://catalog.mit.edu/search/?P=4.636 "4.636") | Topics in European Medieval Architecture and Art | 12 |
+| [4.651](https://catalog.mit.edu/search/?P=4.651 "4.651") | Art Since 1940 | 12 |
+| [4.657](https://catalog.mit.edu/search/?P=4.657 "4.657") | Design: The History of Making Things | 12 |
+
+Print Options
+
+
+[Send Page to Printer](https://catalog.mit.edu/degree-charts/architecture-course-4/#)
+
+_Print this page._
+
+[Download PDF of this Page](https://catalog.mit.edu/degree-charts/architecture-course-4/architecture-course-4.pdf)
+
+_The PDF includes all information on this page and its related tabs. Subject (course) information includes any changes approved for the current academic year._
+
+[Download PDF of the Entire Catalog and/or Subject Descriptions](https://catalog.mit.edu/archive/)
+
+[Cancel](https://catalog.mit.edu/degree-charts/architecture-course-4/#)

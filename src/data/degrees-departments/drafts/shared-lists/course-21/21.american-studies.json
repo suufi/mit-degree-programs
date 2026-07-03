@@ -1,0 +1,16 @@
+{
+  "sharedListId": "21.american-studies",
+  "program": "21",
+  "title": "# American Studies",
+  "items": [
+    {
+      "type": "subject",
+      "subjectId": "21.THT"
+    },
+    {
+      "type": "subject",
+      "subjectId": "21.THU"
+    }
+  ],
+  "version": "1"
+}

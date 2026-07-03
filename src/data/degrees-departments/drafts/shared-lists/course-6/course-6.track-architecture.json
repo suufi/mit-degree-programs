@@ -1,0 +1,48 @@
+{
+  "sharedListId": "course-6.track-architecture",
+  "program": "course-6",
+  "title": "Architecture",
+  "items": [
+    {
+      "type": "subject",
+      "subjectId": "6.1920"
+    },
+    {
+      "type": "subject",
+      "subjectId": "6.2050"
+    },
+    {
+      "type": "subject",
+      "subjectId": "6.2060"
+    },
+    {
+      "type": "subject",
+      "subjectId": "6.5890"
+    },
+    {
+      "type": "subject",
+      "subjectId": "6.5900"
+    },
+    {
+      "type": "subject",
+      "subjectId": "6.5930"
+    },
+    {
+      "type": "subject",
+      "subjectId": "6.5931"
+    },
+    {
+      "type": "subject",
+      "subjectId": "6.5940"
+    },
+    {
+      "type": "subject",
+      "subjectId": "6.5951"
+    },
+    {
+      "type": "subject",
+      "subjectId": "6.6040"
+    }
+  ],
+  "version": "1"
+}

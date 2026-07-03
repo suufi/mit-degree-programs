@@ -1,0 +1,274 @@
+{
+  "schemaVersion": "2",
+  "program": "1-12",
+  "title": "Climate System Science and Engineering (Course 1-12)",
+  "level": "undergraduate",
+  "complete": false,
+  "includesGir": "sb",
+  "catalogSource": {
+    "url": "https://catalog.mit.edu/degree-charts/climate-system-science-engineering-course-1-12/",
+    "slug": "climate-system-science-engineering-course-1-12",
+    "scrapedAt": "2026-07-03",
+    "contentHash": "83ef6bd97c4d6ab177dcf4493900bedc15a14b859599b2d162332ca60d35e0aa"
+  },
+  "girCrosswalk": [],
+  "footnotes": [],
+  "constraints": [],
+  "requirements": [
+    {
+      "groupId": "1-12-required-subjects",
+      "title": "Required Subjects",
+      "bucket": "departmental",
+      "subcategory": "required_subjects",
+      "root": {
+        "type": "group",
+        "ruleType": "all_of",
+        "items": [
+          {
+            "type": "group",
+            "ruleType": "all_of",
+            "items": [
+              {
+                "type": "subject",
+                "subjectId": "1.010A"
+              },
+              {
+                "type": "subject",
+                "subjectId": "1.010B"
+              }
+            ]
+          },
+          {
+            "type": "selection",
+            "ruleType": "choose_one",
+            "itemsSource": "explicit",
+            "items": [
+              {
+                "type": "subject",
+                "subjectId": "6.3700"
+              }
+            ]
+          },
+          {
+            "type": "subject",
+            "subjectId": "1.073"
+          },
+          {
+            "type": "selection",
+            "ruleType": "choose_one",
+            "itemsSource": "explicit",
+            "items": [
+              {
+                "type": "subject",
+                "subjectId": "1.074"
+              }
+            ]
+          },
+          {
+            "type": "subject",
+            "subjectId": "6.100A"
+          },
+          {
+            "type": "selection",
+            "ruleType": "choose_one",
+            "itemsSource": "explicit",
+            "items": [
+              {
+                "type": "subject",
+                "subjectId": "6.100L"
+              }
+            ]
+          },
+          {
+            "type": "subject",
+            "subjectId": "6.100B"
+          },
+          {
+            "type": "subject",
+            "subjectId": "18.03"
+          }
+        ]
+      }
+    },
+    {
+      "groupId": "1-12-atmosphere-ocean-and-climate-dynamics",
+      "title": "Atmosphere, Ocean and Climate Dynamics",
+      "bucket": "departmental",
+      "subcategory": "required_subjects",
+      "root": {
+        "type": "subject",
+        "subjectId": "12.003"
+      }
+    },
+    {
+      "groupId": "1-12-computational-methods-for-sustainability",
+      "title": "Computational Methods for Sustainability",
+      "bucket": "departmental",
+      "subcategory": "computation",
+      "root": {
+        "type": "subject",
+        "subjectId": "1.020"
+      }
+    },
+    {
+      "groupId": "1-12-physics-of-low-carbon-energy-systems",
+      "title": "Physics of Low Carbon Energy Systems",
+      "bucket": "departmental",
+      "subcategory": "required_subjects",
+      "root": {
+        "type": "subject",
+        "subjectId": "1.086"
+      }
+    },
+    {
+      "groupId": "1-12-climate-policy-choose-one",
+      "title": "Climate Policy (choose one)",
+      "bucket": "departmental",
+      "subcategory": "required_subjects",
+      "root": {
+        "type": "group",
+        "ruleType": "all_of",
+        "items": [
+          {
+            "type": "subject",
+            "subjectId": "1.067"
+          },
+          {
+            "type": "subject",
+            "subjectId": "12.385"
+          },
+          {
+            "type": "subject",
+            "subjectId": "11.169"
+          },
+          {
+            "type": "subject",
+            "subjectId": "14.42"
+          },
+          {
+            "type": "subject",
+            "subjectId": "11.165"
+          },
+          {
+            "type": "subject",
+            "subjectId": "14.44"
+          },
+          {
+            "type": "subject",
+            "subjectId": "15.0201"
+          }
+        ]
+      }
+    },
+    {
+      "groupId": "1-12-global-carbon-cycle-climate-science-choose-one",
+      "title": "Global Carbon Cycle & Climate Science (choose one)",
+      "bucket": "departmental",
+      "subcategory": "required_subjects",
+      "root": {
+        "type": "group",
+        "ruleType": "all_of",
+        "items": [
+          {
+            "type": "subject",
+            "subjectId": "12.349"
+          },
+          {
+            "type": "subject",
+            "subjectId": "1.076"
+          },
+          {
+            "type": "subject",
+            "subjectId": "12.301"
+          }
+        ]
+      }
+    },
+    {
+      "groupId": "1-12-group-design",
+      "title": "Group Design",
+      "bucket": "departmental",
+      "subcategory": "required_subjects",
+      "flexibility": {
+        "advisorApproval": false,
+        "catalogText": "CI-M Lab (choose one)"
+      },
+      "root": {
+        "type": "group",
+        "ruleType": "all_of",
+        "items": [
+          {
+            "type": "subject",
+            "subjectId": "1.108"
+          },
+          {
+            "type": "selection",
+            "ruleType": "choose_units",
+            "ruleValue": 12,
+            "itemsSource": "advisor_defined",
+            "note": "CI-M Lab (choose one)",
+            "flexibility": {
+              "catalogText": "CI-M Lab (choose one)"
+            }
+          },
+          {
+            "type": "subject",
+            "subjectId": "12.307"
+          },
+          {
+            "type": "subject",
+            "subjectId": "12.335"
+          },
+          {
+            "type": "group",
+            "ruleType": "all_of",
+            "items": [
+              {
+                "type": "subject",
+                "subjectId": "1.101"
+              },
+              {
+                "type": "subject",
+                "subjectId": "1.102"
+              }
+            ]
+          },
+          {
+            "type": "group",
+            "ruleType": "all_of",
+            "items": [
+              {
+                "type": "subject",
+                "subjectId": "1.106"
+              },
+              {
+                "type": "subject",
+                "subjectId": "1.107"
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "groupId": "1-12-restricted-electives",
+      "title": "Restricted Electives",
+      "bucket": "elective",
+      "subcategory": "restricted_electives",
+      "flexibility": {
+        "catalogText": "CI-M Lab (choose one)"
+      },
+      "root": {
+        "type": "selection",
+        "ruleType": "choose_units",
+        "ruleValue": 12,
+        "itemsSource": "shared_list",
+        "sharedListId": "1-12.restricted-electives"
+      }
+    }
+  ],
+  "status": "draft",
+  "revisionId": "1-12-2026-07-03-83ef6bd9",
+  "catalogYear": "2026",
+  "effectiveTerm": "2026-FA"
+}

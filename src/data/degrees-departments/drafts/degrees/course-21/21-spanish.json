@@ -1,0 +1,142 @@
+{
+  "schemaVersion": "2",
+  "program": "21-spanish",
+  "title": "Global Studies and Languages (Course 21G) — Spanish Studies",
+  "level": "undergraduate",
+  "complete": false,
+  "includesGir": "sb",
+  "catalogSource": {
+    "url": "https://catalog.mit.edu/degree-charts/global-studies-languages-course-21g/",
+    "slug": "global-studies-languages-course-21g",
+    "scrapedAt": "2026-07-03",
+    "contentHash": "379fe8e992bd90c4ee48eddede639dd558e215b7cb84f8f41f9ad2611d71b091"
+  },
+  "girCrosswalk": [],
+  "footnotes": [
+    {
+      "id": "1",
+      "text": "The units for the prerequisite subjects are not included in the calculations for this degree chart."
+    },
+    {
+      "id": "2",
+      "text": "_21G.700 Introductory Spanish for Heritage Learners is an acceptable substitution for the combination of 21G.701 and 21G.702._"
+    },
+    {
+      "id": "3",
+      "text": "Intermediate and advanced Spanish subjects can be found in this subject listing."
+    },
+    {
+      "id": "4",
+      "text": "This chart has been calculated based on an overlap of 36 units (three subjects) between the HASS General Institute Requirement and the departmental requirements. Students who develop a program of study with more overlap will be able to select more unrestricted electives to meet the number of total units beyond the GIRs required for an SB degree."
+    }
+  ],
+  "constraints": [],
+  "requirements": [
+    {
+      "groupId": "21-spanish-required-subjects",
+      "title": "Required Subjects",
+      "bucket": "departmental",
+      "subcategory": "required_subjects",
+      "root": {
+        "type": "group",
+        "ruleType": "all_of",
+        "items": [
+          {
+            "type": "subject",
+            "subjectId": "21G.701"
+          },
+          {
+            "type": "subject",
+            "subjectId": "21G.702"
+          },
+          {
+            "type": "subject",
+            "subjectId": "21G.704"
+          },
+          {
+            "type": "subject",
+            "subjectId": "21G.708"
+          },
+          {
+            "type": "subject",
+            "subjectId": "21G.709"
+          },
+          {
+            "type": "group",
+            "ruleType": "all_of",
+            "items": [
+              {
+                "type": "subject",
+                "subjectId": "21G.708"
+              },
+              {
+                "type": "subject",
+                "subjectId": "21G.709"
+              }
+            ]
+          },
+          {
+            "type": "subject",
+            "subjectId": "21G.716"
+          },
+          {
+            "type": "subject",
+            "subjectId": "21G.717"
+          },
+          {
+            "type": "subject",
+            "subjectId": "21G.731"
+          },
+          {
+            "type": "subject",
+            "subjectId": "21G.735"
+          },
+          {
+            "type": "subject",
+            "subjectId": "21G.736"
+          },
+          {
+            "type": "subject",
+            "subjectId": "21G.738"
+          },
+          {
+            "type": "subject",
+            "subjectId": "21G.739"
+          },
+          {
+            "type": "subject",
+            "subjectId": "21G.740"
+          },
+          {
+            "type": "subject",
+            "subjectId": "21G.784"
+          }
+        ]
+      }
+    },
+    {
+      "groupId": "21-spanish-restricted-electives",
+      "title": "Restricted Electives",
+      "bucket": "elective",
+      "subcategory": "restricted_electives",
+      "root": {
+        "type": "group",
+        "ruleType": "all_of",
+        "items": [
+          {
+            "type": "subject",
+            "subjectId": "21G.THT"
+          },
+          {
+            "type": "subject",
+            "subjectId": "21G.THU"
+          }
+        ]
+      }
+    }
+  ],
+  "status": "draft",
+  "revisionId": "21-spanish-2026-07-03-379fe8e9",
+  "catalogYear": "2026",
+  "effectiveTerm": "2026-FA"
+}

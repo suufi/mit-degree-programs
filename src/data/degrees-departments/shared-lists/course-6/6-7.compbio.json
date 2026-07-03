@@ -1,0 +1,36 @@
+{
+  "sharedListId": "6-7.compbio",
+  "program": "6-7",
+  "title": "Computational Biology",
+  "items": [
+    {
+      "type": "subject",
+      "subjectId": "1.088"
+    },
+    {
+      "type": "subject",
+      "subjectId": "6.8701"
+    },
+    {
+      "type": "subject",
+      "subjectId": "7.093"
+    },
+    {
+      "type": "subject",
+      "subjectId": "7.094"
+    },
+    {
+      "type": "subject",
+      "subjectId": "7.32"
+    },
+    {
+      "type": "subject",
+      "subjectId": "7.33"
+    },
+    {
+      "type": "subject",
+      "subjectId": "18.413"
+    }
+  ],
+  "version": "1"
+}

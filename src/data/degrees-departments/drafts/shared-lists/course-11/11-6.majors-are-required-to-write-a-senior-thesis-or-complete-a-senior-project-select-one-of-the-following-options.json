@@ -1,0 +1,24 @@
+{
+  "sharedListId": "11-6.majors-are-required-to-write-a-senior-thesis-or-complete-a-senior-project-select-one-of-the-following-options",
+  "program": "11-6",
+  "title": "Majors are required to write a senior thesis or complete a senior project. Select one of the following options:",
+  "items": [
+    {
+      "type": "subject",
+      "subjectId": "6.UAR"
+    },
+    {
+      "type": "subject",
+      "subjectId": "11.UAR"
+    },
+    {
+      "type": "subject",
+      "subjectId": "11.THT"
+    },
+    {
+      "type": "subject",
+      "subjectId": "11.THU"
+    }
+  ],
+  "version": "1"
+}

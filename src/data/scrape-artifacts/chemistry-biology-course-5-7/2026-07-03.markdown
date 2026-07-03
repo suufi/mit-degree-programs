@@ -1,0 +1,120 @@
+Degree Charts
+
+- [Home](https://catalog.mit.edu/) >
+- [Degree Charts](https://catalog.mit.edu/degree-charts/) >
+- Chemistry and Biology (SB, Course 5-7)
+
+# Chemistry and Biology (Course 5-7)
+
+[Chemistry and Biology](https://catalog.mit.edu/interdisciplinary/undergraduate-programs/degrees/chemistry-biology/)
+
+## Bachelor of Science in Chemistry and Biology
+
+### General Institute Requirements (GIRs)
+
+The General Institute Requirements include a Communication Requirement that is integrated into both the HASS Requirement and the requirements of each major; see details below.
+
+| Summary of Subject Requirements | Subjects |
+| --- | --- |
+| Science Requirement | 6 |
+| Humanities, Arts, and Social Sciences (HASS) Requirement; at least two of these subjects must be designated as communication-intensive (CI-H) to fulfill the Communication Requirement. | 8 |
+| Restricted Electives in Science and Technology (REST) Requirement \[can be satisfied by [5.12](https://catalog.mit.edu/search/?P=5.12 "5.12") and [7.03](https://catalog.mit.edu/search/?P=7.03 "7.03") in the Departmental Program\] | 2 |
+| Laboratory Requirement (12 units) \[can be satisfied by [7.003\[J\]](https://catalog.mit.edu/search/?P=7.003 "7.003[J]") or the combination of [5.351](https://catalog.mit.edu/search/?P=5.351 "5.351"), [5.352](https://catalog.mit.edu/search/?P=5.352 "5.352"), and [5.353](https://catalog.mit.edu/search/?P=5.353 "5.353") in the Departmental Program\] | 1 |
+| **Total GIR Subjects Required for SB Degree** | **17** |
+
+| Physical Education Requirement |  |
+| --- | --- |
+| Swimming requirement, plus four physical education courses for eight points. |  |
+
+### Departmental Program
+
+Choose at least two subjects in the major that are designated as communication-intensive (CI-M) to fulfill the Communication Requirement.
+
+|     |     |     |
+| --- | --- | --- |
+| Required Subjects | **Units** |
+| [5.03](https://catalog.mit.edu/search/?P=5.03 "5.03") | Principles of Inorganic Chemistry I | 12 |
+| [5.07\[J\]](https://catalog.mit.edu/search/?P=5.07 "5.07[J]") | Introduction to Biological Chemistry | 12 |
+| or [7.05](https://catalog.mit.edu/search/?P=7.05 "7.05") | General Biochemistry |
+| [5.08\[J\]](https://catalog.mit.edu/search/?P=5.08 "5.08[J]") | Fundamentals of Chemical Biology | 12 |
+| [5.12](https://catalog.mit.edu/search/?P=5.12 "5.12") | Organic Chemistry I | 12 |
+| [5.13](https://catalog.mit.edu/search/?P=5.13 "5.13") | Organic Chemistry II | 12 |
+| [5.601](https://catalog.mit.edu/search/?P=5.601 "5.601") | Thermodynamics I | 6 |
+| [5.611](https://catalog.mit.edu/search/?P=5.611 "5.611") | Introduction to Spectroscopy | 6 |
+| [7.03](https://catalog.mit.edu/search/?P=7.03 "7.03") | Genetics | 12 |
+| [7.06](https://catalog.mit.edu/search/?P=7.06 "7.06") | Cell Biology | 12 |
+| Departmental Laboratory Requirement |  |
+| [5.351](https://catalog.mit.edu/search/?P=5.351 "5.351") | Fundamentals of Spectroscopy | 4 |
+| [5.352](https://catalog.mit.edu/search/?P=5.352 "5.352") | Synthesis of Coordination Compounds and Kinetics (CI-M) | 5 |
+| [5.353](https://catalog.mit.edu/search/?P=5.353 "5.353") | Macromolecular Prodrugs | 4 |
+| [7.002](https://catalog.mit.edu/search/?P=7.002 "7.002") | Fundamentals of Experimental Molecular Biology | 6 |
+| _Select one of the following options:_ | 9-12 |
+| Option 1 |  |
+| [5.361](https://catalog.mit.edu/search/?P=5.361 "5.361") | Recombinant DNA Technology |  |
+| [5.362](https://catalog.mit.edu/search/?P=5.362 "5.362") | Cancer Drug Efficacy (CI-M) |  |
+| Option 2 |  |
+| [7.003\[J\]](https://catalog.mit.edu/search/?P=7.003 "7.003[J]") | Applied Molecular Biology Laboratory (CI-M) |  |
+| Restricted Electives |  |
+| _Select 30 units of the following:_ | 30 |
+| [5.04](https://catalog.mit.edu/search/?P=5.04 "5.04") | Principles of Inorganic Chemistry II |  |
+| [5.363](https://catalog.mit.edu/search/?P=5.363 "5.363") | Organic Structure Determination |  |
+| [5.371](https://catalog.mit.edu/search/?P=5.371 "5.371") | Continuous Flow Chemistry: Sustainable Conversion of Reclaimed Vegetable Oil into Biodiesel |  |
+| [5.372](https://catalog.mit.edu/search/?P=5.372 "5.372") | Chemistry of Renewable Energy |  |
+| [5.373](https://catalog.mit.edu/search/?P=5.373 "5.373") | Synthesis of Boron Heterocycles |  |
+| [5.381](https://catalog.mit.edu/search/?P=5.381 "5.381") | Quantum Dots |  |
+| [5.382](https://catalog.mit.edu/search/?P=5.382 "5.382") | Time- and Frequency-resolved Spectroscopy of Photosynthesis |  |
+| [5.383](https://catalog.mit.edu/search/?P=5.383 "5.383") | Fast-flow Peptide and Protein Synthesis |  |
+| [5.39](https://catalog.mit.edu/search/?P=5.39 "5.39") | Research and Communication in Chemistry |  |
+| [5.43](https://catalog.mit.edu/search/?P=5.43 "5.43") | Advanced Organic Chemistry |  |
+| [5.602](https://catalog.mit.edu/search/?P=5.602 "5.602") | Thermodynamics II and Kinetics |  |
+| [5.612](https://catalog.mit.edu/search/?P=5.612 "5.612") | Electronic Structure of Molecules |  |
+| [5.62](https://catalog.mit.edu/search/?P=5.62 "5.62") | Physical Chemistry |  |
+| [7.093](https://catalog.mit.edu/search/?P=7.093 "7.093") | Modern Biostatistics |  |
+| [7.094](https://catalog.mit.edu/search/?P=7.094 "7.094") | Modern Computational Biology |  |
+| [7.19](https://catalog.mit.edu/search/?P=7.19 "7.19") | Communication in Experimental Biology (CI-M) |  |
+| [7.20\[J\]](https://catalog.mit.edu/search/?P=7.20 "7.20[J]") | Human Physiology |  |
+| [7.21](https://catalog.mit.edu/search/?P=7.21 "7.21") | Microbial Physiology |  |
+| [7.23\[J\]](https://catalog.mit.edu/search/?P=7.23 "7.23[J]") | Immunology |  |
+| [7.24](https://catalog.mit.edu/search/?P=7.24 "7.24") | Advanced Concepts in Immunology |  |
+| [7.26](https://catalog.mit.edu/search/?P=7.26 "7.26") | Molecular Basis of Infectious Disease |  |
+| [7.27](https://catalog.mit.edu/search/?P=7.27 "7.27") | Principles of Human Disease and Aging |  |
+| [7.28](https://catalog.mit.edu/search/?P=7.28 "7.28") | Molecular Biology |  |
+| [7.29\[J\]](https://catalog.mit.edu/search/?P=7.29 "7.29[J]") | Cellular and Molecular Neurobiology |  |
+| [7.30\[J\]](https://catalog.mit.edu/search/?P=7.30 "7.30[J]") | Fundamentals of Ecology |  |
+| [7.31](https://catalog.mit.edu/search/?P=7.31 "7.31") | Current Topics in Mammalian Biology: Medical Implications |  |
+| [7.32](https://catalog.mit.edu/search/?P=7.32 "7.32") | Systems Biology 1 |  |
+| [7.33\[J\]](https://catalog.mit.edu/search/?P=7.33 "7.33[J]") | Evolutionary Biology: Concepts, Models and Computation |  |
+| [7.35](https://catalog.mit.edu/search/?P=7.35 "7.35") | Human Genetics and Genomics |  |
+| [7.371\[J\]](https://catalog.mit.edu/search/?P=7.371 "7.371[J]") | Biological and Engineering Principles Underlying Novel Biotherapeutics |  |
+| [7.45](https://catalog.mit.edu/search/?P=7.45 "7.45") | The Hallmarks of Cancer |  |
+| [7.46](https://catalog.mit.edu/search/?P=7.46 "7.46") | Building with Cells |  |
+| [7.49\[J\]](https://catalog.mit.edu/search/?P=7.49 "7.49[J]") | Developmental Neurobiology |  |
+| [6.C01](https://catalog.mit.edu/search/?P=6.C01 "6.C01")<br>& [7.C01](https://catalog.mit.edu/search/?P=7.C01 "7.C01") | Modeling with Machine Learning: from Algorithms to Applications<br>and Machine Learning in Molecular and Cellular Biology1, 2 |  |
+| [9.17](https://catalog.mit.edu/search/?P=9.17 "9.17") | Systems Neuroscience Laboratory 1 |  |
+| [9.26\[J\]](https://catalog.mit.edu/search/?P=9.26 "9.26[J]") | Principles and Applications of Genetic Engineering for Biotechnology and Neuroscience |  |
+| Units in Major | 154-157 |
+| Unrestricted Electives | 59-62 |
+| Units in Major That Also Satisfy the GIRs | (36) |
+| Total Units Beyond the GIRs Required for SB Degree | 180 |
+
+The units for any subject that counts as one of the 17 GIR subjects cannot also be counted as units required beyond the GIRs.
+
+|     |     |
+| --- | --- |
+| _1_ | _Subject has prerequisites that are outside of the program._ |
+| _2_ | _Students must complete 6.C01 & 7.C01 simultaneously in order to receive credit._ |
+
+Print Options
+
+
+[Send Page to Printer](https://catalog.mit.edu/degree-charts/chemistry-biology-course-5-7/#)
+
+_Print this page._
+
+[Download PDF of this Page](https://catalog.mit.edu/degree-charts/chemistry-biology-course-5-7/chemistry-biology-course-5-7.pdf)
+
+_The PDF includes all information on this page and its related tabs. Subject (course) information includes any changes approved for the current academic year._
+
+[Download PDF of the Entire Catalog and/or Subject Descriptions](https://catalog.mit.edu/archive/)
+
+[Cancel](https://catalog.mit.edu/degree-charts/chemistry-biology-course-5-7/#)

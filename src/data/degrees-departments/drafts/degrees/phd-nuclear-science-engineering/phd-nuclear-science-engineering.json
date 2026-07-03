@@ -1,0 +1,332 @@
+{
+  "schemaVersion": "2",
+  "program": "phd-nuclear-science-engineering",
+  "title": "Nuclear Science and Engineering (PhD/ScD)",
+  "level": "graduate",
+  "complete": false,
+  "catalogSource": {
+    "url": "https://catalog.mit.edu/degree-charts/phd-nuclear-science-engineering/",
+    "slug": "phd-nuclear-science-engineering",
+    "scrapedAt": "2026-07-03",
+    "contentHash": "ac2f0c05141dbfdd6115706b23dcdd5c553cc8c6d956257dcaa97ebd39925001"
+  },
+  "footnotes": [
+    {
+      "id": "1",
+      "text": "Students may also petition for a unique field of specialization."
+    },
+    {
+      "id": "2",
+      "text": "Students must register for 22.913 annually."
+    },
+    {
+      "id": "3",
+      "text": "Students must register for graduate thesis until they complete all degree requirements, including defending the thesis, and submission of a final, approved thesis document. The units here represent a typical number of units for doctoral thesis research, not a minimum or maximum."
+    }
+  ],
+  "constraints": [],
+  "requirements": [
+    {
+      "groupId": "phd-nuclear-science-engineering-core-subjects",
+      "title": "Core Subjects",
+      "bucket": "departmental",
+      "subcategory": "required_subjects",
+      "flexibility": {
+        "advisorApproval": false,
+        "catalogText": "Field of Specialization (choose one)1"
+      },
+      "root": {
+        "type": "group",
+        "ruleType": "all_of",
+        "items": [
+          {
+            "type": "subject",
+            "subjectId": "22.101"
+          },
+          {
+            "type": "subject",
+            "subjectId": "22.102"
+          },
+          {
+            "type": "subject",
+            "subjectId": "22.103"
+          },
+          {
+            "type": "selection",
+            "ruleType": "choose_units",
+            "ruleValue": 36,
+            "itemsSource": "advisor_defined",
+            "note": "Field of Specialization (choose one)1",
+            "flexibility": {
+              "catalogText": "Field of Specialization (choose one)1"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "groupId": "phd-nuclear-science-engineering-nuclear-reactor-engineering",
+      "title": "Nuclear Reactor Engineering",
+      "bucket": "departmental",
+      "subcategory": "required_subjects",
+      "root": {
+        "type": "group",
+        "ruleType": "all_of",
+        "items": [
+          {
+            "type": "subject",
+            "subjectId": "22.211"
+          },
+          {
+            "type": "subject",
+            "subjectId": "22.312"
+          }
+        ]
+      }
+    },
+    {
+      "groupId": "phd-nuclear-science-engineering-plus-one-of-the-following-subjects",
+      "title": "Plus one of the following subjects:",
+      "bucket": "departmental",
+      "subcategory": "required_subjects",
+      "root": {
+        "type": "group",
+        "ruleType": "all_of",
+        "items": [
+          {
+            "type": "subject",
+            "subjectId": "22.313"
+          },
+          {
+            "type": "subject",
+            "subjectId": "22.315"
+          },
+          {
+            "type": "subject",
+            "subjectId": "22.39"
+          }
+        ]
+      }
+    },
+    {
+      "groupId": "phd-nuclear-science-engineering-nuclear-reactor-physics",
+      "title": "Nuclear Reactor Physics",
+      "bucket": "departmental",
+      "subcategory": "required_subjects",
+      "root": {
+        "type": "group",
+        "ruleType": "all_of",
+        "items": [
+          {
+            "type": "subject",
+            "subjectId": "22.211"
+          },
+          {
+            "type": "subject",
+            "subjectId": "22.312"
+          }
+        ]
+      }
+    },
+    {
+      "groupId": "phd-nuclear-science-engineering-nuclear-materials",
+      "title": "Nuclear Materials",
+      "bucket": "departmental",
+      "subcategory": "required_subjects",
+      "root": {
+        "type": "group",
+        "ruleType": "all_of",
+        "items": [
+          {
+            "type": "subject",
+            "subjectId": "3.20"
+          },
+          {
+            "type": "subject",
+            "subjectId": "22.71"
+          }
+        ]
+      }
+    },
+    {
+      "groupId": "phd-nuclear-science-engineering-fusion-plasma-physics",
+      "title": "Fusion Plasma Physics",
+      "bucket": "departmental",
+      "subcategory": "required_subjects",
+      "root": {
+        "type": "group",
+        "ruleType": "all_of",
+        "items": [
+          {
+            "type": "subject",
+            "subjectId": "22.611"
+          },
+          {
+            "type": "subject",
+            "subjectId": "22.62"
+          }
+        ]
+      }
+    },
+    {
+      "groupId": "phd-nuclear-science-engineering-fusion-engineering",
+      "title": "Fusion Engineering",
+      "bucket": "departmental",
+      "subcategory": "required_subjects",
+      "root": {
+        "type": "group",
+        "ruleType": "all_of",
+        "items": [
+          {
+            "type": "subject",
+            "subjectId": "22.611"
+          },
+          {
+            "type": "subject",
+            "subjectId": "22.62"
+          }
+        ]
+      }
+    },
+    {
+      "groupId": "phd-nuclear-science-engineering-quantum-science-and-engineering",
+      "title": "Quantum Science and Engineering",
+      "bucket": "departmental",
+      "subcategory": "required_subjects",
+      "root": {
+        "type": "group",
+        "ruleType": "all_of",
+        "items": [
+          {
+            "type": "subject",
+            "subjectId": "8.511"
+          },
+          {
+            "type": "subject",
+            "subjectId": "22.51"
+          }
+        ]
+      }
+    },
+    {
+      "groupId": "phd-nuclear-science-engineering-nuclear-security-and-policy",
+      "title": "Nuclear Security and Policy",
+      "bucket": "departmental",
+      "subcategory": "required_subjects",
+      "root": {
+        "type": "group",
+        "ruleType": "all_of",
+        "items": [
+          {
+            "type": "subject",
+            "subjectId": "6.3702"
+          },
+          {
+            "type": "subject",
+            "subjectId": "22.90"
+          }
+        ]
+      }
+    },
+    {
+      "groupId": "phd-nuclear-science-engineering-plus-one-specialist-subject-by-petition",
+      "title": "Plus one specialist subject by petition",
+      "bucket": "departmental",
+      "subcategory": "required_subjects",
+      "flexibility": {
+        "advisorApproval": false,
+        "catalogText": "Advanced Subjects"
+      },
+      "root": {
+        "type": "group",
+        "ruleType": "all_of",
+        "items": [
+          {
+            "type": "selection",
+            "ruleType": "choose_units",
+            "ruleValue": 24,
+            "itemsSource": "advisor_defined",
+            "note": "Advanced Subjects",
+            "flexibility": {
+              "catalogText": "Advanced Subjects"
+            }
+          },
+          {
+            "type": "selection",
+            "ruleType": "choose_units",
+            "ruleValue": 12,
+            "itemsSource": "advisor_defined",
+            "note": "NSE Breadth Requirement",
+            "flexibility": {
+              "catalogText": "NSE Breadth Requirement"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "groupId": "phd-nuclear-science-engineering-one-nse-subject-outside-the-field-of-specialization",
+      "title": "One NSE subject outside the field of specialization.",
+      "bucket": "departmental",
+      "subcategory": "required_subjects",
+      "flexibility": {
+        "advisorApproval": false,
+        "catalogText": "Unrestricted Elective"
+      },
+      "root": {
+        "type": "selection",
+        "ruleType": "choose_units",
+        "ruleValue": 12,
+        "itemsSource": "advisor_defined",
+        "note": "Unrestricted Elective",
+        "flexibility": {
+          "catalogText": "Unrestricted Elective"
+        }
+      }
+    },
+    {
+      "groupId": "phd-nuclear-science-engineering-communication-requirement",
+      "title": "Communication Requirement",
+      "bucket": "departmental",
+      "subcategory": "communication",
+      "root": {
+        "type": "group",
+        "ruleType": "all_of",
+        "items": [
+          {
+            "type": "subject",
+            "subjectId": "22.911"
+          },
+          {
+            "type": "subject",
+            "subjectId": "22.912"
+          }
+        ]
+      }
+    },
+    {
+      "groupId": "phd-nuclear-science-engineering-professional-perspective-requirement2",
+      "title": "Professional Perspective Requirement2",
+      "bucket": "departmental",
+      "subcategory": "required_subjects",
+      "root": {
+        "type": "subject",
+        "subjectId": "22.913"
+      }
+    },
+    {
+      "groupId": "phd-nuclear-science-engineering-graduate-research",
+      "title": "Graduate Research",
+      "bucket": "departmental",
+      "subcategory": "required_subjects",
+      "root": {
+        "type": "subject",
+        "subjectId": "22.THG"
+      }
+    }
+  ],
+  "status": "draft",
+  "revisionId": "phd-nuclear-science-engineering-2026-07-03-ac2f0c05",
+  "catalogYear": "2026",
+  "effectiveTerm": "2026-FA"
+}

@@ -1,0 +1,28 @@
+{
+  "sharedListId": "6-4.model-centric",
+  "program": "6-4",
+  "title": "Model-centric",
+  "items": [
+    {
+      "type": "subject",
+      "subjectId": "6.3000"
+    },
+    {
+      "type": "subject",
+      "subjectId": "6.3100"
+    },
+    {
+      "type": "subject",
+      "subjectId": "6.4110"
+    },
+    {
+      "type": "subject",
+      "subjectId": "6.4400"
+    },
+    {
+      "type": "subject",
+      "subjectId": "6.4420"
+    }
+  ],
+  "version": "1"
+}

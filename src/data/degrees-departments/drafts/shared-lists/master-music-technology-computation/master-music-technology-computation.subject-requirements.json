@@ -1,0 +1,76 @@
+{
+  "sharedListId": "master-music-technology-computation.subject-requirements",
+  "program": "master-music-technology-computation",
+  "title": "Subject Requirements",
+  "items": [
+    {
+      "type": "subject",
+      "subjectId": "21M.569"
+    },
+    {
+      "type": "subject",
+      "subjectId": "21M.583"
+    },
+    {
+      "type": "subject",
+      "subjectId": "21M.585"
+    },
+    {
+      "type": "subject",
+      "subjectId": "21M.586"
+    },
+    {
+      "type": "subject",
+      "subjectId": "21M.587"
+    },
+    {
+      "type": "subject",
+      "subjectId": "21M.517"
+    },
+    {
+      "type": "subject",
+      "subjectId": "21M.540"
+    },
+    {
+      "type": "subject",
+      "subjectId": "21M.560"
+    },
+    {
+      "type": "subject",
+      "subjectId": "21M.561"
+    },
+    {
+      "type": "subject",
+      "subjectId": "21M.562"
+    },
+    {
+      "type": "subject",
+      "subjectId": "21M.570"
+    },
+    {
+      "type": "subject",
+      "subjectId": "21M.580"
+    },
+    {
+      "type": "subject",
+      "subjectId": "21M.589"
+    },
+    {
+      "type": "subject",
+      "subjectId": "21T.523"
+    },
+    {
+      "type": "subject",
+      "subjectId": "21M.590"
+    },
+    {
+      "type": "subject",
+      "subjectId": "21M.595"
+    },
+    {
+      "type": "subject",
+      "subjectId": "21M.THG"
+    }
+  ],
+  "version": "1"
+}

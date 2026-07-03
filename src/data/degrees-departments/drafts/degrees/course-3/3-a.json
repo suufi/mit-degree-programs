@@ -1,0 +1,179 @@
+{
+  "schemaVersion": "2",
+  "program": "3-a",
+  "title": "Materials Science and Engineering (Course 3-A)",
+  "level": "undergraduate",
+  "complete": false,
+  "includesGir": "sb",
+  "catalogSource": {
+    "url": "https://catalog.mit.edu/degree-charts/materials-science-engineering-course-3-a/",
+    "slug": "materials-science-engineering-course-3-a",
+    "scrapedAt": "2026-07-03",
+    "contentHash": "da80c45436b0ca3868a7b0520775b57fd5a5071eac65d24569e7eb4d129486fe"
+  },
+  "girCrosswalk": [
+    {
+      "subjectId": "18.03",
+      "satisfies": [
+        "rest"
+      ],
+      "note": "Also satisfies REST via departmental program."
+    },
+    {
+      "subjectId": "18.06",
+      "satisfies": [
+        "rest"
+      ],
+      "note": "Also satisfies REST via departmental program."
+    },
+    {
+      "subjectId": "18.C06",
+      "satisfies": [
+        "rest"
+      ],
+      "note": "Also satisfies REST via departmental program."
+    },
+    {
+      "subjectId": "3.020",
+      "satisfies": [
+        "rest"
+      ],
+      "note": "Also satisfies REST via departmental program."
+    },
+    {
+      "subjectId": "3.010",
+      "satisfies": [
+        "lab"
+      ],
+      "note": "Also satisfies Laboratory Requirement via departmental program."
+    }
+  ],
+  "footnotes": [
+    {
+      "id": "1",
+      "text": "18.032 Differential Equations, CC.1803 Differential Equations, or ES.1803 Differential Equations are also acceptable options."
+    },
+    {
+      "id": "2",
+      "text": "Students must develop a program of elective subjects totaling 66 units appropriate to their stated goals in their Course 3-A Program Proposal as approved by the DMSE Undergraduate Committee."
+    }
+  ],
+  "constraints": [],
+  "requirements": [
+    {
+      "groupId": "3-a-required-subjects",
+      "title": "Required Subjects",
+      "bucket": "departmental",
+      "subcategory": "required_subjects",
+      "root": {
+        "type": "group",
+        "ruleType": "all_of",
+        "items": [
+          {
+            "type": "subject",
+            "subjectId": "18.03"
+          },
+          {
+            "type": "selection",
+            "ruleType": "choose_one",
+            "itemsSource": "explicit",
+            "items": [
+              {
+                "type": "subject",
+                "subjectId": "18.06"
+              },
+              {
+                "type": "subject",
+                "subjectId": "18.C06"
+              }
+            ]
+          },
+          {
+            "type": "subject",
+            "subjectId": "3.010"
+          },
+          {
+            "type": "subject",
+            "subjectId": "3.020"
+          },
+          {
+            "type": "selection",
+            "ruleType": "choose_n",
+            "ruleValue": 3,
+            "itemsSource": "explicit",
+            "items": [
+              {
+                "type": "subject",
+                "subjectId": "3.013"
+              },
+              {
+                "type": "subject",
+                "subjectId": "3.023"
+              },
+              {
+                "type": "subject",
+                "subjectId": "3.029"
+              },
+              {
+                "type": "subject",
+                "subjectId": "3.030"
+              },
+              {
+                "type": "subject",
+                "subjectId": "3.033"
+              },
+              {
+                "type": "subject",
+                "subjectId": "3.044"
+              },
+              {
+                "type": "subject",
+                "subjectId": "3.042"
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "groupId": "3-a-program-electives",
+      "title": "Program Electives",
+      "bucket": "elective",
+      "subcategory": "elective_subjects",
+      "flexibility": {
+        "advisorApproval": false,
+        "catalogText": "_Select 66 units from a proposal of study approved by the department_2"
+      },
+      "root": {
+        "type": "selection",
+        "ruleType": "choose_units",
+        "ruleValue": 66,
+        "itemsSource": "advisor_defined",
+        "note": "_Select 66 units from a proposal of study approved by the department_2",
+        "flexibility": {
+          "catalogText": "_Select 66 units from a proposal of study approved by the department_2"
+        }
+      }
+    },
+    {
+      "groupId": "3-a-restricted-electives",
+      "title": "Restricted Electives",
+      "bucket": "elective",
+      "subcategory": "restricted_electives",
+      "flexibility": {
+        "catalogText": "_Select 66 units from a proposal of study approved by the department_2"
+      },
+      "root": {
+        "type": "selection",
+        "ruleType": "choose_units",
+        "ruleValue": 66,
+        "itemsSource": "shared_list",
+        "sharedListId": "3-a.restricted-electives"
+      }
+    }
+  ],
+  "status": "draft",
+  "revisionId": "3-a-2026-07-03-da80c454",
+  "catalogYear": "2026",
+  "effectiveTerm": "2026-FA"
+}

@@ -1,0 +1,44 @@
+{
+  "sharedListId": "10-c.students-must-choose-electives-that-form-a-coherent-plan-of-study-students-must-include-two-restricted-electives-selected-according-to-the-following-lists-2",
+  "program": "10-c",
+  "title": "Students must choose electives that form a coherent plan of study. Students must include two restricted electives selected according to the following lists.2",
+  "items": [
+    {
+      "type": "subject",
+      "subjectId": "5.310"
+    },
+    {
+      "type": "subject",
+      "subjectId": "6.2600"
+    },
+    {
+      "type": "subject",
+      "subjectId": "7.002"
+    },
+    {
+      "type": "subject",
+      "subjectId": "7.003"
+    },
+    {
+      "type": "subject",
+      "subjectId": "10.26"
+    },
+    {
+      "type": "subject",
+      "subjectId": "10.27"
+    },
+    {
+      "type": "subject",
+      "subjectId": "10.28"
+    },
+    {
+      "type": "subject",
+      "subjectId": "10.29"
+    },
+    {
+      "type": "subject",
+      "subjectId": "10.467"
+    }
+  ],
+  "version": "1"
+}

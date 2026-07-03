@@ -1,0 +1,216 @@
+Degree Charts
+
+- [Home](https://catalog.mit.edu/) >
+- [Degree Charts](https://catalog.mit.edu/degree-charts/) >
+- Statistics (PhD)
+
+# Interdisciplinary Doctor of Philosophy in Statistics
+
+[Interdisciplinary Doctoral Program in Statistics](https://catalog.mit.edu/interdisciplinary/graduate-programs/phd-statistics/)
+
+## Interdisciplinary PhD in Statistics
+
+### Common Core
+
+All students in the Interdisciplinary Doctoral Program in Statistics are required to complete the common core for a total of 27 units.
+
+|     |     |     |
+| --- | --- | --- |
+| [6.7700\[J\]](https://catalog.mit.edu/search/?P=6.7700 "6.7700[J]") | Fundamentals of Probability | 12 |
+| or [18.675](https://catalog.mit.edu/search/?P=18.675 "18.675") | Theory of Probability |
+| [IDS.190](https://catalog.mit.edu/search/?P=IDS.190 "IDS.190") | Doctoral Seminar in Statistics and Data Science | 3 |
+| Select one of the following:1 | 12 |
+| [18.6501](https://catalog.mit.edu/search/?P=18.6501 "18.6501") | Fundamentals of Statistics |  |
+| [18.655](https://catalog.mit.edu/search/?P=18.655 "18.655") | Mathematical Statistics |  |
+| [IDS.160\[J\]](https://catalog.mit.edu/search/?P=IDS.160 "IDS.160[J]") | Mathematical Statistics: a Non-Asymptotic Approach |  |
+| Total Units | 27 |
+
+|     |     |
+| --- | --- |
+| _1_ | _Mathematics students may not elect [18.6501](http://student.mit.edu/catalog/search.cgi?search=18.6501)._ |
+
+### Program-specific Requirements
+
+Each student must complete the requirements specified by their home department in the lists below by taking one subject from the Computation and Statistics category and one subject from the Data Analysis category.
+
+#### Aeronautics and Astronautics
+
+|     |     |     |
+| --- | --- | --- |
+| Computation and Statistics |  |
+| _Select one of the following:_ | 12 |
+| [6.7810](https://catalog.mit.edu/search/?P=6.7810 "6.7810") | Algorithms for Inference |  |
+| [6.7900](https://catalog.mit.edu/search/?P=6.7900 "6.7900") | Machine Learning |  |
+| [9.520\[J\]](https://catalog.mit.edu/search/?P=9.520 "9.520[J]") | Statistical Learning Theory and Applications |  |
+| [16.391](https://catalog.mit.edu/search/?P=16.391 "16.391") | Statistics for Engineers and Scientists |  |
+| [16.940](https://catalog.mit.edu/search/?P=16.940 "16.940") | Numerical Methods for Stochastic Modeling and Inference |  |
+| Data Analysis |  |
+| _Select one of the following:_ | 12 |
+| [16.393](https://catalog.mit.edu/search/?P=16.393 "16.393") | Statistical Communication and Localization Theory |  |
+| [16.470](https://catalog.mit.edu/search/?P=16.470 "16.470") | Statistical Methods in Experimental Design |  |
+| [IDS.131\[J\]](https://catalog.mit.edu/search/?P=IDS.131 "IDS.131[J]") | Statistics, Computation and Applications |  |
+| Total Units | 24 |
+
+#### **Brain and Cognitive Sciences**
+
+|     |     |     |
+| --- | --- | --- |
+| Computation and Statistics |  |
+| _Select one of the following:_ | 12 |
+| [6.8800\[J\]](https://catalog.mit.edu/search/?P=6.8800 "6.8800[J]") | Biomedical Signal and Image Processing |  |
+| [6.7900](https://catalog.mit.edu/search/?P=6.7900 "6.7900") | Machine Learning |  |
+| [9.190](https://catalog.mit.edu/search/?P=9.190 "9.190") | Computational Psycholinguistics |  |
+| [9.520\[J\]](https://catalog.mit.edu/search/?P=9.520 "9.520[J]") | Statistical Learning Theory and Applications |  |
+| [9.660](https://catalog.mit.edu/search/?P=9.660 "9.660") | Computational Cognitive Science |  |
+| Data Analysis |  |
+| _Select one of the following:_ | 12 |
+| [9.073\[J\]](https://catalog.mit.edu/search/?P=9.073 "9.073[J]") | Statistics for Neuroscience Research |  |
+| [9.272\[J\]](https://catalog.mit.edu/search/?P=9.272 "9.272[J]") | Topics in Neural Signal Processing |  |
+| [9.583\[J\]](https://catalog.mit.edu/search/?P=9.583 "9.583[J]") | Functional Magnetic Resonance Imaging: Data Acquisition and Analysis |  |
+| Total Units | 24 |
+
+#### Economics
+
+|     |     |     |
+| --- | --- | --- |
+| Computation and Statistics |  |
+| _Select one of the following:_1 | 12 |
+| [9.520\[J\]](https://catalog.mit.edu/search/?P=9.520 "9.520[J]") | Statistical Learning Theory and Applications |  |
+| [6.7900](https://catalog.mit.edu/search/?P=6.7900 "6.7900") | Machine Learning |  |
+| Data Analysis |  |
+| [14.192](https://catalog.mit.edu/search/?P=14.192 "14.192") | Advanced Research and Communication | 12 |
+| [14.386](https://catalog.mit.edu/search/?P=14.386 "14.386") | New Econometric Methods | 12 |
+| or [14.387](https://catalog.mit.edu/search/?P=14.387 "14.387") | Applied Econometrics |
+| Total Units | 36 |
+
+|     |     |
+| --- | --- |
+| _1_ | _Students may substitute a more advanced subject with permission of the program director._ |
+
+#### Mathematics
+
+|     |     |     |
+| --- | --- | --- |
+| Computation and Statistics |  |
+| _Select one of the following:_1 | 12 |
+| [6.7220\[J\]](https://catalog.mit.edu/search/?P=6.7220 "6.7220[J]") | Nonlinear Optimization |  |
+| [6.7230\[J\]](https://catalog.mit.edu/search/?P=6.7230 "6.7230[J]") | Algebraic Techniques and Semidefinite Optimization |  |
+| [6.7810](https://catalog.mit.edu/search/?P=6.7810 "6.7810") | Algorithms for Inference |  |
+| [6.7900](https://catalog.mit.edu/search/?P=6.7900 "6.7900") | Machine Learning |  |
+| [9.520\[J\]](https://catalog.mit.edu/search/?P=9.520 "9.520[J]") | Statistical Learning Theory and Applications |  |
+| [18.337\[J\]](https://catalog.mit.edu/search/?P=18.337 "18.337[J]") | Parallel Computing and Scientific Machine Learning |  |
+| [18.338](https://catalog.mit.edu/search/?P=18.338 "18.338") | Eigenvalues of Random Matrices |  |
+| [18.415\[J\]](https://catalog.mit.edu/search/?P=18.415 "18.415[J]") | Advanced Algorithms |  |
+| [18.416\[J\]](https://catalog.mit.edu/search/?P=18.416 "18.416[J]") | Randomized Algorithms |  |
+| [18.657](https://catalog.mit.edu/search/?P=18.657 "18.657") | Topics in Statistics |  |
+| Data Analysis |  |
+| _Select one of the following:_ | 12 |
+| [6.8800\[J\]](https://catalog.mit.edu/search/?P=6.8800 "6.8800[J]") | Biomedical Signal and Image Processing |  |
+| [6.8300](https://catalog.mit.edu/search/?P=6.8300 "6.8300") | Advances in Computer Vision |  |
+| [9.073\[J\]](https://catalog.mit.edu/search/?P=9.073 "9.073[J]") | Statistics for Neuroscience Research |  |
+| [9.272\[J\]](https://catalog.mit.edu/search/?P=9.272 "9.272[J]") | Topics in Neural Signal Processing |  |
+| [18.367](https://catalog.mit.edu/search/?P=18.367 "18.367") | Waves and Imaging |  |
+| [IDS.131\[J\]](https://catalog.mit.edu/search/?P=IDS.131 "IDS.131[J]") | Statistics, Computation and Applications |  |
+| Total Units | 24 |
+
+|     |     |
+| --- | --- |
+| _1_ | _Students may petition to use IDS.160 to fulfill the Computation and Statistics requirement, if not elected as part of the Common Core._ |
+
+#### Mechanical Engineering
+
+|     |     |     |
+| --- | --- | --- |
+| Computation and Statistics |  |
+| [2.168](https://catalog.mit.edu/search/?P=2.168 "2.168") | Learning Machines | 12 |
+| or [6.7910\[J\]](https://catalog.mit.edu/search/?P=6.7910 "6.7910[J]") | Statistical Learning Theory and Applications |
+| Data Analysis |  |
+| [2.122](https://catalog.mit.edu/search/?P=2.122 "2.122") | Stochastic Systems | 12 |
+| or [2.29](https://catalog.mit.edu/search/?P=2.29 "2.29") | Numerical Fluid Mechanics |
+| Total Units | 24 |
+
+#### Physics
+
+|     |     |     |
+| --- | --- | --- |
+| Computation and Statistics |  |
+| _Select one of the following:_ | 12 |
+| [6.7810](https://catalog.mit.edu/search/?P=6.7810 "6.7810") | Algorithms for Inference |  |
+| [6.8610](https://catalog.mit.edu/search/?P=6.8610 "6.8610") | Quantitative Methods for Natural Language Processing |  |
+| [6.7900](https://catalog.mit.edu/search/?P=6.7900 "6.7900") | Machine Learning |  |
+| [6.8710\[J\]](https://catalog.mit.edu/search/?P=6.8710 "6.8710[J]") | Computational Systems Biology: Deep Learning in the Life Sciences |  |
+| [9.520\[J\]](https://catalog.mit.edu/search/?P=9.520 "9.520[J]") | Statistical Learning Theory and Applications |  |
+| [16.940](https://catalog.mit.edu/search/?P=16.940 "16.940") | Numerical Methods for Stochastic Modeling and Inference |  |
+| [18.337\[J\]](https://catalog.mit.edu/search/?P=18.337 "18.337[J]") | Parallel Computing and Scientific Machine Learning |  |
+| Data Analysis |  |
+| _Select one of the following:_ | 12 |
+| [6.8300](https://catalog.mit.edu/search/?P=6.8300 "6.8300") | Advances in Computer Vision |  |
+| [8.334](https://catalog.mit.edu/search/?P=8.334 "8.334") | Statistical Mechanics II |  |
+| [8.371\[J\]](https://catalog.mit.edu/search/?P=8.371 "8.371[J]") | Quantum Information Science |  |
+| [8.591\[J\]](https://catalog.mit.edu/search/?P=8.591 "8.591[J]") | Systems Biology |  |
+| [8.592\[J\]](https://catalog.mit.edu/search/?P=8.592 "8.592[J]") | Statistical Physics in Biology |  |
+| [8.942](https://catalog.mit.edu/search/?P=8.942 "8.942") | Cosmology |  |
+| [9.583\[J\]](https://catalog.mit.edu/search/?P=9.583 "9.583[J]") | Functional Magnetic Resonance Imaging: Data Acquisition and Analysis |  |
+| [16.456\[J\]](https://catalog.mit.edu/search/?P=16.456 "16.456[J]") | Biomedical Signal and Image Processing |  |
+| [18.367](https://catalog.mit.edu/search/?P=18.367 "18.367") | Waves and Imaging |  |
+| [IDS.131\[J\]](https://catalog.mit.edu/search/?P=IDS.131 "IDS.131[J]") | Statistics, Computation and Applications |  |
+| [IDS.957](https://catalog.mit.edu/search/?P=IDS.957 "IDS.957") | Practical Experience in Data Analysis |  |
+| Total Units | 24 |
+
+#### Political Science
+
+|     |     |     |
+| --- | --- | --- |
+| Computation and Statistics |  |
+| _Select one of the following:_ | 12 |
+| [6.7900](https://catalog.mit.edu/search/?P=6.7900 "6.7900") | Machine Learning |  |
+| [9.520\[J\]](https://catalog.mit.edu/search/?P=9.520 "9.520[J]") | Statistical Learning Theory and Applications |  |
+| [14.380](https://catalog.mit.edu/search/?P=14.380 "14.380")<br>& [14.381](https://catalog.mit.edu/search/?P=14.381 "14.381") | Statistical Method in Economics<br>and Estimation and Inference for Linear Causal and Structural Models |  |
+| Data Analysis |  |
+| _Select one of the following:_ | 12 |
+| [17.802](https://catalog.mit.edu/search/?P=17.802 "17.802") | Quantitative Research Methods II: Causal Inference |  |
+| [17.804](https://catalog.mit.edu/search/?P=17.804 "17.804") | Quantitative Research Methods III: Generalized Linear Models and Extensions |  |
+| [17.806](https://catalog.mit.edu/search/?P=17.806 "17.806") | Quantitative Research Methods IV: Advanced Topics |  |
+| Total Units | 24 |
+
+#### Social and Engineering Systems
+
+|     |     |     |
+| --- | --- | --- |
+| Computation and Statistics |  |
+| _Select one of the following:_ | 12 |
+| [6.7810](https://catalog.mit.edu/search/?P=6.7810 "6.7810") | Algorithms for Inference |  |
+| [6.7900](https://catalog.mit.edu/search/?P=6.7900 "6.7900") | Machine Learning |  |
+| [9.520\[J\]](https://catalog.mit.edu/search/?P=9.520 "9.520[J]") | Statistical Learning Theory and Applications |  |
+| [16.391](https://catalog.mit.edu/search/?P=16.391 "16.391") | Statistics for Engineers and Scientists |  |
+| [14.380](https://catalog.mit.edu/search/?P=14.380 "14.380")<br>& [14.381](https://catalog.mit.edu/search/?P=14.381 "14.381") | Statistical Method in Economics<br>and Estimation and Inference for Linear Causal and Structural Models |  |
+| [14.382](https://catalog.mit.edu/search/?P=14.382 "14.382") | Econometrics |  |
+| [15.077\[J\]](https://catalog.mit.edu/search/?P=15.077 "15.077[J]") | Statistical Machine Learning and Data Science |  |
+| [17.802](https://catalog.mit.edu/search/?P=17.802 "17.802") | Quantitative Research Methods II: Causal Inference |  |
+| [17.804](https://catalog.mit.edu/search/?P=17.804 "17.804") | Quantitative Research Methods III: Generalized Linear Models and Extensions |  |
+| [17.806](https://catalog.mit.edu/search/?P=17.806 "17.806") | Quantitative Research Methods IV: Advanced Topics |  |
+| Data Analysis |  |
+| _Select one of the following:_ | 12-15 |
+| [6.8800\[J\]](https://catalog.mit.edu/search/?P=6.8800 "6.8800[J]") | Biomedical Signal and Image Processing |  |
+| [6.8300](https://catalog.mit.edu/search/?P=6.8300 "6.8300") | Advances in Computer Vision |  |
+| [9.073\[J\]](https://catalog.mit.edu/search/?P=9.073 "9.073[J]") | Statistics for Neuroscience Research |  |
+| [9.272\[J\]](https://catalog.mit.edu/search/?P=9.272 "9.272[J]") | Topics in Neural Signal Processing |  |
+| [18.367](https://catalog.mit.edu/search/?P=18.367 "18.367") | Waves and Imaging |  |
+| [IDS.131\[J\]](https://catalog.mit.edu/search/?P=IDS.131 "IDS.131[J]") | Statistics, Computation and Applications |  |
+| [IDS.957](https://catalog.mit.edu/search/?P=IDS.957 "IDS.957") | Practical Experience in Data Analysis |  |
+| Total Units | 24-27 |
+
+Print Options
+
+
+[Send Page to Printer](https://catalog.mit.edu/degree-charts/interdisciplinary-doctoral-statistics/#)
+
+_Print this page._
+
+[Download PDF of this Page](https://catalog.mit.edu/degree-charts/interdisciplinary-doctoral-statistics/interdisciplinary-doctoral-statistics.pdf)
+
+_The PDF includes all information on this page and its related tabs. Subject (course) information includes any changes approved for the current academic year._
+
+[Download PDF of the Entire Catalog and/or Subject Descriptions](https://catalog.mit.edu/archive/)
+
+[Cancel](https://catalog.mit.edu/degree-charts/interdisciplinary-doctoral-statistics/#)

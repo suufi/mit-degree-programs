@@ -1,0 +1,53 @@
+Degree Charts
+
+- [Home](https://catalog.mit.edu/) >
+- [Degree Charts](https://catalog.mit.edu/degree-charts/) >
+- Technology and Policy (SM)
+
+# Master of Science in Technology and Policy
+
+[Institute for Data, Systems, and Society](https://catalog.mit.edu/schools/mit-schwarzman-college-computing/data-systems-society/#master-technology-policy)
+
+The Master of Science in Technology and Policy, designed to be completed in two years, requires 84–90 units of coursework plus a master's thesis that builds on the student's concentration.
+
+|     |     |     |
+| --- | --- | --- |
+| Core Subjects |  |
+| [IDS.411](https://catalog.mit.edu/search/?P=IDS.411 "IDS.411") | Concepts and Research in Technology and Policy | 9 |
+| _Select one of the following:_ | 12 |
+| [6.7900](https://catalog.mit.edu/search/?P=6.7900 "6.7900") | Machine Learning |  |
+| [14.381](https://catalog.mit.edu/search/?P=14.381 "14.381") | Estimation and Inference for Linear Causal and Structural Models |  |
+| [17.800](https://catalog.mit.edu/search/?P=17.800 "17.800") | Quantitative Research Methods I: Regression |  |
+| [IDS.131\[J\]](https://catalog.mit.edu/search/?P=IDS.131 "IDS.131[J]") | Statistics, Computation and Applications |  |
+| Students who elect to take an optional internship between the first and second academic year typically must register for [IDS.449](https://catalog.mit.edu/search/?P=IDS.449 "IDS.449"), particularly if internship funding has been secured from TPP or if the internship is part of curricular practical training. |  |
+| Framework Subjects |  |
+| [15.011](https://catalog.mit.edu/search/?P=15.011 "15.011") | Economic Analysis for Business Decisions | 9-12 |
+| or [14.003](https://catalog.mit.edu/search/?P=14.003 "14.003") | Microeconomic Theory and Public Policy |
+| [IDS.412\[J\]](https://catalog.mit.edu/search/?P=IDS.412 "IDS.412[J]") | Science, Technology, and Public Policy | 12 |
+| One Restricted elective in Law, Social Science, or Statistics1 | 9-12 |
+| Engineering Systems Concentration |  |
+| Select three graduate subjects that form a coherent sequence in technology and policy/social sciences. Concentration requires approval from both the research supervisor and TPP administration.2 | 30 |
+| Thesis Requirement |  |
+| Students must complete a research-based thesis on a topic of their choice that has been approved by the thesis supervisor. |  |
+| [IDS.THG](https://catalog.mit.edu/search/?P=IDS.THG "IDS.THG") | Graduate Thesis | 24 |
+| Total Units | 105-111 |
+
+|     |     |
+| --- | --- |
+| _1_ | _A list of candidate subjects is maintained by the program._ |
+| _2_ | _TPP academic advisors may suggest subjects, depending on a student's background, research interests, and academic goals._ |
+
+Print Options
+
+
+[Send Page to Printer](https://catalog.mit.edu/degree-charts/master-technology-policy/#)
+
+_Print this page._
+
+[Download PDF of this Page](https://catalog.mit.edu/degree-charts/master-technology-policy/master-technology-policy.pdf)
+
+_The PDF includes all information on this page and its related tabs. Subject (course) information includes any changes approved for the current academic year._
+
+[Download PDF of the Entire Catalog and/or Subject Descriptions](https://catalog.mit.edu/archive/)
+
+[Cancel](https://catalog.mit.edu/degree-charts/master-technology-policy/#)

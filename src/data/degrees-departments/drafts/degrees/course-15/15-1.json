@@ -1,0 +1,194 @@
+{
+  "schemaVersion": "2",
+  "program": "15-1",
+  "title": "Management (Course 15-1)",
+  "level": "undergraduate",
+  "complete": false,
+  "includesGir": "sb",
+  "catalogSource": {
+    "url": "https://catalog.mit.edu/degree-charts/management-course-15-1/",
+    "slug": "management-course-15-1",
+    "scrapedAt": "2026-07-03",
+    "contentHash": "1ed500dfc87953f226efc65b24672ffdef9abe4ab2b6ad2cb61e83db78c6f773"
+  },
+  "girCrosswalk": [
+    {
+      "subjectId": "15.069",
+      "satisfies": [
+        "rest"
+      ],
+      "note": "Also satisfies REST via departmental program."
+    },
+    {
+      "subjectId": "14.30",
+      "satisfies": [
+        "rest"
+      ],
+      "note": "Also satisfies REST via departmental program."
+    },
+    {
+      "subjectId": "18.05",
+      "satisfies": [
+        "rest"
+      ],
+      "note": "Also satisfies REST via departmental program."
+    },
+    {
+      "subjectId": "15.301",
+      "satisfies": [
+        "lab"
+      ],
+      "note": "Also satisfies Laboratory Requirement via departmental program."
+    },
+    {
+      "subjectId": "15.417",
+      "satisfies": [
+        "lab"
+      ],
+      "note": "Also satisfies Laboratory Requirement via departmental program."
+    }
+  ],
+  "footnotes": [
+    {
+      "id": "1",
+      "text": "Two six-unit subjects count as one elective."
+    }
+  ],
+  "constraints": [],
+  "requirements": [
+    {
+      "groupId": "15-1-required-subjects",
+      "title": "Required Subjects",
+      "bucket": "departmental",
+      "subcategory": "required_subjects",
+      "root": {
+        "type": "group",
+        "ruleType": "all_of",
+        "items": [
+          {
+            "type": "subject",
+            "subjectId": "14.01"
+          },
+          {
+            "type": "selection",
+            "ruleType": "choose_one",
+            "itemsSource": "explicit",
+            "items": [
+              {
+                "type": "subject",
+                "subjectId": "15.0111"
+              }
+            ]
+          },
+          {
+            "type": "subject",
+            "subjectId": "15.501"
+          },
+          {
+            "type": "selection",
+            "ruleType": "choose_one",
+            "itemsSource": "explicit",
+            "items": [
+              {
+                "type": "subject",
+                "subjectId": "15.276"
+              },
+              {
+                "type": "subject",
+                "subjectId": "15.279"
+              }
+            ]
+          },
+          {
+            "type": "selection",
+            "ruleType": "choose_one",
+            "itemsSource": "explicit",
+            "items": [
+              {
+                "type": "subject",
+                "subjectId": "15.301"
+              },
+              {
+                "type": "subject",
+                "subjectId": "15.312"
+              }
+            ]
+          },
+          {
+            "type": "selection",
+            "ruleType": "choose_one",
+            "itemsSource": "explicit",
+            "items": [
+              {
+                "type": "subject",
+                "subjectId": "14.30"
+              },
+              {
+                "type": "subject",
+                "subjectId": "15.069"
+              },
+              {
+                "type": "subject",
+                "subjectId": "18.05"
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "groupId": "15-1-restricted-electives",
+      "title": "Restricted Electives",
+      "bucket": "elective",
+      "subcategory": "restricted_electives",
+      "root": {
+        "type": "selection",
+        "ruleType": "choose_n",
+        "ruleValue": 2,
+        "itemsSource": "explicit",
+        "items": [
+          {
+            "type": "subject",
+            "subjectId": "15.417"
+          },
+          {
+            "type": "subject",
+            "subjectId": "15.7611"
+          },
+          {
+            "type": "subject",
+            "subjectId": "15.8141"
+          },
+          {
+            "type": "subject",
+            "subjectId": "15.9001"
+          }
+        ]
+      }
+    },
+    {
+      "groupId": "15-1-concentration-subjects",
+      "title": "Concentration Subjects",
+      "bucket": "departmental",
+      "subcategory": "required_subjects",
+      "flexibility": {
+        "advisorApproval": false,
+        "catalogText": "Five subjects from a defined concentration or an individualized concentration with the approval of the Sloan Undergraduate Education Office. At least three of the subjects must be from Course 15.1"
+      },
+      "root": {
+        "type": "selection",
+        "ruleType": "choose_units",
+        "ruleValue": 45,
+        "itemsSource": "advisor_defined",
+        "note": "Five subjects from a defined concentration or an individualized concentration with the approval of the Sloan Undergraduate Education Office. At least three of the subjects must be from Course 15.1",
+        "flexibility": {
+          "catalogText": "Five subjects from a defined concentration or an individualized concentration with the approval of the Sloan Undergraduate Education Office. At least three of the subjects must be from Course 15.1"
+        }
+      }
+    }
+  ],
+  "status": "draft",
+  "revisionId": "15-1-2026-07-03-1ed500df",
+  "catalogYear": "2026",
+  "effectiveTerm": "2026-FA"
+}

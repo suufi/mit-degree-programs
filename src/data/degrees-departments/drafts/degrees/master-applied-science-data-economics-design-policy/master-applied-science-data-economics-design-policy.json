@@ -1,0 +1,323 @@
+{
+  "schemaVersion": "2",
+  "program": "master-applied-science-data-economics-design-policy",
+  "title": "Data, Economics, and Design of Policy (MASc)",
+  "level": "graduate",
+  "complete": false,
+  "catalogSource": {
+    "url": "https://catalog.mit.edu/degree-charts/master-applied-science-data-economics-design-policy/",
+    "slug": "master-applied-science-data-economics-design-policy",
+    "scrapedAt": "2026-07-03",
+    "contentHash": "5b92d8b57f4de8cd07bcbf81d4b72f8cc9ed6cd8906208deb07be0fae4c1e4ed"
+  },
+  "footnotes": [
+    {
+      "id": "1",
+      "text": "Students may substitute similar coursework with advisor's permission."
+    },
+    {
+      "id": "2",
+      "text": "Students who take 14.003 for advanced standing credit cannot take it in residence for credit."
+    },
+    {
+      "id": "3",
+      "text": "Students who take 14.750 for advanced standing credit cannot take it in residence for credit."
+    },
+    {
+      "id": "4",
+      "text": "With approval of the program director, students can choose one subject within or outside the department."
+    }
+  ],
+  "constraints": [],
+  "requirements": [
+    {
+      "groupId": "master-applied-science-data-economics-design-policy-subjects-taken-online-as-part-of-the-micromasters-program",
+      "title": "Subjects taken online as part of the MicroMasters program",
+      "bucket": "departmental",
+      "subcategory": "required_subjects",
+      "root": {
+        "type": "group",
+        "ruleType": "all_of",
+        "items": [
+          {
+            "type": "subject",
+            "subjectId": "14.01"
+          },
+          {
+            "type": "subject",
+            "subjectId": "14.310"
+          },
+          {
+            "type": "selection",
+            "ruleType": "choose_n",
+            "ruleValue": 2,
+            "itemsSource": "explicit",
+            "items": [
+              {
+                "type": "subject",
+                "subjectId": "14.73"
+              },
+              {
+                "type": "subject",
+                "subjectId": "14.740"
+              },
+              {
+                "type": "subject",
+                "subjectId": "14.750"
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "groupId": "master-applied-science-data-economics-design-policy-subjects-taken-in-residence1",
+      "title": "Subjects taken in residence1",
+      "bucket": "departmental",
+      "subcategory": "required_subjects",
+      "root": {
+        "type": "group",
+        "ruleType": "all_of",
+        "items": [
+          {
+            "type": "subject",
+            "subjectId": "14.320"
+          },
+          {
+            "type": "subject",
+            "subjectId": "14.399"
+          }
+        ]
+      }
+    },
+    {
+      "groupId": "master-applied-science-data-economics-design-policy-microeconomics",
+      "title": "Microeconomics",
+      "bucket": "departmental",
+      "subcategory": "required_subjects",
+      "root": {
+        "type": "selection",
+        "ruleType": "choose_one",
+        "itemsSource": "explicit",
+        "items": [
+          {
+            "type": "subject",
+            "subjectId": "14.003"
+          },
+          {
+            "type": "subject",
+            "subjectId": "14.131"
+          },
+          {
+            "type": "subject",
+            "subjectId": "14.160"
+          },
+          {
+            "type": "subject",
+            "subjectId": "14.161"
+          },
+          {
+            "type": "group",
+            "ruleType": "all_of",
+            "items": [
+              {
+                "type": "subject",
+                "subjectId": "14.283"
+              },
+              {
+                "type": "subject",
+                "subjectId": "14.284"
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "groupId": "master-applied-science-data-economics-design-policy-international-development-development-economics",
+      "title": "International Development (Development Economics)",
+      "bucket": "departmental",
+      "subcategory": "required_subjects",
+      "flexibility": {
+        "advisorApproval": false,
+        "catalogText": "_Restricted Elective_4"
+      },
+      "root": {
+        "type": "group",
+        "ruleType": "all_of",
+        "items": [
+          {
+            "type": "selection",
+            "ruleType": "choose_one",
+            "itemsSource": "explicit",
+            "items": [
+              {
+                "type": "subject",
+                "subjectId": "14.772"
+              },
+              {
+                "type": "subject",
+                "subjectId": "14.773"
+              },
+              {
+                "type": "subject",
+                "subjectId": "14.750"
+              },
+              {
+                "type": "subject",
+                "subjectId": "14.760"
+              }
+            ]
+          },
+          {
+            "type": "selection",
+            "ruleType": "choose_units",
+            "ruleValue": 12,
+            "itemsSource": "advisor_defined",
+            "note": "_Restricted Elective_4",
+            "flexibility": {
+              "catalogText": "_Restricted Elective_4"
+            }
+          },
+          {
+            "type": "selection",
+            "ruleType": "choose_one",
+            "itemsSource": "explicit",
+            "items": [
+              {
+                "type": "subject",
+                "subjectId": "14.137"
+              },
+              {
+                "type": "subject",
+                "subjectId": "14.150"
+              },
+              {
+                "type": "subject",
+                "subjectId": "14.163"
+              },
+              {
+                "type": "subject",
+                "subjectId": "14.260"
+              },
+              {
+                "type": "subject",
+                "subjectId": "14.388"
+              },
+              {
+                "type": "subject",
+                "subjectId": "14.420"
+              },
+              {
+                "type": "subject",
+                "subjectId": "14.444"
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "groupId": "master-applied-science-data-economics-design-policy-capstone",
+      "title": "Capstone",
+      "bucket": "departmental",
+      "subcategory": "required_subjects",
+      "root": {
+        "type": "subject",
+        "subjectId": "14.001"
+      }
+    },
+    {
+      "groupId": "master-applied-science-data-economics-design-policy-public-policy",
+      "title": "Public Policy",
+      "bucket": "departmental",
+      "subcategory": "required_subjects",
+      "flexibility": {
+        "advisorApproval": false,
+        "catalogText": "_Restricted Elective_2"
+      },
+      "root": {
+        "type": "group",
+        "ruleType": "all_of",
+        "items": [
+          {
+            "type": "selection",
+            "ruleType": "choose_one",
+            "itemsSource": "explicit",
+            "items": [
+              {
+                "type": "subject",
+                "subjectId": "14.125"
+              },
+              {
+                "type": "subject",
+                "subjectId": "14.200"
+              },
+              {
+                "type": "subject",
+                "subjectId": "14.270"
+              },
+              {
+                "type": "subject",
+                "subjectId": "14.410"
+              },
+              {
+                "type": "subject",
+                "subjectId": "14.640"
+              }
+            ]
+          },
+          {
+            "type": "selection",
+            "ruleType": "choose_units",
+            "ruleValue": 12,
+            "itemsSource": "advisor_defined",
+            "note": "_Restricted Elective_2",
+            "flexibility": {
+              "catalogText": "_Restricted Elective_2"
+            }
+          },
+          {
+            "type": "selection",
+            "ruleType": "choose_one",
+            "itemsSource": "explicit",
+            "items": [
+              {
+                "type": "subject",
+                "subjectId": "14.137"
+              },
+              {
+                "type": "subject",
+                "subjectId": "14.150"
+              },
+              {
+                "type": "subject",
+                "subjectId": "14.163"
+              },
+              {
+                "type": "subject",
+                "subjectId": "14.260"
+              },
+              {
+                "type": "subject",
+                "subjectId": "14.388"
+              },
+              {
+                "type": "subject",
+                "subjectId": "14.420"
+              },
+              {
+                "type": "subject",
+                "subjectId": "14.444"
+              }
+            ]
+          }
+        ]
+      }
+    }
+  ],
+  "status": "draft",
+  "revisionId": "master-applied-science-data-economics-design-policy-2026-07-03-5b92d8b5",
+  "catalogYear": "2026",
+  "effectiveTerm": "2026-FA"
+}

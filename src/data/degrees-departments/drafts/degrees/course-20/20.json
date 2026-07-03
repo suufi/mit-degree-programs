@@ -1,0 +1,149 @@
+{
+  "schemaVersion": "2",
+  "program": "20",
+  "title": "Biological Engineering (Course 20)",
+  "level": "undergraduate",
+  "complete": false,
+  "includesGir": "sb",
+  "catalogSource": {
+    "url": "https://catalog.mit.edu/degree-charts/biological-engineering-course-20/",
+    "slug": "biological-engineering-course-20",
+    "scrapedAt": "2026-07-03",
+    "contentHash": "296900b4213d14436db5673b7af09bdd1f497966e5272bbd87b27674bec85a0d"
+  },
+  "girCrosswalk": [
+    {
+      "subjectId": "5.12",
+      "satisfies": [
+        "rest"
+      ],
+      "note": "Also satisfies REST via departmental program."
+    },
+    {
+      "subjectId": "18.03",
+      "satisfies": [
+        "rest"
+      ],
+      "note": "Also satisfies REST via departmental program."
+    },
+    {
+      "subjectId": "20.109",
+      "satisfies": [
+        "lab"
+      ],
+      "note": "Also satisfies Laboratory Requirement via departmental program."
+    }
+  ],
+  "footnotes": [
+    {
+      "id": "1",
+      "text": "Combination of 6.100A Introduction to Computer Science Programming in Python and 6.100B Introduction to Computational Thinking and Data Science counts as a REST."
+    }
+  ],
+  "constraints": [],
+  "requirements": [
+    {
+      "groupId": "20-tier-i",
+      "title": "Tier I",
+      "bucket": "departmental",
+      "subcategory": "required_subjects",
+      "root": {
+        "type": "group",
+        "ruleType": "all_of",
+        "items": [
+          {
+            "type": "subject",
+            "subjectId": "5.12"
+          },
+          {
+            "type": "subject",
+            "subjectId": "6.100A"
+          },
+          {
+            "type": "subject",
+            "subjectId": "6.100B"
+          },
+          {
+            "type": "subject",
+            "subjectId": "7.03"
+          },
+          {
+            "type": "subject",
+            "subjectId": "18.03"
+          },
+          {
+            "type": "subject",
+            "subjectId": "20.110"
+          }
+        ]
+      }
+    },
+    {
+      "groupId": "20-tier-ii",
+      "title": "Tier II",
+      "bucket": "departmental",
+      "subcategory": "required_subjects",
+      "root": {
+        "type": "group",
+        "ruleType": "all_of",
+        "items": [
+          {
+            "type": "subject",
+            "subjectId": "5.07"
+          },
+          {
+            "type": "selection",
+            "ruleType": "choose_one",
+            "itemsSource": "explicit",
+            "items": [
+              {
+                "type": "subject",
+                "subjectId": "7.05"
+              }
+            ]
+          },
+          {
+            "type": "subject",
+            "subjectId": "7.06"
+          },
+          {
+            "type": "subject",
+            "subjectId": "20.109"
+          },
+          {
+            "type": "subject",
+            "subjectId": "20.309"
+          },
+          {
+            "type": "subject",
+            "subjectId": "20.320"
+          }
+        ]
+      }
+    },
+    {
+      "groupId": "20-tier-iii",
+      "title": "Tier III",
+      "bucket": "departmental",
+      "subcategory": "required_subjects",
+      "root": {
+        "type": "group",
+        "ruleType": "all_of",
+        "items": [
+          {
+            "type": "subject",
+            "subjectId": "20.330"
+          },
+          {
+            "type": "subject",
+            "subjectId": "20.380"
+          }
+        ]
+      }
+    }
+  ],
+  "status": "draft",
+  "revisionId": "20-2026-07-03-296900b4",
+  "catalogYear": "2026",
+  "effectiveTerm": "2026-FA"
+}

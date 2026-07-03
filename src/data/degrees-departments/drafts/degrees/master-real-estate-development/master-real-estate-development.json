@@ -1,0 +1,234 @@
+{
+  "schemaVersion": "2",
+  "program": "master-real-estate-development",
+  "title": "Real Estate Development (SM)",
+  "level": "graduate",
+  "complete": false,
+  "catalogSource": {
+    "url": "https://catalog.mit.edu/degree-charts/master-real-estate-development/",
+    "slug": "master-real-estate-development",
+    "scrapedAt": "2026-07-03",
+    "contentHash": "9118ebf8185d1534cb72334969e52bba4849472c67fd1439132b5fa5930858e3"
+  },
+  "footnotes": [
+    {
+      "id": "1",
+      "text": "Students must enroll for at least 6 units from this list each semester. Enrollment in 12 units per semester is strongly recommended for timely progress."
+    },
+    {
+      "id": "2",
+      "text": "Suggested subjects (based on what students have taken in the past) are listed below, but students are free to choose from among MIT's offerings. CRE periodically offers additional Special Topics in Real Estate courses, which may be applied toward the Unrestricted Elective requirement."
+    },
+    {
+      "id": "3",
+      "text": "Students must register for 12 units of thesis credit under RED.THG in their third (final) semester."
+    }
+  ],
+  "constraints": [],
+  "requirements": [
+    {
+      "groupId": "master-real-estate-development-core-subjects",
+      "title": "Core Subjects",
+      "bucket": "departmental",
+      "subcategory": "required_subjects",
+      "root": {
+        "type": "group",
+        "ruleType": "all_of",
+        "items": [
+          {
+            "type": "subject",
+            "subjectId": "11.303"
+          },
+          {
+            "type": "subject",
+            "subjectId": "11.350"
+          },
+          {
+            "type": "subject",
+            "subjectId": "11.431"
+          },
+          {
+            "type": "subject",
+            "subjectId": "11.433"
+          },
+          {
+            "type": "subject",
+            "subjectId": "11.450"
+          },
+          {
+            "type": "subject",
+            "subjectId": "11.499"
+          }
+        ]
+      }
+    },
+    {
+      "groupId": "master-real-estate-development-restricted-electives",
+      "title": "Restricted Electives",
+      "bucket": "elective",
+      "subcategory": "restricted_electives",
+      "flexibility": {
+        "advisorApproval": false,
+        "catalogText": "Select 24 units from the list below1"
+      },
+      "root": {
+        "type": "selection",
+        "ruleType": "choose_units",
+        "ruleValue": 24,
+        "itemsSource": "advisor_defined",
+        "note": "Select 24 units from the list below1",
+        "flexibility": {
+          "catalogText": "Select 24 units from the list below1"
+        }
+      }
+    },
+    {
+      "groupId": "master-real-estate-development-thesis",
+      "title": "Thesis",
+      "bucket": "thesis",
+      "subcategory": "thesis",
+      "flexibility": {
+        "advisorApproval": false,
+        "catalogText": "RED.THG3"
+      },
+      "root": {
+        "type": "selection",
+        "ruleType": "choose_units",
+        "ruleValue": 12,
+        "itemsSource": "advisor_defined",
+        "note": "RED.THG3",
+        "flexibility": {
+          "catalogText": "RED.THG3"
+        }
+      }
+    },
+    {
+      "groupId": "master-real-estate-development-required-electives",
+      "title": "Required Electives",
+      "bucket": "elective",
+      "subcategory": "elective_subjects",
+      "root": {
+        "type": "group",
+        "ruleType": "all_of",
+        "items": [
+          {
+            "type": "subject",
+            "subjectId": "11.246"
+          },
+          {
+            "type": "subject",
+            "subjectId": "11.301"
+          },
+          {
+            "type": "subject",
+            "subjectId": "11.305"
+          },
+          {
+            "type": "subject",
+            "subjectId": "11.323"
+          },
+          {
+            "type": "subject",
+            "subjectId": "11.325"
+          },
+          {
+            "type": "subject",
+            "subjectId": "11.344"
+          },
+          {
+            "type": "subject",
+            "subjectId": "11.345"
+          },
+          {
+            "type": "subject",
+            "subjectId": "11.428"
+          },
+          {
+            "type": "subject",
+            "subjectId": "11.429"
+          },
+          {
+            "type": "subject",
+            "subjectId": "11.351"
+          },
+          {
+            "type": "subject",
+            "subjectId": "11.352"
+          },
+          {
+            "type": "subject",
+            "subjectId": "11.355"
+          },
+          {
+            "type": "subject",
+            "subjectId": "11.435"
+          },
+          {
+            "type": "subject",
+            "subjectId": "15.401"
+          }
+        ]
+      }
+    },
+    {
+      "groupId": "master-real-estate-development-suggested-subjects-to-satisfy-unrestricted-elective-requirement",
+      "title": "Suggested Subjects to Satisfy Unrestricted Elective Requirement",
+      "bucket": "elective",
+      "subcategory": "restricted_electives",
+      "root": {
+        "type": "group",
+        "ruleType": "all_of",
+        "items": [
+          {
+            "type": "subject",
+            "subjectId": "11.265"
+          },
+          {
+            "type": "subject",
+            "subjectId": "11.268"
+          },
+          {
+            "type": "subject",
+            "subjectId": "11.353"
+          },
+          {
+            "type": "subject",
+            "subjectId": "11.360"
+          },
+          {
+            "type": "subject",
+            "subjectId": "11.333"
+          },
+          {
+            "type": "subject",
+            "subjectId": "11.401"
+          },
+          {
+            "type": "subject",
+            "subjectId": "11.430"
+          },
+          {
+            "type": "subject",
+            "subjectId": "15.402"
+          },
+          {
+            "type": "subject",
+            "subjectId": "15.433"
+          },
+          {
+            "type": "subject",
+            "subjectId": "15.434"
+          },
+          {
+            "type": "subject",
+            "subjectId": "15.535"
+          }
+        ]
+      }
+    }
+  ],
+  "status": "draft",
+  "revisionId": "master-real-estate-development-2026-07-03-9118ebf8",
+  "catalogYear": "2026",
+  "effectiveTerm": "2026-FA"
+}

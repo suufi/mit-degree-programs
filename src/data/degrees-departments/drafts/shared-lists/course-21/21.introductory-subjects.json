@@ -1,0 +1,104 @@
+{
+  "sharedListId": "21.introductory-subjects",
+  "program": "21",
+  "title": "# Introductory Subjects",
+  "items": [
+    {
+      "type": "subject",
+      "subjectId": "21L.000"
+    },
+    {
+      "type": "subject",
+      "subjectId": "21L.001"
+    },
+    {
+      "type": "subject",
+      "subjectId": "21L.002"
+    },
+    {
+      "type": "subject",
+      "subjectId": "21L.003"
+    },
+    {
+      "type": "subject",
+      "subjectId": "21L.004"
+    },
+    {
+      "type": "subject",
+      "subjectId": "21L.005"
+    },
+    {
+      "type": "subject",
+      "subjectId": "21L.006"
+    },
+    {
+      "type": "subject",
+      "subjectId": "21L.007"
+    },
+    {
+      "type": "subject",
+      "subjectId": "21L.008"
+    },
+    {
+      "type": "subject",
+      "subjectId": "21L.009"
+    },
+    {
+      "type": "subject",
+      "subjectId": "21L.010"
+    },
+    {
+      "type": "subject",
+      "subjectId": "21L.011"
+    },
+    {
+      "type": "subject",
+      "subjectId": "21L.012"
+    },
+    {
+      "type": "subject",
+      "subjectId": "21L.013"
+    },
+    {
+      "type": "subject",
+      "subjectId": "21L.014"
+    },
+    {
+      "type": "subject",
+      "subjectId": "21L.015"
+    },
+    {
+      "type": "subject",
+      "subjectId": "21L.017"
+    },
+    {
+      "type": "subject",
+      "subjectId": "21L.018"
+    },
+    {
+      "type": "subject",
+      "subjectId": "21L.019"
+    },
+    {
+      "type": "subject",
+      "subjectId": "21L.020"
+    },
+    {
+      "type": "subject",
+      "subjectId": "21L.021"
+    },
+    {
+      "type": "subject",
+      "subjectId": "21L.024"
+    },
+    {
+      "type": "subject",
+      "subjectId": "21L.025"
+    },
+    {
+      "type": "subject",
+      "subjectId": "21L.040"
+    }
+  ],
+  "version": "1"
+}

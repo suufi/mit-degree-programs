@@ -1,0 +1,276 @@
+{
+  "schemaVersion": "2",
+  "program": "2",
+  "title": "Mechanical Engineering (Course 2)",
+  "level": "undergraduate",
+  "complete": false,
+  "includesGir": "sb",
+  "catalogSource": {
+    "url": "https://catalog.mit.edu/degree-charts/mechanical-engineering-course-2/",
+    "slug": "mechanical-engineering-course-2",
+    "scrapedAt": "2026-07-03",
+    "contentHash": "5f2fe90a8dc03f8f264fbaff2578ceb53199ad8e3f37736c288b909755ae6c9b"
+  },
+  "girCrosswalk": [
+    {
+      "subjectId": "2.001",
+      "satisfies": [
+        "rest"
+      ],
+      "note": "Also satisfies REST via departmental program."
+    },
+    {
+      "subjectId": "18.03",
+      "satisfies": [
+        "rest"
+      ],
+      "note": "Also satisfies REST via departmental program."
+    },
+    {
+      "subjectId": "2.671",
+      "satisfies": [
+        "lab"
+      ],
+      "note": "Also satisfies Laboratory Requirement via departmental program."
+    }
+  ],
+  "footnotes": [
+    {
+      "id": "1",
+      "text": "Consult the MechE Undergraduate Office, Room 1-110, regarding substitutions."
+    },
+    {
+      "id": "2",
+      "text": "To encourage more substantial research, design, or independent study, the department permits up to 15 units of 2.THU credit, subject to approval of the student’s thesis advisor."
+    },
+    {
+      "id": "3",
+      "text": "The department suggests that students select a basic electronics subject (e.g., 2.678, 6.2000, or 22.071) as early as possible in their program."
+    }
+  ],
+  "constraints": [],
+  "requirements": [
+    {
+      "groupId": "2-required-subjects",
+      "title": "Required Subjects",
+      "bucket": "departmental",
+      "subcategory": "required_subjects",
+      "root": {
+        "type": "group",
+        "ruleType": "all_of",
+        "items": [
+          {
+            "type": "subject",
+            "subjectId": "2.001"
+          },
+          {
+            "type": "subject",
+            "subjectId": "2.002"
+          },
+          {
+            "type": "subject",
+            "subjectId": "2.003"
+          },
+          {
+            "type": "subject",
+            "subjectId": "2.004"
+          },
+          {
+            "type": "subject",
+            "subjectId": "2.005"
+          },
+          {
+            "type": "subject",
+            "subjectId": "2.006"
+          },
+          {
+            "type": "subject",
+            "subjectId": "2.007"
+          },
+          {
+            "type": "selection",
+            "ruleType": "choose_one",
+            "itemsSource": "explicit",
+            "items": [
+              {
+                "type": "subject",
+                "subjectId": "2.017"
+              }
+            ]
+          },
+          {
+            "type": "subject",
+            "subjectId": "2.008"
+          },
+          {
+            "type": "subject",
+            "subjectId": "2.086"
+          },
+          {
+            "type": "subject",
+            "subjectId": "2.670"
+          },
+          {
+            "type": "subject",
+            "subjectId": "2.671"
+          },
+          {
+            "type": "subject",
+            "subjectId": "2.THU"
+          },
+          {
+            "type": "subject",
+            "subjectId": "18.03"
+          },
+          {
+            "type": "selection",
+            "ruleType": "choose_one",
+            "itemsSource": "explicit",
+            "items": [
+              {
+                "type": "subject",
+                "subjectId": "2.009"
+              },
+              {
+                "type": "subject",
+                "subjectId": "2.013"
+              },
+              {
+                "type": "subject",
+                "subjectId": "2.750"
+              },
+              {
+                "type": "subject",
+                "subjectId": "2.760"
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "groupId": "2-restricted-electives",
+      "title": "Restricted Electives",
+      "bucket": "elective",
+      "subcategory": "restricted_electives",
+      "root": {
+        "type": "selection",
+        "ruleType": "choose_n",
+        "ruleValue": 2,
+        "itemsSource": "explicit",
+        "items": [
+          {
+            "type": "subject",
+            "subjectId": "2.014"
+          },
+          {
+            "type": "subject",
+            "subjectId": "2.016"
+          },
+          {
+            "type": "subject",
+            "subjectId": "2.017"
+          },
+          {
+            "type": "subject",
+            "subjectId": "2.019"
+          },
+          {
+            "type": "subject",
+            "subjectId": "2.050"
+          },
+          {
+            "type": "subject",
+            "subjectId": "2.12"
+          },
+          {
+            "type": "subject",
+            "subjectId": "2.132"
+          },
+          {
+            "type": "subject",
+            "subjectId": "2.14"
+          },
+          {
+            "type": "subject",
+            "subjectId": "2.184"
+          },
+          {
+            "type": "subject",
+            "subjectId": "2.370"
+          },
+          {
+            "type": "subject",
+            "subjectId": "2.51"
+          },
+          {
+            "type": "subject",
+            "subjectId": "2.60"
+          },
+          {
+            "type": "subject",
+            "subjectId": "2.650"
+          },
+          {
+            "type": "subject",
+            "subjectId": "2.71"
+          },
+          {
+            "type": "subject",
+            "subjectId": "2.72"
+          },
+          {
+            "type": "subject",
+            "subjectId": "2.744"
+          },
+          {
+            "type": "subject",
+            "subjectId": "2.777"
+          },
+          {
+            "type": "subject",
+            "subjectId": "2.782"
+          },
+          {
+            "type": "subject",
+            "subjectId": "2.797"
+          },
+          {
+            "type": "subject",
+            "subjectId": "2.813"
+          },
+          {
+            "type": "subject",
+            "subjectId": "2.853"
+          },
+          {
+            "type": "subject",
+            "subjectId": "2.96"
+          },
+          {
+            "type": "group",
+            "ruleType": "all_of",
+            "items": [
+              {
+                "type": "subject",
+                "subjectId": "2.C01"
+              },
+              {
+                "type": "subject",
+                "subjectId": "6.C01"
+              }
+            ]
+          },
+          {
+            "type": "subject",
+            "subjectId": "2.C27"
+          }
+        ]
+      }
+    }
+  ],
+  "status": "draft",
+  "revisionId": "2-2026-07-03-5f2fe90a",
+  "catalogYear": "2026",
+  "effectiveTerm": "2026-FA"
+}

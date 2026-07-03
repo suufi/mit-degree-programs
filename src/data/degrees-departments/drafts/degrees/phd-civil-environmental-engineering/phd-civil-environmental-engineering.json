@@ -1,0 +1,528 @@
+{
+  "schemaVersion": "2",
+  "program": "phd-civil-environmental-engineering",
+  "title": "Civil and Environmental Engineering (PhD/ScD)",
+  "level": "graduate",
+  "complete": false,
+  "catalogSource": {
+    "url": "https://catalog.mit.edu/degree-charts/phd-civil-environmental-engineering/",
+    "slug": "phd-civil-environmental-engineering",
+    "scrapedAt": "2026-07-03",
+    "contentHash": "03078cdffd0c4518768d4edb801ea362035cf64fb7c889b698f482194ef250a1"
+  },
+  "footnotes": [
+    {
+      "id": "1",
+      "text": "A breadth subject is a subject chosen from outside a student’s main research area, intended to expand their knowledge base, strengthen interdisciplinary thinking, and provide contextual or methodological skills that enhance their primary field of study. CEE recommends 1.976 Graduate Professional Development Seminar but other subjects are acceptable with advisor approval."
+    },
+    {
+      "id": "2",
+      "text": "Thesis units are based on the average duration of the doctoral program (five years) but will vary based on how long the student remains in the program."
+    }
+  ],
+  "constraints": [],
+  "requirements": [
+    {
+      "groupId": "phd-civil-environmental-engineering-required-subjects",
+      "title": "Required Subjects",
+      "bucket": "departmental",
+      "subcategory": "required_subjects",
+      "flexibility": {
+        "advisorApproval": false,
+        "catalogText": "Core"
+      },
+      "root": {
+        "type": "group",
+        "ruleType": "all_of",
+        "items": [
+          {
+            "type": "selection",
+            "ruleType": "choose_units",
+            "ruleValue": 33,
+            "itemsSource": "advisor_defined",
+            "note": "Core",
+            "flexibility": {
+              "catalogText": "Core"
+            }
+          },
+          {
+            "type": "selection",
+            "ruleType": "choose_units",
+            "ruleValue": 6,
+            "itemsSource": "advisor_defined",
+            "note": "Breadth Subject1",
+            "flexibility": {
+              "catalogText": "Breadth Subject1"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "groupId": "phd-civil-environmental-engineering-thesis",
+      "title": "Thesis",
+      "bucket": "thesis",
+      "subcategory": "thesis",
+      "root": {
+        "type": "subject",
+        "subjectId": "1.THG"
+      }
+    },
+    {
+      "groupId": "phd-civil-environmental-engineering-environmental-chemistry",
+      "title": "Environmental Chemistry",
+      "bucket": "departmental",
+      "subcategory": "required_subjects",
+      "root": {
+        "type": "group",
+        "ruleType": "all_of",
+        "items": [
+          {
+            "type": "subject",
+            "subjectId": "1.76"
+          },
+          {
+            "type": "subject",
+            "subjectId": "1.83"
+          },
+          {
+            "type": "subject",
+            "subjectId": "1.831"
+          },
+          {
+            "type": "selection",
+            "ruleType": "choose_one",
+            "itemsSource": "explicit",
+            "items": [
+              {
+                "type": "subject",
+                "subjectId": "1.84"
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "groupId": "phd-civil-environmental-engineering-environmental-fluid-mechanics-1",
+      "title": "_Environmental Fluid Mechanics_1",
+      "bucket": "departmental",
+      "subcategory": "required_subjects",
+      "root": {
+        "type": "group",
+        "ruleType": "all_of",
+        "items": [
+          {
+            "type": "subject",
+            "subjectId": "1.61"
+          },
+          {
+            "type": "subject",
+            "subjectId": "1.63"
+          },
+          {
+            "type": "subject",
+            "subjectId": "1.65"
+          },
+          {
+            "type": "subject",
+            "subjectId": "1.69"
+          },
+          {
+            "type": "subject",
+            "subjectId": "2.25"
+          },
+          {
+            "type": "subject",
+            "subjectId": "12.802"
+          }
+        ]
+      }
+    },
+    {
+      "groupId": "phd-civil-environmental-engineering-environmental-microbiology",
+      "title": "Environmental Microbiology",
+      "bucket": "departmental",
+      "subcategory": "required_subjects",
+      "root": {
+        "type": "group",
+        "ruleType": "all_of",
+        "items": [
+          {
+            "type": "subject",
+            "subjectId": "1.87"
+          },
+          {
+            "type": "subject",
+            "subjectId": "1.89"
+          }
+        ]
+      }
+    },
+    {
+      "groupId": "phd-civil-environmental-engineering-and-one-of-the-following-subjects",
+      "title": "And one of the following subjects:",
+      "bucket": "departmental",
+      "subcategory": "required_subjects",
+      "root": {
+        "type": "group",
+        "ruleType": "all_of",
+        "items": [
+          {
+            "type": "subject",
+            "subjectId": "1.881"
+          },
+          {
+            "type": "subject",
+            "subjectId": "6.8710"
+          },
+          {
+            "type": "subject",
+            "subjectId": "7.492"
+          }
+        ]
+      }
+    },
+    {
+      "groupId": "phd-civil-environmental-engineering-ecology-and-evolution-1",
+      "title": "_Ecology and Evolution_1",
+      "bucket": "departmental",
+      "subcategory": "required_subjects",
+      "root": {
+        "type": "group",
+        "ruleType": "all_of",
+        "items": [
+          {
+            "type": "subject",
+            "subjectId": "1.837"
+          },
+          {
+            "type": "selection",
+            "ruleType": "choose_one",
+            "itemsSource": "explicit",
+            "items": [
+              {
+                "type": "subject",
+                "subjectId": "12.586"
+              }
+            ]
+          },
+          {
+            "type": "subject",
+            "subjectId": "1.845"
+          },
+          {
+            "type": "selection",
+            "ruleType": "choose_one",
+            "itemsSource": "explicit",
+            "items": [
+              {
+                "type": "subject",
+                "subjectId": "12.849"
+              }
+            ]
+          },
+          {
+            "type": "subject",
+            "subjectId": "1.87"
+          },
+          {
+            "type": "selection",
+            "ruleType": "choose_one",
+            "itemsSource": "explicit",
+            "items": [
+              {
+                "type": "subject",
+                "subjectId": "8.591"
+              }
+            ]
+          },
+          {
+            "type": "subject",
+            "subjectId": "1.872"
+          },
+          {
+            "type": "subject",
+            "subjectId": "1.873"
+          },
+          {
+            "type": "selection",
+            "ruleType": "choose_one",
+            "itemsSource": "explicit",
+            "items": [
+              {
+                "type": "subject",
+                "subjectId": "1.89"
+              }
+            ]
+          },
+          {
+            "type": "subject",
+            "subjectId": "1.881"
+          }
+        ]
+      }
+    },
+    {
+      "groupId": "phd-civil-environmental-engineering-hydrology",
+      "title": "Hydrology",
+      "bucket": "departmental",
+      "subcategory": "required_subjects",
+      "root": {
+        "type": "group",
+        "ruleType": "all_of",
+        "items": [
+          {
+            "type": "subject",
+            "subjectId": "1.61"
+          },
+          {
+            "type": "subject",
+            "subjectId": "1.65"
+          },
+          {
+            "type": "subject",
+            "subjectId": "1.713"
+          },
+          {
+            "type": "subject",
+            "subjectId": "1.714"
+          },
+          {
+            "type": "subject",
+            "subjectId": "1.72"
+          },
+          {
+            "type": "subject",
+            "subjectId": "1.723"
+          }
+        ]
+      }
+    },
+    {
+      "groupId": "phd-civil-environmental-engineering-geotechnics-geomechanics",
+      "title": "Geotechnics/Geomechanics",
+      "bucket": "departmental",
+      "subcategory": "required_subjects",
+      "root": {
+        "type": "subject",
+        "subjectId": "1.361"
+      }
+    },
+    {
+      "groupId": "phd-civil-environmental-engineering-and-two-of-the-following-subjects",
+      "title": "And two of the following subjects:",
+      "bucket": "departmental",
+      "subcategory": "required_subjects",
+      "root": {
+        "type": "group",
+        "ruleType": "all_of",
+        "items": [
+          {
+            "type": "subject",
+            "subjectId": "1.364"
+          },
+          {
+            "type": "subject",
+            "subjectId": "1.38"
+          },
+          {
+            "type": "subject",
+            "subjectId": "1.72"
+          }
+        ]
+      }
+    },
+    {
+      "groupId": "phd-civil-environmental-engineering-concentration-1-fundamentals",
+      "title": "Concentration 1: Fundamentals",
+      "bucket": "departmental",
+      "subcategory": "fundamentals",
+      "root": {
+        "type": "group",
+        "ruleType": "all_of",
+        "items": [
+          {
+            "type": "subject",
+            "subjectId": "1.550"
+          },
+          {
+            "type": "subject",
+            "subjectId": "1.581"
+          }
+        ]
+      }
+    },
+    {
+      "groupId": "phd-civil-environmental-engineering-concentration-2-computation",
+      "title": "Concentration 2: Computation",
+      "bucket": "departmental",
+      "subcategory": "computation",
+      "root": {
+        "type": "group",
+        "ruleType": "all_of",
+        "items": [
+          {
+            "type": "subject",
+            "subjectId": "1.001"
+          },
+          {
+            "type": "subject",
+            "subjectId": "1.121"
+          },
+          {
+            "type": "subject",
+            "subjectId": "1.545"
+          }
+        ]
+      }
+    },
+    {
+      "groupId": "phd-civil-environmental-engineering-concentration-3-specialization",
+      "title": "Concentration 3: Specialization",
+      "bucket": "departmental",
+      "subcategory": "required_subjects",
+      "root": {
+        "type": "group",
+        "ruleType": "all_of",
+        "items": [
+          {
+            "type": "subject",
+            "subjectId": "1.361"
+          },
+          {
+            "type": "subject",
+            "subjectId": "1.541"
+          },
+          {
+            "type": "subject",
+            "subjectId": "1.583"
+          },
+          {
+            "type": "subject",
+            "subjectId": "2.074"
+          }
+        ]
+      }
+    },
+    {
+      "groupId": "phd-civil-environmental-engineering-systems-engineering",
+      "title": "Systems Engineering",
+      "bucket": "departmental",
+      "subcategory": "required_subjects",
+      "root": {
+        "type": "selection",
+        "ruleType": "choose_one",
+        "itemsSource": "explicit",
+        "items": [
+          {
+            "type": "subject",
+            "subjectId": "1.125"
+          },
+          {
+            "type": "subject",
+            "subjectId": "1.144"
+          },
+          {
+            "type": "subject",
+            "subjectId": "1.200"
+          },
+          {
+            "type": "subject",
+            "subjectId": "1.202"
+          },
+          {
+            "type": "subject",
+            "subjectId": "1.208"
+          },
+          {
+            "type": "subject",
+            "subjectId": "1.260"
+          }
+        ]
+      }
+    },
+    {
+      "groupId": "phd-civil-environmental-engineering-probability-and-statistics",
+      "title": "Probability and Statistics",
+      "bucket": "departmental",
+      "subcategory": "required_subjects",
+      "root": {
+        "type": "group",
+        "ruleType": "all_of",
+        "items": [
+          {
+            "type": "subject",
+            "subjectId": "1.203"
+          },
+          {
+            "type": "subject",
+            "subjectId": "6.3702"
+          },
+          {
+            "type": "subject",
+            "subjectId": "6.7700"
+          }
+        ]
+      }
+    },
+    {
+      "groupId": "phd-civil-environmental-engineering-optimization",
+      "title": "Optimization",
+      "bucket": "departmental",
+      "subcategory": "required_subjects",
+      "root": {
+        "type": "group",
+        "ruleType": "all_of",
+        "items": [
+          {
+            "type": "subject",
+            "subjectId": "15.081"
+          },
+          {
+            "type": "subject",
+            "subjectId": "15.C57"
+          }
+        ]
+      }
+    },
+    {
+      "groupId": "phd-civil-environmental-engineering-machine-learning",
+      "title": "Machine Learning",
+      "bucket": "departmental",
+      "subcategory": "required_subjects",
+      "root": {
+        "type": "group",
+        "ruleType": "all_of",
+        "items": [
+          {
+            "type": "group",
+            "ruleType": "all_of",
+            "items": [
+              {
+                "type": "subject",
+                "subjectId": "1.C51"
+              },
+              {
+                "type": "subject",
+                "subjectId": "6.C51"
+              }
+            ]
+          },
+          {
+            "type": "subject",
+            "subjectId": "6.7900"
+          },
+          {
+            "type": "subject",
+            "subjectId": "6.7920"
+          }
+        ]
+      }
+    }
+  ],
+  "status": "draft",
+  "revisionId": "phd-civil-environmental-engineering-2026-07-03-03078cdf",
+  "catalogYear": "2026",
+  "effectiveTerm": "2026-FA"
+}

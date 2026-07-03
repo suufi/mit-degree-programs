@@ -1,0 +1,102 @@
+Degree Charts
+
+- [Home](https://catalog.mit.edu/) >
+- [Degree Charts](https://catalog.mit.edu/degree-charts/) >
+- Transportation (PhD)
+
+# Doctor of Philosophy in Transportation
+
+[Graduate Programs in Transportation](https://catalog.mit.edu/interdisciplinary/graduate-programs/transportation/)
+
+## Program Requirements
+
+MIT graduate-level subjects taken to fulfill the requirements of the [Master of Science in Transportation degree](https://catalog.mit.edu/degree-charts/master-transportation) may be counted toward the doctoral program requirements.
+
+|     |     |     |
+| --- | --- | --- |
+| Core Subjects |  |
+| [1.200\[J\]](https://catalog.mit.edu/search/?P=1.200 "1.200[J]") | Transportation: Foundations and Methods | 12 |
+| [11.251](https://catalog.mit.edu/search/?P=11.251 "11.251") | Frontier of Transportation Research 1 | 6 |
+| _Select one of the following:_ | 12 |
+| [1.144\[J\]](https://catalog.mit.edu/search/?P=1.144 "1.144[J]") | Applied Category Theory for Engineering Design |  |
+| [1.202](https://catalog.mit.edu/search/?P=1.202 "1.202") | Demand Modeling |  |
+| [1.208](https://catalog.mit.edu/search/?P=1.208 "1.208") | Resilient Networks |  |
+| [1.260\[J\]](https://catalog.mit.edu/search/?P=1.260 "1.260[J]") | Logistics Systems |  |
+| [11.478](https://catalog.mit.edu/search/?P=11.478 "11.478") | Behavioral Science, AI, and Urban Mobility |  |
+| Computation/Analytics | 12 |
+| _Select one of the following:_ |  |
+| [1.C51](https://catalog.mit.edu/search/?P=1.C51 "1.C51")<br>& [6.C51](https://catalog.mit.edu/search/?P=6.C51 "6.C51") | Machine Learning for Sustainable Systems<br>and Modeling with Machine Learning: from Algorithms to Applications |  |
+| [6.3732\[J\]](https://catalog.mit.edu/search/?P=6.3732 "6.3732[J]") | Statistics, Computation and Applications |  |
+| [6.7900](https://catalog.mit.edu/search/?P=6.7900 "6.7900") | Machine Learning |  |
+| [6.7910\[J\]](https://catalog.mit.edu/search/?P=6.7910 "6.7910[J]") | Statistical Learning Theory and Applications |  |
+| [15.071](https://catalog.mit.edu/search/?P=15.071 "15.071") | The Analytics Edge |  |
+| [15.072](https://catalog.mit.edu/search/?P=15.072 "15.072") | Advanced Analytics Edge |  |
+| Core Research Area | 24 |
+| _Select two subjects from one of the five approved areas:_ |  |
+| _Performance and Optimization_ |  |
+| [1.208](https://catalog.mit.edu/search/?P=1.208 "1.208") | Resilient Networks |  |
+| [6.7220\[J\]](https://catalog.mit.edu/search/?P=6.7220 "6.7220[J]") | Nonlinear Optimization |  |
+| [6.7260](https://catalog.mit.edu/search/?P=6.7260 "6.7260") | Network Science and Models |  |
+| [6.7700\[J\]](https://catalog.mit.edu/search/?P=6.7700 "6.7700[J]") | Fundamentals of Probability |  |
+| [6.7720\[J\]](https://catalog.mit.edu/search/?P=6.7720 "6.7720[J]") | Discrete Probability and Stochastic Processes |  |
+| [15.081\[J\]](https://catalog.mit.edu/search/?P=15.081 "15.081[J]") | Introduction to Mathematical Programming |  |
+| [15.081\[J\]](https://catalog.mit.edu/search/?P=15.081 "15.081[J]") | Introduction to Mathematical Programming |  |
+| [15.094\[J\]](https://catalog.mit.edu/search/?P=15.094 "15.094[J]") | Robust Modeling, Optimization, and Computation |  |
+| _Machine Learning and Statistics_ |  |
+| [1.127\[J\]](https://catalog.mit.edu/search/?P=1.127 "1.127[J]") | Reinforcement Learning: Foundations and Methods |  |
+| [1.C51](https://catalog.mit.edu/search/?P=1.C51 "1.C51")<br>& [6.C51](https://catalog.mit.edu/search/?P=6.C51 "6.C51") | Machine Learning for Sustainable Systems<br>and Modeling with Machine Learning: from Algorithms to Applications |  |
+| [6.7250](https://catalog.mit.edu/search/?P=6.7250 "6.7250") | Optimization for Machine Learning |  |
+| [6.7730](https://catalog.mit.edu/search/?P=6.7730 "6.7730") | Modern Mathematical Statistics |  |
+| [6.7800](https://catalog.mit.edu/search/?P=6.7800 "6.7800") | Inference and Information |  |
+| [6.7810](https://catalog.mit.edu/search/?P=6.7810 "6.7810") | Algorithms for Inference |  |
+| [6.7900](https://catalog.mit.edu/search/?P=6.7900 "6.7900") | Machine Learning |  |
+| [6.7910\[J\]](https://catalog.mit.edu/search/?P=6.7910 "6.7910[J]") | Statistical Learning Theory and Applications |  |
+| [6.7960](https://catalog.mit.edu/search/?P=6.7960 "6.7960") | Deep Learning |  |
+| [6.8300](https://catalog.mit.edu/search/?P=6.8300 "6.8300") | Advances in Computer Vision |  |
+| [9.521\[J\]](https://catalog.mit.edu/search/?P=9.521 "9.521[J]") | Mathematical Statistics: a Non-Asymptotic Approach |  |
+| [9.522](https://catalog.mit.edu/search/?P=9.522 "9.522") | Statistical Reinforcement Learning |  |
+| [15.095](https://catalog.mit.edu/search/?P=15.095 "15.095") | Machine Learning Under a Modern Optimization Lens |  |
+| _Planning and Policy_2 |  |
+| [11.478](https://catalog.mit.edu/search/?P=11.478 "11.478") | Behavioral Science, AI, and Urban Mobility |  |
+| [11.526\[J\]](https://catalog.mit.edu/search/?P=11.526 "11.526[J]") | Comparative Land Use and Transportation Planning |  |
+| [11.540](https://catalog.mit.edu/search/?P=11.540 "11.540") | Urban Transportation Planning and Policy |  |
+| _Logistics_3 |  |
+| [1.260\[J\]](https://catalog.mit.edu/search/?P=1.260 "1.260[J]") | Logistics Systems |  |
+| [15.764\[J\]](https://catalog.mit.edu/search/?P=15.764 "15.764[J]") | The Theory of Operations Management |  |
+| [15.762\[J\]](https://catalog.mit.edu/search/?P=15.762 "15.762[J]")<br>& [15.763\[J\]](https://catalog.mit.edu/search/?P=15.763 "15.763[J]") | Supply Chain Analytics<br>and Supply Chain: Capacity Analytics |  |
+| _Demand_4 |  |
+| [1.202](https://catalog.mit.edu/search/?P=1.202 "1.202") | Demand Modeling |  |
+| [1.205](https://catalog.mit.edu/search/?P=1.205 "1.205") | Advanced Demand Modeling |  |
+| [14.380](https://catalog.mit.edu/search/?P=14.380 "14.380")<br>& [14.381](https://catalog.mit.edu/search/?P=14.381 "14.381") | Statistical Method in Economics<br>and Estimation and Inference for Linear Causal and Structural Models5 |  |
+| [14.382](https://catalog.mit.edu/search/?P=14.382 "14.382") | Econometrics 5 |  |
+| Unrestricted Electives6 | 54 |
+| Thesis |  |
+| [1.THG](https://catalog.mit.edu/search/?P=1.THG "1.THG") | Graduate Thesis 7 | 540 |
+| Total Units | 660 |
+
+**Note:** Students in this program can choose to receive the Doctor of Philosophy or the Doctor of Science in Transportation. Students receiving veterans benefits must select the degree they wish to receive prior to program certification with the Veterans Administration.
+
+|     |     |
+| --- | --- |
+| _1_ | _Taken twice for a total of 6 units._ |
+| _2_ | _The Policy and Planning area also requires a written exam._ |
+| _3_ | _Students who DO NOT take 1.260 to fulfill the Core requirement, must take either 15.764, or 15.762 and 15.763. Students who DO take 1.260 to fulfill the Core requirement must_ |
+| _4_ | _Students who do NOT take 1.202 to fulfill the Core requirement must take 1.202, and either 1.205 or 14.382. Students who DO take 1.202 to fulfill the Core requirement must take either 1.205 and 14.382, or 1.205, 14.380, and 14.381._ |
+| _5_ | _For either 14.380 and 14.381, or for 14.382, students can instead choose one of the following, more advanced subjects: [14.384](https://catalog.mit.edu/search/?P=14.384 "14.384") Time Series Analysis, [14.385](https://catalog.mit.edu/search/?P=14.385 "14.385") Nonlinear Econometric Analysis, or [14.386](https://catalog.mit.edu/search/?P=14.386 "14.386") New Econometric Methods._ |
+| _6_ | _Students choose subjects in consultation with their advisor._ |
+| _7_ | _Thesis units are based on the average duration of the doctoral program (five years) but will vary based on how long the student remains in the program._ |
+
+Print Options
+
+
+[Send Page to Printer](https://catalog.mit.edu/degree-charts/phd-transportation/#)
+
+_Print this page._
+
+[Download PDF of this Page](https://catalog.mit.edu/degree-charts/phd-transportation/phd-transportation.pdf)
+
+_The PDF includes all information on this page and its related tabs. Subject (course) information includes any changes approved for the current academic year._
+
+[Download PDF of the Entire Catalog and/or Subject Descriptions](https://catalog.mit.edu/archive/)
+
+[Cancel](https://catalog.mit.edu/degree-charts/phd-transportation/#)

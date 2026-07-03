@@ -1,0 +1,295 @@
+{
+  "schemaVersion": "2",
+  "id": "gir-sb",
+  "title": "General Institute Requirements (SB)",
+  "catalogSources": [
+    {
+      "url": "https://catalog.mit.edu/mit/undergraduate-education/general-institute-requirements/",
+      "slug": "overview",
+      "scrapedAt": "2026-07-02",
+      "contentHash": "7a79749b9a4e8e64fbdc38b16ea195cc33e2cdaff5bed3d50e8a95f594ec9982"
+    },
+    {
+      "url": "https://catalog.mit.edu/mit/undergraduate-education/general-institute-requirements/#sciencerequirementtext",
+      "slug": "science",
+      "scrapedAt": "2026-07-02",
+      "contentHash": "7a79749b9a4e8e64fbdc38b16ea195cc33e2cdaff5bed3d50e8a95f594ec9982"
+    },
+    {
+      "url": "https://catalog.mit.edu/mit/undergraduate-education/general-institute-requirements/#communicationrequirementtext",
+      "slug": "communication",
+      "scrapedAt": "2026-07-02",
+      "contentHash": "b1ab4e19bbbf704ba0fb775f535999080ba54b856a6370a48e8726c3c5f2f791"
+    },
+    {
+      "url": "https://catalog.mit.edu/mit/undergraduate-education/general-institute-requirements/#hassrequirementtext",
+      "slug": "hass",
+      "scrapedAt": "2026-07-02",
+      "contentHash": "8d4b86e1c68637e514631d3dc2a6fa042766bdf0f6d3ecfc67b3d3d89bc895f0"
+    },
+    {
+      "url": "https://catalog.mit.edu/mit/undergraduate-education/general-institute-requirements/#restrequirementtext",
+      "slug": "rest",
+      "scrapedAt": "2026-07-02",
+      "contentHash": "2304c0b107cb462a6bef7a143a9d92ada28aedd49cd0d38ca158243593805181"
+    },
+    {
+      "url": "https://catalog.mit.edu/mit/undergraduate-education/general-institute-requirements/#laboratoryrequirementtext",
+      "slug": "laboratory",
+      "scrapedAt": "2026-07-02",
+      "contentHash": "0a6fb39ca567df73c46201db91eae1b54710572c7306a9ff9faa4f8670c6045c"
+    },
+    {
+      "url": "https://catalog.mit.edu/mit/undergraduate-education/general-institute-requirements/#physicaleducationandwellnessrequirementtext",
+      "slug": "physical-education",
+      "scrapedAt": "2026-07-02",
+      "contentHash": "7a79749b9a4e8e64fbdc38b16ea195cc33e2cdaff5bed3d50e8a95f594ec9982"
+    }
+  ],
+  "requirements": [
+    {
+      "groupId": "gir-science",
+      "title": "Science Requirement",
+      "bucket": "gir",
+      "subcategory": "science",
+      "note": "Six core science subjects (17 total GIR subjects include HASS, REST, and Laboratory). Substitutions by petition to the Committee on Curricula.",
+      "root": {
+        "type": "group",
+        "ruleType": "all_of",
+        "note": "One subject in each of chemistry, biology, Physics I, Physics II, Calculus I, and Calculus II.",
+        "items": [
+          {
+            "type": "selection",
+            "ruleType": "choose_one",
+            "itemsSource": "tag_pool",
+            "tagPool": "gir:chem",
+            "note": "Chemistry (GIR): 3.091, 5.111, or 5.112."
+          },
+          {
+            "type": "selection",
+            "ruleType": "choose_one",
+            "itemsSource": "tag_pool",
+            "tagPool": "gir:biol",
+            "note": "Biology (GIR): 7.012, 7.014, 7.015, or 7.016."
+          },
+          {
+            "type": "selection",
+            "ruleType": "choose_one",
+            "itemsSource": "tag_pool",
+            "tagPool": "gir:phy1",
+            "note": "Physics I (GIR): 8.01, 8.011, 8.012, or 8.01L."
+          },
+          {
+            "type": "selection",
+            "ruleType": "choose_one",
+            "itemsSource": "tag_pool",
+            "tagPool": "gir:phy2",
+            "note": "Physics II (GIR): 8.02, 8.021, or 8.022. Requires credit for Physics I first; Physics I and II may be from different sequences."
+          },
+          {
+            "type": "selection",
+            "ruleType": "choose_one",
+            "itemsSource": "tag_pool",
+            "tagPool": "gir:cal1",
+            "note": "Calculus I (GIR): 18.01, 18.01A, or 18.01L."
+          },
+          {
+            "type": "selection",
+            "ruleType": "choose_one",
+            "itemsSource": "tag_pool",
+            "tagPool": "gir:cal2",
+            "note": "Calculus II (GIR): 18.02, 18.02A, or 18.022."
+          }
+        ]
+      }
+    },
+    {
+      "groupId": "gir-communication",
+      "title": "Communication Requirement",
+      "bucket": "gir",
+      "subcategory": "communication",
+      "note": "Four communication-intensive (CI) subjects integrated into HASS and each major.",
+      "constraints": [
+        {
+          "type": "pace_by_year",
+          "tagPools": ["gir:ci-h", "gir:ci-m"],
+          "milestones": [
+            { "byEndOfYear": 1, "minCount": 1 },
+            { "byEndOfYear": 2, "minCount": 2 },
+            { "byEndOfYear": 3, "minCount": 3 },
+            { "byEndOfYear": 4, "minCount": 4 }
+          ],
+          "note": "Minimum pace: one CI by end of first year, two by second year, three by third year, four by graduation."
+        }
+      ],
+      "root": {
+        "type": "group",
+        "ruleType": "all_of",
+        "items": [
+          {
+            "type": "selection",
+            "ruleType": "choose_n",
+            "ruleValue": 2,
+            "itemsSource": "tag_pool",
+            "tagPool": "gir:ci-h",
+            "note": "Two CI-H or CI-HW subjects in HASS.",
+            "constraints": [
+              {
+                "type": "max_per_term",
+                "tagField": "communicationRequirement",
+                "tagValue": "CI-H",
+                "max": 1,
+                "note": "Only one CI-H subject per term counts toward this slot."
+              },
+              {
+                "type": "first_must_match",
+                "tagField": "communicationRequirement",
+                "tagValue": "CI-HW",
+                "scope": "gir-communication",
+                "unless": { "placement": ["FEE", "AP", "IB"] },
+                "note": "Students without FEE/AP/IB placement must take CI-HW as their first CI subject."
+              }
+            ]
+          },
+          {
+            "type": "selection",
+            "ruleType": "choose_n",
+            "ruleValue": 2,
+            "itemsSource": "tag_pool",
+            "tagPool": "gir:ci-m",
+            "note": "Two CI-M subjects specified by the SB degree program (departmental). Petitions to the Subcommittee on the Communication Requirement (SOCR)."
+          }
+        ]
+      }
+    },
+    {
+      "groupId": "gir-hass",
+      "title": "Humanities, Arts, and Social Sciences (HASS) Requirement",
+      "bucket": "gir",
+      "subcategory": "hass",
+      "note": "Eight HASS subjects. Petitions for substitutions to the Subcommittee on the HASS Requirement (SHR).",
+      "root": {
+        "type": "group",
+        "ruleType": "all_of",
+        "items": [
+          {
+            "type": "selection",
+            "ruleType": "choose_n",
+            "ruleValue": 8,
+            "itemsSource": "tag_pool",
+            "tagPool": "gir:hass",
+            "note": "Minimum eight HASS subjects spanning distribution, concentration, and electives."
+          },
+          {
+            "type": "group",
+            "ruleType": "all_of",
+            "note": "Distribution: three subjects, one from each category (encouraged by end of junior year).",
+            "items": [
+              {
+                "type": "selection",
+                "ruleType": "choose_one",
+                "itemsSource": "tag_pool",
+                "tagPool": "gir:hass-h",
+                "note": "Humanities (HASS-H)."
+              },
+              {
+                "type": "selection",
+                "ruleType": "choose_one",
+                "itemsSource": "tag_pool",
+                "tagPool": "gir:hass-a",
+                "note": "Arts (HASS-A)."
+              },
+              {
+                "type": "selection",
+                "ruleType": "choose_one",
+                "itemsSource": "tag_pool",
+                "tagPool": "gir:hass-s",
+                "note": "Social Sciences (HASS-S)."
+              }
+            ]
+          },
+          {
+            "type": "selection",
+            "ruleType": "choose_n",
+            "ruleValue": 3,
+            "itemsSource": "tag_pool",
+            "tagPool": "gir:hass",
+            "flexibility": {
+              "openEnded": true,
+              "requiresCoherentPlan": true,
+              "advisorApproval": true,
+              "catalogText": "Concentration: three or four subjects in a declared HASS field. Concentration Proposal Form due by end of first week of classes in second term of junior year. One distribution subject may also count toward concentration with advisor permission."
+            },
+            "note": "Concentration field (3–4 subjects). Remaining slots above distribution and concentration may be HASS electives (gir:hass-e)."
+          },
+          {
+            "type": "selection",
+            "ruleType": "choose_n",
+            "ruleValue": 2,
+            "itemsSource": "tag_pool",
+            "tagPool": "gir:ci-h",
+            "note": "At least two of the eight HASS subjects must be CI-H or CI-HW (also satisfies Communication Requirement)."
+          }
+        ]
+      }
+    },
+    {
+      "groupId": "gir-rest",
+      "title": "Restricted Electives in Science and Technology (REST) Requirement",
+      "bucket": "gir",
+      "subcategory": "rest",
+      "note": "Two REST subjects from the catalog REST list. No more than one REST subject may be in the student's department; jointly offered [J] subjects are exempt from the departmental limit. Some pairs of 6-unit subjects count as one REST (e.g. 5.601+5.602).",
+      "root": {
+        "type": "selection",
+        "ruleType": "choose_n",
+        "ruleValue": 2,
+        "itemsSource": "tag_pool",
+        "tagPool": "gir:rest"
+      }
+    },
+    {
+      "groupId": "gir-lab",
+      "title": "Laboratory Requirement",
+      "bucket": "gir",
+      "subcategory": "lab",
+      "note": "12 units of Institute Laboratory credit from approved subjects (counts as one GIR subject in the 17-subject total). Units beyond 12 count toward units beyond the GIRs. Petitions to the Committee on Curricula.",
+      "root": {
+        "type": "selection",
+        "ruleType": "choose_units",
+        "ruleValue": 12,
+        "itemsSource": "tag_pool",
+        "tagPool": "gir:lab",
+        "note": "Partial laboratory credit (PLAB) may combine across subjects. Completion suggested during the first two years."
+      }
+    },
+    {
+      "groupId": "gir-pe",
+      "title": "Physical Education and Wellness Requirement",
+      "bucket": "gir",
+      "subcategory": "pe",
+      "note": "Not counted among the 17 GIR subjects. First-year students: swimming requirement plus four PE courses (eight points). Transfer students: swimming plus four points (two courses). Expected complete by end of second year.",
+      "root": {
+        "type": "group",
+        "ruleType": "all_of",
+        "items": [
+          {
+            "type": "selection",
+            "ruleType": "choose_n",
+            "ruleValue": 1,
+            "itemsSource": "tag_pool",
+            "tagPool": "gir:pe-swim",
+            "note": "Swimming requirement: beginning swim class or passing the orientation swim test."
+          },
+          {
+            "type": "selection",
+            "ruleType": "choose_n",
+            "ruleValue": 4,
+            "itemsSource": "tag_pool",
+            "tagPool": "gir:pe",
+            "note": "Four physical education and wellness courses (two points each; eight points total for first-year entrants). Varsity sports and ROTC may substitute per catalog rules."
+          }
+        ]
+      }
+    }
+  ]
+}
