@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="utf-8" />
+  <title>Degree requirement visualizer</title>
+  <style>
+    body { font-family: system-ui, sans-serif; max-width: 640px; margin: 3rem auto; padding: 0 1rem; line-height: 1.5; }
+    code { background: #f5f5f5; padding: 0.15rem 0.35rem; border-radius: 4px; }
+  </style>
+</head>
+<body>
+  <h1>Degree requirement visualizer</h1>
+  <p>Generate a standalone HTML tree for a program:</p>
+  <pre>npm run visualize -- --program 6-7</pre>
+  <p>Output: <code>tools/visualize/out/&lt;program&gt;.html</code> — open that file in a browser.</p>
+  <p>Markdown fallback:</p>
+  <pre>npm run visualize:md -- --program 6-7</pre>
+  <p>Output: <code>docs/degrees/&lt;program&gt;.md</code></p>
+  <p>Review bundle for all programs:</p>
+  <pre>npm run review:bundle</pre>
+  <p>Output: <code>docs/review/index.html</code>, <code>docs/review/manifest.csv</code>, and one HTML file per program under <code>docs/review/programs/</code>.</p>
+</body>
+</html>

@@ -1,0 +1,43 @@
+{
+  "name": "sipb-mapping-project",
+  "version": "1.0.0",
+  "description": "MIT degree requirement ground truth and catalog scraper",
+  "main": "src/index.ts",
+  "types": "src/index.ts",
+  "scripts": {
+    "typecheck": "tsc --noEmit",
+    "validate:example": "node --import tsx src/examples/validate.ts",
+    "scrape:index": "node --import tsx src/scraper/cli.ts scrape-index",
+    "scrape:all": "node --import tsx src/scraper/cli.ts scrape-all",
+    "scrape": "node --import tsx src/scraper/cli.ts scrape",
+    "build:degrees": "node --import tsx src/scraper/cli.ts build",
+    "build:all": "node --import tsx src/scraper/cli.ts build-all",
+    "validate:degrees": "node --import tsx src/scripts/validate-degrees.ts",
+    "test": "node --import tsx --test src/evaluate/constraints.test.ts src/scraper/parse-degree-chart-index.test.ts src/scraper/normalize.test.ts src/scraper/llm-enrich.test.ts src/llm/gemini.test.ts src/versioning/paths.test.ts src/scraper/eecs/parse-eecs-requirements.test.ts src/schemas/course6-shared-lists.test.ts",
+    "diff:degree": "node --import tsx src/scripts/diff-degree.ts",
+    "visualize": "node --import tsx src/scripts/visualize.ts",
+    "visualize:md": "node --import tsx src/scripts/visualize.ts md",
+    "visualize:all": "node --import tsx src/scripts/visualize.ts md --all --draft",
+    "visualize:all:html": "node --import tsx src/scripts/visualize.ts --all --draft",
+    "review:table": "node --import tsx scripts/degree-review-table.ts",
+    "review:site": "node --import tsx scripts/review-site.ts",
+    "review:bundle": "npm run visualize:all:html && npm run review:site && npm run review:table",
+    "audit:degrees": "node --import tsx src/scripts/audit-degrees.ts"
+  },
+  "keywords": ["mit", "degree", "requirements"],
+  "author": "",
+  "license": "ISC",
+  "type": "module",
+  "dependencies": {
+    "@mendable/firecrawl-js": "^1.21.1",
+    "ajv": "^8.18.0",
+    "ajv-formats": "^3.0.1",
+    "dotenv": "^16.4.7",
+    "zod": "^4.3.6"
+  },
+  "devDependencies": {
+    "@types/node": "^25.5.2",
+    "tsx": "^4.21.0",
+    "typescript": "^6.0.2"
+  }
+}

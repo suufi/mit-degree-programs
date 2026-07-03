@@ -1,0 +1,9 @@
+node_modules/
+.env
+dist/
+*.log
+
+# Generated review / Pages artifacts
+docs/review/
+docs/degree-review.csv
+tools/visualize/out/

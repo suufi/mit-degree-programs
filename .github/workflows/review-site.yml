@@ -1,0 +1,72 @@
+name: Deploy Review Site
+
+on:
+  workflow_dispatch:
+  push:
+    branches:
+      - main
+    paths:
+      - ".github/workflows/review-site.yml"
+      - "package.json"
+      - "package-lock.json"
+      - "scripts/**"
+      - "src/**"
+      - "tools/visualize/**"
+
+permissions:
+  contents: read
+  pages: write
+  id-token: write
+
+concurrency:
+  group: review-site
+  cancel-in-progress: true
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    environment:
+      name: github-pages
+      url: ${{ steps.deploy.outputs.page_url }}
+    steps:
+      - name: Check out repository
+        uses: actions/checkout@v4
+
+      - name: Set up Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: 22
+          cache: npm
+
+      - name: Install dependencies
+        run: npm ci
+
+      - name: Render all HTML degree pages
+        run: npm run visualize:all:html
+
+      - name: Compute default Pages URL
+        id: site_base
+        shell: bash
+        run: |
+          owner="${GITHUB_REPOSITORY_OWNER}"
+          repo="${GITHUB_REPOSITORY#*/}"
+          if [[ "${repo}" == "${owner}.github.io" ]]; then
+            echo "site_base=https://${owner}.github.io" >> "${GITHUB_OUTPUT}"
+          else
+            echo "site_base=https://${owner}.github.io/${repo}" >> "${GITHUB_OUTPUT}"
+          fi
+
+      - name: Build review site bundle
+        run: npm run review:site -- --site-base "${{ steps.site_base.outputs.site_base }}"
+
+      - name: Configure GitHub Pages
+        uses: actions/configure-pages@v5
+
+      - name: Upload Pages artifact
+        uses: actions/upload-pages-artifact@v3
+        with:
+          path: docs/review
+
+      - name: Deploy to GitHub Pages
+        id: deploy
+        uses: actions/deploy-pages@v4
